@@ -1,0 +1,21 @@
+{
+ "updated": "2026-10-16",
+ "items": [
+  {
+   "name": "Ground beef, 93/7",
+   "amount": "on hand",
+   "note": "Unused this week."
+  },
+  {
+   "name": "Chicken breasts",
+   "amount": "check",
+   "note": "4½ lb went to Thu and Fri dinners."
+  },
+  {
+   "name": "Turkey chili",
+   "amount": "leftovers",
+   "added": "2026-10-19",
+   "note": "From Monday's chili."
+  }
+ ]
+}

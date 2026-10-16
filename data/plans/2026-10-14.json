@@ -1,0 +1,291 @@
+{
+ "label": "Oct 14–19",
+ "startDate": "2026-10-14",
+ "nights": [
+  {
+   "date": "2026-10-14",
+   "day": "Wed",
+   "recipeId": "pork-edamame-fried-rice",
+   "title": "Pork & edamame fried rice",
+   "sizing": "2 dinners",
+   "leftovers": "no leftovers",
+   "status": "cooked"
+  },
+  {
+   "date": "2026-10-15",
+   "day": "Thu",
+   "recipeId": "maple-gochujang-chicken",
+   "title": "Maple-gochujang chicken",
+   "sizing": "2 + 3 lunches",
+   "leftovers": "lunches Fri–Sat",
+   "status": "cooked"
+  },
+  {
+   "date": "2026-10-16",
+   "day": "Fri",
+   "recipeId": "greek-lemon-oregano-chicken",
+   "title": "Greek lemon-oregano chicken & potatoes",
+   "sizing": "2 + 3 lunches",
+   "leftovers": "lunches Sat–Mon"
+  },
+  {
+   "date": "2026-10-17",
+   "day": "Sat",
+   "recipeId": null,
+   "title": "No dinner planned",
+   "sizing": "",
+   "leftovers": ""
+  },
+  {
+   "date": "2026-10-18",
+   "day": "Sun",
+   "recipeId": null,
+   "title": "No dinner planned",
+   "sizing": "",
+   "leftovers": ""
+  },
+  {
+   "date": "2026-10-19",
+   "day": "Mon",
+   "recipeId": "turkey-chili",
+   "title": "Turkey chili",
+   "sizing": "12 bowls",
+   "leftovers": "lunches Tue · extra to freeze"
+  }
+ ],
+ "todo": [
+  {
+   "date": "2026-10-18",
+   "when": "Sun morning",
+   "what": "Move the **2 lb ground turkey** from the freezer to the fridge for Monday's chili."
+  },
+  {
+   "date": "2026-10-19",
+   "when": "Mon afternoon",
+   "what": "Start the chili **~75 min** before dinner. Set out the toppings while it simmers."
+  }
+ ],
+ "notes": [],
+ "grocery": {
+  "stores": [
+   {
+    "name": "Walmart pickup",
+    "groups": [
+     {
+      "name": "Produce",
+      "items": [
+       {
+        "name": "Yellow potatoes",
+        "qty": "3 lb bag",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Sweet potatoes",
+        "qty": "3 lb bag",
+        "for": [
+         "Thu"
+        ]
+       },
+       {
+        "name": "Broccoli florets",
+        "qty": "2 × 12 oz",
+        "for": [
+         "Thu"
+        ]
+       },
+       {
+        "name": "English cucumbers",
+        "qty": "4",
+        "for": [
+         "Thu",
+         "Fri"
+        ]
+       },
+       {
+        "name": "Grape tomatoes",
+        "qty": "9 oz",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Green bell pepper",
+        "qty": "1",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Yellow onions",
+        "qty": "2",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Green onions",
+        "qty": "2 bunches",
+        "for": [
+         "Wed",
+         "Thu",
+         "Mon"
+        ]
+       },
+       {
+        "name": "Limes",
+        "qty": "2",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Garlic",
+        "qty": "1 bulb",
+        "for": [
+         "All week"
+        ],
+        "note": "You had 1 head; the week uses ~20 cloves."
+       }
+      ]
+     },
+     {
+      "name": "Meat, dairy & eggs",
+      "items": [
+       {
+        "name": "Ground turkey 93/7",
+        "qty": "2 × 1 lb",
+        "for": [
+         "Mon"
+        ],
+        "note": "Freeze on arrival; thaw Sunday."
+       },
+       {
+        "name": "Feta, block",
+        "qty": "8 oz",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Large eggs",
+        "qty": "2 dozen",
+        "for": [
+         "Wed"
+        ]
+       },
+       {
+        "name": "Heavy whipping cream",
+        "qty": "32 oz",
+        "for": []
+       }
+      ]
+     },
+     {
+      "name": "Pantry",
+      "items": [
+       {
+        "name": "Dark red kidney beans",
+        "qty": "4 × 15 oz",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Diced tomatoes",
+        "qty": "2 × 28 oz",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Tomato paste",
+        "qty": "6 oz",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Chickpeas",
+        "qty": "15 oz",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Kalamata olives",
+        "qty": "small jar",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Oyster sauce",
+        "qty": "1 bottle",
+        "for": [
+         "Wed"
+        ]
+       },
+       {
+        "name": "Fish sauce",
+        "qty": "1 bottle",
+        "for": [
+         "Thu"
+        ]
+       },
+       {
+        "name": "Tortilla chips",
+        "qty": "party size",
+        "for": [
+         "Mon"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Baking",
+      "items": [
+       {
+        "name": "Yellow cake mix",
+        "qty": "15.25 oz",
+        "for": []
+       },
+       {
+        "name": "Sweetened condensed milk",
+        "qty": "14 oz",
+        "for": []
+       },
+       {
+        "name": "Evaporated milk",
+        "qty": "12 oz",
+        "for": []
+       },
+       {
+        "name": "Shelled pistachios",
+        "qty": "8 oz",
+        "for": []
+       }
+      ]
+     },
+     {
+      "name": "Restock",
+      "items": [
+       {
+        "name": "Dried rosemary",
+        "qty": "1 jar",
+        "for": []
+       },
+       {
+        "name": "Nature Valley protein granola",
+        "qty": "family size",
+        "for": []
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "pantry": []
+ }
+}

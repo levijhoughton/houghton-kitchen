@@ -1,0 +1,106 @@
+{
+ "name": "Pork & Edamame Fried Rice",
+ "cuisine": "Chinese-style",
+ "subtitle": "Uses the banked pork shoulder and freezer vegetables",
+ "yields": "Dinner for two, no leftovers",
+ "time": "~25 min once rice is cold",
+ "equipment": "12-inch skillet",
+ "before": [
+  "**Rice cooked and cold:** 1 cup dry jasmine + 1¼ cups water → ~3 cups, spread thin and chilled uncovered 30+ min.",
+  "Pork bag thawed in the fridge."
+ ],
+ "notes": "Stir-fries move too fast to prep mid-cook, so everything is staged before the pan heats.",
+ "ingredients": [
+  {
+   "group": "Rice",
+   "items": [
+    "3 cups cold cooked jasmine rice"
+   ]
+  },
+  {
+   "group": "Protein",
+   "items": [
+    "1 small bag pork shoulder, thawed (10–16 oz)",
+    "3 eggs (4 if pork is under 12 oz) + pinch salt",
+    "1½ cups frozen shelled edamame"
+   ]
+  },
+  {
+   "group": "Vegetables & aromatics",
+   "items": [
+    "1 bag frozen stir-fry vegetables (12–16 oz)",
+    "4 scallions",
+    "4 cloves garlic",
+    "1 Tbsp ginger, grated from frozen"
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    "2 Tbsp soy sauce",
+    "1 Tbsp oyster sauce",
+    "½ tsp sugar",
+    "½ tsp white or black pepper",
+    "1 tsp toasted sesame oil"
+   ]
+  },
+  {
+   "group": "Fat",
+   "items": [
+    "1 Tbsp neutral oil"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Thaw the vegetables",
+   "body": "Microwave **1 bag stir-fry vegetables + 1½ cups edamame** for **2–3 min**, just until thawed. Drain and blot dry on a towel."
+  },
+  {
+   "title": "Prep the rest",
+   "body": "Tear the **pork** into bite-size pieces. Beat **3 eggs** with a **pinch of salt**. Slice **4 scallions** (whites and greens separate). Mince **4 cloves garlic** and grate **1 Tbsp ginger** into the scallion whites."
+  },
+  {
+   "title": "Mix the sauce",
+   "body": "Stir **2 Tbsp soy + 1 Tbsp oyster sauce + ½ tsp sugar + ½ tsp pepper** in a cup. Set **1 tsp sesame oil** aside."
+  },
+  {
+   "title": "Crisp the pork",
+   "body": "Dry 12-inch skillet over **medium-high**. Pork in one layer, **3–4 min** untouched, toss, **2 min** more. Move to a plate; leave the fat in the pan."
+  },
+  {
+   "title": "Eggs",
+   "body": "Add **1 tsp neutral oil** if the pan is dry. Scramble the eggs into soft curds, **~1 min**. Onto the plate with the pork."
+  },
+  {
+   "title": "Aromatics",
+   "body": "Heat to **high**. Add the **remaining neutral oil (~2 tsp)** and the **scallion whites, garlic and ginger**. Stir **30 sec**."
+  },
+  {
+   "title": "Vegetables",
+   "body": "Add the **stir-fry vegetables and edamame**. Stir-fry **2–3 min** until hot and dry."
+  },
+  {
+   "title": "Rice",
+   "body": "Add **3 cups cold rice**. Press flat, leave **1 min**, toss. Repeat 3–4 times, **~4 min** total."
+  },
+  {
+   "title": "Sauce and finish",
+   "body": "Pour the sauce around the **edge** of the pan and toss. Return the pork and eggs, toss **1 min**. Off heat: **1 tsp sesame oil** and the scallion greens. Taste; add soy **½ tsp** at a time if needed."
+  }
+ ],
+ "after": [
+  "Serve 2 portions; the bigger one goes to whoever has the higher protein target."
+ ],
+ "servings": 2,
+ "servingUnit": "portions",
+ "macros": {
+  "basis": "per portion, 1 of 2",
+  "kcal": 1140,
+  "protein": 77,
+  "carbs": 100,
+  "fat": 47,
+  "fiber": 11,
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Assumes 12 oz pork shoulder. This is a big plate; the pork shoulder is this week's fattier protein."
+ }
+}

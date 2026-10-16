@@ -1,0 +1,126 @@
+{
+ "name": "Maple-Gochujang Chicken",
+ "cuisine": "Korean-American",
+ "subtitle": "Roasted sweet potato, air-fried broccoli, spicy cucumber salad (oi-muchim)",
+ "yields": "2 dinners + 3 lunches",
+ "time": "~60 min, ~30 hands-on",
+ "equipment": "2 sheet pans, air fryer, small saucepan, thermometer",
+ "before": [
+  "**2¼ lb chicken breast** thawed in the fridge.",
+  "Uses gochujang **paste**. Whisk it smooth with the liquids before heating."
+ ],
+ "notes": "The glaze is reduced on the stove and tossed on at the end; maple syrup scorches if it's baked on at 425°F. The cucumber salad is for dinner only.",
+ "ingredients": [
+  {
+   "group": "Chicken",
+   "items": [
+    "2¼ lb chicken breast",
+    "1 Tbsp neutral oil",
+    "1 tsp kosher salt",
+    "½ tsp black pepper"
+   ]
+  },
+  {
+   "group": "Sweet potatoes",
+   "items": [
+    "2½ lb sweet potatoes",
+    "1 Tbsp neutral oil",
+    "¾ tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Broccoli",
+   "items": [
+    "1½ lb broccoli florets",
+    "2 tsp neutral oil",
+    "¼ tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Glaze",
+   "items": [
+    "¼ cup gochujang paste",
+    "3 Tbsp maple syrup",
+    "2 Tbsp soy sauce",
+    "1 Tbsp rice vinegar",
+    "1 tsp gochugaru",
+    "3 cloves garlic",
+    "1 tsp ginger, grated",
+    "1 tsp toasted sesame oil",
+    "3 Tbsp water"
+   ]
+  },
+  {
+   "group": "Finish",
+   "items": [
+    "2 scallions",
+    "1 Tbsp sesame seeds"
+   ]
+  },
+  {
+   "group": "Cucumber salad",
+   "items": [
+    "1 English cucumber",
+    "½ tsp kosher salt",
+    "1–2 tsp gochugaru",
+    "1 clove garlic",
+    "1 scallion",
+    "2 tsp rice vinegar",
+    "1 tsp sugar",
+    "½ tsp fish sauce",
+    "½ tsp sesame oil",
+    "½ tsp sesame seeds"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Heat the oven",
+   "body": "Racks lower-middle and upper-middle. An **empty sheet pan** on the lower rack. Heat to **425°F**."
+  },
+  {
+   "title": "Sweet potatoes in",
+   "body": "Cut **2½ lb sweet potatoes** into ¾-inch cubes and toss with **1 Tbsp neutral oil + ¾ tsp salt**. Spread on the hot pan, lower rack.",
+   "timerMin": 15
+  },
+  {
+   "title": "Chicken in",
+   "body": "Cut **2¼ lb chicken** into 1½-inch chunks and toss with **1 Tbsp neutral oil + 1 tsp salt + ½ tsp pepper**. Spread on the second pan, spaced apart. Upper rack, **15–18 min**."
+  },
+  {
+   "title": "Cucumber and glaze, while it roasts",
+   "body": "Slice **1 cucumber** into ¼-inch half-moons and toss with **½ tsp salt**. In a small saucepan, whisk smooth: **¼ cup gochujang + 3 Tbsp maple + 2 Tbsp soy + 1 Tbsp rice vinegar + 1 tsp gochugaru + 3 cloves garlic, grated + 1 tsp ginger + 1 tsp sesame oil + 3 Tbsp water**."
+  },
+  {
+   "title": "Flip potatoes, start broccoli",
+   "body": "Flip the sweet potatoes; **10–15 min more**. Toss **1½ lb broccoli** with **2 tsp oil + ¼ tsp salt** and air-fry at **390°F for 8–10 min** in 2 batches.",
+   "timerMin": 10
+  },
+  {
+   "title": "Reduce the glaze",
+   "body": "Saucepan over **medium**, stirring, **3–4 min** until it coats a spoon. Taste: too salty → **+1 tsp maple**; too thick → **+1 Tbsp water**."
+  },
+  {
+   "title": "Glaze the chicken",
+   "body": "Pull the chicken at **160°F** and rest 3 min. Toss it with the glaze in a large bowl. Top with **2 scallions + 1 Tbsp sesame seeds**."
+  },
+  {
+   "title": "Cucumber salad",
+   "body": "Drain the cucumber and squeeze it gently. Toss with **1 tsp gochugaru + 1 clove garlic, grated + 1 scallion + 2 tsp rice vinegar + 1 tsp sugar + ½ tsp fish sauce + ½ tsp sesame oil + ½ tsp sesame seeds**."
+  }
+ ],
+ "after": [
+  "Pack 3 lunches: chicken, sweet potato and broccoli."
+ ],
+ "servings": 5,
+ "servingUnit": "portions",
+ "macros": {
+  "basis": "per portion, 1 of 5",
+  "kcal": 660,
+  "protein": 55,
+  "carbs": 74,
+  "fat": 15,
+  "fiber": 11,
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+ }
+}

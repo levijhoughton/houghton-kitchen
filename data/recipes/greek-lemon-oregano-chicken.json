@@ -1,0 +1,137 @@
+{
+ "name": "Greek Lemon-Oregano Chicken & Potatoes",
+ "cuisine": "Greek",
+ "subtitle": "With village salad (horiatiki) and tzatziki",
+ "yields": "2 dinners + 3 lunches",
+ "time": "~65 min, ~30 hands-on",
+ "equipment": "2 sheet pans, air fryer, thermometer, box grater, jar",
+ "before": [
+  "**2¼ lb chicken breast** thawed in the fridge.",
+  "Most prep happens while the potatoes roast."
+ ],
+ "notes": "Zest goes on before roasting and juice after, because juice blocks browning. Lunch salads stay undressed.",
+ "ingredients": [
+  {
+   "group": "Chicken",
+   "items": [
+    "2¼ lb chicken breast",
+    "1 Tbsp olive oil",
+    "Zest of 1 lemon",
+    "4 cloves garlic",
+    "2 tsp dried oregano",
+    "1¼ tsp kosher salt",
+    "½ tsp black pepper"
+   ]
+  },
+  {
+   "group": "Potatoes",
+   "items": [
+    "2½ lb yellow potatoes",
+    "1½ Tbsp olive oil",
+    "1 tsp dried oregano",
+    "1 tsp kosher salt",
+    "½ tsp black pepper"
+   ]
+  },
+  {
+   "group": "Lemons",
+   "items": [
+    "2 lemons (juice ~4–5 Tbsp total)"
+   ]
+  },
+  {
+   "group": "Chickpeas",
+   "items": [
+    "1 can chickpeas",
+    "1 tsp olive oil",
+    "½ tsp smoked paprika",
+    "¼ tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Tzatziki",
+   "items": [
+    "1½ cups Greek yogurt",
+    "½ English cucumber",
+    "2 cloves garlic",
+    "1 tsp dried dill",
+    "1 tsp olive oil",
+    "½ tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Village salad",
+   "items": [
+    "2 English cucumbers",
+    "9 oz grape tomatoes",
+    "½ red onion",
+    "1 green bell pepper",
+    "⅓ cup kalamata olives",
+    "6 oz feta"
+   ]
+  },
+  {
+   "group": "Dressing",
+   "items": [
+    "2 Tbsp olive oil",
+    "2 Tbsp red wine vinegar",
+    "1 tsp dried oregano",
+    "¼ tsp kosher salt"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Heat the oven",
+   "body": "Racks lower-middle and upper-middle. An **empty sheet pan** on the lower rack. Heat to **425°F**."
+  },
+  {
+   "title": "Lemons",
+   "body": "Zest **1 lemon** into a large bowl (for the chicken). Juice **both lemons** into a cup (~4–5 Tbsp): **2 Tbsp** chicken, **1 Tbsp** tzatziki, **1 Tbsp** potatoes."
+  },
+  {
+   "title": "Potatoes in",
+   "body": "Cut **2½ lb yellow potatoes** into ¾-inch cubes and pat dry. Toss with **1½ Tbsp olive oil + 1 tsp oregano + 1 tsp salt + ½ tsp pepper**. Spread on the hot pan, cut sides down, lower rack.",
+   "timerMin": 20
+  },
+  {
+   "title": "Chicken in, while the potatoes roast",
+   "body": "Cut **2¼ lb chicken** into 1½-inch chunks. Toss in the zest bowl with **1 Tbsp olive oil + 4 cloves garlic, grated + 2 tsp oregano + 1¼ tsp salt + ½ tsp pepper**. Spread on the second pan, spaced apart. Upper rack, **15–18 min**."
+  },
+  {
+   "title": "Flip potatoes, start chickpeas",
+   "body": "Flip the potatoes; **15–20 min more**. Drain, rinse and dry **1 can chickpeas**, toss with **1 tsp olive oil + ½ tsp smoked paprika + ¼ tsp salt**, and air-fry at **390°F for 12–15 min**, shaking twice.",
+   "timerMin": 15
+  },
+  {
+   "title": "Tzatziki",
+   "body": "Grate **½ English cucumber** and squeeze it hard in a towel. Mix with **1½ cups Greek yogurt + 2 cloves garlic, grated + 1 Tbsp lemon juice + 1 tsp dill + 1 tsp olive oil + ½ tsp salt**. Refrigerate."
+  },
+  {
+   "title": "Pull the chicken",
+   "body": "Start checking at 13 min; pull at **160°F**. Pour **2 Tbsp lemon juice** over it on the pan, toss and rest."
+  },
+  {
+   "title": "Salad",
+   "body": "Shake in a jar: **2 Tbsp olive oil + 2 Tbsp red wine vinegar + 1 tsp oregano + ¼ tsp salt**. Cut **2 cucumbers, 9 oz tomatoes, ½ red onion, 1 green pepper, 6 oz feta**; add **⅓ cup kalamatas**. Dress ~2/5 with **2 Tbsp** dressing; the rest goes undressed into 3 lunch containers with the remaining dressing on the side."
+  },
+  {
+   "title": "Pull the potatoes",
+   "body": "When deeply golden, toss on the pan with **1 Tbsp lemon juice** and salt to taste."
+  }
+ ],
+ "after": [
+  "Pack 3 lunches: chicken, potatoes and chickpeas, plus undressed salad, a dressing cup and ~3 Tbsp tzatziki each. Good through Monday."
+ ],
+ "servings": 5,
+ "servingUnit": "portions",
+ "macros": {
+  "basis": "per portion, 1 of 5",
+  "kcal": 800,
+  "protein": 68,
+  "carbs": 64,
+  "fat": 30,
+  "fiber": 10,
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Includes salad, tzatziki and chickpeas; about a third of the calories come from olive oil and feta."
+ }
+}
