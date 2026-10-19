@@ -35,6 +35,7 @@ data/
   recipes/<id>.json   one file per recipe
   plans/<id>.json     one file per week, id = the week's first date (YYYY-MM-DD)
   freezer.json        current freezer inventory
+  restock.json        running list of pantry items to pick up on the next shop
 ```
 
 ## Weekly update
@@ -102,6 +103,14 @@ Writing rules:
 ```
 
 A `todo` with a `date` is flagged on that day and the day before.
+
+## Restock schema
+
+```json
+{ "updated": "2026-10-19", "items": [ { "name": "Dried oregano", "qty": "1 jar", "store": "Walmart", "note": "optional" } ] }
+```
+
+Shown at the top of Groceries for the current and upcoming weeks. When a week's grocery list is built, fold these items into it and empty this list.
 
 ## Freezer schema
 

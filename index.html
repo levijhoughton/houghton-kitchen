@@ -396,7 +396,7 @@ function servFactor(r){ var base=+r.servings||0, want=store("serv:"+r.id); retur
 window.__hk={scaleText:scaleText,niceQ:niceQ};
 
 /* ================= state & routing ================= */
-var S = { recipes:{}, plans:[], freezer:null, updated:null, ready:false, failed:false, offline:!navigator.onLine, planId:null };
+var S = { recipes:{}, plans:[], freezer:null, restock:null, updated:null, ready:false, failed:false, offline:!navigator.onLine, planId:null };
 var view = $("#view"), cookEl = $("#cook");
 
 function route(){ var h=decodeURIComponent((location.hash||"").replace(/^#/,"")); return h||"week"; }
@@ -508,17 +508,37 @@ function renderWeek(){
 }
 
 /* ================= groceries ================= */
+/* running restock list: things to pick up on the next shop, shown above the week's list */
+function restockItems(){ return (S.restock&&S.restock.items)||[]; }
+function restockSection(rgot){
+  var items=restockItems(); if(!items.length) return '';
+  var h=['<section class="gstore"><h3>Restock<span class="c">'+items.filter(function(_,i){return rgot[i];}).length+'/'+items.length+'</span></h3>'+
+    '<p class="muted" style="margin:0;font-size:15px">Ran out or running low. Pick these up on the next shop.</p><div class="glist">'];
+  items.forEach(function(it,i){
+    var on=!!rgot[i];
+    h.push('<label class="gitem'+(on?' got':'')+'"><input type="checkbox" class="check rcheck" id="rs-'+i+'" data-i="'+i+'"'+(on?' checked':'')+'>'+
+      '<div><div class="nm">'+esc(it.name)+'</div>'+(it.note?'<div class="nt">'+md(it.note)+'</div>':'')+(it.store?'<div class="fr"><span>'+esc(it.store)+'</span></div>':'')+'</div>'+
+      '<div class="q">'+esc(it.qty||"")+'</div></label>');
+  });
+  h.push('</div></section>');
+  return h.join("");
+}
+function bindRestock(rgot){
+  $$(".rcheck",view).forEach(function(c){ c.addEventListener("change",function(){ rgot[c.dataset.i]=c.checked; store("restock",rgot); var y=window.scrollY; renderGroceries(); window.scrollTo(0,y); }); });
+}
 function renderGroceries(){
-  var p=selPlan(), h=[];
+  var p=selPlan(), h=[], rgot=store("restock")||{};
+  var showRestock = !p || p.id===currentPlanId() || (p.startDate||"")>today();
   h.push('<div class="weekhead"><div class="t"><div class="eyebrow">Groceries</div><h1>'+esc(p?(p.label||nice(p.startDate)):"Groceries")+'</h1></div>'+(p?weekNav(p):'')+'</div>');
   if(!p||!p.grocery||!(p.grocery.stores||[]).length){
-    h.push('<div class="empty">No grocery list for this week.</div>'+footer()); view.innerHTML=h.join(""); if(p) bindWeekNav(p); return;
+    h.push((showRestock?restockSection(rgot):'')+'<div class="empty">No grocery list for this week yet.</div>'+footer()); view.innerHTML=h.join(""); if(p) bindWeekNav(p); bindRestock(rgot); return;
   }
   var key="groc:"+p.id, got=store(key)||{}, total=0, done=0, g=p.grocery;
   g.stores.forEach(function(s,si){ (s.groups||[]).forEach(function(gr,gi){ (gr.items||[]).forEach(function(it,ii){ total++; if(got[si+"."+gi+"."+ii]) done++; }); }); });
   h.push('<div class="sec"><div class="progress" aria-hidden="true"><span style="width:'+(total?Math.round(done/total*100):0)+'%"></span></div>'+
     '<div class="gbar"><span class="muted gcount">'+done+' of '+total+' in the cart</span>'+
     '<button class="btn ghost" id="gcopy">Copy what&rsquo;s left</button>'+(done?'<button class="btn ghost" id="gclear">Uncheck all</button>':'')+'</div></div>');
+  if(showRestock) h.push(restockSection(rgot));
   function row(k,it,on,id){
     return '<label class="gitem'+(on?' got':'')+'"><input type="checkbox" class="check" id="'+id+'" data-k="'+k+'"'+(on?' checked':'')+'>'+
       '<div><div class="nm">'+esc(it.name)+'</div>'+(it.note?'<div class="nt">'+md(it.note)+'</div>':'')+
@@ -542,10 +562,11 @@ function renderGroceries(){
   }
   h.push(footer());
   view.innerHTML=h.join("");
-  bindWeekNav(p);
-  $$(".gitem .check",view).forEach(function(c){ c.addEventListener("change",function(){ got[c.dataset.k]=c.checked; store(key,got); var y=window.scrollY; renderGroceries(); window.scrollTo(0,y); }); });
+  bindWeekNav(p); bindRestock(rgot);
+  $$(".gitem .check:not(.rcheck)",view).forEach(function(c){ c.addEventListener("change",function(){ got[c.dataset.k]=c.checked; store(key,got); var y=window.scrollY; renderGroceries(); window.scrollTo(0,y); }); });
   $("#gcopy").onclick=function(){
     var lines=[];
+    if(showRestock){ var rl=restockItems().filter(function(_,i){ return !rgot[i]; }).map(function(it){ return "- "+it.name+(it.qty?" ("+it.qty+")":""); }); if(rl.length){ lines.push("Restock:"); lines=lines.concat(rl); lines.push(""); } }
     g.stores.forEach(function(s,si){
       var sl=[]; (s.groups||[]).forEach(function(gr,gi){ (gr.items||[]).forEach(function(it,ii){ if(!got[si+"."+gi+"."+ii]) sl.push("- "+it.name+(it.qty?" ("+it.qty+")":"")); }); });
       if(sl.length){ lines.push(s.name+":"); lines=lines.concat(sl); lines.push(""); }
@@ -779,11 +800,12 @@ function load(){
       Promise.all((ix.recipes||[]).map(function(id){ return getJSON("data/recipes/"+id+".json",true).then(function(x){ return x?Object.assign({},x,{id:id}):null; }); })),
       Promise.all((ix.plans||[]).map(function(id){ return getJSON("data/plans/"+id+".json",true).then(function(x){ return x?Object.assign({},x,{id:id}):null; }); })),
       ix.freezer?getJSON("data/freezer.json",true):Promise.resolve(null),
-      ix
+      ix,
+      ix.restock?getJSON("data/restock.json",true):Promise.resolve(null)
     ]);
   }).then(function(res){
     var m={}; res[0].forEach(function(r){ if(r) m[r.id]=r; });
-    S.recipes=m; S.plans=res[1].filter(Boolean); S.freezer=res[2]; S.updated=res[3].updated||null;
+    S.recipes=m; S.plans=res[1].filter(Boolean); S.freezer=res[2]; S.updated=res[3].updated||null; S.restock=res[4];
     if(S.planId && !planById(S.planId)) S.planId=null;
     S.ready=true; S.failed=false; loading=false;
     if(cookEl.hidden){ var y=window.scrollY; render(); window.scrollTo(0,y); }

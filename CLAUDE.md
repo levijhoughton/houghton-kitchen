@@ -7,7 +7,7 @@ This repo is the published side of the **Houghton Food** meal-planning project. 
 1. Write any new recipes to `data/recipes/<id>.json` following the README schema, including `servings`, `servingUnit` and rough `macros`.
 2. Write the week to `data/plans/<first-date>.json` with nights, dated `todo` reminders (thawing!) and the store-split `grocery` list.
 3. Add the ids to `data/index.json` and set `updated` to today.
-4. Update `data/freezer.json` for anything that went in or came out.
+4. Update `data/freezer.json` for anything that went in or came out. Fold `data/restock.json` items into the new grocery list, then empty its `items`.
 5. Set `"status": "cooked"` on last week's nights that were cooked.
 6. Run `python3 tools/check.py` and fix every error.
 7. Commit as `Levi Houghton <levijhoughton@users.noreply.github.com>` (repo is public; don't commit a personal email) and push to `main`.
