@@ -1,5 +1,5 @@
 {
- "label": "Oct 14–19",
+ "label": "Oct 14–21",
  "startDate": "2026-10-14",
  "nights": [
   {
@@ -23,10 +23,10 @@
   {
    "date": "2026-10-16",
    "day": "Fri",
-   "recipeId": "greek-lemon-oregano-chicken",
-   "title": "Greek lemon-oregano chicken & potatoes",
-   "sizing": "2 + 3 lunches",
-   "leftovers": "lunches Sat–Mon"
+   "recipeId": null,
+   "title": "No dinner planned",
+   "sizing": "",
+   "leftovers": ""
   },
   {
    "date": "2026-10-17",
@@ -51,6 +51,22 @@
    "title": "Turkey chili",
    "sizing": "12 bowls",
    "leftovers": "lunches Tue · extra to freeze"
+  },
+  {
+   "date": "2026-10-20",
+   "day": "Tue",
+   "recipeId": null,
+   "title": "No dinner planned",
+   "sizing": "",
+   "leftovers": ""
+  },
+  {
+   "date": "2026-10-21",
+   "day": "Wed",
+   "recipeId": "greek-lemon-oregano-chicken",
+   "title": "Greek lemon-oregano chicken & potatoes",
+   "sizing": "2 + 3 lunches",
+   "leftovers": "lunches Thu–Sat"
   }
  ],
  "todo": [
@@ -63,6 +79,11 @@
    "date": "2026-10-19",
    "when": "Mon afternoon",
    "what": "Start the chili **~75 min** before dinner. Set out the toppings while it simmers."
+  },
+  {
+   "date": "2026-10-20",
+   "when": "Tue morning",
+   "what": "Move the **2¼ lb chicken breast** from the freezer to the fridge for Wednesday's Greek chicken."
   }
  ],
  "notes": [],
