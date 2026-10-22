@@ -85,8 +85,8 @@
       "name": "Produce",
       "items": [
        {
-        "name": "Carrots",
-        "qty": "1 lb",
+        "name": "Baby carrots",
+        "qty": "1 lb bag",
         "for": [
          "Fri"
         ]
@@ -212,11 +212,11 @@
       "items": [
        {
         "name": "Japanese curry roux blocks",
-        "qty": "1 box (7–8 oz)",
+        "qty": "2 × 3.2 oz",
         "for": [
          "Fri"
         ],
-        "note": "Uses about half."
+        "note": "S&B Golden Curry. Uses about 1¼ boxes."
        },
        {
         "name": "Dried guajillo chiles",

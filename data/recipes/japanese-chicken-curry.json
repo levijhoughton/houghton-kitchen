@@ -24,8 +24,8 @@
  "ingredients": [
   { "group": "Rice", "items": ["2 cups short-grain or calrose rice", "2½ cups water"] },
   { "group": "Chicken", "items": ["2½ lb chicken breast", "1 tsp kosher salt"] },
-  { "group": "Vegetables", "items": ["2 large yellow onions", "1 lb carrots (about 3 medium)", "1½ lb baby potatoes", "3 cloves garlic", "1 tsp fresh ginger, grated", "2 cups frozen peas"] },
-  { "group": "Pot", "items": ["1 Tbsp neutral oil", "3 cups water", "½ box (3½–4 oz) Japanese curry roux blocks", "1 Tbsp ketchup", "1 Tbsp Worcestershire sauce", "1 tsp honey"] }
+  { "group": "Vegetables", "items": ["2 large yellow onions", "1 lb baby carrots", "1½ lb baby potatoes", "3 cloves garlic", "1 tsp fresh ginger, grated", "2 cups frozen peas"] },
+  { "group": "Pot", "items": ["1 Tbsp neutral oil", "3 cups water", "3½–4 oz Japanese curry roux blocks (about 1¼ boxes of 3.2 oz S&B)", "1 Tbsp ketchup", "1 Tbsp Worcestershire sauce", "1 tsp honey"] }
  ],
  "steps": [
   {
@@ -34,7 +34,7 @@
   },
   {
    "title": "Prep everything",
-   "body": "Slice **2 onions** into thin half-moons. Cut **1 lb carrots** into 1-inch chunks. Halve **1½ lb baby potatoes**. Grate **3 cloves garlic + 1 tsp ginger** into a small bowl. Cut **2½ lb chicken** into 1½-inch chunks and toss with **1 tsp kosher salt**. Measure **3 cups water**. Break **½ box roux** into its cubes."
+   "body": "Slice **2 onions** into thin half-moons. Leave **1 lb baby carrots** whole. Halve **1½ lb baby potatoes**. Grate **3 cloves garlic + 1 tsp ginger** into a small bowl. Cut **2½ lb chicken** into 1½-inch chunks and toss with **1 tsp kosher salt**. Measure **3 cups water**. Break **3½–4 oz roux** into its cubes."
   },
   {
    "title": "Brown the onions",
