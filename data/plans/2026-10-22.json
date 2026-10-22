@@ -295,6 +295,14 @@
         "for": [
          "Fri"
         ]
+       },
+       {
+        "name": "Frozen corn",
+        "qty": "1 lb bag",
+        "for": [
+         "Sun"
+        ],
+        "note": "Need 2 cups."
        }
       ]
      },
@@ -302,7 +310,7 @@
       "name": "Restock",
       "items": [
        {
-        "name": "Mild chili powder",
+        "name": "Chili powder",
         "qty": "large jar (5 oz+)",
         "for": []
        },
@@ -325,10 +333,6 @@
    }
   ],
   "pantry": [
-   {
-    "name": "Frozen corn",
-    "qty": "2 cups"
-   },
    {
     "name": "Frozen shelled edamame",
     "qty": "1½ cups"
