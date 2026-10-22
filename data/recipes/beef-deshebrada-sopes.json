@@ -6,15 +6,15 @@
  "servingUnit": "portions",
  "yields": "4 dinners + 3 lunches",
  "time": "~2¼ hr, ~60 hands-on",
- "equipment": "Instant Pot, blender, large skillet, saucepan",
+ "equipment": "Instant Pot, blender, large skillet, saucepan, rice cooker or pot",
  "macros": {
   "basis": "per portion, 1 of 7, averaged with the sopes",
-  "kcal": 920,
-  "protein": 60,
-  "carbs": 70,
+  "kcal": 1060,
+  "protein": 63,
+  "carbs": 100,
   "fat": 45,
   "fiber": 13,
-  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Dinner plates run higher in carbs (3 sopes each); lunches are meat, beans and calabacitas."
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Averaged across all 7: dinner plates carry the sopes, lunch containers carry the rice."
  },
  "before": [
   "Start **~2¼ hr** before dinner.",
@@ -22,12 +22,80 @@
  ],
  "notes": "Carne deshebrada is stewed in a guajillo-ancho chile sauce, then shredded and cooked down until the sauce clings. The chuck isn't seared first; that's typical for this dish. Sopes are thick masa cakes with a pinched rim, griddled and then crisped. They're traditionally fried in lard; here they get a light brush of oil on a dry skillet instead, which is less rich and a little less crisp. Everything except the shredding happens while the pot is under pressure.",
  "ingredients": [
-  { "group": "Chile sauce", "items": ["6 dried guajillo chiles", "2 dried ancho chiles", "3 Roma tomatoes", "½ white onion", "5 cloves garlic", "1 cup beef or chicken broth", "1 Tbsp apple cider vinegar", "½ tsp ground cumin", "1 tsp Mexican oregano", "2 whole cloves (optional)"] },
-  { "group": "Beef", "items": ["3 lb beef chuck roast", "2 tsp kosher salt", "2 bay leaves"] },
-  { "group": "Sopes", "items": ["2½ cups masa harina", "1 tsp kosher salt", "2¼ cups warm water", "1 Tbsp neutral oil"] },
-  { "group": "Refried pintos", "items": ["3 × 15 oz cans pinto beans", "1 Tbsp neutral oil", "½ white onion, diced", "2 cloves garlic", "¾ cup water", "½ tsp kosher salt"] },
-  { "group": "Calabacitas", "items": ["1 Tbsp olive oil", "½ white onion, diced", "2 cloves garlic", "3 medium zucchini", "2 Roma tomatoes", "2 cups frozen corn", "½ tsp Mexican oregano", "½ tsp kosher salt"] },
-  { "group": "Toppings", "items": ["1 romaine heart, shredded", "½ white onion, finely diced", "1 bunch radishes, thinly sliced", "10 oz queso fresco, crumbled", "1 cup plain nonfat Greek yogurt + 2 Tbsp lime juice + pinch salt", "4 limes"] }
+  {
+   "group": "Chile sauce",
+   "items": [
+    "6 dried guajillo chiles",
+    "2 dried ancho chiles",
+    "3 Roma tomatoes",
+    "½ white onion",
+    "5 cloves garlic",
+    "1 cup beef or chicken broth",
+    "1 Tbsp apple cider vinegar",
+    "½ tsp ground cumin",
+    "1 tsp Mexican oregano",
+    "2 whole cloves (optional)"
+   ]
+  },
+  {
+   "group": "Beef",
+   "items": [
+    "3 lb beef chuck roast",
+    "2 tsp kosher salt",
+    "2 bay leaves"
+   ]
+  },
+  {
+   "group": "Sopes",
+   "items": [
+    "2½ cups masa harina",
+    "1 tsp kosher salt",
+    "2¼ cups warm water",
+    "1 Tbsp neutral oil"
+   ]
+  },
+  {
+   "group": "Refried pintos",
+   "items": [
+    "3 × 15 oz cans pinto beans",
+    "1 Tbsp neutral oil",
+    "½ white onion, diced",
+    "2 cloves garlic",
+    "¾ cup water",
+    "½ tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Rice",
+   "items": [
+    "1½ cups long-grain or calrose rice",
+    "2 cups water"
+   ]
+  },
+  {
+   "group": "Calabacitas",
+   "items": [
+    "1 Tbsp olive oil",
+    "½ white onion, diced",
+    "2 cloves garlic",
+    "3 medium zucchini",
+    "2 Roma tomatoes",
+    "2 cups frozen corn",
+    "½ tsp Mexican oregano",
+    "½ tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Toppings",
+   "items": [
+    "1 romaine heart, shredded",
+    "½ white onion, finely diced",
+    "1 bunch radishes, thinly sliced",
+    "10 oz queso fresco, crumbled",
+    "1 cup plain nonfat Greek yogurt + 2 Tbsp lime juice + pinch salt",
+    "4 limes"
+   ]
+  }
  ],
  "steps": [
   {
@@ -56,6 +124,10 @@
    "title": "Masa dough",
    "body": "Mix **2½ cups masa harina + 1 tsp salt**, then work in **2¼ cups warm water** by hand until it feels like soft play dough and doesn't crack at the edges when pressed. Add water a spoonful at a time if it cracks. Cover and rest **10 min**.",
    "timerMin": 10
+  },
+  {
+   "title": "Start the rice",
+   "body": "Rinse **1½ cups rice** and cook with **2 cups water** in the rice cooker, or in a covered pot: boil, then lowest heat **15 min**, then rest **10 min** off heat. It's for the lunches; it can sit covered until you pack them."
   },
   {
    "title": "Toppings",
@@ -90,7 +162,7 @@
   }
  ],
  "after": [
-  "Pack 3 lunches: beef, refried pintos and calabacitas.",
+  "Pack 3 lunches: beef, refried pintos, calabacitas and rice.",
   "Leftover sope shells keep 2 days in the fridge; re-crisp in a dry skillet."
  ]
 }

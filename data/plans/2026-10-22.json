@@ -47,7 +47,7 @@
   {
    "date": "2026-10-23",
    "when": "Fri, after shopping",
-   "what": "Put the **3 lb ground turkey** straight into the freezer."
+   "what": "Put the **2 lb ground turkey** straight into the freezer."
   },
   {
    "date": "2026-10-23",
@@ -57,7 +57,7 @@
   {
    "date": "2026-10-24",
    "when": "Sat evening",
-   "what": "Start dinner **~45 min** ahead. Afterward, move the **3 lb ground turkey** from the freezer to the fridge for Monday."
+   "what": "Start dinner **~45 min** ahead. Afterward, move the **2 lb ground turkey** from the freezer to the fridge for Monday."
   },
   {
    "date": "2026-10-25",
@@ -102,7 +102,7 @@
        },
        {
         "name": "Ground turkey 93/7",
-        "qty": "3 × 1 lb",
+        "qty": "2 lb",
         "for": [
          "Mon"
         ],
@@ -339,7 +339,7 @@
    },
    {
     "name": "Short-grain or calrose rice",
-    "qty": "2 cups"
+    "qty": "3½ cups"
    },
    {
     "name": "Gochujang paste",
