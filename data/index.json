@@ -3,12 +3,17 @@
   "greek-lemon-oregano-chicken",
   "maple-gochujang-chicken",
   "pork-edamame-fried-rice",
-  "turkey-chili"
+  "turkey-chili",
+  "japanese-chicken-curry",
+  "sirloin-potatoes-broccoli",
+  "beef-deshebrada-sopes",
+  "gochujang-turkey-sweet-potato-bowls"
  ],
  "plans": [
-  "2026-10-14"
+  "2026-10-14",
+  "2026-10-22"
  ],
- "updated": "2026-10-19",
+ "updated": "2026-10-22",
  "freezer": true,
  "restock": true
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-22",
  "items": [
   {
    "name": "Ground beef, 93/7",
@@ -8,8 +8,7 @@
   },
   {
    "name": "Chicken breasts",
-   "amount": "check",
-   "note": "2¼ lb goes to Wed dinner."
+   "amount": "check"
   },
   {
    "name": "Turkey chili",

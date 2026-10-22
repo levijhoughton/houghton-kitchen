@@ -1,0 +1,417 @@
+{
+ "label": "Oct 22–26",
+ "startDate": "2026-10-22",
+ "nights": [
+  {
+   "date": "2026-10-22",
+   "day": "Thu",
+   "recipeId": null,
+   "title": "Leftovers",
+   "sizing": "",
+   "leftovers": ""
+  },
+  {
+   "date": "2026-10-23",
+   "day": "Fri",
+   "recipeId": "japanese-chicken-curry",
+   "title": "Japanese chicken curry",
+   "sizing": "2 + 3 lunches",
+   "leftovers": "3 lunches"
+  },
+  {
+   "date": "2026-10-24",
+   "day": "Sat",
+   "recipeId": "sirloin-potatoes-broccoli",
+   "title": "Seared sirloin, potatoes & broccoli",
+   "sizing": "2 dinners",
+   "leftovers": "no leftovers"
+  },
+  {
+   "date": "2026-10-25",
+   "day": "Sun",
+   "recipeId": "beef-deshebrada-sopes",
+   "title": "Beef deshebrada sopes",
+   "sizing": "4 + 3 lunches",
+   "leftovers": "3 lunches"
+  },
+  {
+   "date": "2026-10-26",
+   "day": "Mon",
+   "recipeId": "gochujang-turkey-sweet-potato-bowls",
+   "title": "Gochujang turkey & sweet potato bowls",
+   "sizing": "2 + 3 lunches",
+   "leftovers": "3 lunches"
+  }
+ ],
+ "todo": [
+  {
+   "date": "2026-10-23",
+   "when": "Fri, after shopping",
+   "what": "Put the **3 lb ground turkey** straight into the freezer."
+  },
+  {
+   "date": "2026-10-23",
+   "when": "Fri evening",
+   "what": "Start the curry **~50 min** before dinner, rice first."
+  },
+  {
+   "date": "2026-10-24",
+   "when": "Sat evening",
+   "what": "Start dinner **~45 min** ahead. Afterward, move the **3 lb ground turkey** from the freezer to the fridge for Monday."
+  },
+  {
+   "date": "2026-10-25",
+   "when": "Sun afternoon",
+   "what": "Start the deshebrada **~2¼ hr** before dinner."
+  },
+  {
+   "date": "2026-10-26",
+   "when": "Mon evening",
+   "what": "Start the bowls **~45 min** before dinner."
+  }
+ ],
+ "notes": [],
+ "grocery": {
+  "stores": [
+   {
+    "name": "Walmart pickup",
+    "groups": [
+     {
+      "name": "Meat",
+      "items": [
+       {
+        "name": "Boneless skinless chicken breast",
+        "qty": "2½ lb",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Top sirloin steak, 1¼-inch thick",
+        "qty": "1¼ lb",
+        "for": [
+         "Sat"
+        ]
+       },
+       {
+        "name": "Beef chuck roast",
+        "qty": "3 lb",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Ground turkey 93/7",
+        "qty": "3 × 1 lb",
+        "for": [
+         "Mon"
+        ],
+        "note": "Freeze on arrival."
+       }
+      ]
+     },
+     {
+      "name": "Produce",
+      "items": [
+       {
+        "name": "Baby potatoes",
+        "qty": "3 lb bag",
+        "for": [
+         "Fri",
+         "Sat"
+        ]
+       },
+       {
+        "name": "Carrots",
+        "qty": "1 lb",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Yellow onions",
+        "qty": "2 large",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "White onions",
+        "qty": "2 medium",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Broccoli florets",
+        "qty": "1 lb",
+        "for": [
+         "Sat"
+        ]
+       },
+       {
+        "name": "Sweet potatoes",
+        "qty": "2½ lb",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Green beans, trimmed",
+        "qty": "1 lb",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "English cucumbers",
+        "qty": "2",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Zucchini",
+        "qty": "3 medium",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Roma tomatoes",
+        "qty": "5",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Romaine heart",
+        "qty": "1",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Radishes",
+        "qty": "1 bunch",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Limes",
+        "qty": "4",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Green onions",
+        "qty": "1 bunch",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Garlic",
+        "qty": "2 heads",
+        "for": [
+         "Fri",
+         "Sun",
+         "Mon"
+        ],
+        "note": "About 16 cloves."
+       },
+       {
+        "name": "Fresh ginger",
+        "qty": "3-inch knob",
+        "for": [
+         "Fri",
+         "Mon"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Dairy",
+      "items": [
+       {
+        "name": "Queso fresco",
+        "qty": "10 oz",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Plain nonfat Greek yogurt",
+        "qty": "16 oz",
+        "for": [
+         "Sun"
+        ],
+        "note": "Need 1 cup. Skip if you have it."
+       }
+      ]
+     },
+     {
+      "name": "Pantry",
+      "items": [
+       {
+        "name": "Japanese curry roux blocks",
+        "qty": "1 box (7–8 oz)",
+        "for": [
+         "Fri"
+        ],
+        "note": "Uses about half."
+       },
+       {
+        "name": "Dried guajillo chiles",
+        "qty": "6",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Dried ancho chiles",
+        "qty": "2",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Pinto beans",
+        "qty": "3 × 15 oz",
+        "for": [
+         "Sun"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Frozen",
+      "items": [
+       {
+        "name": "Frozen peas",
+        "qty": "12–16 oz",
+        "for": [
+         "Fri"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Restock",
+      "items": [
+       {
+        "name": "Mild chili powder",
+        "qty": "large jar (5 oz+)",
+        "for": []
+       },
+       {
+        "name": "Dried oregano",
+        "qty": "1 jar",
+        "for": [
+         "Sun"
+        ],
+        "note": "Mexican oregano if they have it."
+       },
+       {
+        "name": "Italian seasoning",
+        "qty": "1 jar",
+        "for": []
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "pantry": [
+   {
+    "name": "Frozen corn",
+    "qty": "2 cups"
+   },
+   {
+    "name": "Frozen shelled edamame",
+    "qty": "1½ cups"
+   },
+   {
+    "name": "Masa harina",
+    "qty": "2½ cups"
+   },
+   {
+    "name": "Short-grain or calrose rice",
+    "qty": "2 cups"
+   },
+   {
+    "name": "Gochujang paste",
+    "qty": "¼ cup"
+   },
+   {
+    "name": "Soy sauce",
+    "qty": "3 Tbsp"
+   },
+   {
+    "name": "Honey",
+    "qty": "2 Tbsp + 1 tsp"
+   },
+   {
+    "name": "Worcestershire sauce",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "Ketchup",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "Rice vinegar",
+    "qty": "5 Tbsp"
+   },
+   {
+    "name": "Apple cider vinegar",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "Toasted sesame oil",
+    "qty": "2 tsp",
+    "note": "Smell it; it goes rancid."
+   },
+   {
+    "name": "Beef or chicken broth",
+    "qty": "1 cup",
+    "note": "A carton opened last week is too old by Sunday."
+   },
+   {
+    "name": "Neutral oil",
+    "qty": "~6 Tbsp"
+   },
+   {
+    "name": "Olive oil",
+    "qty": "~3 Tbsp"
+   },
+   {
+    "name": "Ground cumin",
+    "qty": "½ tsp"
+   },
+   {
+    "name": "Bay leaves",
+    "qty": "2"
+   },
+   {
+    "name": "Whole cloves",
+    "qty": "2",
+    "note": "Optional."
+   },
+   {
+    "name": "Garlic powder",
+    "qty": "1 tsp"
+   },
+   {
+    "name": "Sesame seeds",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "Sugar",
+    "qty": "1 tsp"
+   }
+  ]
+ }
+}

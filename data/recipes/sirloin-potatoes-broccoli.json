@@ -1,0 +1,59 @@
+{
+ "name": "Seared Sirloin with Roasted Potatoes & Broccoli",
+ "cuisine": "American",
+ "subtitle": "One sheet pan of potatoes and broccoli, steak in a skillet",
+ "servings": 2,
+ "servingUnit": "portions",
+ "yields": "2 dinners",
+ "time": "~45 min, ~15 hands-on",
+ "equipment": "1 sheet pan, heavy skillet (cast iron if you have it), thermometer",
+ "macros": {
+  "basis": "per portion, 1 of 2",
+  "kcal": 915,
+  "protein": 75,
+  "carbs": 75,
+  "fat": 34,
+  "fiber": 13,
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+ },
+ "before": [
+  "Start **~45 min** before dinner.",
+  "Salt the steak as soon as you turn on the oven. The extra 30 min seasons it through and dries the surface for a better crust."
+ ],
+ "notes": "The broccoli joins the potatoes partway through so both finish together on one pan. Pull the steak at 125–130°F for medium-rare; it rises a few degrees while it rests. USDA's minimum for steak is 145°F with a 3-minute rest.",
+ "ingredients": [
+  { "group": "Steak", "items": ["1¼ lb top sirloin, one 1¼-inch-thick steak", "1 tsp kosher salt", "½ tsp black pepper", "1 tsp neutral oil"] },
+  { "group": "Potatoes", "items": ["1½ lb baby potatoes", "1 Tbsp olive oil", "¾ tsp kosher salt", "¼ tsp black pepper", "1 tsp garlic powder"] },
+  { "group": "Broccoli", "items": ["1 lb broccoli florets", "2 tsp olive oil", "¼ tsp kosher salt"] }
+ ],
+ "steps": [
+  {
+   "title": "Oven on, steak salted",
+   "body": "Put an **empty sheet pan** on the middle rack and heat the oven to 425°F. Pat **1¼ lb sirloin** dry and season both sides with **1 tsp kosher salt + ½ tsp pepper**. Leave it on a plate."
+  },
+  {
+   "title": "Potatoes in",
+   "body": "Halve **1½ lb baby potatoes**. In a large bowl, toss with **1 Tbsp olive oil + ¾ tsp salt + ¼ tsp pepper + 1 tsp garlic powder**. Spread on the hot pan, cut sides down. Roast **20 min**.",
+   "timerMin": 20
+  },
+  {
+   "title": "Ready the broccoli",
+   "body": "While the potatoes roast, toss **1 lb broccoli florets** in the same bowl with **2 tsp olive oil + ¼ tsp salt**. Set out the skillet, tongs, thermometer and a cutting board."
+  },
+  {
+   "title": "Broccoli in",
+   "body": "Flip the potatoes and push them to one side. Spread the broccoli on the other side in one layer. Roast **15–18 min**, until the potatoes are deep golden and the broccoli edges char.",
+   "timerMin": 15
+  },
+  {
+   "title": "Sear the steak",
+   "body": "Right after the broccoli goes in: skillet over medium-high for **3 min**. Add **1 tsp neutral oil**, then the steak. Sear **4 min** without moving it, flip, and sear **3–5 min** more until the thickest point reads 125–130°F.",
+   "timerMin": 4
+  },
+  {
+   "title": "Rest and slice",
+   "body": "Rest the steak on the board **5 min**. Pull the sheet pan. Slice the steak thin against the grain and serve with the potatoes and broccoli.",
+   "timerMin": 5
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "name": "Gochujang Turkey & Sweet Potato Bowls",
+ "cuisine": "Korean-American",
+ "subtitle": "Glazed ground turkey with edamame, roasted sweet potato and green beans, quick cucumber pickle",
+ "servings": 5,
+ "servingUnit": "portions",
+ "yields": "2 dinners + 3 lunches",
+ "time": "~45 min, ~25 hands-on",
+ "equipment": "2 sheet pans, 12-inch skillet",
+ "macros": {
+  "basis": "per portion, 1 of 5",
+  "kcal": 840,
+  "protein": 64,
+  "carbs": 73,
+  "fat": 31,
+  "fiber": 13,
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+ },
+ "before": [
+  "**3 lb ground turkey** thawed in the fridge.",
+  "Start **~45 min** before dinner."
+ ],
+ "notes": "A Korean-American fusion bowl, not a traditional Korean dish. The glaze reduces in the turkey skillet, so there's no separate saucepan. Brown the turkey hard before the glaze goes in; steamed grey turkey won't take on the sauce.",
+ "ingredients": [
+  {
+   "group": "Sheet pans",
+   "items": [
+    "2½ lb sweet potatoes",
+    "1 Tbsp neutral oil",
+    "¾ tsp kosher salt",
+    "1 lb trimmed green beans",
+    "2 tsp neutral oil",
+    "¼ tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Quick cucumber",
+   "items": [
+    "2 English cucumbers",
+    "¼ cup rice vinegar",
+    "1 tsp sugar",
+    "½ tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Glaze",
+   "items": [
+    "¼ cup gochujang paste",
+    "3 Tbsp soy sauce",
+    "2 Tbsp honey",
+    "1 Tbsp rice vinegar",
+    "2 tsp toasted sesame oil",
+    "¼ cup water"
+   ]
+  },
+  {
+   "group": "Turkey",
+   "items": [
+    "3 lb ground turkey 93/7",
+    "1 tsp neutral oil",
+    "4 cloves garlic",
+    "1 Tbsp fresh ginger, grated",
+    "4 scallions, whites and greens separated",
+    "1½ cups frozen shelled edamame",
+    "1 Tbsp sesame seeds"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Heat the oven",
+   "body": "Racks lower-middle and upper-middle. An **empty sheet pan** on the lower rack. Heat to 425°F."
+  },
+  {
+   "title": "Sweet potatoes in",
+   "body": "Cut **2½ lb sweet potatoes** into ¾-inch cubes and toss with **1 Tbsp neutral oil + ¾ tsp salt**. Spread on the hot pan, lower rack. Roast **15 min**.",
+   "timerMin": 15
+  },
+  {
+   "title": "Prep while it roasts",
+   "body": "Toss **1 lb green beans** in the same bowl with **2 tsp neutral oil + ¼ tsp salt** and spread on the second pan. Slice **2 cucumbers** into thin half-moons and toss with **¼ cup rice vinegar + 1 tsp sugar + ½ tsp salt**; refrigerate. Whisk **¼ cup gochujang + 3 Tbsp soy sauce + 2 Tbsp honey + 1 Tbsp rice vinegar + 2 tsp sesame oil + ¼ cup water** smooth. Mince **4 cloves garlic**, grate **1 Tbsp ginger**, slice **4 scallions** (whites and greens apart). Microwave **1½ cups edamame** **2 min** to thaw."
+  },
+  {
+   "title": "Flip, and green beans in",
+   "body": "At the 15-minute mark, flip the sweet potatoes. Green beans onto the upper rack. Roast both **12–15 min**, until the potatoes brown at the edges and the beans blister.",
+   "timerMin": 12
+  },
+  {
+   "title": "Brown the turkey",
+   "body": "Skillet over medium-high, **1 tsp neutral oil**. Press in **3 lb turkey** in a flat layer and leave it **5 min** to brown. Break it up and cook **4 min** more. Spoon off any pooled fat.",
+   "timerMin": 5
+  },
+  {
+   "title": "Glaze",
+   "body": "Add the **garlic, ginger and scallion whites** and stir 1 min. Add the **glaze** and the **edamame**. Simmer **3–4 min**, stirring, until the sauce reduces and clings to the turkey. Off heat: **1 Tbsp sesame seeds** and the scallion greens."
+  },
+  {
+   "title": "Build the bowls",
+   "body": "Pull both pans. Sweet potatoes on the bottom, turkey on top, green beans alongside, cucumbers drained and on the side."
+  }
+ ],
+ "after": [
+  "Pack 3 lunches: sweet potato, turkey and green beans. Cucumbers go in a separate small container."
+ ]
+}

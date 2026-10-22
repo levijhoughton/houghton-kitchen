@@ -1,0 +1,96 @@
+{
+ "name": "Beef Deshebrada Sopes",
+ "cuisine": "Mexican",
+ "subtitle": "Guajillo-braised shredded chuck on masa sopes, with refried pintos and calabacitas",
+ "servings": 7,
+ "servingUnit": "portions",
+ "yields": "4 dinners + 3 lunches",
+ "time": "~2¼ hr, ~60 hands-on",
+ "equipment": "Instant Pot, blender, large skillet, saucepan",
+ "macros": {
+  "basis": "per portion, 1 of 7, averaged with the sopes",
+  "kcal": 920,
+  "protein": 60,
+  "carbs": 70,
+  "fat": 45,
+  "fiber": 13,
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Dinner plates run higher in carbs (3 sopes each); lunches are meat, beans and calabacitas."
+ },
+ "before": [
+  "Start **~2¼ hr** before dinner.",
+  "Toast the chiles only until fragrant. Burnt chiles turn the whole sauce bitter."
+ ],
+ "notes": "Carne deshebrada is stewed in a guajillo-ancho chile sauce, then shredded and cooked down until the sauce clings. The chuck isn't seared first; that's typical for this dish. Sopes are thick masa cakes with a pinched rim, griddled and then crisped. They're traditionally fried in lard; here they get a light brush of oil on a dry skillet instead, which is less rich and a little less crisp. Everything except the shredding happens while the pot is under pressure.",
+ "ingredients": [
+  { "group": "Chile sauce", "items": ["6 dried guajillo chiles", "2 dried ancho chiles", "3 Roma tomatoes", "½ white onion", "5 cloves garlic", "1 cup beef or chicken broth", "1 Tbsp apple cider vinegar", "½ tsp ground cumin", "1 tsp Mexican oregano", "2 whole cloves (optional)"] },
+  { "group": "Beef", "items": ["3 lb beef chuck roast", "2 tsp kosher salt", "2 bay leaves"] },
+  { "group": "Sopes", "items": ["2½ cups masa harina", "1 tsp kosher salt", "2¼ cups warm water", "1 Tbsp neutral oil"] },
+  { "group": "Refried pintos", "items": ["3 × 15 oz cans pinto beans", "1 Tbsp neutral oil", "½ white onion, diced", "2 cloves garlic", "¾ cup water", "½ tsp kosher salt"] },
+  { "group": "Calabacitas", "items": ["1 Tbsp olive oil", "½ white onion, diced", "2 cloves garlic", "3 medium zucchini", "2 Roma tomatoes", "2 cups frozen corn", "½ tsp Mexican oregano", "½ tsp kosher salt"] },
+  { "group": "Toppings", "items": ["1 romaine heart, shredded", "½ white onion, finely diced", "1 bunch radishes, thinly sliced", "10 oz queso fresco, crumbled", "1 cup plain nonfat Greek yogurt + 2 Tbsp lime juice + pinch salt", "4 limes"] }
+ ],
+ "steps": [
+  {
+   "title": "Toast the chiles",
+   "body": "Stem and seed **6 guajillo + 2 ancho chiles** and tear them flat. In a dry skillet over medium, toast 20–30 seconds per side, just until fragrant and pliable."
+  },
+  {
+   "title": "Soften the sauce base",
+   "body": "Into the Instant Pot: the chiles, **3 Roma tomatoes** halved, **½ white onion** in chunks, **5 cloves garlic** and **1 cup broth**. Sauté High, simmer **8 min** until the chiles are soft.",
+   "timerMin": 8
+  },
+  {
+   "title": "Cut the beef",
+   "body": "While it simmers: cut **3 lb chuck** into 2-inch chunks, trimming off any thick pieces of fat. Toss with **2 tsp kosher salt**."
+  },
+  {
+   "title": "Blend",
+   "body": "Cancel Sauté. Carefully pour the pot into the blender with **1 Tbsp cider vinegar + ½ tsp cumin + 1 tsp Mexican oregano + 2 cloves**. Blend until smooth, with the lid vent cracked and a towel over it."
+  },
+  {
+   "title": "Pressure cook",
+   "body": "Beef into the pot, sauce poured over the top, **2 bay leaves** on top. Don't stir. Lid on, valve sealed. High pressure **50 min**, then natural release **15 min**. Everything below happens during this time.",
+   "timerMin": 50
+  },
+  {
+   "title": "Masa dough",
+   "body": "Mix **2½ cups masa harina + 1 tsp salt**, then work in **2¼ cups warm water** by hand until it feels like soft play dough and doesn't crack at the edges when pressed. Add water a spoonful at a time if it cracks. Cover and rest **10 min**.",
+   "timerMin": 10
+  },
+  {
+   "title": "Toppings",
+   "body": "Shred **1 romaine heart**. Finely dice **½ white onion**. Slice **1 bunch radishes**. Crumble **10 oz queso fresco**. Whisk **1 cup Greek yogurt + 2 Tbsp lime juice + a pinch of salt**. Cut the rest of the **limes** into wedges. Refrigerate."
+  },
+  {
+   "title": "Form the sopes",
+   "body": "Divide the dough into **12 balls**. Press each between two pieces of plastic (a cut zip-top bag works) with a pie plate or flat pan into a 3½-inch round about ¼-inch thick. Keep them covered."
+  },
+  {
+   "title": "Refried pintos",
+   "body": "Saucepan over medium: **1 Tbsp neutral oil**, then **½ onion** diced, **4 min**. Add **2 cloves garlic** minced for 30 seconds, then **3 cans pintos** (drained and rinsed), **¾ cup water** and **½ tsp salt**. Simmer **8 min**, mashing to a coarse purée. Cover, off heat.",
+   "timerMin": 8
+  },
+  {
+   "title": "Calabacitas",
+   "body": "Dice **3 zucchini** and **2 Romas** into ½-inch pieces. In the skillet over medium-high: **1 Tbsp olive oil**, **½ onion** diced, **3 min**; then **2 cloves garlic** minced, the zucchini, **2 cups frozen corn**, **½ tsp oregano** and **½ tsp salt**. Cook **6–8 min** until the zucchini browns in spots. Stir in the tomatoes for the last minute. Into a bowl; wipe the skillet.",
+   "timerMin": 7
+  },
+  {
+   "title": "Griddle the sopes",
+   "body": "Oven to 200°F to hold them. Dry skillet over medium-high. Cook the rounds **2 min** per side until spotted. While each is still hot, pinch up a ½-inch rim around the edge with your fingertips (use a towel; it's hot). Into the oven as you go."
+  },
+  {
+   "title": "Shred and reduce",
+   "body": "Once the pin drops, move the beef to a board and shred with two forks. Discard the bay leaves. Sauté High and boil the sauce hard **8–10 min**, stirring often, until it's thick and glossy. Beef back in, stir to coat, and taste for salt.",
+   "timerMin": 8
+  },
+  {
+   "title": "Crisp and build",
+   "body": "Brush the sope bottoms with **1 Tbsp neutral oil** total and crisp them flat-side down in the skillet **1–2 min**. Top each with beans, then beef, then lettuce, onion, radish, queso fresco and crema. Calabacitas and lime wedges on the side."
+  }
+ ],
+ "after": [
+  "Pack 3 lunches: beef, refried pintos and calabacitas.",
+  "Leftover sope shells keep 2 days in the fridge; re-crisp in a dry skillet."
+ ]
+}
