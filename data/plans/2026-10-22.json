@@ -45,6 +45,11 @@
  ],
  "todo": [
   {
+   "date": "2026-10-22",
+   "when": "Thu night",
+   "what": "Move **2½ lb chicken breast** from the freezer to the fridge for Friday's curry."
+  },
+  {
    "date": "2026-10-23",
    "when": "Fri, after shopping",
    "what": "Put the **2 lb ground turkey** straight into the freezer."
@@ -77,50 +82,8 @@
     "name": "Walmart pickup",
     "groups": [
      {
-      "name": "Meat",
-      "items": [
-       {
-        "name": "Boneless skinless chicken breast",
-        "qty": "2½ lb",
-        "for": [
-         "Fri"
-        ]
-       },
-       {
-        "name": "Top sirloin steak, 1¼-inch thick",
-        "qty": "1¼ lb",
-        "for": [
-         "Sat"
-        ]
-       },
-       {
-        "name": "Beef chuck roast",
-        "qty": "3 lb",
-        "for": [
-         "Sun"
-        ]
-       },
-       {
-        "name": "Ground turkey 93/7",
-        "qty": "2 lb",
-        "for": [
-         "Mon"
-        ],
-        "note": "Freeze on arrival."
-       }
-      ]
-     },
-     {
       "name": "Produce",
       "items": [
-       {
-        "name": "Baby potatoes",
-        "qty": "3 lb bag",
-        "for": [
-         "Fri",
-         "Sat"
-        ]
-       },
        {
         "name": "Carrots",
         "qty": "1 lb",
@@ -241,14 +204,6 @@
         "for": [
          "Sun"
         ]
-       },
-       {
-        "name": "Plain nonfat Greek yogurt",
-        "qty": "16 oz",
-        "for": [
-         "Sun"
-        ],
-        "note": "Need 1 cup. Skip if you have it."
        }
       ]
      },
@@ -287,26 +242,6 @@
       ]
      },
      {
-      "name": "Frozen",
-      "items": [
-       {
-        "name": "Frozen peas",
-        "qty": "12–16 oz",
-        "for": [
-         "Fri"
-        ]
-       },
-       {
-        "name": "Frozen corn",
-        "qty": "1 lb bag",
-        "for": [
-         "Sun"
-        ],
-        "note": "Need 2 cups."
-       }
-      ]
-     },
-     {
       "name": "Restock",
       "items": [
        {
@@ -330,6 +265,88 @@
       ]
      }
     ]
+   },
+   {
+    "name": "Costco",
+    "groups": [
+     {
+      "name": "Meat",
+      "items": [
+       {
+        "name": "Top sirloin steak, 1¼-inch thick",
+        "qty": "1¼ lb",
+        "for": [
+         "Sat"
+        ],
+        "note": "Need 1¼ lb; freeze the rest."
+       },
+       {
+        "name": "Beef chuck roast",
+        "qty": "3 lb",
+        "for": [
+         "Sun"
+        ],
+        "note": "Need 3 lb; freeze the rest."
+       },
+       {
+        "name": "Ground turkey 93/7",
+        "qty": "2 lb",
+        "for": [
+         "Mon"
+        ],
+        "note": "Need 2 lb. Freeze on arrival; freeze the rest."
+       }
+      ]
+     },
+     {
+      "name": "Produce",
+      "items": [
+       {
+        "name": "Baby potatoes",
+        "qty": "3 lb bag",
+        "for": [
+         "Fri",
+         "Sat"
+        ],
+        "note": "Need 3 lb."
+       }
+      ]
+     },
+     {
+      "name": "Dairy",
+      "items": [
+       {
+        "name": "Plain nonfat Greek yogurt",
+        "qty": "32 oz+",
+        "for": [
+         "Sun"
+        ],
+        "note": "Need 1 cup."
+       }
+      ]
+     },
+     {
+      "name": "Frozen",
+      "items": [
+       {
+        "name": "Frozen peas",
+        "qty": "1 bag",
+        "for": [
+         "Fri"
+        ],
+        "note": "Need 2 cups."
+       },
+       {
+        "name": "Frozen corn",
+        "qty": "1 bag",
+        "for": [
+         "Sun"
+        ],
+        "note": "Need 2 cups."
+       }
+      ]
+     }
+    ]
    }
   ],
   "pantry": [
@@ -340,10 +357,6 @@
    {
     "name": "Masa harina",
     "qty": "2½ cups"
-   },
-   {
-    "name": "Short-grain or calrose rice",
-    "qty": "3½ cups"
    },
    {
     "name": "Gochujang paste",
