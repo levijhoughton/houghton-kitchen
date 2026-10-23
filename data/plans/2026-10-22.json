@@ -219,15 +219,15 @@
         "note": "S&B Golden Curry. Uses about 1¼ boxes."
        },
        {
-        "name": "Dried guajillo chiles",
-        "qty": "6",
+        "name": "Dried California chiles",
+        "qty": "8",
         "for": [
          "Sun"
         ]
        },
        {
         "name": "Dried ancho chiles",
-        "qty": "2",
+        "qty": "3",
         "for": [
          "Sun"
         ]
@@ -384,7 +384,7 @@
    },
    {
     "name": "Apple cider vinegar",
-    "qty": "1 Tbsp"
+    "qty": "1½ Tbsp"
    },
    {
     "name": "Toasted sesame oil",
