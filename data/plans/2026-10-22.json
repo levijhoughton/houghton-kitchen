@@ -1,5 +1,5 @@
 {
- "label": "Oct 22–26",
+ "label": "Oct 22–27",
  "startDate": "2026-10-22",
  "nights": [
   {
@@ -13,18 +13,18 @@
   {
    "date": "2026-10-23",
    "day": "Fri",
-   "recipeId": "japanese-chicken-curry",
-   "title": "Japanese chicken curry",
-   "sizing": "2 + 3 lunches",
-   "leftovers": "3 lunches"
+   "recipeId": null,
+   "title": "Leftovers",
+   "sizing": "",
+   "leftovers": ""
   },
   {
    "date": "2026-10-24",
    "day": "Sat",
-   "recipeId": "sirloin-potatoes-broccoli",
-   "title": "Seared sirloin, potatoes & broccoli",
-   "sizing": "2 dinners",
-   "leftovers": "no leftovers"
+   "recipeId": "japanese-chicken-curry",
+   "title": "Japanese chicken curry",
+   "sizing": "2 + 3 lunches",
+   "leftovers": "3 lunches"
   },
   {
    "date": "2026-10-25",
@@ -37,6 +37,14 @@
   {
    "date": "2026-10-26",
    "day": "Mon",
+   "recipeId": "sirloin-potatoes-broccoli",
+   "title": "Seared sirloin, potatoes & broccoli",
+   "sizing": "2 dinners",
+   "leftovers": "no leftovers"
+  },
+  {
+   "date": "2026-10-27",
+   "day": "Tue",
    "recipeId": "gochujang-turkey-sweet-potato-bowls",
    "title": "Gochujang turkey & sweet potato bowls",
    "sizing": "2 + 3 lunches",
@@ -45,24 +53,14 @@
  ],
  "todo": [
   {
-   "date": "2026-10-22",
-   "when": "Thu night",
-   "what": "Move **2½ lb chicken breast** from the freezer to the fridge for Friday's curry."
-  },
-  {
    "date": "2026-10-23",
    "when": "Fri, after shopping",
-   "what": "Put the **2 lb ground turkey** straight into the freezer."
-  },
-  {
-   "date": "2026-10-23",
-   "when": "Fri evening",
-   "what": "Start the curry **~50 min** before dinner, rice first."
+   "what": "Put the **2 lb ground turkey** straight into the freezer. Sirloin and chuck go in the fridge."
   },
   {
    "date": "2026-10-24",
    "when": "Sat evening",
-   "what": "Start dinner **~45 min** ahead. Afterward, move the **2 lb ground turkey** from the freezer to the fridge for Monday."
+   "what": "Start the curry **~50 min** before dinner, rice first."
   },
   {
    "date": "2026-10-25",
@@ -70,8 +68,18 @@
    "what": "Start the deshebrada **~2¼ hr** before dinner."
   },
   {
+   "date": "2026-10-25",
+   "when": "Sun night",
+   "what": "Move the **2 lb ground turkey** from the freezer to the fridge for Tuesday."
+  },
+  {
    "date": "2026-10-26",
    "when": "Mon evening",
+   "what": "Start dinner **~45 min** ahead."
+  },
+  {
+   "date": "2026-10-27",
+   "when": "Tue evening",
    "what": "Start the bowls **~45 min** before dinner."
   }
  ],
@@ -88,14 +96,14 @@
         "name": "Baby carrots",
         "qty": "1 lb bag",
         "for": [
-         "Fri"
+         "Sat"
         ]
        },
        {
         "name": "Yellow onions",
         "qty": "2 large",
         "for": [
-         "Fri"
+         "Sat"
         ]
        },
        {
@@ -109,28 +117,28 @@
         "name": "Broccoli florets",
         "qty": "1 lb",
         "for": [
-         "Sat"
+         "Mon"
         ]
        },
        {
         "name": "Sweet potatoes",
         "qty": "2½ lb",
         "for": [
-         "Mon"
+         "Tue"
         ]
        },
        {
         "name": "Green beans, trimmed",
         "qty": "1 lb",
         "for": [
-         "Mon"
+         "Tue"
         ]
        },
        {
         "name": "English cucumbers",
         "qty": "2",
         "for": [
-         "Mon"
+         "Tue"
         ]
        },
        {
@@ -172,16 +180,16 @@
         "name": "Green onions",
         "qty": "1 bunch",
         "for": [
-         "Mon"
+         "Tue"
         ]
        },
        {
         "name": "Garlic",
         "qty": "2 heads",
         "for": [
-         "Fri",
+         "Sat",
          "Sun",
-         "Mon"
+         "Tue"
         ],
         "note": "About 16 cloves."
        },
@@ -189,8 +197,8 @@
         "name": "Fresh ginger",
         "qty": "3-inch knob",
         "for": [
-         "Fri",
-         "Mon"
+         "Sat",
+         "Tue"
         ]
        }
       ]
@@ -214,7 +222,7 @@
         "name": "Japanese curry roux blocks",
         "qty": "2 × 3.2 oz",
         "for": [
-         "Fri"
+         "Sat"
         ],
         "note": "S&B Golden Curry. Uses about 1¼ boxes."
        },
@@ -276,7 +284,7 @@
         "name": "Top sirloin steak, 1¼-inch thick",
         "qty": "1¼ lb",
         "for": [
-         "Sat"
+         "Mon"
         ],
         "note": "Need 1¼ lb; freeze the rest."
        },
@@ -292,7 +300,7 @@
         "name": "Ground turkey 93/7",
         "qty": "2 lb",
         "for": [
-         "Mon"
+         "Tue"
         ],
         "note": "Need 2 lb. Freeze on arrival; freeze the rest."
        }
@@ -305,8 +313,8 @@
         "name": "Baby potatoes",
         "qty": "3 lb bag",
         "for": [
-         "Fri",
-         "Sat"
+         "Sat",
+         "Mon"
         ],
         "note": "Need 3 lb."
        }
@@ -332,7 +340,7 @@
         "name": "Frozen peas",
         "qty": "1 bag",
         "for": [
-         "Fri"
+         "Sat"
         ],
         "note": "Need 2 cups."
        },
