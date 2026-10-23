@@ -234,6 +234,8 @@ button.night:hover{background:var(--sunk)}
 .mac span{font-size:11px;white-space:nowrap;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .mac.pro{background:var(--sage-soft);border-color:transparent}
 .mac.pro b,.mac.pro span,.mac.pro b small{color:var(--sage)}
+.portion{margin:0;font-size:15px;line-height:1.45;display:flex;flex-direction:column;gap:2px}
+.portion b{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .macnote{font-size:13.5px;color:var(--muted);margin:0;line-height:1.45}
 
 /* ---------- footer, toast ---------- */
@@ -336,6 +338,7 @@ button.night:hover{background:var(--sunk)}
 var $ = function(s,el){ return (el||document).querySelector(s); };
 var $$ = function(s,el){ return Array.prototype.slice.call((el||document).querySelectorAll(s)); };
 function esc(s){ return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];}); }
+function macLine(r){ var M=r&&r.macros; if(!M) return ""; return [M.kcal!=null?"~"+M.kcal+" kcal":"",M.protein!=null?M.protein+" g protein":""].filter(Boolean).join(", "); }
 function md(s){ return esc(s).replace(/\*\*(.+?)\*\*/g,'<span class="amt">$1</span>'); }
 function store(k,v){ try{ if(v===undefined){ return JSON.parse(localStorage.getItem("hk:"+k)||"null"); } if(v===null){ localStorage.removeItem("hk:"+k); } else { localStorage.setItem("hk:"+k,JSON.stringify(v)); } }catch(e){ return null; } }
 function iso(d){ return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0"); }
@@ -482,7 +485,7 @@ function renderWeek(){
   (p.nights||[]).forEach(function(n){
     var rec=n.recipeId&&S.recipes[n.recipeId], isT=n.date===t, past=n.date&&n.date<t, tag=rec?"button":"div";
     var right = n.status==="cooked" ? '<span class="chip done">Cooked</span>' : (isT?'<span class="chip today">Tonight</span>':(rec?'<span class="chev" aria-hidden="true">&rsaquo;</span>':''));
-    var sub=[n.sizing,n.leftovers,(rec&&rec.macros&&rec.macros.protein)?"~"+rec.macros.protein+" g protein":""].filter(Boolean).join(" · ");
+    var sub=[n.sizing,n.leftovers,macLine(rec)].filter(Boolean).join(" · ");
     h.push('<'+tag+' class="night'+(rec?'':' off')+(isT?' is-today':'')+(past&&!isT?' is-past':'')+'"'+(rec?' data-recipe="'+esc(n.recipeId)+'"':'')+'>'+
       '<div class="d"><b>'+esc(n.day||"")+'</b>'+esc(short(n.date))+'</div>'+
       '<div class="t"><div class="n">'+esc(n.title)+'</div>'+(sub?'<div class="s">'+esc(sub)+'</div>':'')+'</div>'+right+'</'+tag+'>');
@@ -607,7 +610,7 @@ function renderLibrary(){
       var r=S.recipes[id], lp=lastPlanned(id);
       var when = lp ? (lp===t?'Tonight':(lp>t?'Coming up '+esc(nice(lp)):'Last made '+esc(nice(lp)))) : '';
       return '<button class="rcard" data-recipe="'+esc(id)+'"><span class="stripe"></span><span class="c"><span class="n">'+esc(r.name)+'</span>'+
-        '<span class="s">'+esc([r.cuisine,r.time,(r.macros&&r.macros.protein)?"~"+r.macros.protein+" g protein":""].filter(Boolean).join(" · "))+'</span>'+
+        '<span class="s">'+esc([r.cuisine,r.time,macLine(r)].filter(Boolean).join(" · "))+'</span>'+
         (when?'<span class="when">'+when+'</span>':'')+'</span></button>';
     }).join("") : '<div class="empty">Nothing matches &ldquo;'+esc(libQ)+'&rdquo;.</div>';
     $$("[data-recipe]",$("#lib")).forEach(function(b){ b.onclick=function(){ go("recipe/"+b.dataset.recipe); }; });
@@ -642,6 +645,7 @@ function renderRecipe(r){
     var tile=function(cls,v,unit,lab){ return (v==null)?'':'<div class="mac '+cls+'"><b>'+esc(v)+(unit?'<small>'+unit+'</small>':'')+'</b><span>'+lab+'</span></div>'; };
     h.push('<section class="sec"><div class="sec-h"><h2>Rough macros</h2><span class="aside">'+esc(M.basis||"per portion")+'</span></div>'+
       '<div class="macros">'+tile("pro",M.protein,"g","Protein")+tile("",M.kcal,"","Calories")+tile("",M.carbs,"g","Carbs")+tile("",M.fat,"g","Fat")+tile("",M.fiber,"g","Fiber")+'</div>'+
+      (M.portion?'<p class="portion"><b>A portion</b>'+md(M.portion)+'</p>':'')+
       (M.note?'<p class="macnote">'+md(M.note)+'</p>':'')+'</section>');
   }
 

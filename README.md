@@ -11,7 +11,7 @@ It's a static site with no build step, served by GitHub Pages from `main`. Pushi
 - **Week:** tonight's dinner with a start-cooking button and a preview of tomorrow, dated reminders that light up the day before, the week's dinners (with protein per portion), and the freezer inventory. Arrows page through past weeks.
 - **Groceries:** each week's list by store and aisle, with a check-off per item, which dinners each item is for, a progress bar, and "Copy what's left" for pasting into a pickup order.
 - **Recipes:** search by name or ingredient, filter by cuisine, and see when each was last made.
-- **Recipe page:** rough macros per portion, a servings adjuster that rescales every amount (including amounts inside the steps), and checkable ingredients.
+- **Recipe page:** rough macros and calories per portion, what a portion looks like, a servings adjuster that rescales every amount (including amounts inside the steps), and checkable ingredients.
 - **Cook mode:** one step at a time in large type, with these features:
   - keeps the screen on where the browser allows it
   - swipe or arrow keys between steps
@@ -61,6 +61,7 @@ data/
   "time": "~65 min, ~30 hands-on",
   "equipment": "2 sheet pans, air fryer, thermometer",
   "macros": { "basis": "per portion, 1 of 5", "kcal": 800, "protein": 68, "carbs": 64, "fat": 30, "fiber": 10,
+              "portion": "About 5½ oz cooked chicken, 1¼ cups roasted potatoes…",
               "note": "Rough estimate from standard nutrition values…" },
   "before": ["Things to do or check first. **bold** = an amount."],
   "notes": "One short paragraph on technique.",
@@ -77,6 +78,7 @@ Writing rules:
 - Steps run in real cooking order. For stir-fries, prep everything first. For sheet-pan and simmer recipes, prep happens during the oven or simmer time.
 - `timerMin` adds a one-tap timer to that step.
 - `macros` are rough per-portion estimates; say so in `note`.
+- `macros.portion` says what one portion is, by eye (cups, ounces of cooked protein, pieces). When dinner plates and lunch containers differ, describe both.
 - Required fields: `name`, `ingredients`, `steps`. Everything else is optional.
 
 ## Plan schema

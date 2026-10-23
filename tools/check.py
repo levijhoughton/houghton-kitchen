@@ -54,6 +54,8 @@ for rid in ix.get("recipes", []):
     if m is None:
         warnings.append(f"{where}: no 'macros'")
     else:
+        if not isinstance(m.get("portion"), str) or not m["portion"].strip():
+            warnings.append(f"{where}: no 'macros.portion', so the page doesn't say what a portion is")
         for k in ("protein", "kcal", "carbs", "fat", "fiber"):
             if k in m and not isinstance(m[k], (int, float)):
                 errors.append(f"{where}: macros.{k} must be a number")
