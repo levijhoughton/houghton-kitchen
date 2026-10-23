@@ -2,7 +2,7 @@
  "name": "Greek Lemon-Oregano Chicken & Potatoes",
  "cuisine": "Greek",
  "subtitle": "With village salad (horiatiki) and tzatziki",
- "yields": "2 dinners + 3 lunches",
+ "yields": "2 dinners + 4 lunches",
  "time": "~65 min, ~30 hands-on",
  "equipment": "2 sheet pans, air fryer, thermometer, box grater, jar",
  "before": [
@@ -113,7 +113,7 @@
   },
   {
    "title": "Salad",
-   "body": "Shake in a jar: **2 Tbsp olive oil + 2 Tbsp red wine vinegar + 1 tsp oregano + ¼ tsp salt**. Cut **2 cucumbers, 9 oz tomatoes, ½ red onion, 1 green pepper, 6 oz feta**; add **⅓ cup kalamatas**. Dress ~2/5 with **2 Tbsp** dressing; the rest goes undressed into 3 lunch containers with the remaining dressing on the side."
+   "body": "Shake in a jar: **2 Tbsp olive oil + 2 Tbsp red wine vinegar + 1 tsp oregano + ¼ tsp salt**. Cut **2 cucumbers, 9 oz tomatoes, ½ red onion, 1 green pepper, 6 oz feta**; add **⅓ cup kalamatas**. Dress ~⅓ with **2 Tbsp** dressing; the rest goes undressed into 4 lunch containers with the remaining dressing on the side."
   },
   {
    "title": "Pull the potatoes",
@@ -121,18 +121,18 @@
   }
  ],
  "after": [
-  "Pack 3 lunches: chicken, potatoes and chickpeas, plus undressed salad, a dressing cup and ~3 Tbsp tzatziki each. Good through Monday."
+  "Pack 4 lunches: chicken, potatoes and chickpeas, plus undressed salad, a dressing cup and ~⅓ cup tzatziki each. Good through Monday."
  ],
- "servings": 5,
+ "servings": 6,
  "servingUnit": "portions",
  "macros": {
-  "basis": "per portion, 1 of 5",
-  "kcal": 800,
-  "protein": 68,
-  "carbs": 64,
-  "fat": 30,
-  "fiber": 10,
-  "portion": "About 5½ oz cooked chicken, 1¼ cups roasted potatoes, ⅓ cup chickpeas, ⅓ cup tzatziki and 1½ cups village salad.",
+  "basis": "per portion, 1 of 6",
+  "kcal": 665,
+  "protein": 57,
+  "carbs": 53,
+  "fat": 25,
+  "fiber": 8,
+  "portion": "About 4½ oz cooked chicken, 1 cup roasted potatoes, ¼ cup chickpeas, ⅓ cup tzatziki and 1½ cups village salad.",
   "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Includes salad, tzatziki and chickpeas; about a third of the calories come from olive oil and feta."
  }
 }

@@ -2,19 +2,19 @@
  "name": "Japanese Chicken Curry",
  "cuisine": "Japanese",
  "subtitle": "Chicken, potato, carrot and peas in curry-roux sauce, over rice",
- "servings": 5,
+ "servings": 7,
  "servingUnit": "portions",
- "yields": "2 dinners + 3 lunches",
+ "yields": "2 dinners + 5 lunches",
  "time": "~50 min, ~25 hands-on",
  "equipment": "Instant Pot, rice cooker or pot",
  "macros": {
-  "basis": "per portion, 1 of 5, with rice",
-  "kcal": 900,
-  "protein": 64,
-  "carbs": 120,
-  "fat": 16,
-  "fiber": 11,
-  "portion": "About 1 cup rice and 2 cups curry, which holds about 6 oz chicken.",
+  "basis": "per portion, 1 of 7, with rice",
+  "kcal": 645,
+  "protein": 46,
+  "carbs": 86,
+  "fat": 11,
+  "fiber": 8,
+  "portion": "About ¾ cup rice and 1½ cups curry, which holds about 4 oz chicken.",
   "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
  },
  "before": [
@@ -23,10 +23,42 @@
  ],
  "notes": "Japanese home-style curry (kare) built on store roux blocks, which is how it's made in most Japanese homes. The roux never goes in under pressure: it scorches and triggers a burn notice. Onions cooked to golden give the sauce its sweetness. Peas aren't in every version; they're here as the green vegetable.",
  "ingredients": [
-  { "group": "Rice", "items": ["2 cups short-grain or calrose rice", "2½ cups water"] },
-  { "group": "Chicken", "items": ["2½ lb chicken breast", "1 tsp kosher salt"] },
-  { "group": "Vegetables", "items": ["2 large yellow onions", "1 lb baby carrots", "1½ lb baby potatoes", "3 cloves garlic", "1 tsp fresh ginger, grated", "2 cups frozen peas"] },
-  { "group": "Pot", "items": ["1 Tbsp neutral oil", "3 cups water", "3½–4 oz Japanese curry roux blocks (about 1¼ boxes of 3.2 oz S&B)", "1 Tbsp ketchup", "1 Tbsp Worcestershire sauce", "1 tsp honey"] }
+  {
+   "group": "Rice",
+   "items": [
+    "2 cups short-grain or calrose rice",
+    "2½ cups water"
+   ]
+  },
+  {
+   "group": "Chicken",
+   "items": [
+    "2½ lb chicken breast",
+    "1 tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Vegetables",
+   "items": [
+    "2 large yellow onions",
+    "1 lb baby carrots",
+    "1½ lb baby potatoes",
+    "3 cloves garlic",
+    "1 tsp fresh ginger, grated",
+    "2 cups frozen peas"
+   ]
+  },
+  {
+   "group": "Pot",
+   "items": [
+    "1 Tbsp neutral oil",
+    "3 cups water",
+    "3½–4 oz Japanese curry roux blocks (about 1¼ boxes of 3.2 oz S&B)",
+    "1 Tbsp ketchup",
+    "1 Tbsp Worcestershire sauce",
+    "1 tsp honey"
+   ]
+  }
  ],
  "steps": [
   {
@@ -62,6 +94,6 @@
   }
  ],
  "after": [
-  "Pack 3 lunches: curry over rice. It thickens in the fridge, so add a splash of water before reheating."
+  "Pack 5 lunches: curry over rice. It thickens in the fridge, so add a splash of water before reheating."
  ]
 }

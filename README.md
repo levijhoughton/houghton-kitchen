@@ -78,6 +78,7 @@ Writing rules:
 - Steps run in real cooking order. For stir-fries, prep everything first. For sheet-pan and simmer recipes, prep happens during the oven or simmer time.
 - `timerMin` adds a one-tap timer to that step.
 - `macros` are rough per-portion estimates; say so in `note`.
+- Set `servings` so one portion is about 600–700 kcal with 40+ g protein. The portion is the same for dinner and lunch.
 - `macros.portion` says what one portion is, by eye (cups, ounces of cooked protein, pieces). When dinner plates and lunch containers differ, describe both.
 - Required fields: `name`, `ingredients`, `steps`. Everything else is optional.
 

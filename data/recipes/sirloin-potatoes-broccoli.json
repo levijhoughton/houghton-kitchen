@@ -2,19 +2,19 @@
  "name": "Seared Sirloin with Roasted Potatoes & Broccoli",
  "cuisine": "American",
  "subtitle": "One sheet pan of potatoes and broccoli, steak in a skillet",
- "servings": 2,
+ "servings": 3,
  "servingUnit": "portions",
- "yields": "2 dinners",
+ "yields": "2 dinners + 1 lunch",
  "time": "~45 min, ~15 hands-on",
  "equipment": "1 sheet pan, heavy skillet (cast iron if you have it), thermometer",
  "macros": {
-  "basis": "per portion, 1 of 2",
-  "kcal": 915,
-  "protein": 75,
-  "carbs": 75,
-  "fat": 34,
-  "fiber": 13,
-  "portion": "About 7½ oz cooked steak, 1¾ cups roasted potatoes and 1½ cups broccoli.",
+  "basis": "per portion, 1 of 3",
+  "kcal": 610,
+  "protein": 50,
+  "carbs": 50,
+  "fat": 23,
+  "fiber": 9,
+  "portion": "About 5 oz cooked steak, 1¼ cups roasted potatoes and 1 cup broccoli.",
   "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
  },
  "before": [
@@ -23,9 +23,33 @@
  ],
  "notes": "The broccoli joins the potatoes partway through so both finish together on one pan. Pull the steak at 125–130°F for medium-rare; it rises a few degrees while it rests. USDA's minimum for steak is 145°F with a 3-minute rest.",
  "ingredients": [
-  { "group": "Steak", "items": ["1¼ lb top sirloin, one 1¼-inch-thick steak", "1 tsp kosher salt", "½ tsp black pepper", "1 tsp neutral oil"] },
-  { "group": "Potatoes", "items": ["1½ lb baby potatoes", "1 Tbsp olive oil", "¾ tsp kosher salt", "¼ tsp black pepper", "1 tsp garlic powder"] },
-  { "group": "Broccoli", "items": ["1 lb broccoli florets", "2 tsp olive oil", "¼ tsp kosher salt"] }
+  {
+   "group": "Steak",
+   "items": [
+    "1¼ lb top sirloin, one 1¼-inch-thick steak",
+    "1 tsp kosher salt",
+    "½ tsp black pepper",
+    "1 tsp neutral oil"
+   ]
+  },
+  {
+   "group": "Potatoes",
+   "items": [
+    "1½ lb baby potatoes",
+    "1 Tbsp olive oil",
+    "¾ tsp kosher salt",
+    "¼ tsp black pepper",
+    "1 tsp garlic powder"
+   ]
+  },
+  {
+   "group": "Broccoli",
+   "items": [
+    "1 lb broccoli florets",
+    "2 tsp olive oil",
+    "¼ tsp kosher salt"
+   ]
+  }
  ],
  "steps": [
   {
@@ -56,5 +80,8 @@
    "body": "Rest the steak on the board **5 min**. Pull the sheet pan. Slice the steak thin against the grain and serve with the potatoes and broccoli.",
    "timerMin": 5
   }
+ ],
+ "after": [
+  "Pack 1 lunch: a third of the steak, potatoes and broccoli."
  ]
 }

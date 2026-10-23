@@ -2,23 +2,23 @@
  "name": "Beef Deshebrada Sopes",
  "cuisine": "Mexican",
  "subtitle": "Guajillo-braised shredded chuck on masa sopes, with refried pintos and calabacitas",
- "servings": 7,
+ "servings": 12,
  "servingUnit": "portions",
- "yields": "4 dinners + 3 lunches",
- "time": "~2¼ hr, ~60 hands-on",
- "equipment": "Instant Pot, blender, large skillet, saucepan, rice cooker or pot",
+ "yields": "4 dinners + 8 lunches",
+ "time": "~2½ hr, ~85 hands-on",
+ "equipment": "Instant Pot, blender, large skillet, saucepan",
  "macros": {
-  "basis": "per portion, 1 of 7, averaged with the sopes",
-  "kcal": 1060,
-  "protein": 63,
-  "carbs": 100,
-  "fat": 45,
-  "fiber": 13,
-  "portion": "Dinner plate: 3 sopes with about 4½ oz beef, ½ cup beans and toppings, plus ¾ cup calabacitas. Lunch container: about 1¼ cups rice, 4½ oz beef, ½ cup beans and ¾ cup calabacitas.",
-  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Averaged across all 7: dinner plates carry the sopes, lunch containers carry the rice."
+  "basis": "per portion, 1 of 12",
+  "kcal": 665,
+  "protein": 41,
+  "carbs": 68,
+  "fat": 26,
+  "fiber": 12,
+  "portion": "2 sopes topped with about 2½ oz beef, ⅓ cup beans and the toppings, plus ½ cup calabacitas.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
  },
  "before": [
-  "Start **~2¼ hr** before dinner.",
+  "Start **~2½ hr** before dinner.",
   "Toast the chiles only until fragrant. Burnt chiles turn the whole sauce bitter."
  ],
  "notes": "Carne deshebrada is stewed in a dried red chile sauce, here California and ancho chiles, then shredded and cooked down until the sauce clings. The chuck isn't seared first; that's typical for this dish. Sopes are thick masa cakes with a pinched rim, griddled and then crisped. They're traditionally fried in lard; here they get a light brush of oil on a dry skillet instead, which is less rich and a little less crisp. Everything except the shredding happens while the pot is under pressure.",
@@ -35,7 +35,8 @@
     "1½ Tbsp apple cider vinegar",
     "½ tsp ground cumin",
     "1 tsp Mexican oregano",
-    "2 whole cloves (optional)", "Pinch of cayenne or 1 chipotle (optional, for more heat)"
+    "2 whole cloves (optional)",
+    "Pinch of cayenne or 1 chipotle (optional, for more heat)"
    ]
   },
   {
@@ -49,10 +50,10 @@
   {
    "group": "Sopes",
    "items": [
-    "2½ cups masa harina",
-    "1 tsp kosher salt",
-    "2¼ cups warm water",
-    "1 Tbsp neutral oil"
+    "5 cups masa harina",
+    "2 tsp kosher salt",
+    "4½ cups warm water",
+    "2 Tbsp neutral oil"
    ]
   },
   {
@@ -64,13 +65,6 @@
     "2 cloves garlic",
     "¾ cup water",
     "½ tsp kosher salt"
-   ]
-  },
-  {
-   "group": "Rice",
-   "items": [
-    "1½ cups long-grain or calrose rice",
-    "2 cups water"
    ]
   },
   {
@@ -123,12 +117,8 @@
   },
   {
    "title": "Masa dough",
-   "body": "Mix **2½ cups masa harina + 1 tsp salt**, then work in **2¼ cups warm water** by hand until it feels like soft play dough and doesn't crack at the edges when pressed. Add water a spoonful at a time if it cracks. Cover and rest **10 min**.",
+   "body": "Mix **5 cups masa harina + 2 tsp salt**, then work in **4½ cups warm water** by hand until it feels like soft play dough and doesn't crack at the edges when pressed. Add water a spoonful at a time if it cracks. Cover and rest **10 min**.",
    "timerMin": 10
-  },
-  {
-   "title": "Start the rice",
-   "body": "Rinse **1½ cups rice** and cook with **2 cups water** in the rice cooker, or in a covered pot: boil, then lowest heat **15 min**, then rest **10 min** off heat. It's for the lunches; it can sit covered until you pack them."
   },
   {
    "title": "Toppings",
@@ -136,7 +126,7 @@
   },
   {
    "title": "Form the sopes",
-   "body": "Divide the dough into **12 balls**. Press each between two pieces of plastic (a cut zip-top bag works) with a pie plate or flat pan into a 3½-inch round about ¼-inch thick. Keep them covered."
+   "body": "Divide the dough into **24 balls**. Press each between two pieces of plastic (a cut zip-top bag works) with a pie plate or flat pan into a 3½-inch round about ¼-inch thick. Keep them covered."
   },
   {
    "title": "Refried pintos",
@@ -150,7 +140,7 @@
   },
   {
    "title": "Griddle the sopes",
-   "body": "Oven to 200°F to hold them. Dry skillet over medium-high. Cook the rounds **2 min** per side until spotted. While each is still hot, pinch up a ½-inch rim around the edge with your fingertips (use a towel; it's hot). Into the oven as you go."
+   "body": "Oven to 200°F to hold them. Dry skillet over medium-high. Cook the rounds in batches, **2 min** per side until spotted. While each is still hot, pinch up a ½-inch rim around the edge with your fingertips (use a towel; it's hot). Into the oven as you go."
   },
   {
    "title": "Shred and reduce",
@@ -159,11 +149,11 @@
   },
   {
    "title": "Crisp and build",
-   "body": "Brush the sope bottoms with **1 Tbsp neutral oil** total and crisp them flat-side down in the skillet **1–2 min**. Top each with beans, then beef, then lettuce, onion, radish, queso fresco and crema. Calabacitas and lime wedges on the side."
+   "body": "Brush the sope bottoms with **2 Tbsp neutral oil** total and crisp them flat-side down in the skillet **1–2 min**. Crisp only the ones you're eating tonight. Top each with beans, then beef, then lettuce, onion, radish, queso fresco and crema. Calabacitas and lime wedges on the side."
   }
  ],
  "after": [
-  "Pack 3 lunches: beef, refried pintos, calabacitas and rice.",
-  "Leftover sope shells keep 2 days in the fridge; re-crisp in a dry skillet."
+  "Pack 8 lunches: 2 sope shells, beef, refried pintos and calabacitas, with toppings in a separate small container. Re-crisp the shells in a dry skillet or air fryer **3–4 min**; microwaved, they turn soft and chewy.",
+  "Extra masa: each additional **1 cup masa harina + a scant 1 cup warm water** makes about 5 more shells. Griddle and pinch them like the rest, cool, then freeze flat with parchment between them. Re-crisp from frozen in a dry skillet."
  ]
 }

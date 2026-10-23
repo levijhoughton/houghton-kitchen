@@ -2,7 +2,7 @@
  "name": "Pork & Edamame Fried Rice",
  "cuisine": "Chinese-style",
  "subtitle": "Uses the banked pork shoulder and freezer vegetables",
- "yields": "Dinner for two, no leftovers",
+ "yields": "2 dinners + 2 lunches",
  "time": "~25 min once rice is cold",
  "equipment": "12-inch skillet",
  "before": [
@@ -90,18 +90,18 @@
   }
  ],
  "after": [
-  "Serve 2 portions; the bigger one goes to whoever has the higher protein target."
+  "Serve 2 portions and pack 2 lunches."
  ],
- "servings": 2,
+ "servings": 4,
  "servingUnit": "portions",
  "macros": {
-  "basis": "per portion, 1 of 2",
-  "kcal": 1140,
-  "protein": 77,
-  "carbs": 100,
-  "fat": 47,
-  "fiber": 11,
-  "portion": "Half the pan, about 4 cups fried rice with about 6 oz pork.",
-  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Assumes 12 oz pork shoulder. This is a big plate; the pork shoulder is this week's fattier protein."
+  "basis": "per portion, 1 of 4",
+  "kcal": 570,
+  "protein": 39,
+  "carbs": 50,
+  "fat": 24,
+  "fiber": 6,
+  "portion": "About 2 cups fried rice with about 3 oz pork.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Assumes 12 oz pork shoulder."
  }
 }

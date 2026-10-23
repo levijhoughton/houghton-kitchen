@@ -23,24 +23,24 @@
    "day": "Sat",
    "recipeId": "japanese-chicken-curry",
    "title": "Japanese chicken curry",
-   "sizing": "2 + 3 lunches",
-   "leftovers": "3 lunches"
+   "sizing": "2 + 5 lunches",
+   "leftovers": "5 lunches"
   },
   {
    "date": "2026-10-25",
    "day": "Sun",
    "recipeId": "beef-deshebrada-sopes",
    "title": "Beef deshebrada sopes",
-   "sizing": "4 + 3 lunches",
-   "leftovers": "3 lunches"
+   "sizing": "4 + 8 lunches",
+   "leftovers": "8 lunches"
   },
   {
    "date": "2026-10-26",
    "day": "Mon",
    "recipeId": "sirloin-potatoes-broccoli",
    "title": "Seared sirloin, potatoes & broccoli",
-   "sizing": "2 dinners",
-   "leftovers": "no leftovers"
+   "sizing": "2 + 1 lunch",
+   "leftovers": "1 lunch"
   },
   {
    "date": "2026-10-27",
@@ -344,7 +344,7 @@
    },
    {
     "name": "Masa harina",
-    "qty": "2½ cups"
+    "qty": "5 cups"
    },
    {
     "name": "Gochujang paste",
