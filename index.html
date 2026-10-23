@@ -119,12 +119,6 @@ h2{font-family:var(--body);font-size:13px;font-weight:700;letter-spacing:.12em;t
 .tip .iconbtn{background:transparent;border-color:color-mix(in srgb,var(--butter-ink) 30%,transparent);color:var(--butter-ink)}
 
 /* ---------- reminders ---------- */
-.rem{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
-.rem li{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;align-items:baseline;padding:12px 14px;background:var(--paper);border:1px solid var(--rule-soft);border-radius:12px}
-.rem .w{font-family:var(--mono);font-size:13px;font-weight:700;color:var(--sage);white-space:nowrap}
-.rem li.now{border-color:var(--tomato);background:var(--tomato-soft)}
-.rem li.now .w{color:var(--tomato)}
-.rem li.past{opacity:.55}
 
 /* ---------- nights ---------- */
 .nights{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--rule-soft);border-radius:14px;overflow:hidden}
@@ -138,6 +132,12 @@ button.night:hover{background:var(--sunk)}
 .night .n{font-weight:700;line-height:1.3}
 .night .s{font-size:14px;color:var(--muted);line-height:1.35;margin-top:2px}
 .night.off .n{font-weight:400;color:var(--muted)}
+.night .mac-l{color:var(--sage);font-weight:700}
+.night .por{font-size:13.5px}
+.nrem{margin-top:6px;font-size:13.5px;line-height:1.4;padding:6px 9px;border-radius:8px;background:var(--sage-soft)}
+.nrem b{font-family:var(--mono);font-size:12px;color:var(--sage)}
+.nrem.now{background:var(--tomato-soft)}.nrem.now b{color:var(--tomato)}
+.nrem.past{opacity:.55}
 .night.is-today{box-shadow:inset 4px 0 0 var(--tomato)}
 .night.is-past .n,.night.is-past .d b{color:var(--muted)}
 .chip{font-family:var(--mono);font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:3px 7px;border-radius:6px;white-space:nowrap}
@@ -145,13 +145,6 @@ button.night:hover{background:var(--sunk)}
 .chip.done{background:var(--sage-soft);color:var(--sage)}
 .chev{color:var(--faint);font-size:22px;line-height:1}
 
-/* ---------- freezer ---------- */
-.freezer{display:grid;gap:8px}
-.fz{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:12px 14px;border-radius:12px;background:var(--paper);border:1px dashed var(--rule)}
-.fz .n{font-weight:700}
-.fz .a{font-family:var(--mono);font-size:13px;color:var(--sage);font-weight:700;text-align:right}
-.fz .note{grid-column:1/-1;font-size:14px;color:var(--muted)}
-.fz.soon{opacity:.7}
 
 /* ---------- groceries ---------- */
 .gstore{display:flex;flex-direction:column;gap:6px}
@@ -309,7 +302,7 @@ button.night:hover{background:var(--sunk)}
   .brand span{font-size:19px}
   .ctitle{font-size:calc(26px * var(--scale))}.ctext{font-size:calc(21px * var(--scale))}
   .night{grid-template-columns:54px 1fr auto}
-  .rem li{grid-template-columns:1fr}
+
   .macros{gap:4px}.mac{padding:9px 2px}.mac b{font-size:16px}.mac span{font-size:9.5px;letter-spacing:.04em}
 }
 </style>
@@ -468,40 +461,27 @@ function renderWeek(){
     h.push('<div class="tip"><span>Keep this handy: '+(ios?'tap <b>Share</b>, then <b>Add to Home Screen</b>':'use your browser menu to <b>Add to Home screen</b> or <b>Install</b>')+'. It opens like an app and works offline.</span><button class="iconbtn" id="tipx" aria-label="Dismiss">&times;</button></div>');
   }
 
-  var todo=(p.todo||[]);
-  if(todo.length){
-    h.push('<section class="sec"><div class="sec-h"><h2>Heads up</h2></div><ul class="rem">');
-    todo.forEach(function(x){
-      var cls="", w=esc(x.when||""), rest=esc((x.when||"").replace(/^(Mon|Tue|Wed|Thu|Fri|Sat|Sun)\w*\s*/,""));
-      if(x.date===t){ cls="now"; w="Today"+(rest?" · "+rest:""); }
-      else if(x.date===tm){ cls="now"; w="Tomorrow"+(rest?" · "+rest:""); }
-      else if(x.date && x.date<t){ cls="past"; }
-      h.push('<li class="'+cls+'"><span class="w">'+w+'</span><span>'+md(x.what)+'</span></li>');
-    });
-    h.push('</ul></section>');
-  }
-
   h.push('<section class="sec"><div class="sec-h"><h2>Dinners</h2>'+(p.grocery?'<a class="aside" href="#groceries">Grocery list &rsaquo;</a>':'')+'</div><div class="nights">');
   (p.nights||[]).forEach(function(n){
     var rec=n.recipeId&&S.recipes[n.recipeId], isT=n.date===t, past=n.date&&n.date<t, tag=rec?"button":"div";
     var right = n.status==="cooked" ? '<span class="chip done">Cooked</span>' : (isT?'<span class="chip today">Tonight</span>':(rec?'<span class="chev" aria-hidden="true">&rsaquo;</span>':''));
-    var sub=[n.sizing,n.leftovers,macLine(rec)].filter(Boolean).join(" · ");
+    var size=n.sizing||""; if(n.leftovers && !/lunch|leftover/i.test(size)) size=[size,n.leftovers].filter(Boolean).join(" · ");
+    var sub=[size,rec&&rec.time].filter(Boolean).join(" · ");
+    var mac=macLine(rec), por=rec&&rec.macros&&rec.macros.portion;
+    var rems=(p.todo||[]).filter(function(x){ return x.date===n.date; }).map(function(x){
+      var cls=(x.date===t||x.date===tm)?" now":(x.date<t?" past":"");
+      return '<div class="nrem'+cls+'"><b>'+esc(x.when||"")+'</b> '+md(x.what)+'</div>'; }).join("");
     h.push('<'+tag+' class="night'+(rec?'':' off')+(isT?' is-today':'')+(past&&!isT?' is-past':'')+'"'+(rec?' data-recipe="'+esc(n.recipeId)+'"':'')+'>'+
       '<div class="d"><b>'+esc(n.day||"")+'</b>'+esc(short(n.date))+'</div>'+
-      '<div class="t"><div class="n">'+esc(n.title)+'</div>'+(sub?'<div class="s">'+esc(sub)+'</div>':'')+'</div>'+right+'</'+tag+'>');
+      '<div class="t"><div class="n">'+esc(n.title)+'</div>'+(sub?'<div class="s">'+esc(sub)+'</div>':'')+
+      (mac?'<div class="s mac-l">'+esc(mac)+' per portion</div>':'')+
+      (por?'<div class="s por">'+md(por)+'</div>':'')+rems+'</div>'+right+'</'+tag+'>');
   });
   h.push('</div></section>');
+  var nd=(p.nights||[]).map(function(n){return n.date;});
+  (p.todo||[]).filter(function(x){ return nd.indexOf(x.date)<0; }).forEach(function(x){ h.push('<div class="before"><b>'+esc(x.when||"")+'</b> '+md(x.what)+'</div>'); });
   (p.notes||[]).forEach(function(x){ h.push('<div class="before">'+md(x)+'</div>'); });
 
-  if(S.freezer && (S.freezer.items||[]).length){
-    h.push('<section class="sec"><div class="sec-h"><h2>In the freezer</h2>'+(S.freezer.updated?'<span class="aside">as of '+esc(nice(S.freezer.updated))+'</span>':'')+'</div><div class="freezer">');
-    S.freezer.items.forEach(function(f){
-      var soon=f.added && f.added>t;
-      h.push('<div class="fz'+(soon?' soon':'')+'"><span class="n">'+esc(f.name)+'</span><span class="a">'+esc(f.amount||"")+'</span>'+
-        ((f.note||soon)?'<span class="note">'+(soon?'Goes in '+esc(nice(f.added))+'. ':'')+esc(f.note||"")+'</span>':'')+'</div>');
-    });
-    h.push('</div></section>');
-  }
   h.push(footer());
   view.innerHTML=h.join("");
   bindWeekNav(p);
@@ -803,7 +783,7 @@ function load(){
     return Promise.all([
       Promise.all((ix.recipes||[]).map(function(id){ return getJSON("data/recipes/"+id+".json",true).then(function(x){ return x?Object.assign({},x,{id:id}):null; }); })),
       Promise.all((ix.plans||[]).map(function(id){ return getJSON("data/plans/"+id+".json",true).then(function(x){ return x?Object.assign({},x,{id:id}):null; }); })),
-      ix.freezer?getJSON("data/freezer.json",true):Promise.resolve(null),
+      Promise.resolve(null),
       ix,
       ix.restock?getJSON("data/restock.json",true):Promise.resolve(null)
     ]);

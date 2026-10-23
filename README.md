@@ -1,6 +1,6 @@
 # Houghton Kitchen
 
-Weekly dinner plan, grocery list, freezer inventory and recipe box for Levi and Chloe, with a hands-free cook mode.
+Weekly dinner plan, grocery list and recipe box for Levi and Chloe, with a hands-free cook mode.
 
 **Live:** https://levijhoughton.github.io/houghton-kitchen/
 
@@ -8,7 +8,7 @@ It's a static site with no build step, served by GitHub Pages from `main`. Pushi
 
 ## What's in the app
 
-- **Week:** tonight's dinner with a start-cooking button and a preview of tomorrow, dated reminders that light up the day before, the week's dinners (with protein per portion), and the freezer inventory. Arrows page through past weeks.
+- **Week:** tonight's dinner with a start-cooking button and a preview of tomorrow, and the week's dinners, each with its cook time, calories and protein per portion, what a portion is, and any dated reminder (thawing) for that night. Arrows page through past weeks.
 - **Groceries:** each week's list by store and aisle, with a check-off per item, which dinners each item is for, a progress bar, and "Copy what's left" for pasting into a pickup order.
 - **Recipes:** search by name or ingredient, filter by cuisine, and see when each was last made.
 - **Recipe page:** rough macros and calories per portion, what a portion looks like, a servings adjuster that rescales every amount (including amounts inside the steps), and checkable ingredients.
@@ -34,7 +34,7 @@ data/
   index.json          lists every recipe id and plan id; nothing unlisted shows up
   recipes/<id>.json   one file per recipe
   plans/<id>.json     one file per week, id = the week's first date (YYYY-MM-DD)
-  freezer.json        current freezer inventory
+  freezer.json        freezer inventory (planning record; not shown on the site)
   restock.json        running list of pantry items to pick up on the next shop
 ```
 
@@ -104,7 +104,7 @@ Writing rules:
 }
 ```
 
-A `todo` with a `date` is flagged on that day and the day before.
+A `todo` shows on the night with the same `date` and is highlighted that day and the day before. Use it for thawing and freezer moves only; cook time comes from the recipe's `time`.
 
 ## Restock schema
 
