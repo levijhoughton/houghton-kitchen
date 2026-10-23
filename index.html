@@ -133,7 +133,6 @@ button.night:hover{background:var(--sunk)}
 .night .s{font-size:14px;color:var(--muted);line-height:1.35;margin-top:2px}
 .night.off .n{font-weight:400;color:var(--muted)}
 .night .mac-l{color:var(--sage);font-weight:700}
-.night .por{font-size:13.5px}
 .nrem{margin-top:6px;font-size:13.5px;line-height:1.4;padding:6px 9px;border-radius:8px;background:var(--sage-soft)}
 .nrem b{font-family:var(--mono);font-size:12px;color:var(--sage)}
 .nrem.now{background:var(--tomato-soft)}.nrem.now b{color:var(--tomato)}
@@ -467,7 +466,7 @@ function renderWeek(){
     var right = n.status==="cooked" ? '<span class="chip done">Cooked</span>' : (isT?'<span class="chip today">Tonight</span>':(rec?'<span class="chev" aria-hidden="true">&rsaquo;</span>':''));
     var size=n.sizing||""; if(n.leftovers && !/lunch|leftover/i.test(size)) size=[size,n.leftovers].filter(Boolean).join(" · ");
     var sub=[size,rec&&rec.time].filter(Boolean).join(" · ");
-    var mac=macLine(rec), por=rec&&rec.macros&&rec.macros.portion;
+    var mac=macLine(rec);
     var rems=(p.todo||[]).filter(function(x){ return x.date===n.date; }).map(function(x){
       var cls=(x.date===t||x.date===tm)?" now":(x.date<t?" past":"");
       return '<div class="nrem'+cls+'"><b>'+esc(x.when||"")+'</b> '+md(x.what)+'</div>'; }).join("");
@@ -475,7 +474,7 @@ function renderWeek(){
       '<div class="d"><b>'+esc(n.day||"")+'</b>'+esc(short(n.date))+'</div>'+
       '<div class="t"><div class="n">'+esc(n.title)+'</div>'+(sub?'<div class="s">'+esc(sub)+'</div>':'')+
       (mac?'<div class="s mac-l">'+esc(mac)+' per portion</div>':'')+
-      (por?'<div class="s por">'+md(por)+'</div>':'')+rems+'</div>'+right+'</'+tag+'>');
+rems+'</div>'+right+'</'+tag+'>');
   });
   h.push('</div></section>');
   var nd=(p.nights||[]).map(function(n){return n.date;});
