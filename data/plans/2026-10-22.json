@@ -45,18 +45,18 @@
   {
    "date": "2026-10-27",
    "day": "Tue",
-   "recipeId": "gochujang-turkey-sweet-potato-bowls",
-   "title": "Gochujang turkey & sweet potato bowls",
-   "sizing": "2 + 3 lunches",
-   "leftovers": "3 lunches"
-  },
-  {
-   "date": "2026-10-28",
-   "day": "Wed",
    "recipeId": "sirloin-potatoes-broccoli",
    "title": "Seared sirloin, potatoes & broccoli",
    "sizing": "2 + 1 lunch",
    "leftovers": "1 lunch"
+  },
+  {
+   "date": "2026-10-28",
+   "day": "Wed",
+   "recipeId": "gochujang-turkey-sweet-potato-bowls",
+   "title": "Gochujang turkey & sweet potato bowls",
+   "sizing": "2 + 3 lunches",
+   "leftovers": "3 lunches"
   }
  ],
  "todo": [
@@ -66,9 +66,14 @@
    "what": "Put the **2 lb ground turkey** straight into the freezer. Sirloin and chuck go in the fridge."
   },
   {
-   "date": "2026-10-25",
-   "when": "Sun night",
-   "what": "Move the **2 lb ground turkey** from the freezer to the fridge for Tuesday."
+   "date": "2026-10-26",
+   "when": "Mon night",
+   "what": "Move the **1¼ lb sirloin** from the freezer to the fridge for Tuesday."
+  },
+  {
+   "date": "2026-10-27",
+   "when": "Tue night",
+   "what": "Move the **2 lb ground turkey** from the freezer to the fridge for Wednesday."
   }
  ],
  "notes": [],
@@ -105,28 +110,28 @@
         "name": "Broccoli florets",
         "qty": "1 lb",
         "for": [
-         "Wed"
+         "Tue"
         ]
        },
        {
         "name": "Sweet potatoes",
         "qty": "2½ lb",
         "for": [
-         "Tue"
+         "Wed"
         ]
        },
        {
         "name": "Green beans, trimmed",
         "qty": "1 lb",
         "for": [
-         "Tue"
+         "Wed"
         ]
        },
        {
         "name": "English cucumbers",
         "qty": "2",
         "for": [
-         "Tue"
+         "Wed"
         ]
        },
        {
@@ -168,7 +173,7 @@
         "name": "Green onions",
         "qty": "1 bunch",
         "for": [
-         "Tue"
+         "Wed"
         ]
        },
        {
@@ -177,7 +182,7 @@
         "for": [
          "Mon",
          "Sun",
-         "Tue"
+         "Wed"
         ],
         "note": "About 16 cloves."
        },
@@ -186,7 +191,7 @@
         "qty": "3-inch knob",
         "for": [
          "Mon",
-         "Tue"
+         "Wed"
         ]
        }
       ]
@@ -249,7 +254,7 @@
         "name": "Top sirloin steak, 1¼-inch thick",
         "qty": "1¼ lb",
         "for": [
-         "Wed"
+         "Tue"
         ],
         "note": "Need 1¼ lb; freeze the rest."
        },
@@ -265,7 +270,7 @@
         "name": "Ground turkey 93/7",
         "qty": "2 lb",
         "for": [
-         "Tue"
+         "Wed"
         ],
         "note": "Need 2 lb. Freeze on arrival; freeze the rest."
        }
@@ -279,7 +284,7 @@
         "qty": "3 lb bag",
         "for": [
          "Mon",
-         "Wed"
+         "Tue"
         ],
         "note": "Need 3 lb."
        }
