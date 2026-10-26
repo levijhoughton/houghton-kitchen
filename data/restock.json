@@ -1,4 +1,10 @@
 {
- "updated": "2026-10-22",
- "items": []
+ "updated": "2026-10-26",
+ "items": [
+  {
+   "name": "Laundry detergent",
+   "qty": "1 jug",
+   "store": "Costco"
+  }
+ ]
 }
