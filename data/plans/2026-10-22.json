@@ -1,5 +1,5 @@
 {
- "label": "Oct 22–27",
+ "label": "Oct 22–28",
  "startDate": "2026-10-22",
  "nights": [
   {
@@ -21,10 +21,10 @@
   {
    "date": "2026-10-24",
    "day": "Sat",
-   "recipeId": "japanese-chicken-curry",
-   "title": "Japanese chicken curry",
-   "sizing": "2 + 5 lunches",
-   "leftovers": "5 lunches"
+   "recipeId": null,
+   "title": "No dinner planned",
+   "sizing": "",
+   "leftovers": ""
   },
   {
    "date": "2026-10-25",
@@ -37,10 +37,10 @@
   {
    "date": "2026-10-26",
    "day": "Mon",
-   "recipeId": "sirloin-potatoes-broccoli",
-   "title": "Seared sirloin, potatoes & broccoli",
-   "sizing": "2 + 1 lunch",
-   "leftovers": "1 lunch"
+   "recipeId": "japanese-chicken-curry",
+   "title": "Japanese chicken curry",
+   "sizing": "2 + 5 lunches",
+   "leftovers": "5 lunches"
   },
   {
    "date": "2026-10-27",
@@ -49,6 +49,14 @@
    "title": "Gochujang turkey & sweet potato bowls",
    "sizing": "2 + 3 lunches",
    "leftovers": "3 lunches"
+  },
+  {
+   "date": "2026-10-28",
+   "day": "Wed",
+   "recipeId": "sirloin-potatoes-broccoli",
+   "title": "Seared sirloin, potatoes & broccoli",
+   "sizing": "2 + 1 lunch",
+   "leftovers": "1 lunch"
   }
  ],
  "todo": [
@@ -76,14 +84,14 @@
         "name": "Baby carrots",
         "qty": "1 lb bag",
         "for": [
-         "Sat"
+         "Mon"
         ]
        },
        {
         "name": "Yellow onions",
         "qty": "2 large",
         "for": [
-         "Sat"
+         "Mon"
         ]
        },
        {
@@ -97,7 +105,7 @@
         "name": "Broccoli florets",
         "qty": "1 lb",
         "for": [
-         "Mon"
+         "Wed"
         ]
        },
        {
@@ -167,7 +175,7 @@
         "name": "Garlic",
         "qty": "2 heads",
         "for": [
-         "Sat",
+         "Mon",
          "Sun",
          "Tue"
         ],
@@ -177,7 +185,7 @@
         "name": "Fresh ginger",
         "qty": "3-inch knob",
         "for": [
-         "Sat",
+         "Mon",
          "Tue"
         ]
        }
@@ -202,7 +210,7 @@
         "name": "Japanese curry roux blocks",
         "qty": "2 × 3.2 oz",
         "for": [
-         "Sat"
+         "Mon"
         ],
         "note": "S&B Golden Curry. Uses about 1¼ boxes."
        },
@@ -228,29 +236,6 @@
         ]
        }
       ]
-     },
-     {
-      "name": "Restock",
-      "items": [
-       {
-        "name": "Chili powder",
-        "qty": "large jar (5 oz+)",
-        "for": []
-       },
-       {
-        "name": "Dried oregano",
-        "qty": "1 jar",
-        "for": [
-         "Sun"
-        ],
-        "note": "Mexican oregano if they have it."
-       },
-       {
-        "name": "Italian seasoning",
-        "qty": "1 jar",
-        "for": []
-       }
-      ]
      }
     ]
    },
@@ -264,7 +249,7 @@
         "name": "Top sirloin steak, 1¼-inch thick",
         "qty": "1¼ lb",
         "for": [
-         "Mon"
+         "Wed"
         ],
         "note": "Need 1¼ lb; freeze the rest."
        },
@@ -293,8 +278,8 @@
         "name": "Baby potatoes",
         "qty": "3 lb bag",
         "for": [
-         "Sat",
-         "Mon"
+         "Mon",
+         "Wed"
         ],
         "note": "Need 3 lb."
        }
@@ -320,7 +305,7 @@
         "name": "Frozen peas",
         "qty": "1 bag",
         "for": [
-         "Sat"
+         "Mon"
         ],
         "note": "Need 2 cups."
        },
