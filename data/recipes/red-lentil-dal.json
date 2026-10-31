@@ -9,10 +9,10 @@
  "equipment": "Instant Pot, 12-inch skillet (nonstick or cast iron), rolling pin",
  "macros": {
   "basis": "per portion, 1 of 4",
-  "kcal": 830,
+  "kcal": 850,
   "protein": 52,
   "carbs": 130,
-  "fat": 10,
+  "fat": 11,
   "fiber": 18,
   "portion": "About 1¾ cups dal, 2 flatbreads and ½ cup cumin yogurt.",
   "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. One flatbread instead of two takes off about 90 kcal."
@@ -20,15 +20,16 @@
  "before": [
   "Start **~60 min** before dinner. The flatbreads get rolled and cooked while the Instant Pot is under pressure."
  ],
- "notes": "The tadka at the end is what makes dal taste like a restaurant's: whole spices and garlic fried in ghee and poured over at the last second, while they're still sizzling. Mustard seeds should pop before the cumin goes in. Pour the tomatoes on top and don't stir them in before pressure cooking: tomatoes on the bottom scorch and set off the burn warning. Dal thickens as it sits, so loosen leftovers with a splash of water when reheating. The flatbread dough is just flour, Greek yogurt and baking powder. It starts sticky, so flour your hands and the counter; a 10-minute rest makes it much easier to roll.",
+ "notes": "The tadka at the end is what makes dal taste like a restaurant's: whole spices and garlic fried in ghee and poured over at the last second, while they're still sizzling. Mustard seeds should pop before the cumin goes in. Pour the tomatoes on top and don't stir them in before pressure cooking: tomatoes on the bottom scorch and set off the burn warning. Dal thickens as it sits, so loosen leftovers with a splash of water when reheating. The flatbread dough is just flour, Greek yogurt and baking powder. It starts sticky, so flour your hands and the counter; a 10-minute rest makes it much easier to roll. Bread flour makes a chewier flatbread than all-purpose; if the dough springs back when rolled, give it 5 more minutes.",
  "ingredients": [
   {
    "group": "Flatbreads",
    "items": [
-    "1¼ cups all-purpose flour, plus more for rolling",
+    "1¼ cups bread or all-purpose flour, plus more for rolling",
     "2 tsp baking powder",
     "½ tsp salt",
-    "1¼ cups plain nonfat Greek yogurt"
+    "1¼ cups plain nonfat Greek yogurt",
+    "2 tsp olive oil"
    ]
   },
   {
@@ -84,7 +85,7 @@
  "steps": [
   {
    "title": "Flatbread dough",
-   "body": "In a bowl, whisk **1¼ cups flour + 2 tsp baking powder + ½ tsp salt**. Stir in **1¼ cups Greek yogurt** until shaggy, then knead in the bowl about 1 min with floured hands until it holds together. Cover and let it rest while you do the rest of the prep."
+   "body": "In a bowl, whisk **1¼ cups flour + 2 tsp baking powder + ½ tsp salt**. Stir in **1¼ cups Greek yogurt + 2 tsp olive oil** until shaggy, then knead in the bowl about 1 min with floured hands until it holds together. Cover and let it rest at least 10 min while you do the rest of the prep."
   },
   {
    "title": "Prep",
@@ -105,7 +106,7 @@
   },
   {
    "title": "Flatbreads, yogurt and tadka setup",
-   "body": "During the pressure time: cut the dough into **8** pieces. On a floured counter, roll each to about 6 inches across and ⅛ inch thick. Heat the dry skillet over medium-high and cook each flatbread **1–2 min** per side until puffed and spotted brown. Stack them under a towel. Stir **2 cups Greek yogurt + ½ tsp ground cumin + ¼ tsp salt**. Wipe the flour out of the skillet and set out **1½ Tbsp ghee**, **½ tsp mustard seeds + 1 tsp cumin seeds**, the sliced garlic, **2 dried chiles** and **½ tsp Kashmiri chili powder** beside it.",
+   "body": "During the pressure time: cut the dough into **8** pieces. On a floured counter, roll each to about 6 inches across and ⅛ inch thick. Heat the dry skillet over medium-high and cook each flatbread **2–3 min** per side until puffed, spotted brown and no longer squishy in the middle. Stack them under a towel. Stir **2 cups Greek yogurt + ½ tsp ground cumin + ¼ tsp salt**. Wipe the flour out of the skillet and set out **1½ Tbsp ghee**, **½ tsp mustard seeds + 1 tsp cumin seeds**, the sliced garlic, **2 dried chiles** and **½ tsp Kashmiri chili powder** beside it.",
    "timerMin": 10
   },
   {

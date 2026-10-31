@@ -413,8 +413,9 @@
     "qty": "½ cup packed + 1½ Tbsp"
    },
    {
-    "name": "All-purpose flour",
-    "qty": "2¼ cups"
+    "name": "Flour (bread or all-purpose)",
+    "qty": "2¼ cups",
+    "note": "Bread flour has no leavening; the recipes add baking powder."
    },
    {
     "name": "Old-fashioned rolled oats",
