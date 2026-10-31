@@ -1,0 +1,118 @@
+{
+ "name": "Beef and Broccoli",
+ "cuisine": "Chinese-American",
+ "subtitle": "Velveted sirloin in oyster sauce, with lots of broccoli over rice",
+ "servings": 4,
+ "servingUnit": "portions",
+ "yields": "2 dinners + 2 lunches",
+ "time": "~45 min, ~35 hands-on",
+ "equipment": "12-inch skillet or wok with a lid, rice cooker",
+ "macros": {
+  "basis": "per portion, 1 of 4",
+  "kcal": 610,
+  "protein": 50,
+  "carbs": 56,
+  "fat": 21,
+  "fiber": 5,
+  "portion": "About 5 oz cooked beef, 2 cups broccoli and ¾ cup rice.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Protein depends on the sirloin weight."
+ },
+ "before": [
+  "Sirloin thawed in the fridge (allow 1–2 days). Slightly firm in the middle is ideal: it slices thinner.",
+  "Start the rice first."
+ ],
+ "notes": "The baking soda is the Chinese restaurant trick (velveting): it raises the pH at the meat's surface so the beef stays tender instead of tightening up in a hot pan. Keep the marinade to a light coating; a wet marinade pools and the beef boils instead of searing. Sear in two batches in a very hot pan for the same reason.",
+ "ingredients": [
+  {
+   "group": "Rice",
+   "items": [
+    "1 cup jasmine rice"
+   ]
+  },
+  {
+   "group": "Beef",
+   "items": [
+    "1¾ lb top sirloin",
+    "1 Tbsp soy sauce",
+    "1 Tbsp water",
+    "1 tsp cornstarch",
+    "½ tsp baking soda"
+   ]
+  },
+  {
+   "group": "Broccoli",
+   "items": [
+    "1½ lb broccoli florets",
+    "⅓ cup water"
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    "½ cup oyster sauce",
+    "¼ cup water",
+    "1 Tbsp soy sauce",
+    "1½ Tbsp brown sugar",
+    "2 tsp cornstarch",
+    "1½ tsp toasted sesame oil"
+   ]
+  },
+  {
+   "group": "Aromatics",
+   "items": [
+    "4 cloves garlic",
+    "1 Tbsp grated fresh ginger",
+    "2 Tbsp + 1 tsp neutral oil",
+    "2 scallions (optional)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Rice on",
+   "body": "Rinse **1 cup rice** and start it in the rice cooker."
+  },
+  {
+   "title": "Slice and velvet the beef",
+   "body": "Trim the fat cap off **1¾ lb sirloin**. Cut into strips about 2 inches wide, then slice each strip ¼-inch thick across the grain. In a bowl, toss with **1 Tbsp soy sauce + 1 Tbsp water + 1 tsp cornstarch + ½ tsp baking soda**. Let it sit while you do the rest (at least **15 min**).",
+   "timerMin": 15
+  },
+  {
+   "title": "Sauce and aromatics",
+   "body": "In a measuring cup, whisk **½ cup oyster sauce + ¼ cup water + 1 Tbsp soy sauce + 1½ Tbsp brown sugar + 2 tsp cornstarch + 1½ tsp toasted sesame oil**. In a small bowl: **4 cloves garlic**, minced, and **1 Tbsp grated ginger**. Slice **2 scallions** if using."
+  },
+  {
+   "title": "Staging check",
+   "body": "Within reach: broccoli, **⅓ cup water**, the lid, a large bowl for broccoli, the beef, a plate for seared beef, the aromatics, the sauce (whisk again right before using), oil and tongs."
+  },
+  {
+   "title": "Steam the broccoli",
+   "body": "Skillet over high. Add **1½ lb broccoli** and **⅓ cup water**, cover, and steam **3 min** until bright green and just tender. Tip into the bowl and wipe the pan dry.",
+   "timerMin": 3
+  },
+  {
+   "title": "Sear beef, batch 1",
+   "body": "Skillet over high until it smokes lightly. Add **1 Tbsp neutral oil**, then half the beef in one layer. Leave it **1 min**, then stir-fry 1–2 min until browned with a little pink left. Move to the plate.",
+   "timerMin": 1
+  },
+  {
+   "title": "Sear beef, batch 2",
+   "body": "Add **1 Tbsp neutral oil** and repeat with the rest of the beef: **1 min** untouched, 1–2 min stirring. Move to the plate.",
+   "timerMin": 1
+  },
+  {
+   "title": "Sauce",
+   "body": "Heat down to medium. Add **1 tsp neutral oil**, then the **garlic and ginger**, and stir 30 seconds. Whisk the sauce again, pour it in, and stir until it bubbles and turns glossy and thick, about 1 min."
+  },
+  {
+   "title": "Toss and serve",
+   "body": "Return the beef with its juices and the broccoli. Toss 1 min until everything is coated. Serve over rice with scallions."
+  }
+ ],
+ "after": [
+  "Pack 2 lunches: rice, beef and broccoli together."
+ ],
+ "source": {
+  "label": "Standard Chinese-American restaurant method: baking-soda velveting and an oyster-sauce glaze"
+ }
+}

@@ -1,20 +1,39 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-31",
  "items": [
   {
-   "name": "Ground beef, 93/7",
-   "amount": "on hand",
-   "note": "Unused this week."
-  },
-  {
    "name": "Chicken breasts",
-   "amount": "check"
+   "amount": "check",
+   "note": "3½ lb comes out this week."
   },
   {
-   "name": "Turkey chili",
-   "amount": "leftovers",
-   "added": "2026-10-19",
-   "note": "From Monday's chili."
+   "name": "Ground beef, 93/7",
+   "amount": "plenty"
+  },
+  {
+   "name": "Ground turkey, 1.7 lb packages",
+   "amount": "2"
+  },
+  {
+   "name": "Sirloin steaks",
+   "amount": "1–2",
+   "note": "1¾ lb comes out this week."
+  },
+  {
+   "name": "Beef chuck roast",
+   "amount": "1"
+  },
+  {
+   "name": "Pork butt, raw",
+   "amount": "1"
+  },
+  {
+   "name": "Frozen corn",
+   "amount": "partial bag"
+  },
+  {
+   "name": "Frozen shelled edamame",
+   "amount": "check"
   }
  ]
 }

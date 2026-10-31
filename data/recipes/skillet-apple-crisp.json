@@ -1,0 +1,94 @@
+{
+ "name": "Skillet Apple Crisp",
+ "cuisine": "American",
+ "subtitle": "Apples cooked down first with reduced cider, under a pecan-oat topping",
+ "servings": 8,
+ "servingUnit": "servings",
+ "yields": "6–8 servings",
+ "time": "~1 hr 25 min, ~40 hands-on",
+ "equipment": "12-inch oven-safe skillet (or any skillet plus a 13×9 baking dish), rimmed sheet pan, foil",
+ "macros": {
+  "basis": "per serving, 1 of 8, without ice cream",
+  "kcal": 460,
+  "protein": 4,
+  "carbs": 64,
+  "fat": 22,
+  "fiber": 5,
+  "portion": "About ¾ cup, or one-eighth of the skillet.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+ },
+ "before": [
+  "Start **~1½ hr** before you want to serve it. It needs 15 min to cool.",
+  "No oven-safe skillet? Cook the apples in any skillet, move them to a 13×9 dish, top, and bake 5 min longer."
+ ],
+ "notes": "Most crisps bake raw apples under the topping, and the apples shed juice that sogs the topping before they soften. Cooking the apples on the stove first drives off that water and cooks them evenly, and the reduced cider adds concentrated apple flavor. A short, very hot bake then just crisps the topping and finishes the fruit. Use apples that hold their shape: Golden Delicious, Honeycrisp or Braeburn. Granny Smith turns mushy with this method.",
+ "ingredients": [
+  {
+   "group": "Topping",
+   "items": [
+    "¾ cup all-purpose flour",
+    "¾ cup pecans, finely chopped",
+    "¾ cup old-fashioned rolled oats",
+    "½ cup packed light brown sugar",
+    "¼ cup granulated sugar",
+    "½ tsp ground cinnamon",
+    "½ tsp salt",
+    "8 Tbsp unsalted butter, melted"
+   ]
+  },
+  {
+   "group": "Filling",
+   "items": [
+    "3 lb Golden Delicious or Honeycrisp apples (6–7 large)",
+    "¼ cup granulated sugar",
+    "¼ tsp ground cinnamon",
+    "1 cup apple cider",
+    "2 tsp lemon juice",
+    "2 Tbsp unsalted butter"
+   ]
+  },
+  {
+   "group": "To serve",
+   "items": [
+    "Vanilla ice cream"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Oven and topping",
+   "body": "Heat the oven to 450°F with a rack in the middle. Line a rimmed sheet pan with foil. In a bowl, mix **¾ cup flour + ¾ cup chopped pecans + ¾ cup oats + ½ cup brown sugar + ¼ cup sugar + ½ tsp cinnamon + ½ tsp salt**. Stir in **8 Tbsp melted butter** until evenly moist and crumbly."
+  },
+  {
+   "title": "Prep the apples",
+   "body": "Peel and core **3 lb apples**, halve them, and cut into ½-inch wedges. In a large bowl, toss with **¼ cup sugar + ¼ tsp cinnamon**."
+  },
+  {
+   "title": "Reduce the cider",
+   "body": "In the skillet over medium, simmer **1 cup apple cider** about **5 min** until it's down to **½ cup**. Pour it into a measuring cup and stir in **2 tsp lemon juice**.",
+   "timerMin": 5
+  },
+  {
+   "title": "Cook the apples",
+   "body": "Melt **2 Tbsp butter** in the same skillet over medium. Add the apples and cook, stirring often, **12–14 min**, until they soften and turn translucent at the edges but still hold their shape. Off the heat, gently fold in the cider.",
+   "timerMin": 12
+  },
+  {
+   "title": "Top and bake",
+   "body": "Scatter the topping evenly over the apples, breaking up big clumps. Set the skillet on the foil-lined pan and bake **15–20 min**, turning the pan halfway, until the topping is deep golden and the apples are tender.",
+   "timerMin": 15
+  },
+  {
+   "title": "Cool and serve",
+   "body": "Cool on a rack **15 min**. The handle stays oven-hot, so leave a towel or mitt over it. Serve warm with vanilla ice cream.",
+   "timerMin": 15
+  }
+ ],
+ "after": [
+  "Leftovers keep covered in the fridge for 3 days. Rewarm in a 350°F oven for 10 min to re-crisp the topping."
+ ],
+ "source": {
+  "label": "America's Test Kitchen, Skillet Apple Crisp",
+  "url": "https://www.americastestkitchen.com/recipes/6146-skillet-apple-crisp"
+ }
+}

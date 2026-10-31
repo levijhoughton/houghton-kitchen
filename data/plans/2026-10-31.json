@@ -1,0 +1,509 @@
+{
+ "label": "Oct 31–Nov 7",
+ "startDate": "2026-10-31",
+ "nights": [
+  {
+   "date": "2026-10-31",
+   "day": "Sat",
+   "recipeId": null,
+   "title": "No dinner planned",
+   "sizing": "",
+   "leftovers": ""
+  },
+  {
+   "date": "2026-11-01",
+   "day": "Sun",
+   "recipeId": "skillet-apple-crisp",
+   "title": "Skillet apple crisp (dessert)",
+   "sizing": "6–8 servings",
+   "leftovers": ""
+  },
+  {
+   "date": "2026-11-02",
+   "day": "Mon",
+   "recipeId": "turkey-chili",
+   "title": "Turkey chili",
+   "sizing": "5 bowls",
+   "leftovers": "2 lunches"
+  },
+  {
+   "date": "2026-11-03",
+   "day": "Tue",
+   "recipeId": "soy-glazed-chicken",
+   "title": "Soy-glazed chicken, sesame slaw & edamame",
+   "sizing": "2 + 2 lunches",
+   "leftovers": "lunches Wed"
+  },
+  {
+   "date": "2026-11-04",
+   "day": "Wed",
+   "recipeId": "red-lentil-dal",
+   "title": "Red lentil dal with sweet potato & spinach",
+   "sizing": "2 + 2 lunches",
+   "leftovers": "lunches Thu"
+  },
+  {
+   "date": "2026-11-05",
+   "day": "Thu",
+   "recipeId": "beef-and-broccoli",
+   "title": "Beef and broccoli",
+   "sizing": "2 + 2 lunches",
+   "leftovers": "lunches Fri"
+  },
+  {
+   "date": "2026-11-06",
+   "day": "Fri",
+   "recipeId": "shawarma-spiced-chicken-potatoes",
+   "title": "Shawarma-spiced chicken & potatoes",
+   "sizing": "2 + 2 lunches",
+   "leftovers": "lunches Sat"
+  },
+  {
+   "date": "2026-11-07",
+   "day": "Sat",
+   "recipeId": null,
+   "title": "No dinner planned",
+   "sizing": "",
+   "leftovers": ""
+  }
+ ],
+ "todo": [
+  {
+   "date": "2026-11-01",
+   "when": "Sun morning",
+   "what": "Move **1 package (1.7 lb) ground turkey** from the freezer to the fridge for Monday."
+  },
+  {
+   "date": "2026-11-01",
+   "when": "Sun night",
+   "what": "Move **1¾ lb chicken breast** from the freezer to the fridge for Tuesday."
+  },
+  {
+   "date": "2026-11-03",
+   "when": "Tue night",
+   "what": "Move **1¾ lb sirloin** from the freezer to the fridge for Thursday."
+  },
+  {
+   "date": "2026-11-04",
+   "when": "Wed night",
+   "what": "Move **1¾ lb chicken breast** from the freezer to the fridge for Friday."
+  }
+ ],
+ "notes": [],
+ "grocery": {
+  "stores": [
+   {
+    "name": "Walmart pickup",
+    "groups": [
+     {
+      "name": "Produce",
+      "items": [
+       {
+        "name": "Broccoli florets",
+        "qty": "1½ lb",
+        "for": [
+         "Thu"
+        ]
+       },
+       {
+        "name": "Coleslaw mix (plain shredded cabbage)",
+        "qty": "14 oz bag",
+        "for": [
+         "Tue"
+        ]
+       },
+       {
+        "name": "Baby spinach",
+        "qty": "5 oz",
+        "for": [
+         "Wed"
+        ]
+       },
+       {
+        "name": "English cucumber",
+        "qty": "1",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Grape tomatoes",
+        "qty": "10 oz",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Bell pepper",
+        "qty": "1",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Yellow onion",
+        "qty": "1",
+        "for": [
+         "Wed"
+        ]
+       },
+       {
+        "name": "Green onions",
+        "qty": "1 bunch",
+        "for": [
+         "Mon",
+         "Tue",
+         "Thu"
+        ]
+       },
+       {
+        "name": "Garlic",
+        "qty": "2 heads",
+        "for": [
+         "Mon",
+         "Wed",
+         "Thu",
+         "Fri"
+        ],
+        "note": "About 14 cloves."
+       },
+       {
+        "name": "Fresh ginger",
+        "qty": "2-inch knob",
+        "for": [
+         "Wed",
+         "Thu"
+        ]
+       },
+       {
+        "name": "Lemons",
+        "qty": "4",
+        "for": [
+         "Sun",
+         "Wed",
+         "Fri"
+        ]
+       },
+       {
+        "name": "Limes",
+        "qty": "2",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Golden Delicious or Honeycrisp apples",
+        "qty": "3½ lb (7 large)",
+        "for": [
+         "Sun"
+        ],
+        "note": "Need 3 lb. Not Granny Smith."
+       },
+       {
+        "name": "Bagged salad kit",
+        "qty": "2 kits (~10 oz each)",
+        "for": [
+         "Extras"
+        ],
+        "note": "Side salad for 4 with pasta, e.g. a Caesar or chopped kit."
+       }
+      ]
+     },
+     {
+      "name": "Dairy",
+      "items": [
+       {
+        "name": "Plain nonfat Greek yogurt",
+        "qty": "32 oz",
+        "for": [
+         "Mon",
+         "Wed",
+         "Fri"
+        ],
+        "note": "Need about 3½ cups."
+       },
+       {
+        "name": "Shredded sharp cheddar",
+        "qty": "8 oz",
+        "for": [
+         "Mon"
+        ],
+        "note": "Need 5 oz."
+       },
+       {
+        "name": "Unsalted butter",
+        "qty": "1 lb, if low",
+        "for": [
+         "Sun",
+         "Wed"
+        ],
+        "note": "Need 10 Tbsp, plus 1½ Tbsp unless you use ghee."
+       },
+       {
+        "name": "Vanilla ice cream",
+        "qty": "1.5 qt",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Fairlife ultra-filtered milk",
+        "qty": "52 oz",
+        "for": [
+         "Extras"
+        ],
+        "note": "Fat-free or 2%."
+       }
+      ]
+     },
+     {
+      "name": "Bakery",
+      "items": [
+       {
+        "name": "Sourdough bread, sliced",
+        "qty": "1 loaf",
+        "for": [
+         "Extras"
+        ],
+        "note": "Store brand is fine."
+       }
+      ]
+     },
+     {
+      "name": "Pantry",
+      "items": [
+       {
+        "name": "Soy sauce",
+        "qty": "1 bottle (15 oz+)",
+        "for": [
+         "Tue",
+         "Thu"
+        ]
+       },
+       {
+        "name": "Oyster sauce",
+        "qty": "1 bottle (9 oz+)",
+        "for": [
+         "Thu"
+        ],
+        "note": "Need ½ cup."
+       },
+       {
+        "name": "Red lentils",
+        "qty": "1 lb bag",
+        "for": [
+         "Wed"
+        ]
+       },
+       {
+        "name": "Diced tomatoes",
+        "qty": "1 × 28 oz + 1 × 14.5 oz",
+        "for": [
+         "Mon",
+         "Wed"
+        ]
+       },
+       {
+        "name": "Kidney beans",
+        "qty": "2 × 15 oz",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Apple cider",
+        "qty": "smallest bottle",
+        "for": [
+         "Sun"
+        ],
+        "note": "Need 1 cup. The juice-aisle kind is fine."
+       },
+       {
+        "name": "Chopped pecans",
+        "qty": "6 oz bag",
+        "for": [
+         "Sun"
+        ],
+        "note": "Need ¾ cup."
+       },
+       {
+        "name": "Tortilla chips",
+        "qty": "1 bag",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Popcorn kernels",
+        "qty": "~2 lb bag or 30 oz jar",
+        "for": [
+         "Extras"
+        ]
+       },
+       {
+        "name": "Crystal Light Energy Lemonade",
+        "qty": "1–2 boxes (10 packets)",
+        "for": [
+         "Extras"
+        ],
+        "note": "75 mg caffeine per packet. Great Value's energy mixes run 120 mg per packet."
+       }
+      ]
+     },
+     {
+      "name": "Household",
+      "items": [
+       {
+        "name": "Laundry detergent",
+        "qty": "1 jug",
+        "for": [
+         "Extras"
+        ],
+        "note": "Costco."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "pantry": [
+   {
+    "name": "Rice (jasmine, short-grain or basmati)",
+    "qty": "2⅔ cups dry"
+   },
+   {
+    "name": "Frozen shelled edamame",
+    "qty": "2 cups"
+   },
+   {
+    "name": "Frozen corn",
+    "qty": "1½ cups"
+   },
+   {
+    "name": "Neutral oil",
+    "qty": "~5½ Tbsp"
+   },
+   {
+    "name": "Olive oil",
+    "qty": "~4 Tbsp"
+   },
+   {
+    "name": "Toasted sesame oil",
+    "qty": "3½ tsp",
+    "note": "Smell it; it goes rancid."
+   },
+   {
+    "name": "Rice vinegar",
+    "qty": "2 Tbsp"
+   },
+   {
+    "name": "Honey",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "Granulated sugar",
+    "qty": "~¾ cup"
+   },
+   {
+    "name": "Light brown sugar",
+    "qty": "½ cup packed + 1½ Tbsp"
+   },
+   {
+    "name": "All-purpose flour",
+    "qty": "¾ cup"
+   },
+   {
+    "name": "Old-fashioned rolled oats",
+    "qty": "¾ cup"
+   },
+   {
+    "name": "Cornstarch",
+    "qty": "2½ Tbsp"
+   },
+   {
+    "name": "Baking soda",
+    "qty": "½ tsp"
+   },
+   {
+    "name": "Broth or bouillon",
+    "qty": "1 cup"
+   },
+   {
+    "name": "Tomato paste",
+    "qty": "1½ Tbsp"
+   },
+   {
+    "name": "Mild chili powder",
+    "qty": "¼ cup"
+   },
+   {
+    "name": "Ground cumin",
+    "qty": "4½ tsp"
+   },
+   {
+    "name": "Cumin seeds",
+    "qty": "2 tsp"
+   },
+   {
+    "name": "Ground coriander",
+    "qty": "2 tsp"
+   },
+   {
+    "name": "Ground turmeric",
+    "qty": "1½ tsp"
+   },
+   {
+    "name": "Paprika",
+    "qty": "2½ tsp",
+    "note": "Or Kashmiri chili powder for the dal's ½ tsp."
+   },
+   {
+    "name": "Garam masala",
+    "qty": "½ tsp"
+   },
+   {
+    "name": "Ground cinnamon",
+    "qty": "1¼ tsp"
+   },
+   {
+    "name": "Garlic powder",
+    "qty": "1 tsp"
+   },
+   {
+    "name": "Dried oregano",
+    "qty": "1 tsp"
+   },
+   {
+    "name": "Dried red chiles or red pepper flakes",
+    "qty": "2 chiles or ½ tsp"
+   },
+   {
+    "name": "Black mustard seeds",
+    "qty": "½ tsp",
+    "note": "Optional."
+   },
+   {
+    "name": "Ghee",
+    "qty": "1½ Tbsp",
+    "note": "Optional; butter works."
+   },
+   {
+    "name": "Sesame seeds",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "Cayenne",
+    "qty": "pinch",
+    "note": "Optional."
+   },
+   {
+    "name": "Black pepper",
+    "qty": "½ tsp+"
+   },
+   {
+    "name": "Popcorn oil",
+    "qty": "for the kettle"
+   }
+  ]
+ }
+}

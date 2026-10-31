@@ -1,0 +1,119 @@
+{
+ "name": "Shawarma-Spiced Chicken & Potatoes",
+ "cuisine": "Middle Eastern",
+ "subtitle": "Sheet-pan chicken, baby potatoes and carrots, with garlic yogurt and cucumber-tomato salad",
+ "servings": 4,
+ "servingUnit": "portions",
+ "yields": "2 dinners + 2 lunches",
+ "time": "~55 min, ~30 hands-on",
+ "equipment": "2 sheet pans, thermometer",
+ "macros": {
+  "basis": "per portion, 1 of 4",
+  "kcal": 640,
+  "protein": 59,
+  "carbs": 62,
+  "fat": 17,
+  "fiber": 9,
+  "portion": "About 5½ oz cooked chicken, 1½ cups roasted potatoes, ½ cup carrots, ¼ cup garlic yogurt and 1 cup salad.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+ },
+ "before": [
+  "Chicken thawed in the fridge (allow 1–2 days).",
+  "Start **~55 min** before dinner. Prep happens while the potatoes roast."
+ ],
+ "notes": "Shawarma-spiced, not shawarma: there's no spit, so the char comes from a hot pan and an optional 2-minute broil. Breast chunks dry out fast, so pull them at 160°F; they coast to 165°F while you plate. The carrots get crowded once the chicken goes on, which is fine since they're nearly done by then.",
+ "ingredients": [
+  {
+   "group": "Spice blend",
+   "items": [
+    "2 tsp ground cumin",
+    "2 tsp paprika",
+    "1 tsp ground coriander",
+    "1 tsp garlic powder",
+    "½ tsp ground turmeric",
+    "½ tsp ground cinnamon",
+    "½ tsp black pepper",
+    "Pinch cayenne (optional)"
+   ]
+  },
+  {
+   "group": "Potatoes & carrots",
+   "items": [
+    "2½ lb baby potatoes",
+    "1 lb baby carrots",
+    "1 Tbsp + 2 tsp olive oil",
+    "1 tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Chicken",
+   "items": [
+    "1¾ lb boneless skinless chicken breast",
+    "1 Tbsp olive oil",
+    "1¼ tsp kosher salt",
+    "Zest of 1 lemon"
+   ]
+  },
+  {
+   "group": "Garlic yogurt",
+   "items": [
+    "1 cup plain nonfat Greek yogurt",
+    "1 small clove garlic",
+    "1 Tbsp lemon juice",
+    "¼ tsp salt",
+    "1–2 Tbsp water"
+   ]
+  },
+  {
+   "group": "Salad",
+   "items": [
+    "1 English cucumber",
+    "10 oz grape tomatoes",
+    "1 Tbsp lemon juice",
+    "2 tsp olive oil",
+    "¼ tsp salt"
+   ]
+  },
+  {
+   "group": "Finish",
+   "items": [
+    "2 lemons total (zest, juice and wedges)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Oven and spice blend",
+   "body": "Put both sheet pans in the oven and heat it to 425°F. In a small bowl, mix **2 tsp cumin + 2 tsp paprika + 1 tsp coriander + 1 tsp garlic powder + ½ tsp turmeric + ½ tsp cinnamon + ½ tsp pepper** and the cayenne if using."
+  },
+  {
+   "title": "Potatoes and carrots in",
+   "body": "Halve **2½ lb baby potatoes**. In a large bowl, toss with **1 Tbsp olive oil + ¾ tsp salt + 1 tsp of the spice blend**. In the same bowl, toss **1 lb baby carrots** with **2 tsp olive oil + ¼ tsp salt + ½ tsp of the spice blend**. Potatoes cut-side down on pan 1; carrots on pan 2. Roast **15 min**.",
+   "timerMin": 15
+  },
+  {
+   "title": "Chicken ready",
+   "body": "While they roast, pat **1¾ lb chicken breast** dry and cut into 1½-inch chunks. In the same bowl, toss with **the rest of the spice blend + 1 Tbsp olive oil + 1¼ tsp salt + zest of 1 lemon**."
+  },
+  {
+   "title": "Chicken in",
+   "body": "Flip the potatoes. Push the carrots to one end of pan 2 and spread the chicken on the rest in one layer. Roast **15–18 min**, until the thickest chunk reads 160°F.",
+   "timerMin": 15
+  },
+  {
+   "title": "Yogurt and salad",
+   "body": "While the chicken roasts: grate **1 small clove garlic** into **1 cup Greek yogurt** with **1 Tbsp lemon juice + ¼ tsp salt**, and loosen with **1–2 Tbsp water**. Dice **1 cucumber** and halve **10 oz grape tomatoes** into a bowl. Mix **1 Tbsp lemon juice + 2 tsp olive oil + ¼ tsp salt** in a cup, but don't dress the salad yet."
+  },
+  {
+   "title": "Optional char",
+   "body": "For browned edges, switch to broil and broil pan 2 for 2 min on the top rack. Watch it; paprika burns fast."
+  },
+  {
+   "title": "Serve",
+   "body": "Squeeze a lemon wedge over the chicken. Dress the dinner share of the salad. Plate potatoes, carrots and chicken with garlic yogurt and salad."
+  }
+ ],
+ "after": [
+  "Pack 2 lunches: potatoes, carrots and chicken together; yogurt and undressed salad with its dressing in small containers."
+ ]
+}

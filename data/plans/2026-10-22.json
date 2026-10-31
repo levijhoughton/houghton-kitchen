@@ -40,7 +40,8 @@
    "recipeId": "japanese-chicken-curry",
    "title": "Japanese chicken curry",
    "sizing": "2 + 5 lunches",
-   "leftovers": "5 lunches"
+   "leftovers": "5 lunches",
+   "status": "cooked"
   },
   {
    "date": "2026-10-27",
@@ -48,7 +49,8 @@
    "recipeId": "sirloin-potatoes-broccoli",
    "title": "Seared sirloin, potatoes & broccoli",
    "sizing": "2 + 1 lunch",
-   "leftovers": "1 lunch"
+   "leftovers": "1 lunch",
+   "status": "cooked"
   },
   {
    "date": "2026-10-28",
@@ -56,7 +58,8 @@
    "recipeId": "gochujang-turkey-sweet-potato-bowls",
    "title": "Gochujang turkey & sweet potato bowls",
    "sizing": "2 + 3 lunches",
-   "leftovers": "3 lunches"
+   "leftovers": "3 lunches",
+   "status": "cooked"
   }
  ],
  "todo": [

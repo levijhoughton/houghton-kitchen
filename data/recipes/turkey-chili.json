@@ -2,51 +2,63 @@
  "name": "Turkey Chili",
  "cuisine": "American",
  "subtitle": "With yogurt crema, cheddar, scallions and lime",
- "yields": "~18 cups (9 bowls)",
- "time": "~70 min, ~25 hands-on",
- "equipment": "6-qt+ pot",
+ "servings": 5,
+ "servingUnit": "bowls (2 cups)",
+ "yields": "~10 cups (5 bowls)",
+ "time": "~65 min, ~25 hands-on",
+ "equipment": "5-qt+ pot",
+ "macros": {
+  "basis": "per 2-cup bowl with crema and cheddar",
+  "kcal": 620,
+  "protein": 51,
+  "carbs": 46,
+  "fat": 24,
+  "fiber": 12,
+  "portion": "A 2-cup bowl of chili with about 2 Tbsp yogurt crema and 1 oz cheddar. Chips not included.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+ },
  "before": [
-  "Turkey moved from the freezer to the fridge **the morning before**.",
-  "Start **~75 min** before dinner."
+  "Turkey moved from the freezer to the fridge **the day before**.",
+  "Start **~65 min** before you need it."
  ],
- "notes": "No cayenne in the pot, so it stays mild; add hot sauce at the table. Bouillon is salty, so salt goes in at the end.",
+ "notes": "One 1.7 lb package of turkey per batch makes a meaty chili. No cayenne in the pot, so it stays mild; add hot sauce at the table. Bouillon is salty, so salt goes in at the end.",
  "ingredients": [
   {
    "group": "Aromatics",
    "items": [
-    "4 tsp olive oil",
-    "2 yellow onions",
-    "2 bell peppers",
-    "6 cloves garlic"
+    "2 tsp olive oil",
+    "1 yellow onion",
+    "1 bell pepper",
+    "3 cloves garlic"
    ]
   },
   {
    "group": "Turkey & spices",
    "items": [
-    "2 lb ground turkey 93/7",
-    "½ cup mild chili powder",
-    "4 tsp ground cumin",
-    "2 tsp dried oregano",
-    "3 Tbsp tomato paste",
+    "1.7 lb ground turkey 93/7 (one package)",
+    "¼ cup mild chili powder",
+    "2 tsp ground cumin",
+    "1 tsp dried oregano",
+    "1½ Tbsp tomato paste",
     "Salt to taste at the end"
    ]
   },
   {
    "group": "Pot",
    "items": [
-    "2 × 28 oz cans diced tomatoes",
-    "2 cups broth (bouillon + water)",
-    "4 × 15 oz cans kidney beans",
-    "3 cups frozen corn"
+    "1 × 28 oz can diced tomatoes",
+    "1 cup broth (bouillon + water)",
+    "2 × 15 oz cans kidney beans",
+    "1½ cups frozen corn"
    ]
   },
   {
    "group": "Toppings",
    "items": [
-    "Shredded sharp cheddar (~8 oz)",
-    "1 cup Greek yogurt + 1 Tbsp lime juice + pinch salt",
-    "2 limes",
-    "3 scallions",
+    "5 oz shredded sharp cheddar",
+    "½ cup Greek yogurt + 1½ tsp lime juice + pinch salt",
+    "1 lime",
+    "2 scallions",
     "Tortilla chips"
    ]
   }
@@ -54,55 +66,44 @@
  "steps": [
   {
    "title": "Chop and mix spices",
-   "body": "Chop **2 onions** and **2 bell peppers**, and mince **6 cloves garlic**, all into one bowl. In a small bowl: **½ cup chili powder + 4 tsp cumin + 2 tsp oregano**."
+   "body": "Chop **1 onion** and **1 bell pepper**, and mince **3 cloves garlic**, all into one bowl. In a small bowl: **¼ cup chili powder + 2 tsp cumin + 1 tsp oregano**."
   },
   {
    "title": "Brown the turkey",
-   "body": "Pot over **medium-high**, **2 tsp olive oil**. Press in **2 lb turkey** and leave it **4 min** to brown. While it browns, open the **2 cans of tomatoes**, drain and rinse **4 cans beans**, and make **2 cups broth**. Break up the turkey, cook **3–4 min** more, spoon off fat, and move it to a bowl."
+   "body": "Pot over medium-high, **1 tsp olive oil**. Press in **1.7 lb turkey** and leave it **4 min** to brown. While it browns, open the **can of tomatoes**, drain and rinse **2 cans beans**, and make **1 cup broth**. Break up the turkey, cook **3–4 min** more, spoon off fat, and move it to a bowl.",
+   "timerMin": 4
   },
   {
    "title": "Aromatics",
-   "body": "Add the **other 2 tsp olive oil** and the **onions, peppers and garlic**. Cook **6–7 min**, scraping up the browned bits."
+   "body": "Add the **other 1 tsp olive oil** and the **onion, pepper and garlic**. Cook 6–7 min, scraping up the browned bits."
   },
   {
    "title": "Bloom the spices",
-   "body": "Return the turkey. Add the **spice bowl + 3 Tbsp tomato paste** and stir **1–2 min** until it darkens and smells toasty."
+   "body": "Return the turkey. Add the **spice bowl + 1½ Tbsp tomato paste** and stir 1–2 min until it darkens and smells toasty."
   },
   {
    "title": "Fill the pot",
-   "body": "Add the **tomatoes with liquid + 2 cups broth + beans + 3 cups frozen corn**. Scrape the bottom and bring to a boil."
+   "body": "Add the **tomatoes with liquid + 1 cup broth + beans + 1½ cups frozen corn**. Scrape the bottom and bring to a boil."
   },
   {
    "title": "Simmer, and make toppings",
-   "body": "Simmer **uncovered 40–45 min**, stirring every 10 min. Meanwhile: whisk **1 cup yogurt + 1 Tbsp lime juice + pinch salt**, slice **3 scallions**, and cut the limes into wedges.",
-   "timerMin": 40
+   "body": "Simmer uncovered 35–40 min, stirring every 10 min. Meanwhile: whisk **½ cup yogurt + 1½ tsp lime juice + pinch salt**, slice **2 scallions**, and cut the lime into wedges.",
+   "timerMin": 35
   },
   {
    "title": "Season",
-   "body": "Salt **¼ tsp at a time**, tasting each time (likely ½–1 tsp total). A squeeze of lime if it tastes flat."
+   "body": "Salt **¼ tsp** at a time, tasting each time (likely ½ tsp total). A squeeze of lime if it tastes flat."
   },
   {
-   "title": "Serve and portion",
-   "body": "Serve 2-cup bowls with crema, cheddar, scallions, lime and chips. Pack lunches of 2 cups and freeze the rest in 2-cup containers."
+   "title": "Portion",
+   "body": "Portion into 2-cup containers. Pack toppings separately: crema, cheddar, scallions, lime wedges and chips."
   }
  ],
  "after": [
-  "Cool leftovers in shallow containers; a full pot stays warm for hours."
+  "Cool in shallow containers before the lids go on; a full pot stays warm for hours."
  ],
  "source": {
   "label": "Ambitious Kitchen, Seriously the Best Healthy Turkey Chili",
   "url": "https://www.ambitiouskitchen.com/seriously-the-best-healthy-turkey-chili/"
- },
- "servings": 9,
- "servingUnit": "bowls (2 cups)",
- "macros": {
-  "basis": "per 2-cup bowl with crema and cheddar",
-  "kcal": 565,
-  "protein": 43,
-  "carbs": 53,
-  "fat": 20,
-  "fiber": 15,
-  "portion": "A 2-cup bowl of chili with about 2 Tbsp yogurt crema and 1 oz cheddar. Chips not included.",
-  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
  }
 }

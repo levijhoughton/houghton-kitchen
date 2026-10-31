@@ -1,0 +1,125 @@
+{
+ "name": "Soy-Glazed Chicken",
+ "cuisine": "Japanese",
+ "subtitle": "Teriyaki-style glaze without mirin or sake, with sesame cabbage slaw, edamame and rice",
+ "servings": 4,
+ "servingUnit": "portions",
+ "yields": "2 dinners + 2 lunches",
+ "time": "~40 min, ~30 hands-on",
+ "equipment": "12-inch skillet, rice cooker, microwave",
+ "macros": {
+  "basis": "per portion, 1 of 4",
+  "kcal": 660,
+  "protein": 57,
+  "carbs": 63,
+  "fat": 19,
+  "fiber": 8,
+  "portion": "About 5½ oz cooked glazed chicken, ¾ cup rice, ½ cup edamame and 1¼ cups slaw.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+ },
+ "before": [
+  "Chicken thawed in the fridge (allow 1–2 days).",
+  "Start the rice first; it takes longer than the chicken."
+ ],
+ "notes": "Classic teriyaki is soy, mirin, sake and sugar. Here water stands in for the mirin and sake, and honey gives the shine mirin would. The glaze is right when the bubbles turn big and slow and it coats a spoon; stop there or it turns to candy. The cornstarch dusting browns the chicken and helps the glaze cling.",
+ "ingredients": [
+  {
+   "group": "Rice",
+   "items": [
+    "1 cup jasmine or short-grain rice"
+   ]
+  },
+  {
+   "group": "Chicken",
+   "items": [
+    "1¾ lb boneless skinless chicken breast",
+    "1½ Tbsp cornstarch",
+    "2 Tbsp neutral oil"
+   ]
+  },
+  {
+   "group": "Glaze",
+   "items": [
+    "⅓ cup soy sauce",
+    "¼ cup water",
+    "3 Tbsp sugar",
+    "1 Tbsp honey"
+   ]
+  },
+  {
+   "group": "Slaw",
+   "items": [
+    "14 oz bag coleslaw mix (plain shredded cabbage)",
+    "2 Tbsp rice vinegar",
+    "2 tsp toasted sesame oil",
+    "2 tsp sugar",
+    "1 tsp soy sauce",
+    "1 Tbsp sesame seeds"
+   ]
+  },
+  {
+   "group": "Edamame",
+   "items": [
+    "2 cups frozen shelled edamame",
+    "Pinch salt"
+   ]
+  },
+  {
+   "group": "Garnish",
+   "items": [
+    "2 scallions"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Rice on",
+   "body": "Rinse **1 cup rice** until the water runs mostly clear and start it in the rice cooker."
+  },
+  {
+   "title": "Cut and dust the chicken",
+   "body": "Pat **1¾ lb chicken breast** dry and cut into 1½-inch pieces. In a large bowl, toss with **1½ Tbsp cornstarch** until every piece is lightly coated."
+  },
+  {
+   "title": "Mix the glaze and dressing",
+   "body": "In a measuring cup, stir **⅓ cup soy sauce + ¼ cup water + 3 Tbsp sugar + 1 Tbsp honey** until the sugar dissolves. In a small jar: **2 Tbsp rice vinegar + 2 tsp toasted sesame oil + 2 tsp sugar + 1 tsp soy sauce**, shaken. Slice **2 scallions**."
+  },
+  {
+   "title": "Staging check",
+   "body": "Within reach: dusted chicken, glaze, a clean plate for seared chicken, tongs, and the **2 Tbsp neutral oil**."
+  },
+  {
+   "title": "Sear batch 1",
+   "body": "Skillet over medium-high until hot. Add **1 Tbsp neutral oil**, then half the chicken in one layer. Leave it **3 min** to brown, turn, and cook 2–3 min more until browned on two sides. Move to the plate.",
+   "timerMin": 3
+  },
+  {
+   "title": "Sear batch 2",
+   "body": "Add the **other 1 Tbsp neutral oil** and repeat with the rest of the chicken: **3 min**, turn, 2–3 min more. Move to the plate.",
+   "timerMin": 3
+  },
+  {
+   "title": "Reduce the glaze",
+   "body": "Spoon off any oil left in the pan. Pour in the **glaze**, scrape up the browned bits, and boil 2–3 min until the bubbles turn big and slow and it coats a spoon."
+  },
+  {
+   "title": "Coat the chicken",
+   "body": "Return the chicken and any juices. Toss 1–2 min until glossy and the thickest piece reads 160°F. Off the heat."
+  },
+  {
+   "title": "Edamame and slaw",
+   "body": "Microwave **2 cups edamame** with a splash of water, covered, about 3–4 min, and salt lightly. Toss the dinner share of the **14 oz slaw mix** with its share of the dressing and **sesame seeds**."
+  },
+  {
+   "title": "Serve",
+   "body": "Rice, glazed chicken with the pan glaze spooned over, edamame, slaw, scallions on top."
+  }
+ ],
+ "after": [
+  "Pack 2 lunches: rice, chicken and edamame in one container, slaw and dressing kept separate. Dressed cabbage goes watery overnight."
+ ],
+ "source": {
+  "label": "Glaze method after Just One Cookbook's chicken teriyaki, adapted without mirin or sake",
+  "url": "https://www.justonecookbook.com/chicken-teriyaki/"
+ }
+}
