@@ -30,7 +30,7 @@
    "date": "2026-11-03",
    "day": "Tue",
    "recipeId": "soy-glazed-chicken",
-   "title": "Soy-glazed chicken, sesame slaw & edamame",
+   "title": "Teriyaki chicken, sesame slaw & edamame",
    "sizing": "2 + 2 lunches",
    "leftovers": "lunches Wed"
   },
@@ -281,6 +281,14 @@
         ]
        },
        {
+        "name": "Teriyaki sauce, thick glaze style",
+        "qty": "1 bottle (~10 oz+)",
+        "for": [
+         "Tue"
+        ],
+        "note": "Need ⅔ cup. Soy Vay Veri Veri Teriyaki or Kikkoman Teriyaki Baste & Glaze; not the thin marinade."
+       },
+       {
         "name": "Oyster sauce",
         "qty": "1 bottle (9 oz+)",
         "for": [
@@ -397,12 +405,8 @@
     "qty": "2 Tbsp"
    },
    {
-    "name": "Honey",
-    "qty": "1 Tbsp"
-   },
-   {
     "name": "Granulated sugar",
-    "qty": "~¾ cup"
+    "qty": "~½ cup + 2 tsp"
    },
    {
     "name": "Light brown sugar",

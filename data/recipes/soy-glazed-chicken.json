@@ -1,7 +1,7 @@
 {
- "name": "Soy-Glazed Chicken",
+ "name": "Teriyaki Chicken",
  "cuisine": "Japanese",
- "subtitle": "Teriyaki-style glaze without mirin or sake, with sesame cabbage slaw, edamame and rice",
+ "subtitle": "Bottled teriyaki glaze, with sesame cabbage slaw, edamame and rice",
  "servings": 4,
  "servingUnit": "portions",
  "yields": "2 dinners + 2 lunches",
@@ -9,9 +9,9 @@
  "equipment": "12-inch skillet, rice cooker, microwave",
  "macros": {
   "basis": "per portion, 1 of 4",
-  "kcal": 660,
+  "kcal": 690,
   "protein": 57,
-  "carbs": 63,
+  "carbs": 70,
   "fat": 19,
   "fiber": 8,
   "portion": "About 5½ oz cooked glazed chicken, ¾ cup rice, ½ cup edamame and 1¼ cups slaw.",
@@ -21,7 +21,7 @@
   "Chicken thawed in the fridge (allow 1–2 days).",
   "Start the rice first; it takes longer than the chicken."
  ],
- "notes": "Classic teriyaki is soy, mirin, sake and sugar. Here water stands in for the mirin and sake, and honey gives the shine mirin would. The glaze is right when the bubbles turn big and slow and it coats a spoon; stop there or it turns to candy. The cornstarch dusting browns the chicken and helps the glaze cling.",
+ "notes": "Use a thick glaze-style sauce, not a thin marinade: a thin one runs off the chicken and tastes mostly of salt. Bottled glazes are thickened with sugar, so they glaze in a minute or two and scorch soon after. Turn the heat down before the sauce goes in. The cornstarch dusting browns the chicken and helps the sauce cling.",
  "ingredients": [
   {
    "group": "Rice",
@@ -38,12 +38,9 @@
    ]
   },
   {
-   "group": "Glaze",
+   "group": "Sauce",
    "items": [
-    "⅓ cup soy sauce",
-    "¼ cup water",
-    "3 Tbsp sugar",
-    "1 Tbsp honey"
+    "⅔ cup thick bottled teriyaki sauce (glaze style)"
    ]
   },
   {
@@ -81,12 +78,12 @@
    "body": "Pat **1¾ lb chicken breast** dry and cut into 1½-inch pieces. In a large bowl, toss with **1½ Tbsp cornstarch** until every piece is lightly coated."
   },
   {
-   "title": "Mix the glaze and dressing",
-   "body": "In a measuring cup, stir **⅓ cup soy sauce + ¼ cup water + 3 Tbsp sugar + 1 Tbsp honey** until the sugar dissolves. In a small jar: **2 Tbsp rice vinegar + 2 tsp toasted sesame oil + 2 tsp sugar + 1 tsp soy sauce**, shaken. Slice **2 scallions**."
+   "title": "Measure the sauce, mix the dressing",
+   "body": "Measure **⅔ cup teriyaki sauce** into a cup. In a small jar: **2 Tbsp rice vinegar + 2 tsp toasted sesame oil + 2 tsp sugar + 1 tsp soy sauce**, shaken. Slice **2 scallions**."
   },
   {
    "title": "Staging check",
-   "body": "Within reach: dusted chicken, glaze, a clean plate for seared chicken, tongs, and the **2 Tbsp neutral oil**."
+   "body": "Within reach: dusted chicken, teriyaki sauce, a clean plate for seared chicken, tongs, and the **2 Tbsp neutral oil**."
   },
   {
    "title": "Sear batch 1",
@@ -99,12 +96,8 @@
    "timerMin": 3
   },
   {
-   "title": "Reduce the glaze",
-   "body": "Spoon off any oil left in the pan. Pour in the **glaze**, scrape up the browned bits, and boil 2–3 min until the bubbles turn big and slow and it coats a spoon."
-  },
-  {
-   "title": "Coat the chicken",
-   "body": "Return the chicken and any juices. Toss 1–2 min until glossy and the thickest piece reads 160°F. Off the heat."
+   "title": "Sauce the chicken",
+   "body": "Spoon off any oil left in the pan and turn the heat to medium. Return all the chicken with its juices, pour in the **teriyaki sauce**, and toss 1–2 min until it bubbles, thickens and coats every piece, and the thickest piece reads 160°F. Off the heat."
   },
   {
    "title": "Edamame and slaw",
@@ -112,14 +105,10 @@
   },
   {
    "title": "Serve",
-   "body": "Rice, glazed chicken with the pan glaze spooned over, edamame, slaw, scallions on top."
+   "body": "Rice, teriyaki chicken with the pan sauce spooned over, edamame, slaw, scallions on top."
   }
  ],
  "after": [
   "Pack 2 lunches: rice, chicken and edamame in one container, slaw and dressing kept separate. Dressed cabbage goes watery overnight."
- ],
- "source": {
-  "label": "Glaze method after Just One Cookbook's chicken teriyaki, adapted without mirin or sake",
-  "url": "https://www.justonecookbook.com/chicken-teriyaki/"
- }
+ ]
 }
