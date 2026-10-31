@@ -38,7 +38,7 @@
    "date": "2026-11-04",
    "day": "Wed",
    "recipeId": "red-lentil-dal",
-   "title": "Red lentil dal with sweet potato & spinach",
+   "title": "Red lentil dal with yogurt flatbreads",
    "sizing": "2 + 2 lunches",
    "leftovers": "lunches Thu"
   },
@@ -214,13 +214,13 @@
       "items": [
        {
         "name": "Plain nonfat Greek yogurt",
-        "qty": "32 oz",
+        "qty": "2 × 32 oz",
         "for": [
          "Mon",
          "Wed",
          "Fri"
         ],
-        "note": "Need about 3½ cups."
+        "note": "Need about 4¾ cups."
        },
        {
         "name": "Shredded sharp cheddar",
@@ -377,7 +377,7 @@
   "pantry": [
    {
     "name": "Rice (jasmine, short-grain or basmati)",
-    "qty": "2⅔ cups dry"
+    "qty": "2 cups dry"
    },
    {
     "name": "Frozen shelled edamame",
@@ -402,7 +402,7 @@
    },
    {
     "name": "Rice vinegar",
-    "qty": "2 Tbsp"
+    "qty": "2 cups dry"
    },
    {
     "name": "Granulated sugar",
@@ -414,7 +414,7 @@
    },
    {
     "name": "All-purpose flour",
-    "qty": "¾ cup"
+    "qty": "2¼ cups"
    },
    {
     "name": "Old-fashioned rolled oats",
@@ -431,6 +431,11 @@
    {
     "name": "Broth or bouillon",
     "qty": "1 cup"
+   },
+   {
+    "name": "Baking powder",
+    "qty": "2 tsp",
+    "note": "Check the date; old baking powder won't puff the flatbreads."
    },
    {
     "name": "Tomato paste",
