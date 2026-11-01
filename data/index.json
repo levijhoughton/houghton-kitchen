@@ -12,14 +12,15 @@
   "soy-glazed-chicken",
   "red-lentil-dal",
   "beef-and-broccoli",
-  "shawarma-spiced-chicken-potatoes"
+  "shawarma-spiced-chicken-potatoes",
+  "creamy-chipotle-broth-bowls"
  ],
  "plans": [
   "2026-10-14",
   "2026-10-22",
   "2026-10-31"
  ],
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "freezer": true,
  "restock": true
 }

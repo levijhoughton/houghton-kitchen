@@ -1,0 +1,120 @@
+{
+ "name": "Creamy Chipotle Broth Bowls",
+ "cuisine": "Mexican-inspired",
+ "subtitle": "Honey-garlic beef, roasted zucchini and corn, black beans and rice in a creamy chipotle broth",
+ "servings": 5,
+ "servingUnit": "portions",
+ "yields": "2 dinners + 3 lunches",
+ "time": "~50 min, ~30 hands-on",
+ "equipment": "2 sheet pans, 12-inch skillet, blender",
+ "macros": {
+  "basis": "per portion, 1 of 5",
+  "kcal": 600,
+  "protein": 47,
+  "carbs": 66,
+  "fat": 15,
+  "fiber": 9,
+  "portion": "About ½ cup rice, a heaping ½ cup beef (~3 oz cooked), 1 cup zucchini, ½ cup corn and ~1 cup broth with beans.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Excludes the optional honey drizzle (~30 kcal per bowl)."
+ },
+ "before": [
+  "**20 oz ground beef** thawed in the fridge.",
+  "Start **~50 min** before dinner."
+ ],
+ "notes": "A fitness-style brothy rice bowl, not a traditional Mexican dish: the beef is honey-garlic with cumin and cinnamon, and the broth gets its body from blended cottage cheese. The chipotle is set mild to medium; taste the hot broth and add more then. Keep the broth below a boil, first night and reheating, or the cottage cheese can turn grainy.",
+ "ingredients": [
+  {
+   "group": "Sheet pans",
+   "items": [
+    "30 oz zucchini (about 4 medium-large)",
+    "1 Tbsp + 1 tsp olive oil",
+    "½ tsp kosher salt",
+    "¼ tsp black pepper",
+    "2½ cups frozen corn",
+    "1 tsp olive oil",
+    "¼ tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Beef",
+   "items": [
+    "20 oz ground beef 93/7",
+    "2½ Tbsp honey",
+    "2½ Tbsp rice vinegar",
+    "4 cloves garlic",
+    "1¼ tsp kosher salt",
+    "1¼ tsp ground cumin",
+    "¼ tsp ground cinnamon"
+   ]
+  },
+  {
+   "group": "Chipotle broth",
+   "items": [
+    "3¾ cups beef bone broth",
+    "1¼ cups low-fat cottage cheese",
+    "2 chipotle peppers in adobo, plus 2 Tbsp adobo sauce",
+    "2½ Tbsp double-concentrated tomato paste",
+    "1 tsp smoked paprika",
+    "1 can black beans (15 oz), drained and rinsed",
+    "Kosher salt to taste"
+   ]
+  },
+  {
+   "group": "Serving",
+   "items": [
+    "2½ cups cooked jasmine rice (frozen steamed rice)",
+    "2 limes",
+    "Honey for drizzling (optional)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Heat the oven",
+   "body": "Racks lower-middle and upper-middle. An **empty sheet pan** on the lower rack. Heat to 450°F."
+  },
+  {
+   "title": "Zucchini and corn in",
+   "body": "Cut **30 oz zucchini** into ¾-inch dice and toss with **1 Tbsp + 1 tsp olive oil**, **½ tsp salt** and **¼ tsp pepper**. Spread on the hot pan, lower rack. On the second pan, toss **2½ cups frozen corn** with **1 tsp olive oil + ¼ tsp salt**, one layer, upper rack. Roast **12 min**.",
+   "timerMin": 12
+  },
+  {
+   "title": "Prep while it roasts",
+   "body": "Blend **3¾ cups bone broth + 1¼ cups cottage cheese + 2 chipotles + 2 Tbsp adobo sauce + 2½ Tbsp tomato paste + 1 tsp smoked paprika** until completely smooth; leave it in the blender. In a small cup, stir **2½ Tbsp honey + 2½ Tbsp rice vinegar + 4 cloves minced garlic + 1¼ tsp salt + 1¼ tsp cumin + ¼ tsp cinnamon** until the honey dissolves. Drain and rinse **1 can black beans**. Cut **2 limes** into wedges."
+  },
+  {
+   "title": "Stir the pans",
+   "body": "Flip the zucchini with a spatula and stir the corn. Back in for **10–20 min** more: pull the corn when it has browned spots, the zucchini when it's browned on most sides.",
+   "timerMin": 10
+  },
+  {
+   "title": "Brown the beef",
+   "body": "Dry skillet over medium-high. Press in **20 oz beef** in a flat layer and leave it **5 min** to brown. Break it into crumbles and cook **3–4 min** more, until no pink remains and some bits are crisp. Spoon off any pooled fat.",
+   "timerMin": 5
+  },
+  {
+   "title": "Glaze the beef",
+   "body": "Pour in the honey-garlic cup. Stir **1–2 min** until the liquid is gone and the beef is glossy. Move to a bowl and cover."
+  },
+  {
+   "title": "Warm the broth",
+   "body": "Same skillet, medium-low. Pour in the blended broth, scrape up the browned bits, and add the **black beans**. Heat **4–5 min**, stirring, until steaming. Don't let it boil. Taste: salt first, then mince **1–2 more chipotles** in if you want more heat."
+  },
+  {
+   "title": "Rice",
+   "body": "Microwave frozen rice per the package to get **2½ cups**."
+  },
+  {
+   "title": "Build the bowls",
+   "body": "Each bowl: **½ cup rice**, a fifth of the beef, a fifth of the zucchini, **½ cup corn**, then **~1 cup broth with beans** ladled around the edge. Lime wedges, and a **½ Tbsp honey** drizzle if you like."
+  }
+ ],
+ "after": [
+  "Pack 3 lunches with rice, beef, zucchini and corn. Broth and beans go in 3 separate jars, ~1 cup each, so the rice doesn't soak it up overnight.",
+  "Reheat the broth at 50% power, stirring every 30 seconds, until steaming but not boiling; heat the bowl separately and pour the broth over."
+ ],
+ "source": {
+  "label": "Adapted from Mason Woodruff, Kinda Healthy Recipes",
+  "url": "https://masonfit.com/creamy-chipotle-broth-bowls/"
+ }
+}
