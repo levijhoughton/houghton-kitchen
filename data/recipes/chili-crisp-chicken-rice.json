@@ -1,0 +1,118 @@
+{
+ "name": "Slow Cooker Chili Crisp Chicken & Rice",
+ "cuisine": "Chinese-American",
+ "subtitle": "Shredded chili crisp chicken with cabbage, carrots and edamame, spicy yogurt mayo and smashed cucumbers",
+ "servings": 5,
+ "servingUnit": "portions",
+ "yields": "2 dinners + 3 lunches",
+ "time": "3½–4½ hr on high (or 4½–5½ on low), ~25 min hands-on",
+ "equipment": "Slow cooker, small saucepan",
+ "macros": {
+  "basis": "per portion, 1 of 5",
+  "kcal": 680,
+  "protein": 54,
+  "carbs": 68,
+  "fat": 17,
+  "fiber": 7,
+  "portion": "About 2 cups of the chicken, rice and vegetable mix (~4½ oz cooked chicken), 2 Tbsp spicy mayo and ¾ cup smashed cucumbers.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Chili crisp brands vary a lot in oil content."
+ },
+ "before": [
+  "**30 oz chicken breast** fully thawed. Don't start a slow cooker from frozen chicken.",
+  "Load the slow cooker **3–4 hr** before dinner on high, or **4–5 hr** on low. Chicken breast dries out if it runs much longer, including on the warm setting."
+ ],
+ "notes": "An egg-roll-in-a-bowl take on a slow cooker meal-prep recipe: chili crisp chicken with cabbage, carrots and edamame stirred in at the end. The chicken throws a lot of liquid, and so does the cabbage, so most of the cooking liquid comes out before the vegetables go in and goes back only as needed. A tablespoon of chili crisp is held back for the end so some of it stays crunchy.",
+ "ingredients": [
+  {
+   "group": "Chicken",
+   "items": [
+    "30 oz boneless skinless chicken breast",
+    "4½ Tbsp chili crisp, divided (Lao Gan Ma or similar)",
+    "2½ Tbsp honey",
+    "2½ Tbsp soy sauce",
+    "1 Tbsp + 1 tsp sriracha",
+    "1 Tbsp fresh ginger, grated",
+    "1 tsp garlic powder",
+    "½ tsp white pepper"
+   ]
+  },
+  {
+   "group": "Vegetables and finish",
+   "items": [
+    "1 bag coleslaw mix (14 oz)",
+    "1½ cups matchstick carrots",
+    "1½ cups frozen shelled edamame",
+    "1 Tbsp + 1 tsp seasoned rice vinegar",
+    "4 scallions",
+    "1 Tbsp sesame seeds"
+   ]
+  },
+  {
+   "group": "Rice",
+   "items": [
+    "1¼ cups short-grain or sushi rice",
+    "1½ cups chicken bone broth"
+   ]
+  },
+  {
+   "group": "Spicy yogurt mayo",
+   "items": [
+    "6 Tbsp nonfat Greek yogurt",
+    "2 Tbsp light mayonnaise",
+    "2½ Tbsp sriracha",
+    "1 Tbsp ketchup",
+    "¼ tsp garlic powder",
+    "Pinch of salt",
+    "Splash of milk"
+   ]
+  },
+  {
+   "group": "Smashed cucumbers",
+   "items": [
+    "2 English cucumbers",
+    "½ tsp kosher salt",
+    "1 Tbsp rice vinegar",
+    "1 tsp sugar",
+    "1 tsp soy sauce",
+    "1 tsp toasted sesame oil",
+    "1 clove garlic, grated"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Load the slow cooker",
+   "body": "Lay **30 oz chicken** in the slow cooker. In a cup, stir **3½ Tbsp chili crisp + 2½ Tbsp honey + 2½ Tbsp soy sauce + 1 Tbsp + 1 tsp sriracha + 1 Tbsp grated ginger + 1 tsp garlic powder + ½ tsp white pepper** and pour it over. Set the remaining **1 Tbsp chili crisp** aside for the end. Cook on high 3–4 hr or low 4–5 hr, until the thickest piece reads 165°F."
+  },
+  {
+   "title": "Rice on",
+   "body": "About 35 min before dinner: rinse **1¼ cups rice** until the water runs mostly clear. Small saucepan with **1½ cups bone broth**, bring to a boil, cover, and drop to the lowest heat for **15–18 min**. Then off heat, lid on, **5 min** more.",
+   "timerMin": 15
+  },
+  {
+   "title": "Shred and add the vegetables",
+   "body": "Shred the chicken in the pot with two forks. Ladle all but about **½ cup** of the liquid into a measuring cup and set it aside. Stir in **14 oz coleslaw mix + 1½ cups carrots + 1½ cups edamame** (straight from frozen). Lid on, high, **15 min**, until the cabbage has wilted.",
+   "timerMin": 15
+  },
+  {
+   "title": "Cucumbers and mayo while it wilts",
+   "body": "Smash **2 cucumbers** with the flat of a knife and cut into bite-size chunks. Toss with **½ tsp salt** and leave 10 min. Whisk **6 Tbsp Greek yogurt + 2 Tbsp light mayo + 2½ Tbsp sriracha + 1 Tbsp ketchup + ¼ tsp garlic powder** with a pinch of salt; thin with a splash of milk until it drizzles. Slice **4 scallions**. Drain the cucumbers and toss with **1 Tbsp rice vinegar + 1 tsp sugar + 1 tsp soy sauce + 1 tsp sesame oil + 1 clove grated garlic**."
+  },
+  {
+   "title": "Finish",
+   "body": "Stir **1 Tbsp + 1 tsp seasoned rice vinegar**, the reserved **1 Tbsp chili crisp**, the scallions and **1 Tbsp sesame seeds** into the pot. Fold in the rice. Add back the reserved cooking liquid a few spoonfuls at a time, only until the rice looks glossy and moist, not wet. Taste; add a splash of soy if it's flat."
+  },
+  {
+   "title": "Serve",
+   "body": "About **2 cups** per bowl, drizzled with **2 Tbsp spicy mayo**, with cucumbers on the side."
+  }
+ ],
+ "after": [
+  "Pack 3 lunches of the chicken and rice. Mayo and cucumbers go in separate small containers; the cucumbers keep 2–3 days.",
+  "The chicken and rice freeze well; the cucumbers and mayo don't."
+ ],
+ "source": {
+  "label": "Adapted from Stealth Health's slow cooker chili crisp chicken & rice",
+  "url": "https://stealthhealthlife.substack.com/p/chili-crisp-chicken-and-rice"
+ }
+}
