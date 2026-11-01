@@ -1,0 +1,95 @@
+{
+ "name": "Spicy Peanut Chicken Noodles",
+ "cuisine": "Asian-American",
+ "subtitle": "Seared garlic chicken and whole wheat noodles in a honey-lime peanut sauce, with broccoli and edamame",
+ "servings": 5,
+ "servingUnit": "portions",
+ "yields": "2 dinners + 3 lunches",
+ "time": "~35 min, ~30 hands-on",
+ "equipment": "Large pot, 12-inch skillet",
+ "macros": {
+  "basis": "per portion, 1 of 5",
+  "kcal": 670,
+  "protein": 49,
+  "carbs": 76,
+  "fat": 19,
+  "fiber": 13,
+  "portion": "About 2½ cups total: 1 cup sauced noodles, ~3½ oz cooked chicken, and 1 cup broccoli and edamame.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Fiber assumes whole wheat pasta; regular pasta or lo mein noodles land nearer 9 g."
+ },
+ "before": [
+  "**20 oz chicken breast** thawed in the fridge."
+ ],
+ "notes": "An American-style peanut noodle, not a traditional Thai or Chinese dish. The lime goes into the sauce rather than the chicken marinade, so the chicken sears instead of steaming. The broccoli and edamame cook in the pasta pot for the last few minutes, so there's no third pan. The sauce tightens as it cools; loosen leftovers with a splash of water.",
+ "ingredients": [
+  {
+   "group": "Chicken",
+   "items": [
+    "20 oz chicken breast",
+    "2 Tbsp soy sauce",
+    "1½ Tbsp sriracha",
+    "½ tsp garlic powder",
+    "½ tsp onion powder",
+    "¼ tsp red pepper flakes",
+    "¼ tsp kosher salt",
+    "1 Tbsp neutral oil",
+    "10 cloves garlic",
+    "5 scallions, whites and greens separated"
+   ]
+  },
+  {
+   "group": "Peanut sauce",
+   "items": [
+    "6 Tbsp creamy peanut butter (100 g)",
+    "2 Tbsp + 1 tsp soy sauce",
+    "1 Tbsp sriracha",
+    "3½ Tbsp honey",
+    "1½ limes, juiced"
+   ]
+  },
+  {
+   "group": "Noodles and vegetables",
+   "items": [
+    "10½ oz whole wheat linguine (300 g)",
+    "1½ lb broccoli florets",
+    "1½ cups frozen shelled edamame",
+    "1 Tbsp kosher salt, for the pasta water"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Water on",
+   "body": "Large pot of water with **1 Tbsp kosher salt**, covered, over high heat."
+  },
+  {
+   "title": "Prep while it heats",
+   "body": "Cut **20 oz chicken** into ¾-inch pieces and toss with **2 Tbsp soy sauce + 1½ Tbsp sriracha + ½ tsp garlic powder + ½ tsp onion powder + ¼ tsp red pepper flakes + ¼ tsp salt**. Mince **10 cloves garlic** and slice **5 scallions**, whites and greens apart. Microwave **6 Tbsp peanut butter** 15 seconds, then whisk in **2 Tbsp + 1 tsp soy sauce + 1 Tbsp sriracha + 3½ Tbsp honey + juice of 1½ limes** until smooth. Cut the **broccoli** bite-size if needed."
+  },
+  {
+   "title": "Pasta in",
+   "body": "Add **10½ oz linguine** to the boiling water and set a timer for the package time minus 3 min."
+  },
+  {
+   "title": "Sear the chicken",
+   "body": "Meanwhile, skillet over medium-high with **1 Tbsp neutral oil**. Chicken in one layer, any marinade left in the bowl stays there. Leave it **3 min** to brown, then toss and cook **3–4 min** more, until the largest piece reads 165°F. Add the garlic and scallion whites for the last **1 min**. Move everything to a bowl.",
+   "timerMin": 3
+  },
+  {
+   "title": "Vegetables into the pasta pot",
+   "body": "With 3 min left on the pasta, add **1½ lb broccoli**. With 1 min left, add **1½ cups edamame**. Scoop out **½ cup pasta water**, then drain everything together.",
+   "timerMin": 3
+  },
+  {
+   "title": "Sauce and toss",
+   "body": "Skillet over low. Add the peanut sauce and **⅓ cup pasta water**, whisking until smooth and glossy. Add the noodles, vegetables and chicken and toss **1–2 min** until the sauce clings. Add more pasta water a spoonful at a time if it's tight. Top with the scallion greens."
+  }
+ ],
+ "after": [
+  "Pack 3 lunches. The sauce firms up in the fridge: add **1 Tbsp water** per container before microwaving, or eat it cold.",
+  "Doesn't freeze well; the broccoli goes soft."
+ ],
+ "source": {
+  "label": "Adapted from Stealth Health's spicy peanut sauce noodles"
+ }
+}
