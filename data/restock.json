@@ -1,4 +1,11 @@
 {
- "updated": "2026-10-31",
- "items": []
+ "updated": "2026-11-07",
+ "items": [
+  { "name": "Frozen triple berry mix", "qty": "1 bag", "store": "Costco" },
+  { "name": "Men's deodorant", "qty": "1 pack", "store": "Costco" },
+  { "name": "Laundry detergent", "qty": "1 jug", "store": "Costco" },
+  { "name": "Rice", "qty": "1 bag", "store": "Costco" },
+  { "name": "Fairlife protein shakes", "qty": "1 case", "store": "Costco" },
+  { "name": "Boneless skinless chicken breast", "qty": "1 pack", "store": "Costco" }
+ ]
 }
