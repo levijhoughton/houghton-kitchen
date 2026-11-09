@@ -81,7 +81,7 @@
       "name": "Produce",
       "items": [
        {
-        "name": "Carrots",
+        "name": "Baby carrots (for curry)",
         "qty": "1 lb bag",
         "for": [
          "Sat"
@@ -120,7 +120,7 @@
       "items": [
        {
         "name": "Frozen chopped spinach",
-        "qty": "2 × 10 oz",
+        "qty": "2 × 12 oz",
         "for": [
          "Fri"
         ]
@@ -139,7 +139,7 @@
       "name": "Dairy",
       "items": [
        {
-        "name": "Monterey Jack, block",
+        "name": "Colby Jack, block",
         "qty": "8 oz",
         "for": [
          "Fri"

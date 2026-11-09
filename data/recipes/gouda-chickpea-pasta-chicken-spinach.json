@@ -20,7 +20,7 @@
  "before": [
   "Chicken tenderloins thawed in the fridge (1 day)."
  ],
- "notes": "An aged gouda tastes great but doesn't melt smoothly on its own: past a few months it loses moisture, and in a hot sauce the fat separates and turns grainy. So the sauce is built on evaporated milk thickened with cornstarch, which keeps cheese emulsified, with Monterey Jack doing most of the melting and part of the gouda for flavor. The rest of the gouda is grated over the top at the end. Add cheese off the heat, a handful at a time. Chickpea pasta goes from done to mushy fast and keeps softening in the sauce, so pull it 2 minutes before the package time. It foams a lot while boiling; use the large pot.",
+ "notes": "An aged gouda tastes great but doesn't melt smoothly on its own: past a few months it loses moisture, and in a hot sauce the fat separates and turns grainy. So the sauce is built on evaporated milk thickened with cornstarch, which keeps cheese emulsified, with Colby Jack doing most of the melting and part of the gouda for flavor. The rest of the gouda is grated over the top at the end. Add cheese off the heat, a handful at a time. Chickpea pasta goes from done to mushy fast and keeps softening in the sauce, so pull it 2 minutes before the package time. It foams a lot while boiling; use the large pot.",
  "ingredients": [
   {
    "group": "Pasta",
@@ -41,7 +41,7 @@
   {
    "group": "Spinach",
    "items": [
-    "2 × 10 oz bags frozen chopped spinach"
+    "2 × 12 oz bags frozen chopped spinach"
    ]
   },
   {
@@ -52,12 +52,12 @@
     "3 cloves garlic",
     "1 tsp Dijon mustard",
     "¼ tsp black pepper",
-    "2 oz Monterey Jack",
+    "2 oz Colby Jack or Monterey Jack",
     "2 oz aged gouda"
    ]
   },
   {
-   "group": "Finish",
+   "group": "Sauce",
    "items": [
     "1 oz aged gouda"
    ]
@@ -75,7 +75,7 @@
   },
   {
    "title": "Chicken, cheese and sauce prep",
-   "body": "Cut **1¼ lb chicken tenderloins** into 1-inch pieces and toss with **½ tsp salt** and **¼ tsp pepper**. Grate **2 oz Monterey Jack** and **3 oz aged gouda** on the fine side of a box grater; keep **1 oz gouda** in a separate small bowl for the top. Mince **3 cloves garlic**. In a measuring cup, whisk **1 can evaporated milk** with **1 Tbsp cornstarch**, **1 tsp Dijon** and **¼ tsp pepper** until smooth."
+   "body": "Cut **1¼ lb chicken tenderloins** into 1-inch pieces and toss with **½ tsp salt** and **¼ tsp pepper**. Grate **2 oz Colby Jack** and **3 oz aged gouda** on the fine side of a box grater; keep **1 oz gouda** in a separate small bowl for the top. Mince **3 cloves garlic**. In a measuring cup, whisk **1 can evaporated milk** with **1 Tbsp cornstarch**, **1 tsp Dijon** and **¼ tsp pepper** until smooth."
   },
   {
    "title": "Staging check",
