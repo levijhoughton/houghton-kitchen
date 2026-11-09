@@ -1,31 +1,37 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-09",
  "items": [
   {
    "name": "Chicken breasts",
-   "amount": "check",
-   "note": "3½ lb comes out this week."
-  },
-  {
-   "name": "Ground beef, 93/7",
    "amount": "plenty"
   },
   {
+   "name": "Chicken tenderloins",
+   "amount": "plenty",
+   "note": "1¼ lb comes out this week."
+  },
+  {
+   "name": "Ground beef, 93/7",
+   "amount": "plenty",
+   "note": "1 lb comes out this week."
+  },
+  {
    "name": "Ground turkey, 1.7 lb packages",
-   "amount": "2"
+   "amount": "plenty",
+   "note": "1 package comes out this week."
   },
   {
    "name": "Sirloin steaks",
-   "amount": "1–2",
+   "amount": "3",
    "note": "1¾ lb comes out this week."
   },
   {
    "name": "Beef chuck roast",
-   "amount": "1"
+   "amount": "check"
   },
   {
    "name": "Pork butt, raw",
-   "amount": "1"
+   "amount": "check"
   },
   {
    "name": "Frozen corn",

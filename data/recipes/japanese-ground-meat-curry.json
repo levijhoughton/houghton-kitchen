@@ -1,0 +1,114 @@
+{
+ "name": "Japanese Ground-Meat Curry (Kīma Karē)",
+ "cuisine": "Japanese",
+ "subtitle": "Turkey and beef curry with carrots, potatoes and peas, thickened with curry roux, over calrose rice",
+ "servings": 6,
+ "servingUnit": "portions",
+ "yields": "6 portions",
+ "time": "~50 min, ~30 hands-on",
+ "equipment": "Large Dutch oven or heavy pot with a lid, rice cooker",
+ "macros": {
+  "basis": "per portion, 1 of 6",
+  "kcal": 680,
+  "protein": 48,
+  "carbs": 67,
+  "fat": 22,
+  "fiber": 8,
+  "portion": "About 1⅓ cups curry over ½ cup rice.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Curry roux brands vary in fat."
+ },
+ "before": [
+  "Ground turkey and ground beef thawed in the fridge (1 day)."
+ ],
+ "notes": "Kīma karē is the ground-meat style of Japanese home curry: thicker and less soupy than the stew version, with the meat spread through every bite. Turkey and beef together give a fuller flavor than turkey alone, much like the beef-pork mix used in Japan. Curry roux blocks set the sauce, so measure by the box: use the roux your box calls for with 2½ cups of water, which is about half of a standard 7–8 oz box. Always add roux off the heat and let it melt before simmering again, or it clumps. Ketchup and Worcestershire are common additions to Japanese home curry for depth. The curry thickens a lot as it cools; loosen leftovers with a splash of water when reheating.",
+ "ingredients": [
+  {
+   "group": "Rice",
+   "items": [
+    "1 cup calrose rice"
+   ]
+  },
+  {
+   "group": "Vegetables",
+   "items": [
+    "2 onions",
+    "1 lb carrots",
+    "1 lb potatoes",
+    "1½ cups frozen peas"
+   ]
+  },
+  {
+   "group": "Aromatics",
+   "items": [
+    "4 cloves garlic",
+    "1 Tbsp grated fresh ginger"
+   ]
+  },
+  {
+   "group": "Meat",
+   "items": [
+    "1.7 lb ground turkey",
+    "1 lb ground beef, 93/7",
+    "1 Tbsp neutral oil",
+    "½ tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Curry",
+   "items": [
+    "2½ cups water",
+    "About 4 oz Japanese curry roux (about half a 7–8 oz box)",
+    "1 Tbsp ketchup",
+    "1 Tbsp Worcestershire sauce"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Rice on",
+   "body": "Rinse **1 cup calrose rice** until the water runs mostly clear and start it in the rice cooker."
+  },
+  {
+   "title": "Prep",
+   "body": "Dice **2 onions**. Peel **1 lb carrots** and cut into ⅓-inch dice. Cut **1 lb potatoes** into ½-inch dice (peeling optional). Mince **4 cloves garlic** and grate **1 Tbsp ginger** into a small bowl. Break **about 4 oz curry roux** into pieces on a plate. Measure **2½ cups water**, **1 Tbsp ketchup** and **1 Tbsp Worcestershire**. Set out **1½ cups frozen peas**."
+  },
+  {
+   "title": "Staging check",
+   "body": "Within reach: turkey and beef, oil, salt, onions, the garlic-ginger bowl, carrots and potatoes, the water, roux, ketchup, Worcestershire, peas, a wooden spoon and the lid."
+  },
+  {
+   "title": "Brown the meat",
+   "body": "Pot over medium-high. Add **1 Tbsp neutral oil**, then **1.7 lb ground turkey + 1 lb ground beef** and **½ tsp salt**. Press flat and leave **4 min** to brown on the bottom, then break up and cook 4–5 min more until no pink remains. If fat pools, spoon it off.",
+   "timerMin": 4
+  },
+  {
+   "title": "Onions and aromatics",
+   "body": "Add the onions and cook **5 min**, stirring, until soft. Add the garlic and ginger and stir 1 min.",
+   "timerMin": 5
+  },
+  {
+   "title": "Simmer the vegetables",
+   "body": "Add the carrots, potatoes and **2½ cups water**. Scrape the bottom clean. Bring to a boil, cover, and simmer on medium-low **12–15 min** until a potato cube breaks easily with a spoon.",
+   "timerMin": 12
+  },
+  {
+   "title": "Melt in the roux",
+   "body": "Turn the heat **off**. Drop in the roux pieces and stir until fully melted, about 1 min. Stir in the ketchup, Worcestershire and peas."
+  },
+  {
+   "title": "Thicken",
+   "body": "Back on low. Simmer uncovered **5 min**, stirring often along the bottom, until thick enough to mound on a spoon. Taste; it usually needs no extra salt.",
+   "timerMin": 5
+  },
+  {
+   "title": "Serve",
+   "body": "Curry over **½ cup rice** per portion."
+  }
+ ],
+ "after": [
+  "Pack leftovers with rice and curry in the same container; they reheat well together."
+ ],
+ "source": {
+  "label": "Standard Japanese home-style kīma curry made with store-bought roux"
+ }
+}

@@ -1,0 +1,319 @@
+{
+ "label": "Nov 9–15",
+ "startDate": "2026-11-09",
+ "nights": [
+  {
+   "date": "2026-11-09",
+   "day": "Mon",
+   "recipeId": "quick-yogurt-naan",
+   "title": "Leftover dal with naan",
+   "sizing": "8 naan",
+   "leftovers": ""
+  },
+  {
+   "date": "2026-11-10",
+   "day": "Tue",
+   "recipeId": "beef-and-broccoli",
+   "title": "Beef and broccoli",
+   "sizing": "2 + 2 lunches",
+   "leftovers": "lunches Wed–Thu"
+  },
+  {
+   "date": "2026-11-11",
+   "day": "Wed",
+   "recipeId": null,
+   "title": "No dinner planned",
+   "sizing": "",
+   "leftovers": ""
+  },
+  {
+   "date": "2026-11-12",
+   "day": "Thu",
+   "recipeId": null,
+   "title": "No dinner planned",
+   "sizing": "",
+   "leftovers": ""
+  },
+  {
+   "date": "2026-11-13",
+   "day": "Fri",
+   "recipeId": "gouda-chickpea-pasta-chicken-spinach",
+   "title": "Gouda chickpea pasta with chicken & spinach",
+   "sizing": "2 + 2 lunches",
+   "leftovers": "lunches Sat"
+  },
+  {
+   "date": "2026-11-14",
+   "day": "Sat",
+   "recipeId": "japanese-ground-meat-curry",
+   "title": "Japanese ground-meat curry",
+   "sizing": "6 portions",
+   "leftovers": "dinner Sun, lunches Mon"
+  },
+  {
+   "date": "2026-11-15",
+   "day": "Sun",
+   "recipeId": "japanese-ground-meat-curry",
+   "title": "Japanese curry (leftovers)",
+   "sizing": "",
+   "leftovers": ""
+  }
+ ],
+ "todo": [
+  {
+   "date": "2026-11-13",
+   "when": "Thu night",
+   "what": "Move **1¼ lb chicken tenderloins** from the freezer to the fridge for Friday."
+  },
+  {
+   "date": "2026-11-14",
+   "when": "Fri morning",
+   "what": "Move **1 package (1.7 lb) ground turkey** and **1 lb ground beef** from the freezer to the fridge for Saturday."
+  }
+ ],
+ "notes": [],
+ "grocery": {
+  "stores": [
+   {
+    "name": "Walmart pickup",
+    "groups": [
+     {
+      "name": "Produce",
+      "items": [
+       {
+        "name": "Carrots",
+        "qty": "1 lb bag",
+        "for": [
+         "Sat"
+        ]
+       },
+       {
+        "name": "Fresh ginger",
+        "qty": "2-inch knob",
+        "for": [
+         "Tue",
+         "Sat"
+        ],
+        "note": "Need about 2 Tbsp grated. Skip if you have a firm knob at home."
+       },
+       {
+        "name": "Garlic",
+        "qty": "1 head",
+        "for": [
+         "Tue",
+         "Fri",
+         "Sat"
+        ],
+        "note": "Need 11 cloves. Skip if you have that many."
+       },
+       {
+        "name": "Broccoli florets",
+        "qty": "1½ lb",
+        "for": [
+         "Tue"
+        ],
+        "note": "Only if yours are yellow or soft."
+       }
+      ]
+     },
+     {
+      "name": "Frozen",
+      "items": [
+       {
+        "name": "Frozen chopped spinach",
+        "qty": "2 × 10 oz",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Frozen peas",
+        "qty": "12 oz bag",
+        "for": [
+         "Sat"
+        ],
+        "note": "Need 1½ cups."
+       }
+      ]
+     },
+     {
+      "name": "Dairy",
+      "items": [
+       {
+        "name": "Monterey Jack, block",
+        "qty": "8 oz",
+        "for": [
+         "Fri"
+        ],
+        "note": "Need 2 oz."
+       }
+      ]
+     },
+     {
+      "name": "Pantry",
+      "items": [
+       {
+        "name": "Calrose rice",
+        "qty": "5 lb bag",
+        "for": [
+         "Tue",
+         "Sat"
+        ]
+       },
+       {
+        "name": "Fat-free evaporated milk",
+        "qty": "1 × 12 oz can",
+        "for": [
+         "Fri"
+        ]
+       },
+       {
+        "name": "Crystal Light Energy Lemonade",
+        "qty": "1–2 boxes (10 packets)",
+        "for": [
+         "Extras"
+        ],
+        "note": "75 mg caffeine per packet."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Costco (next trip)",
+    "groups": [
+     {
+      "name": "Restock",
+      "items": [
+       {
+        "name": "Plain nonfat Greek yogurt",
+        "qty": "1 large tub",
+        "for": [
+         "Extras"
+        ]
+       },
+       {
+        "name": "Oikos Triple Zero flavored Greek yogurt",
+        "qty": "1 variety pack",
+        "for": [
+         "Extras"
+        ]
+       },
+       {
+        "name": "Fairlife protein shakes",
+        "qty": "1 case",
+        "for": [
+         "Extras"
+        ]
+       },
+       {
+        "name": "Frozen triple berry mix",
+        "qty": "1 bag",
+        "for": [
+         "Extras"
+        ]
+       },
+       {
+        "name": "Boneless skinless chicken breast",
+        "qty": "1 pack",
+        "for": [
+         "Extras"
+        ]
+       },
+       {
+        "name": "Laundry detergent",
+        "qty": "1 jug",
+        "for": [
+         "Extras"
+        ]
+       },
+       {
+        "name": "Men's deodorant",
+        "qty": "1 pack",
+        "for": [
+         "Extras"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "pantry": [
+   {
+    "name": "Japanese curry roux",
+    "qty": "about 4 oz (half a 7–8 oz box)"
+   },
+   {
+    "name": "Chickpea pasta",
+    "qty": "10 oz"
+   },
+   {
+    "name": "Aged gouda",
+    "qty": "3 oz"
+   },
+   {
+    "name": "Onions",
+    "qty": "2"
+   },
+   {
+    "name": "Potatoes",
+    "qty": "1 lb"
+   },
+   {
+    "name": "Oyster sauce",
+    "qty": "½ cup"
+   },
+   {
+    "name": "Soy sauce",
+    "qty": "2 Tbsp"
+   },
+   {
+    "name": "Light brown sugar",
+    "qty": "1½ Tbsp"
+   },
+   {
+    "name": "Cornstarch",
+    "qty": "2 Tbsp"
+   },
+   {
+    "name": "Baking soda",
+    "qty": "½ tsp"
+   },
+   {
+    "name": "Toasted sesame oil",
+    "qty": "1½ tsp",
+    "note": "Smell it; it goes rancid."
+   },
+   {
+    "name": "Neutral oil",
+    "qty": "~3½ Tbsp"
+   },
+   {
+    "name": "Olive oil",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "Dijon mustard",
+    "qty": "1 tsp"
+   },
+   {
+    "name": "Ketchup",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "Worcestershire sauce",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "Scallions",
+    "qty": "2",
+    "note": "Optional, for Tuesday."
+   },
+   {
+    "name": "Kosher salt and black pepper",
+    "qty": "—"
+   }
+  ]
+ }
+}
