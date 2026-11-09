@@ -1,0 +1,77 @@
+{
+ "name": "Quick Yogurt Naan",
+ "cuisine": "Indian",
+ "subtitle": "Skillet naan from a Greek-yogurt dough, brushed with garlic butter",
+ "servings": 8,
+ "servingUnit": "naan",
+ "yields": "8 naan, about 7 inches across",
+ "time": "~35 min, ~25 hands-on",
+ "equipment": "Cast iron or heavy 12-inch skillet with a lid, rolling pin, pastry brush or spoon",
+ "macros": {
+  "basis": "per naan, 1 of 8",
+  "kcal": 125,
+  "protein": 6,
+  "carbs": 20,
+  "fat": 3,
+  "fiber": 1,
+  "portion": "One naan, about 7 inches across.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+ },
+ "notes": "Restaurant naan is a yeasted dough slapped onto the wall of a tandoor. This is the quick skillet version: baking powder and yogurt do the rising, so there's no proofing time. It's softer and less chewy than tandoor naan, but it blisters and puffs the same way if the pan is hot enough. The dough starts sticky, so flour your hands and the counter; the 15-minute rest relaxes the gluten so it rolls thin without springing back. Bread flour gives more chew than all-purpose. Leftovers: wrap tightly, then warm in a dry skillet 20–30 seconds per side.",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "1½ cups bread or all-purpose flour, plus more for rolling",
+    "2 tsp baking powder",
+    "½ tsp kosher salt",
+    "1¼ cups plain nonfat Greek yogurt",
+    "2 tsp olive oil"
+   ]
+  },
+  {
+   "group": "Garlic butter",
+   "items": [
+    "1 Tbsp butter or ghee",
+    "1 clove garlic",
+    "Flaky salt (optional)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dough",
+   "body": "In a bowl, whisk **1½ cups flour + 2 tsp baking powder + ½ tsp kosher salt**. Stir in **1¼ cups Greek yogurt + 2 tsp olive oil** until shaggy, then knead in the bowl with floured hands about 1 min until it comes together in a soft, slightly tacky ball. Cover and rest **15 min**.",
+   "timerMin": 15
+  },
+  {
+   "title": "Garlic butter",
+   "body": "While the dough rests: melt **1 Tbsp butter** in a small bowl in the microwave (20–30 seconds) and grate in **1 clove garlic**. Set the brush beside it."
+  },
+  {
+   "title": "Roll",
+   "body": "Cut the dough into **8** pieces. On a well-floured counter, roll each into an oval or round about 7 inches across and thinner than ⅛ inch. Thin is what makes it puff. Lay them out on a floured surface without stacking."
+  },
+  {
+   "title": "Staging check",
+   "body": "Within reach: rolled dough, the lid, tongs, a clean towel for stacking the cooked naan, the garlic butter and brush, a small bowl of water."
+  },
+  {
+   "title": "Heat the pan",
+   "body": "Dry skillet over medium-high for **3 min**, until a flick of water skitters and evaporates almost instantly.",
+   "timerMin": 3
+  },
+  {
+   "title": "Cook",
+   "body": "Wet your fingers and dab a little water on the top side of one naan, then lay it in the pan dry side down. Cover with the lid. Cook **1–1½ min** until bubbles rise and the bottom has dark spots. Flip, cover again, and cook **45–60 seconds** more. Brush with garlic butter, sprinkle with flaky salt if using, and stack under the towel. Repeat. If they scorch before puffing, turn the heat down a notch; if they stay pale and stiff, turn it up.",
+   "timerMin": 1
+  },
+  {
+   "title": "Serve",
+   "body": "Serve warm. Stacked under the towel, they stay soft for 15–20 minutes."
+  }
+ ],
+ "source": {
+  "label": "Standard two-ingredient yogurt flatbread, cooked like skillet naan"
+ }
+}
