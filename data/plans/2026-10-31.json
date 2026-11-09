@@ -24,7 +24,8 @@
    "recipeId": "turkey-chili",
    "title": "Turkey chili",
    "sizing": "5 bowls",
-   "leftovers": "2 lunches"
+   "leftovers": "2 lunches",
+   "status": "cooked"
   },
   {
    "date": "2026-11-03",
@@ -32,7 +33,8 @@
    "recipeId": "soy-glazed-chicken",
    "title": "Teriyaki chicken, sesame slaw & edamame",
    "sizing": "2 + 2 lunches",
-   "leftovers": "lunches Wed"
+   "leftovers": "lunches Wed",
+   "status": "cooked"
   },
   {
    "date": "2026-11-04",
@@ -57,7 +59,8 @@
    "recipeId": "shawarma-spiced-chicken-potatoes",
    "title": "Shawarma-spiced chicken & potatoes",
    "sizing": "2 + 2 lunches",
-   "leftovers": "lunches Sat"
+   "leftovers": "lunches Sat",
+   "status": "cooked"
   },
   {
    "date": "2026-11-07",
