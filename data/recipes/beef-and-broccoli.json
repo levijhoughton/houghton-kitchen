@@ -9,9 +9,9 @@
  "equipment": "12-inch skillet or wok with a lid, rice cooker",
  "macros": {
   "basis": "per portion, 1 of 4",
-  "kcal": 610,
+  "kcal": 600,
   "protein": 50,
-  "carbs": 56,
+  "carbs": 53,
   "fat": 21,
   "fiber": 5,
   "portion": "About 5 oz cooked beef, 2 cups broccoli and ¾ cup rice.",
@@ -21,7 +21,7 @@
   "Sirloin thawed in the fridge (allow 1–2 days). Slightly firm in the middle is ideal: it slices thinner.",
   "Start the rice first."
  ],
- "notes": "The baking soda is the Chinese restaurant trick (velveting): it raises the pH at the meat's surface so the beef stays tender instead of tightening up in a hot pan. Keep the marinade to a light coating; a wet marinade pools and the beef boils instead of searing. Sear in two batches in a very hot pan for the same reason.",
+ "notes": "The baking soda is the Chinese restaurant trick (velveting): it raises the pH at the meat's surface so the beef stays tender instead of tightening up in a hot pan. Keep the marinade to a light coating; a wet marinade pools and the beef boils instead of searing. Sear in two batches in a very hot pan for the same reason. Oyster sauce brands vary a lot in saltiness, so taste the sauce before it goes in the pan; salt can't come back out once the beef is coated.",
  "ingredients": [
   {
    "group": "Rice",
@@ -33,10 +33,10 @@
    "group": "Beef",
    "items": [
     "1¾ lb top sirloin",
-    "1 Tbsp soy sauce",
-    "1 Tbsp water",
+    "2 Tbsp water",
+    "1 tsp oyster sauce",
     "1 tsp cornstarch",
-    "½ tsp baking soda"
+    "¼ tsp baking soda"
    ]
   },
   {
@@ -49,11 +49,10 @@
   {
    "group": "Sauce",
    "items": [
-    "½ cup oyster sauce",
+    "⅓ cup oyster sauce",
     "¼ cup water",
-    "1 Tbsp soy sauce",
     "1½ Tbsp brown sugar",
-    "2 tsp cornstarch",
+    "1½ tsp cornstarch",
     "1½ tsp toasted sesame oil"
    ]
   },
@@ -74,12 +73,12 @@
   },
   {
    "title": "Slice and velvet the beef",
-   "body": "Trim the fat cap off **1¾ lb sirloin**. Cut into strips about 2 inches wide, then slice each strip ¼-inch thick across the grain. In a bowl, toss with **1 Tbsp soy sauce + 1 Tbsp water + 1 tsp cornstarch + ½ tsp baking soda**. Let it sit while you do the rest (at least **15 min**).",
+   "body": "Trim the fat cap off **1¾ lb sirloin**. Cut into strips about 2 inches wide, then slice each strip ¼-inch thick across the grain. In a bowl, toss with **2 Tbsp water + 1 tsp oyster sauce + 1 tsp cornstarch + ¼ tsp baking soda** until the liquid is absorbed. Let it sit while you do the rest (at least **15 min**).",
    "timerMin": 15
   },
   {
    "title": "Sauce and aromatics",
-   "body": "In a measuring cup, whisk **½ cup oyster sauce + ¼ cup water + 1 Tbsp soy sauce + 1½ Tbsp brown sugar + 2 tsp cornstarch + 1½ tsp toasted sesame oil**. In a small bowl: **4 cloves garlic**, minced, and **1 Tbsp grated ginger**. Slice **2 scallions** if using."
+   "body": "In a measuring cup, whisk **⅓ cup oyster sauce + ¼ cup water + 1½ Tbsp brown sugar + 1½ tsp cornstarch + 1½ tsp toasted sesame oil**. Taste it: it should be bold, savory and a little sweet, saltier than you'd eat on its own but not harsh. If it's harsh, whisk in 1–2 Tbsp more water. In a small bowl: **4 cloves garlic**, minced, and **1 Tbsp grated ginger**. Slice **2 scallions** if using."
   },
   {
    "title": "Staging check",
