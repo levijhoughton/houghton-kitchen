@@ -18,7 +18,9 @@
   "spicy-peanut-chicken-noodles",
   "quick-yogurt-naan",
   "japanese-ground-meat-curry",
-  "gouda-chickpea-pasta-chicken-spinach"
+  "gouda-chickpea-pasta-chicken-spinach",
+  "creamy-gochujang-noodles-crispy-beef",
+  "sticky-honey-garlic-chicken-noodles"
  ],
  "plans": [
   "2026-10-14",
@@ -26,7 +28,7 @@
   "2026-10-31",
   "2026-11-09"
  ],
- "updated": "2026-11-09",
+ "updated": "2026-11-13",
  "freezer": true,
  "restock": true
 }

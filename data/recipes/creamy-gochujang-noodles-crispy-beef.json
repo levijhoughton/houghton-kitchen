@@ -1,0 +1,97 @@
+{
+ "name": "Creamy Gochujang Noodles with Crispy Beef",
+ "cuisine": "Korean-inspired",
+ "subtitle": "Chewy noodles in a blended cottage cheese–gochujang sauce, topped with maple-glazed lean beef, with broccoli and edamame",
+ "servings": 5,
+ "servingUnit": "portions",
+ "yields": "2 dinners + 3 lunches",
+ "time": "~25 min, ~20 hands-on",
+ "equipment": "Large pot, 12-inch skillet, blender",
+ "macros": {
+  "basis": "per portion, 1 of 5",
+  "kcal": 620,
+  "protein": 50,
+  "carbs": 77,
+  "fat": 11,
+  "fiber": 7,
+  "portion": "About 2½ cups total: 1¼ cups sauced noodles, ~3½ oz cooked beef, and 1 cup broccoli and edamame.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Assumes 2% cottage cheese and refined wheat noodles; whole wheat noodles add ~3 g fiber."
+ },
+ "before": [
+  "**1½ lb 96% lean ground beef** thawed in the fridge, if frozen."
+ ],
+ "notes": "The cottage cheese blends into a smooth, creamy, high-protein sauce. Toss it with the noodles off the heat: boiled, it can turn grainy. The noodle water stays unsalted because the gochujang and glaze carry plenty of salt. Let the beef sit undisturbed once the glaze goes in so it caramelizes into crispy bits.",
+ "ingredients": [
+  {
+   "group": "Creamy gochujang sauce",
+   "items": [
+    "1¼ cups low-fat cottage cheese",
+    "5 Tbsp gochujang (105 g)",
+    "5 Tbsp water"
+   ]
+  },
+  {
+   "group": "Crispy beef",
+   "items": [
+    "1½ lb 96% lean ground beef",
+    "1 tsp neutral oil",
+    "2½ Tbsp maple syrup",
+    "1½ Tbsp low-sodium soy sauce",
+    "1 Tbsp rice vinegar",
+    "1 tsp toasted sesame oil",
+    "2 cloves garlic",
+    "5 scallions, whites and greens separated"
+   ]
+  },
+  {
+   "group": "Noodles and vegetables",
+   "items": [
+    "12½ oz dried wheat noodles (knife-cut, lo mein or udon; 360 g)",
+    "1 lb broccoli florets",
+    "1 cup frozen shelled edamame",
+    "1 Tbsp toasted sesame seeds"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Water on",
+   "body": "Large pot of unsalted water, covered, over high heat."
+  },
+  {
+   "title": "Prep while it heats",
+   "body": "Blend **1¼ cups cottage cheese + 5 Tbsp gochujang + 5 Tbsp water** until completely smooth; leave it in the blender. In a small bowl, mix the glaze: **2½ Tbsp maple syrup + 1½ Tbsp low-sodium soy sauce + 1 Tbsp rice vinegar + 1 tsp toasted sesame oil**, plus **2 cloves garlic**, minced. Slice **5 scallions**: whites into the glaze, greens set aside. Cut the **broccoli** bite-size if needed."
+  },
+  {
+   "title": "Brown the beef",
+   "body": "Skillet over medium-high with **1 tsp neutral oil**. Press **1½ lb ground beef** into an even layer and leave it **4 min** to brown. Break it up and cook **2–3 min** more, until no pink remains.",
+   "timerMin": 4
+  },
+  {
+   "title": "Noodles in",
+   "body": "Add **12½ oz noodles** to the boiling water and set a timer for the package time."
+  },
+  {
+   "title": "Glaze the beef",
+   "body": "Pour the glaze over the beef and stir once. Then leave it **2–3 min** without stirring, until the liquid is gone and the beef is sticky and browned in spots. Take the pan off the heat.",
+   "timerMin": 3
+  },
+  {
+   "title": "Vegetables into the noodle pot",
+   "body": "With 3 min left on the noodles, add **1 lb broccoli**. With 1 min left, add **1 cup edamame**. Scoop out **¾ cup noodle water**, then drain everything together.",
+   "timerMin": 3
+  },
+  {
+   "title": "Toss off the heat",
+   "body": "Return the noodles and vegetables to the empty pot, off the heat. Add the gochujang sauce and toss, adding noodle water a spoonful at a time until it's creamy and coats everything. Top with the beef, scallion greens and **1 Tbsp sesame seeds**."
+  }
+ ],
+ "after": [
+  "Pack 3 lunches with the beef on top. Add **1 Tbsp water** per container and reheat at 50% power, stirring halfway, so the sauce stays smooth.",
+  "Doesn't freeze well; the sauce turns grainy."
+ ],
+ "source": {
+  "label": "Adapted from masonfit's Creamy Gochujang Noodles",
+  "url": "https://masonfit.com/creamy-gochujang-noodles/"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "name": "Sticky Honey Garlic Chicken Noodles",
+ "cuisine": "Asian-American",
+ "subtitle": "Crispy ground chicken in a sticky honey, garlic, chili and black vinegar glaze, tossed with noodles and seared cabbage slaw",
+ "servings": 5,
+ "servingUnit": "portions",
+ "yields": "2 dinners + 3 lunches",
+ "time": "~30 min, ~25 hands-on",
+ "equipment": "Large pot, 12-inch nonstick skillet",
+ "macros": {
+  "basis": "per portion, 1 of 5",
+  "kcal": 575,
+  "protein": 51,
+  "carbs": 73,
+  "fat": 7,
+  "fiber": 4,
+  "portion": "About 2½ cups: 1¼ cups noodles, ~4½ oz cooked chicken, and ¾ cup seared slaw.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Assumes ground chicken breast; regular ground chicken (about 93% lean) adds ~80 kcal and lowers protein a few grams per portion."
+ },
+ "before": [
+  "**2 lb ground chicken breast** thawed in the fridge, if frozen."
+ ],
+ "notes": "Sear the slaw in two batches so it browns instead of steaming. Leave the chicken alone at first so it forms a golden crust, and stir sparingly once the sauce goes in so it reduces to a sticky glaze. Chinese black vinegar gives a malty, smoky tang. Balsamic works but tastes sweeter and fruitier.",
+ "ingredients": [
+  {
+   "group": "Sauce",
+   "items": [
+    "5 Tbsp honey",
+    "3 Tbsp chili garlic sauce (or sriracha)",
+    "3 Tbsp low-sodium soy sauce",
+    "3 Tbsp Chinese black vinegar (or balsamic)",
+    "1 Tbsp grated fresh ginger",
+    "6 cloves garlic",
+    "⅓ cup water"
+   ]
+  },
+  {
+   "group": "Chicken and slaw",
+   "items": [
+    "1 × 14 oz bag coleslaw mix (about 8 cups)",
+    "3 tsp olive oil, divided",
+    "2 lb ground chicken breast",
+    "5 scallions, greens sliced"
+   ]
+  },
+  {
+   "group": "Noodles",
+   "items": [
+    "12 oz dried wheat noodles (knife-cut, lo mein or udon; 340 g)",
+    "1 tsp toasted sesame oil",
+    "1 Tbsp toasted sesame seeds"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Water on",
+   "body": "Large pot of unsalted water, covered, over high heat."
+  },
+  {
+   "title": "Prep while it heats",
+   "body": "In a bowl, whisk the sauce: **5 Tbsp honey + 3 Tbsp chili garlic sauce + 3 Tbsp low-sodium soy sauce + 3 Tbsp black vinegar + ⅓ cup water**, plus **1 Tbsp grated ginger** and **6 cloves garlic**, minced. Taste it: sweet, tangy and hot, saltier than you'd eat alone but not harsh. If it's harsh, add **1–2 Tbsp water**. Slice the greens of **5 scallions**."
+  },
+  {
+   "title": "Sear the slaw",
+   "body": "Skillet over medium-high with **1 tsp olive oil**. Add half the **coleslaw mix** and cook **3–4 min**, tossing occasionally, until browned in spots but still crisp-tender. Move to a bowl. Repeat with **1 tsp olive oil** and the rest of the slaw.",
+   "timerMin": 4
+  },
+  {
+   "title": "Brown the chicken",
+   "body": "Same skillet over medium-high with **1 tsp olive oil**. Press **2 lb ground chicken** into an even layer and leave it **3 min** to brown. Flip in sections, cook **2–3 min** more, then break it into bite-size pieces.",
+   "timerMin": 3
+  },
+  {
+   "title": "Noodles in",
+   "body": "Add **12 oz noodles** to the boiling water and set a timer for the package time."
+  },
+  {
+   "title": "Glaze the chicken",
+   "body": "Pour the sauce over the chicken. Cook **3–4 min**, stirring only occasionally, until the liquid reduces to a sticky glaze and the chicken is cooked through (165°F).",
+   "timerMin": 4
+  },
+  {
+   "title": "Drain and toss",
+   "body": "Scoop out **½ cup noodle water**, then drain the noodles and return them to the pot. Add the chicken, slaw and **1 tsp toasted sesame oil**, and toss, adding noodle water a spoonful at a time until everything is glossy. Top with the scallion greens and **1 Tbsp sesame seeds**."
+  }
+ ],
+ "after": [
+  "Pack 3 lunches. Add **1 Tbsp water** per container before microwaving; the noodles soak up the glaze overnight.",
+  "Doesn't freeze well; the slaw goes limp."
+ ],
+ "source": {
+  "label": "Adapted from masonfit's Sticky Honey Garlic Chicken Noodles",
+  "url": "https://masonfit.com/honey-garlic-chicken-noodles/"
+ }
+}
