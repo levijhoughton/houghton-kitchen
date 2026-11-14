@@ -1,9 +1,14 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "items": [
   {
    "name": "Iodized salt (Great Value)",
    "qty": "1 × 26 oz canister",
+   "store": "Walmart"
+  },
+  {
+   "name": "Unsweetened cocoa powder (Great Value)",
+   "qty": "1 × 8 oz canister",
    "store": "Walmart"
   }
  ]
