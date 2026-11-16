@@ -1,0 +1,130 @@
+{
+ "name": "Thai-Style Basil Chicken",
+ "cuisine": "Thai",
+ "subtitle": "Chopped chicken with garlic, chilies and sweet basil, rice and stir-fried green beans",
+ "servings": 5,
+ "servingUnit": "portions",
+ "yields": "2 dinners + 3 lunches",
+ "time": "~40 min, ~35 hands-on",
+ "equipment": "Wok or 12-inch skillet, rice cooker",
+ "macros": {
+  "basis": "per portion, 1 of 5",
+  "kcal": 640,
+  "protein": 46,
+  "carbs": 80,
+  "fat": 12,
+  "fiber": 5,
+  "portion": "About 1½ cups rice, a heaping ¾ cup chicken (~4½ oz cooked) and 1 cup green beans.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. A fried egg on top adds about 90 kcal and 6 g protein."
+ },
+ "before": [
+  "**30 oz chicken breast or tenderloins** thawed in the fridge. Slightly firm (not fully soft) chops faster."
+ ],
+ "notes": "Modeled on pad krapow, made with sweet basil because holy basil isn't available here. Sweet basil is milder and sweeter, so this tastes like basil chicken rather than the peppery Thai original. Hand-chopping the chicken small, instead of slicing it, gives the dish its texture. Sear the chicken in two batches so it browns instead of stewing, and keep the heat high once the sauce goes in so it cooks down to a glaze.",
+ "ingredients": [
+  {
+   "group": "Rice",
+   "items": [
+    "2½ cups calrose rice, dry"
+   ]
+  },
+  {
+   "group": "Chicken",
+   "items": [
+    "30 oz chicken breast or tenderloins",
+    "1 Tbsp neutral oil (for searing)"
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    "3 Tbsp oyster sauce",
+    "1 Tbsp soy sauce",
+    "1 Tbsp fish sauce",
+    "1 Tbsp brown sugar",
+    "2 Tbsp water"
+   ]
+  },
+  {
+   "group": "Aromatics",
+   "items": [
+    "8 cloves garlic",
+    "4 serrano peppers (2 for milder)",
+    "1 Tbsp neutral oil"
+   ]
+  },
+  {
+   "group": "Basil",
+   "items": [
+    "2 cups sweet basil leaves (about 3 × 0.75 oz clamshells)"
+   ]
+  },
+  {
+   "group": "Green beans",
+   "items": [
+    "1½ lb fresh green beans",
+    "1 Tbsp neutral oil",
+    "3 Tbsp water",
+    "1 tsp soy sauce",
+    "Pinch of salt"
+   ]
+  },
+  {
+   "group": "Optional",
+   "items": [
+    "Fried eggs, 1 per plate"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "PREP 1 — Start the rice",
+   "body": "Rinse **2½ cups calrose rice** until the water runs mostly clear. Cook in the rice cooker with water to the cooker's line."
+  },
+  {
+   "title": "PREP 2 — Chop the chicken",
+   "body": "Cut **30 oz chicken** into ½-inch strips, then chop across into rough ¼-inch pieces, about the size of ground meat but coarser. Into a bowl."
+  },
+  {
+   "title": "PREP 3 — Sauce",
+   "body": "In a small bowl, stir **3 Tbsp oyster sauce + 1 Tbsp soy sauce + 1 Tbsp fish sauce + 1 Tbsp brown sugar + 2 Tbsp water** until the sugar dissolves."
+  },
+  {
+   "title": "PREP 4 — Aromatics",
+   "body": "Mince **8 cloves garlic** and **4 serranos** together (seed the serranos for less heat). One small bowl."
+  },
+  {
+   "title": "PREP 5 — Beans and basil",
+   "body": "Trim **1½ lb green beans** and cut into 2-inch pieces. Pick **2 cups basil leaves**, tearing any large ones."
+  },
+  {
+   "title": "PREP 6 — Stage",
+   "body": "Within reach of the stove: chicken, sauce, garlic-chili bowl, green beans, basil, neutral oil, soy sauce, a cup of water, two empty bowls (beans, seared chicken), spatula."
+  },
+  {
+   "title": "COOK 1 — Green beans",
+   "body": "Wok over high until smoking. **1 Tbsp oil**, then the beans; stir-fry **2 min** until spotted. Add **3 Tbsp water**, cover, steam **3 min** until crisp-tender. Uncover, add **1 tsp soy sauce** and a **pinch of salt**, toss until dry. Into a bowl.",
+   "timerMin": 3
+  },
+  {
+   "title": "COOK 2 — Sear the chicken",
+   "body": "Wipe the wok, back on high. **½ Tbsp oil**, half the chicken in an even layer. Leave it **1 min** to brown, then stir-fry **2–3 min** until no pink remains and the liquid is gone. Into a bowl. Repeat with **½ Tbsp oil** and the rest."
+  },
+  {
+   "title": "COOK 3 — Aromatics and sauce",
+   "body": "Still on high, **1 Tbsp oil**, then the garlic-chili bowl; stir **30 seconds** until fragrant, not brown. Return all the chicken, pour in the sauce, and toss **1–2 min** until the sauce is gone from the bottom of the pan and the chicken is glossy."
+  },
+  {
+   "title": "COOK 4 — Basil",
+   "body": "Off the heat, add the **basil** and toss **30 seconds** until just wilted. Fry eggs now if you're having them."
+  },
+  {
+   "title": "Serve",
+   "body": "Each plate: **1½ cups rice**, a fifth of the chicken and a fifth of the beans, with an egg on top if using."
+  }
+ ],
+ "after": [
+  "Pack 3 lunches with rice, chicken and beans together. The basil darkens overnight, but the flavor holds.",
+  "Reheat covered with a splash of water so the rice doesn't dry out."
+ ]
+}

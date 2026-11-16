@@ -1,0 +1,95 @@
+{
+ "name": "Turkey, White Bean & Kale Soup",
+ "cuisine": "Italian-inspired",
+ "subtitle": "Instant Pot soup with ground turkey, cannellini, kale and lemon, with crusty bread",
+ "servings": 5,
+ "servingUnit": "portions",
+ "yields": "2 dinners + 3 lunches",
+ "time": "~45 min, ~20 hands-on",
+ "equipment": "Instant Pot",
+ "macros": {
+  "basis": "per portion, 1 of 5",
+  "kcal": 690,
+  "protein": 53,
+  "carbs": 73,
+  "fat": 20,
+  "fiber": 15,
+  "portion": "About 2½ cups soup, 1½ Tbsp parmesan and a 1½ oz slice of bread.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+ },
+ "before": [
+  "**1.7 lb ground turkey** thawed in the fridge."
+ ],
+ "notes": "The kale goes in after pressure cooking so it stays green and holds some texture, and the lemon goes in off the heat so it stays bright. Scrape the pot bottom completely clean after adding the broth, or the Instant Pot can throw a burn warning.",
+ "ingredients": [
+  {
+   "group": "Soup",
+   "items": [
+    "1.7 lb ground turkey",
+    "1 Tbsp olive oil",
+    "1 yellow onion",
+    "2 carrots",
+    "3 ribs celery",
+    "6 cloves garlic",
+    "2 tsp Italian seasoning (or dried thyme)",
+    "¼–½ tsp red pepper flakes",
+    "1¼ tsp kosher salt",
+    "½ tsp black pepper",
+    "4 cups chicken bone broth",
+    "1 can diced tomatoes (14.5 oz)",
+    "3 cans cannellini beans (15 oz each), drained and rinsed"
+   ]
+  },
+  {
+   "group": "Finish",
+   "items": [
+    "10 oz chopped kale",
+    "1 lemon",
+    "½ cup shredded parmesan"
+   ]
+  },
+  {
+   "group": "Serving",
+   "items": [
+    "5 slices crusty bread (about 1½ oz each)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Prep the vegetables",
+   "body": "Dice **1 onion**, **2 carrots** and **3 ribs celery** into one bowl. Mince **6 cloves garlic** into a small bowl."
+  },
+  {
+   "title": "Brown the turkey",
+   "body": "Instant Pot on Sauté (high). **1 Tbsp olive oil**, then **1.7 lb turkey**; break it up and cook **6–7 min** until no pink remains and some bits brown. While it cooks, drain and rinse **3 cans cannellini** and open **1 can diced tomatoes**.",
+   "timerMin": 7
+  },
+  {
+   "title": "Vegetables and spices",
+   "body": "Add the onion-carrot-celery bowl, the garlic, **2 tsp Italian seasoning**, **¼–½ tsp red pepper flakes**, **1¼ tsp salt** and **½ tsp pepper**. Cook **3 min**, stirring."
+  },
+  {
+   "title": "Pressure cook",
+   "body": "Pour in **4 cups bone broth** and scrape the bottom until nothing sticks. Add the tomatoes and beans; stir. Lock the lid, sealing, High Pressure **5 min**. It takes about 15 min to come up to pressure.",
+   "timerMin": 5
+  },
+  {
+   "title": "Prep during pressure",
+   "body": "Zest and juice **1 lemon** (about **2 Tbsp juice**). Slice **5 pieces of bread** and toast if you like."
+  },
+  {
+   "title": "Release and add the kale",
+   "body": "Quick release. Switch to Sauté, stir in **10 oz kale**, and simmer **3–4 min** until tender. Turn off. Stir in the lemon juice and zest. Mash about **1 cup of beans** against the side of the pot for a thicker soup, if you want. Taste for salt.",
+   "timerMin": 4
+  },
+  {
+   "title": "Serve",
+   "body": "Each bowl: **about 2½ cups soup** with **1½ Tbsp parmesan** on top, and a slice of bread."
+  }
+ ],
+ "after": [
+  "Pack 3 lunches of about 2½ cups each; it thickens in the fridge, so add a splash of water when reheating.",
+  "Freezes well for up to 3 months. Keep the parmesan and bread separate."
+ ]
+}

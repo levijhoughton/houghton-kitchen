@@ -1,0 +1,110 @@
+{
+ "name": "Cottage Pie",
+ "cuisine": "British",
+ "subtitle": "Beef and lentil filling with carrots and peas under a Yukon gold mash, with steamed broccoli",
+ "servings": 5,
+ "servingUnit": "portions",
+ "yields": "5 portions",
+ "time": "~70 min, ~35 hands-on",
+ "equipment": "12-inch oven-safe skillet (or skillet + 9×13 dish), large pot",
+ "macros": {
+  "basis": "per portion, 1 of 5",
+  "kcal": 700,
+  "protein": 48,
+  "carbs": 84,
+  "fat": 18,
+  "fiber": 15,
+  "portion": "A fifth of the pie (about 1¾ cups: 1 cup filling under ¾ cup mash) and about 1 cup broccoli.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number. Includes the broccoli."
+ },
+ "before": [
+  "**1½ lb ground beef** thawed in the fridge.",
+  "Can be assembled up to a day ahead: cover and refrigerate before baking."
+ ],
+ "notes": "A small amount of lentils cooks right in the gravy, adding fiber and stretching the beef without changing the dish. Tomato paste and Worcestershire give it depth, so no canned tomatoes are needed. Greek yogurt in the mash replaces most of the usual butter and cream; keep the 2 Tbsp butter for flavor.",
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "1½ lb ground beef 93/7",
+    "½ Tbsp olive oil",
+    "1 yellow onion",
+    "2 carrots",
+    "4 cloves garlic",
+    "2 Tbsp double-concentrated tomato paste",
+    "2 Tbsp all-purpose flour",
+    "2 cups beef bone broth",
+    "2 Tbsp Worcestershire sauce",
+    "1½ tsp dried thyme (or Italian seasoning)",
+    "½ cup brown lentils, dry, rinsed",
+    "½ tsp kosher salt",
+    "½ tsp black pepper",
+    "1½ cups frozen peas"
+   ]
+  },
+  {
+   "group": "Mash",
+   "items": [
+    "3 lb Yukon gold potatoes",
+    "1 Tbsp kosher salt (for the water)",
+    "2 Tbsp butter",
+    "⅓ cup milk",
+    "½ cup nonfat plain Greek yogurt",
+    "½ tsp kosher salt",
+    "¼ tsp black pepper",
+    "¼ cup shredded parmesan"
+   ]
+  },
+  {
+   "group": "Side",
+   "items": [
+    "2 bags steamable broccoli (12 oz each)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Prep the filling vegetables",
+   "body": "Dice **1 onion** and **2 carrots** (½-inch) into one bowl. Mince **4 cloves garlic**. Rinse **½ cup lentils**."
+  },
+  {
+   "title": "Brown the beef",
+   "body": "Oven-safe skillet over medium-high, **½ Tbsp olive oil**, then **1½ lb beef**. Leave it **4 min** to brown, then break up and cook **3–4 min** more. Spoon off any fat.",
+   "timerMin": 4
+  },
+  {
+   "title": "Build the filling",
+   "body": "Add the onion and carrots and cook **4 min**. Stir in the garlic and **2 Tbsp tomato paste** for **1 min**, then **2 Tbsp flour** for **1 min**. Add **2 cups bone broth**, **2 Tbsp Worcestershire**, **1½ tsp thyme**, the lentils, **½ tsp salt** and **½ tsp pepper**, scraping the bottom. Bring to a simmer, cover, and cook on low **25 min**, stirring now and then, until the lentils are tender.",
+   "timerMin": 25
+  },
+  {
+   "title": "Potatoes, during the simmer",
+   "body": "Heat the oven to 425°F. Peel **3 lb potatoes** and cut into 1½-inch chunks. Into a large pot with cold water to cover and **1 Tbsp salt**. Boil, then simmer **12–15 min** until a knife slides in easily.",
+   "timerMin": 15
+  },
+  {
+   "title": "Mash",
+   "body": "Drain the potatoes, return them to the warm pot, and mash with **2 Tbsp butter**, **⅓ cup milk**, **½ cup Greek yogurt**, **½ tsp salt** and **¼ tsp pepper** until smooth."
+  },
+  {
+   "title": "Finish the filling",
+   "body": "Uncover the filling and stir in **1½ cups frozen peas**. If it's soupy, simmer uncovered **2–3 min** until it's a thick gravy that holds on a spoon. Taste for salt."
+  },
+  {
+   "title": "Top and bake",
+   "body": "Spread the mash over the filling (in the skillet, or move the filling to a 9×13 dish first), seal it to the edges, and rough the top with a fork. Scatter **¼ cup parmesan**. Bake **20 min** at 425°F, then broil **2–3 min** until browned in spots. If you assembled it ahead and it's cold from the fridge, bake **35–40 min** instead.",
+   "timerMin": 20
+  },
+  {
+   "title": "Broccoli and rest",
+   "body": "Let the pie rest **5 min** while you microwave **2 bags broccoli** per the package."
+  },
+  {
+   "title": "Serve",
+   "body": "Cut into fifths. Each plate: one wedge of pie and about **1 cup broccoli**."
+  }
+ ],
+ "after": [
+  "Leftovers keep 4 days in the fridge and freeze well; reheat covered at 350°F or in the microwave."
+ ]
+}

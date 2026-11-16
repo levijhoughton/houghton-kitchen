@@ -1,5 +1,5 @@
 {
- "label": "Nov 9–15",
+ "label": "Nov 9–14",
  "startDate": "2026-11-09",
  "nights": [
   {
@@ -16,7 +16,8 @@
    "recipeId": "beef-and-broccoli",
    "title": "Beef and broccoli",
    "sizing": "2 + 2 lunches",
-   "leftovers": "lunches Wed–Thu"
+   "leftovers": "lunches Wed–Thu",
+   "status": "cooked"
   },
   {
    "date": "2026-11-11",
@@ -40,23 +41,16 @@
    "recipeId": "gouda-chickpea-pasta-chicken-spinach",
    "title": "Gouda chickpea pasta with chicken & spinach",
    "sizing": "2 + 2 lunches",
-   "leftovers": "lunches Sat"
+   "leftovers": "lunches Sat",
+   "status": "cooked"
   },
   {
    "date": "2026-11-14",
    "day": "Sat",
    "recipeId": "japanese-ground-meat-curry",
    "title": "Japanese ground-meat curry",
-   "sizing": "6 portions",
-   "leftovers": "dinner Sun, lunches Mon"
-  },
-  {
-   "date": "2026-11-15",
-   "day": "Sun",
-   "recipeId": "japanese-ground-meat-curry",
-   "title": "Japanese curry (leftovers)",
-   "sizing": "",
-   "leftovers": ""
+   "sizing": "2 + 3 lunches",
+   "leftovers": "lunches Mon–Tue"
   }
  ],
  "todo": [

@@ -1,19 +1,20 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-16",
  "items": [
   {
    "name": "Chicken breasts",
-   "amount": "plenty"
+   "amount": "plenty",
+   "note": "30 oz comes out for Sun."
   },
   {
    "name": "Chicken tenderloins",
    "amount": "plenty",
-   "note": "1¼ lb comes out this week."
+   "note": "Tue uses 30 oz breast or tenderloins."
   },
   {
    "name": "Ground beef, 93/7",
    "amount": "plenty",
-   "note": "1 lb comes out this week."
+   "note": "20 oz (Mon) and 1½ lb (Thu) come out this week."
   },
   {
    "name": "Ground turkey, 1.7 lb packages",
@@ -22,8 +23,7 @@
   },
   {
    "name": "Sirloin steaks",
-   "amount": "3",
-   "note": "1¾ lb comes out this week."
+   "amount": "3"
   },
   {
    "name": "Beef chuck roast",

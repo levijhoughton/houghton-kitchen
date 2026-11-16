@@ -1,0 +1,460 @@
+{
+ "label": "Nov 15–20",
+ "startDate": "2026-11-15",
+ "nights": [
+  {
+   "date": "2026-11-15",
+   "day": "Sun",
+   "recipeId": "chili-crisp-chicken-rice",
+   "title": "Slow cooker chili crisp chicken & rice",
+   "sizing": "2 + 3 lunches",
+   "leftovers": "lunches Mon–Wed"
+  },
+  {
+   "date": "2026-11-16",
+   "day": "Mon",
+   "recipeId": "creamy-chipotle-broth-bowls",
+   "title": "Creamy chipotle broth bowls",
+   "sizing": "2 + 3 lunches",
+   "leftovers": "lunches Tue–Thu"
+  },
+  {
+   "date": "2026-11-17",
+   "day": "Tue",
+   "recipeId": "thai-style-basil-chicken",
+   "title": "Thai-style basil chicken with green beans",
+   "sizing": "2 + 3 lunches",
+   "leftovers": "lunches Wed–Fri"
+  },
+  {
+   "date": "2026-11-18",
+   "day": "Wed",
+   "recipeId": "turkey-white-bean-kale-soup",
+   "title": "Turkey, white bean & kale soup",
+   "sizing": "2 + 3 lunches",
+   "leftovers": "lunches Thu–Fri"
+  },
+  {
+   "date": "2026-11-19",
+   "day": "Thu",
+   "recipeId": "cottage-pie",
+   "title": "Cottage pie with broccoli",
+   "sizing": "5 portions",
+   "leftovers": ""
+  },
+  {
+   "date": "2026-11-20",
+   "day": "Fri",
+   "recipeId": null,
+   "title": "No dinner planned",
+   "sizing": "",
+   "leftovers": ""
+  }
+ ],
+ "todo": [
+  {
+   "date": "2026-11-15",
+   "when": "Sun night",
+   "what": "Move **20 oz ground beef** from the freezer to the fridge for Monday."
+  },
+  {
+   "date": "2026-11-16",
+   "when": "Mon night",
+   "what": "Move **30 oz chicken breast or tenderloins** from the freezer to the fridge for Tuesday."
+  },
+  {
+   "date": "2026-11-17",
+   "when": "Tue night",
+   "what": "Move **1 package (1.7 lb) ground turkey** from the freezer to the fridge for Wednesday."
+  },
+  {
+   "date": "2026-11-18",
+   "when": "Wed night",
+   "what": "Move **1½ lb ground beef** from the freezer to the fridge for the cottage pie."
+  }
+ ],
+ "notes": [
+  "Cottage pie (Thu) and the night off (Fri) can swap."
+ ],
+ "grocery": {
+  "stores": [
+   {
+    "name": "Walmart pickup",
+    "groups": [
+     {
+      "name": "Produce",
+      "items": [
+       {
+        "name": "Zucchini",
+        "qty": "4 medium-large (~2 lb)",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Limes",
+        "qty": "2",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Coleslaw mix",
+        "qty": "1 × 14 oz bag",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Matchstick carrots",
+        "qty": "1 × 10 oz bag",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "English cucumbers",
+        "qty": "2",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Scallions",
+        "qty": "1 bunch",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Fresh ginger",
+        "qty": "1 small knob",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Sweet basil",
+        "qty": "3 × 0.75 oz clamshells",
+        "for": [
+         "Tue"
+        ],
+        "note": "Need about 2 cups leaves."
+       },
+       {
+        "name": "Serrano peppers",
+        "qty": "4",
+        "for": [
+         "Tue"
+        ]
+       },
+       {
+        "name": "Fresh green beans",
+        "qty": "1½ lb",
+        "for": [
+         "Tue"
+        ]
+       },
+       {
+        "name": "Chopped kale",
+        "qty": "1 × 10 oz bag",
+        "for": [
+         "Wed"
+        ]
+       },
+       {
+        "name": "Celery",
+        "qty": "1 bunch",
+        "for": [
+         "Wed"
+        ],
+        "note": "Need 3 ribs."
+       },
+       {
+        "name": "Lemon",
+        "qty": "1",
+        "for": [
+         "Wed"
+        ]
+       },
+       {
+        "name": "Whole carrots",
+        "qty": "1 × 1 lb bag",
+        "for": [
+         "Wed",
+         "Thu"
+        ]
+       },
+       {
+        "name": "Yukon gold potatoes",
+        "qty": "1 × 3 lb bag",
+        "for": [
+         "Thu"
+        ]
+       },
+       {
+        "name": "Garlic",
+        "qty": "2 heads",
+        "for": [
+         "Sun",
+         "Mon",
+         "Tue",
+         "Wed",
+         "Thu"
+        ],
+        "note": "Need about 23 cloves."
+       }
+      ]
+     },
+     {
+      "name": "Frozen",
+      "items": [
+       {
+        "name": "Frozen corn",
+        "qty": "1 × 16 oz bag",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Frozen shelled edamame",
+        "qty": "1 × 12 oz bag",
+        "for": [
+         "Sun"
+        ]
+       },
+       {
+        "name": "Frozen peas",
+        "qty": "1 × 12 oz bag",
+        "for": [
+         "Thu"
+        ]
+       },
+       {
+        "name": "Steamable broccoli",
+        "qty": "2 × 12 oz bags",
+        "for": [
+         "Thu"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Dairy",
+      "items": [
+       {
+        "name": "Low-fat cottage cheese",
+        "qty": "1 × 16 oz",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Nonfat plain Greek yogurt",
+        "qty": "1 × 16 oz",
+        "for": [
+         "Sun",
+         "Thu"
+        ]
+       },
+       {
+        "name": "Shredded parmesan",
+        "qty": "1 × 5 oz bag",
+        "for": [
+         "Wed",
+         "Thu"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Pantry",
+      "items": [
+       {
+        "name": "Chipotles in adobo",
+        "qty": "1 × 7 oz can",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Beef bone broth",
+        "qty": "2 × 32 oz cartons",
+        "for": [
+         "Mon",
+         "Thu"
+        ]
+       },
+       {
+        "name": "Chicken bone broth",
+        "qty": "2 × 32 oz cartons",
+        "for": [
+         "Sun",
+         "Wed"
+        ]
+       },
+       {
+        "name": "Black beans",
+        "qty": "1 × 15 oz can",
+        "for": [
+         "Mon"
+        ]
+       },
+       {
+        "name": "Double-concentrated tomato paste",
+        "qty": "1 tube",
+        "for": [
+         "Mon",
+         "Thu"
+        ]
+       },
+       {
+        "name": "Oyster sauce",
+        "qty": "1 bottle",
+        "for": [
+         "Tue"
+        ]
+       },
+       {
+        "name": "Cannellini beans",
+        "qty": "3 × 15 oz cans",
+        "for": [
+         "Wed"
+        ]
+       },
+       {
+        "name": "Diced tomatoes",
+        "qty": "1 × 14.5 oz can",
+        "for": [
+         "Wed"
+        ]
+       },
+       {
+        "name": "Brown lentils, dry",
+        "qty": "1 × 16 oz bag",
+        "for": [
+         "Thu"
+        ]
+       },
+       {
+        "name": "Crusty bread",
+        "qty": "1 loaf",
+        "for": [
+         "Wed"
+        ]
+       },
+       {
+        "name": "Iodized salt (Great Value)",
+        "qty": "1 × 26 oz canister",
+        "for": [
+         "Restock"
+        ]
+       },
+       {
+        "name": "Unsweetened cocoa powder (Great Value)",
+        "qty": "1 × 8 oz canister",
+        "for": [
+         "Restock"
+        ]
+       },
+       {
+        "name": "Apple cider",
+        "qty": "2 containers",
+        "for": [
+         "Restock"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "pantry": [
+   {
+    "name": "Calrose rice",
+    "qty": "~3¾ cups dry"
+   },
+   {
+    "name": "Yellow onions",
+    "qty": "2"
+   },
+   {
+    "name": "Soy sauce",
+    "qty": "~4 Tbsp"
+   },
+   {
+    "name": "Fish sauce",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "Honey",
+    "qty": "~5 Tbsp"
+   },
+   {
+    "name": "Rice vinegar",
+    "qty": "~3½ Tbsp"
+   },
+   {
+    "name": "Seasoned rice vinegar",
+    "qty": "~1½ Tbsp"
+   },
+   {
+    "name": "Sriracha",
+    "qty": "~4 Tbsp"
+   },
+   {
+    "name": "Chili crisp",
+    "qty": "4½ Tbsp"
+   },
+   {
+    "name": "Worcestershire sauce",
+    "qty": "2 Tbsp"
+   },
+   {
+    "name": "Light mayonnaise",
+    "qty": "2 Tbsp"
+   },
+   {
+    "name": "Ketchup",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "Toasted sesame oil",
+    "qty": "1 tsp",
+    "note": "Smell it; it goes rancid."
+   },
+   {
+    "name": "Olive oil",
+    "qty": "~3 Tbsp"
+   },
+   {
+    "name": "Neutral oil",
+    "qty": "~3 Tbsp"
+   },
+   {
+    "name": "Brown sugar",
+    "qty": "1 Tbsp"
+   },
+   {
+    "name": "All-purpose flour",
+    "qty": "2 Tbsp"
+   },
+   {
+    "name": "Butter",
+    "qty": "2 Tbsp"
+   },
+   {
+    "name": "Milk",
+    "qty": "~⅓ cup"
+   },
+   {
+    "name": "Spices",
+    "qty": "garlic powder 1¼ tsp · white pepper ½ tsp · cumin 1¼ tsp · cinnamon ¼ tsp · smoked paprika 1 tsp · Italian seasoning or thyme ~3½ tsp · red pepper flakes · sesame seeds 1 Tbsp"
+   },
+   {
+    "name": "Kosher salt and black pepper",
+    "qty": "—"
+   }
+  ]
+ }
+}
