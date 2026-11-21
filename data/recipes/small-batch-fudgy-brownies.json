@@ -1,0 +1,73 @@
+{
+  "name": "Small-Batch Fudgy Brownies",
+  "cuisine": "American",
+  "subtitle": "Half batch for the small square Pyrex glass dish (~5–5½ inch inside)",
+  "servings": 4,
+  "servingUnit": "brownies",
+  "yields": "4 small brownies",
+  "time": "~55 min, ~10 hands-on, plus cooling",
+  "equipment": "Small square Pyrex dish (glass base only), small saucepan, toothpick",
+  "macros": {
+    "basis": "per brownie, 1 of 4",
+    "kcal": 250,
+    "protein": 3,
+    "carbs": 33,
+    "fat": 13,
+    "fiber": 1,
+    "portion": "One brownie, a quarter of the dish (about 2½ inches square).",
+    "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+  },
+  "before": [
+    "Only the glass base goes in the oven, never the plastic lid.",
+    "Let the dish come to room temperature first; don't go straight from fridge to hot oven."
+  ],
+  "notes": "325°F instead of 350°F because glass holds heat and overbakes the edges. The dish size is estimated, not measured: if the inside bottom is closer to 6 inches, the brownies will be thinner, so start checking at 18–20 min.",
+  "ingredients": [
+    {
+      "group": "Wet",
+      "items": [
+        "4 Tbsp butter (half a stick)",
+        "½ cup granulated sugar",
+        "1 large egg",
+        "½ tsp vanilla extract"
+      ]
+    },
+    {
+      "group": "Dry",
+      "items": [
+        "3 Tbsp cocoa powder",
+        "¼ cup all-purpose flour (spooned and leveled)",
+        "⅛ tsp salt (pinch)",
+        "⅛ tsp baking powder (pinch)"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Prep",
+      "body": "Heat the oven to 325°F. Grease the dish or line it with a parchment sling."
+    },
+    {
+      "title": "Melt butter",
+      "body": "Melt **4 Tbsp butter** in a small saucepan over low heat, then take it off the heat."
+    },
+    {
+      "title": "Mix wet",
+      "body": "Stir **½ cup sugar** into the warm butter, then beat in **1 egg + ½ tsp vanilla** until glossy."
+    },
+    {
+      "title": "Add dry",
+      "body": "Fold in **3 Tbsp cocoa + ¼ cup flour + ⅛ tsp salt + ⅛ tsp baking powder** until just combined."
+    },
+    {
+      "title": "Bake",
+      "body": "Spread in the dish and bake 25–30 min. Start checking at 22 min. A toothpick should come out with moist crumbs, not wet batter.",
+      "timerMin": 22
+    },
+    {
+      "title": "Cool",
+      "body": "Set the hot dish on a dry towel or rack, never a wet or cold counter. Cool at least 20 min before cutting.",
+      "timerMin": 20
+    }
+  ]
+}
