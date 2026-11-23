@@ -1,9 +1,19 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-23",
  "items": [
   {
    "name": "Rice vinegar (unseasoned)",
    "qty": "1 bottle (~12 oz)",
+   "store": "Walmart"
+  },
+  {
+   "name": "Honey",
+   "qty": "1 bottle (~12 oz)",
+   "store": "Walmart"
+  },
+  {
+   "name": "Granola",
+   "qty": "1 bag",
    "store": "Walmart"
   }
  ]
