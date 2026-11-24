@@ -32,7 +32,8 @@
    "recipeId": "turkey-white-bean-kale-soup",
    "title": "Turkey, white bean & kale soup",
    "sizing": "2 + 3 lunches",
-   "leftovers": "lunches Thu–Fri"
+   "leftovers": "lunches Thu–Fri",
+   "status": "cooked"
   },
   {
    "date": "2026-11-19",
@@ -40,7 +41,8 @@
    "recipeId": "cottage-pie",
    "title": "Cottage pie with broccoli",
    "sizing": "5 portions",
-   "leftovers": ""
+   "leftovers": "",
+   "status": "cooked"
   },
   {
    "date": "2026-11-20",
