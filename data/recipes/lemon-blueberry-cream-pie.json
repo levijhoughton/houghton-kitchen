@@ -1,0 +1,87 @@
+{
+ "name": "Lemon Blueberry Cream Pie",
+ "cuisine": "American",
+ "subtitle": "A favorite of many, including a very young Levi",
+ "servings": 8,
+ "servingUnit": "slices",
+ "yields": "One 8-inch pie, 8 slices",
+ "time": "~5½ hr, ~25 min hands-on (mostly chilling)",
+ "equipment": "8-inch pie plate, saucepan, whisk, zester",
+ "macros": {
+  "basis": "per slice, 1 of 8, without whipped cream",
+  "kcal": 380,
+  "protein": 4,
+  "carbs": 47,
+  "fat": 20,
+  "fiber": 1,
+  "portion": "One-eighth of the pie.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+ },
+ "before": [
+  "Have a fully pre-baked 8-inch pie crust ready and cooled before you start.",
+  "Zest the lemon before you juice it."
+ ],
+ "notes": "This pie is just the right texture with 4 Tbsp of cornstarch instead of 3 (discovered and revised 4/23). The lemon juice goes in after cooking because acid boiled with cornstarch weakens its thickening.",
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "1 cup sugar",
+    "4 Tbsp cornstarch",
+    "1 cup milk",
+    "3 egg yolks, beaten",
+    "¼ cup butter",
+    "1 Tbsp grated lemon peel",
+    "¼ cup lemon juice",
+    "1 cup sour cream",
+    "2 cups blueberries (fresh are better)"
+   ]
+  },
+  {
+   "group": "Crust and serving",
+   "items": [
+    "1 pre-baked 8-inch pie crust",
+    "Whipped cream, if desired"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Sugar and cornstarch",
+   "body": "In a saucepan, combine **1 cup sugar + 4 Tbsp cornstarch**."
+  },
+  {
+   "title": "Add the rest of the base",
+   "body": "Add **1 cup milk + 3 beaten egg yolks + ¼ cup butter + 1 Tbsp grated lemon peel**."
+  },
+  {
+   "title": "Cook until thick",
+   "body": "Cook and stir on medium heat until thick, then **2 min** more.",
+   "timerMin": 2
+  },
+  {
+   "title": "Lemon juice",
+   "body": "Off the heat, stir in **¼ cup lemon juice**."
+  },
+  {
+   "title": "Cool",
+   "body": "Refrigerate until cool, about **1 hr**. Press plastic wrap on the surface to keep a skin from forming.",
+   "timerMin": 60
+  },
+  {
+   "title": "Sour cream and berries",
+   "body": "Stir in **1 cup sour cream**, then gently fold in **2 cups blueberries**."
+  },
+  {
+   "title": "Fill and chill",
+   "body": "Spread into the pre-baked pie crust and chill about **4 hr**. Serve with whipped cream, if desired.",
+   "timerMin": 240
+  }
+ ],
+ "after": [
+  "Keeps covered in the fridge for about 3 days."
+ ],
+ "source": {
+  "label": "Family recipe"
+ }
+}

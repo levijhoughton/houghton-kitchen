@@ -1,0 +1,117 @@
+{
+ "name": "Banana Cream Pie",
+ "cuisine": "American",
+ "subtitle": "Blind-baked crust, stovetop vanilla pudding layered with bananas, whipped cream on top",
+ "servings": 8,
+ "servingUnit": "slices",
+ "yields": "One 9-inch pie, 8 slices",
+ "time": "~10 hr, ~1 hr hands-on (mostly chilling)",
+ "equipment": "9-inch pie plate, rolling pin, pie weights (or dry beans), heavy saucepan, whisk, instant-read thermometer, stand or hand mixer",
+ "macros": {
+  "basis": "per slice, 1 of 8, with whipped cream",
+  "kcal": 640,
+  "protein": 8,
+  "carbs": 62,
+  "fat": 41,
+  "fiber": 2,
+  "portion": "One-eighth of the pie.",
+  "note": "Rough estimate from standard nutrition values for the listed amounts, not a lab number."
+ },
+ "before": [
+  "Start the morning of, or the day before. The filling cools **2–3 hr**, the assembled pie chills **6 hr** more.",
+  "Set out **2 eggs** to come to room temperature, but separate the **2 yolks** while those eggs are still cold; it's cleaner.",
+  "Store-bought crust is fine. One refrigerated rolled crust fits a 9-inch plate."
+ ],
+ "notes": "A soupy banana cream pie almost always means undercooked pudding. Cornstarch needs to actually boil to thicken fully, and the egg yolks carry an enzyme that thins the filling back out unless it's cooked hot enough (about 205°F) to kill it. Cook it until the whisk leaves clear trails. Cold butter whisked in off the heat melts gradually and keeps the pudding glossy. Blind-baking the crust all the way and sealing it with egg wash keeps it from going soggy under the wet filling.",
+ "ingredients": [
+  {
+   "group": "Crust",
+   "items": [
+    "1 pie crust, homemade or store-bought",
+    "1 large egg",
+    "1 Tbsp heavy cream"
+   ]
+  },
+  {
+   "group": "Filling",
+   "items": [
+    "2 large eggs, room temperature",
+    "2 large egg yolks, room temperature",
+    "1 cup granulated sugar (200 g)",
+    "6 Tbsp cornstarch (48 g)",
+    "¼ tsp salt",
+    "3 cups whole milk",
+    "1 Tbsp vanilla extract",
+    "¼ cup unsalted butter, cold and cubed",
+    "3 to 4 ripe bananas, divided"
+   ]
+  },
+  {
+   "group": "Whipped cream",
+   "items": [
+    "2 cups heavy whipping cream",
+    "¼ cup confectioners' sugar",
+    "2 tsp vanilla extract"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Eggs ready",
+   "body": "In a heatproof bowl, beat **2 eggs + 2 egg yolks** together. Set it next to the stove."
+  },
+  {
+   "title": "Cook the milk base",
+   "body": "In a heavy saucepan, whisk **1 cup sugar + 6 Tbsp cornstarch + ¼ tsp salt**. Whisk in **3 cups whole milk** until there are no lumps. Cook over medium-high, whisking constantly, about **6 min**, until it starts to bubble and thicken. Take it off the heat.",
+   "timerMin": 6
+  },
+  {
+   "title": "Temper the eggs",
+   "body": "Whisking the eggs the whole time, slowly pour in about **1 cup** of the hot milk mixture. Then pour the warmed eggs back into the saucepan, whisking."
+  },
+  {
+   "title": "Finish the pudding",
+   "body": "Back over medium, whisk until it bubbles again, then keep cooking and whisking **6–8 min**, until the whisk leaves clear trails and it reads about 205°F. Don't cut this short.",
+   "timerMin": 6
+  },
+  {
+   "title": "Butter, vanilla, cool",
+   "body": "Off the heat, whisk in **¼ cup cold cubed butter + 1 Tbsp vanilla** until smooth. Scrape into a bowl, press plastic wrap right onto the surface, and cool to room temperature, **2–3 hr**. After 30 min on the counter you can move it to the fridge to speed it up.",
+   "timerMin": 30
+  },
+  {
+   "title": "Roll and chill the crust",
+   "body": "While the pudding cools: on a lightly floured counter, roll **1 pie crust** to a 13-inch circle. Ease it into the 9-inch plate without stretching, trim to a 1-inch overhang, fold the edge under and crimp. Prick the bottom all over with a fork. Chill **1 hr** in the fridge or 30 min in the freezer.",
+   "timerMin": 60
+  },
+  {
+   "title": "Blind-bake",
+   "body": "Heat the oven to 425°F. Line the chilled crust with foil or parchment and fill with pie weights or dry beans. Bake **15–25 min**, until the edges are golden and the bottom looks dry.",
+   "timerMin": 15
+  },
+  {
+   "title": "Egg wash and finish baking",
+   "body": "Whisk **1 egg + 1 Tbsp heavy cream**. Lift out the foil and weights, brush the crust all over with egg wash, and bake **10–12 min** more, until golden everywhere. Cool completely.",
+   "timerMin": 10
+  },
+  {
+   "title": "Layer the pie",
+   "body": "Spread **1 cup** of the cooled pudding over the bottom of the cooled crust. Slice **2 bananas** into ½-inch coins and lay them over the pudding. Spoon the rest of the pudding over the bananas and smooth the top. Cover and refrigerate at least **6 hr**.",
+   "timerMin": 360
+  },
+  {
+   "title": "Whip, top, serve",
+   "body": "Just before serving, beat **2 cups heavy cream + ¼ cup confectioners' sugar + 2 tsp vanilla** on medium to soft peaks, about **2 min**. Spread or pipe over the pie. Slice **1–2 bananas** over the top and serve.",
+   "timerMin": 2
+  }
+ ],
+ "after": [
+  "Keeps covered in the fridge up to 5 days. Press parchment against the cut edges to hold the filling.",
+  "If you won't finish it in one sitting, garnish only the slices you serve; sliced banana browns. A little lemon juice slows it.",
+  "Variations: a graham, Oreo or vanilla-wafer crumb crust (softens sooner), or a thin layer of Nutella, peanut butter or caramel under the bananas."
+ ],
+ "source": {
+  "label": "Preppy Kitchen, Banana Cream Pie",
+  "url": "https://preppykitchen.com/banana-cream-pie/"
+ }
+}
