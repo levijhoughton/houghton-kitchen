@@ -1,6 +1,9 @@
 {
  "name": "Sticky Honey Garlic Chicken Noodles",
  "cuisine": "Asian-American",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Crispy ground chicken in a sticky honey, garlic, chili and black vinegar glaze, tossed with noodles and seared cabbage slaw",
  "servings": 5,
  "servingUnit": "portions",

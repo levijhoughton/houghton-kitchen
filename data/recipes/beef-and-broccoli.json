@@ -1,6 +1,9 @@
 {
  "name": "Beef and Broccoli",
  "cuisine": "Chinese-American",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "weekly",
  "subtitle": "Velveted sirloin in oyster sauce, with lots of broccoli over rice",
  "servings": 4,
  "servingUnit": "portions",

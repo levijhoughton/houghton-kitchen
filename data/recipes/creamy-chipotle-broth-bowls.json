@@ -1,6 +1,9 @@
 {
  "name": "Creamy Chipotle Broth Bowls",
  "cuisine": "Mexican-inspired",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "weekly",
  "subtitle": "Honey-garlic beef, roasted zucchini and corn, black beans and rice in a creamy chipotle broth",
  "servings": 5,
  "servingUnit": "portions",

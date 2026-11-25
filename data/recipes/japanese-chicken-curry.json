@@ -1,6 +1,9 @@
 {
  "name": "Japanese Chicken Curry",
  "cuisine": "Japanese",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Chicken, potato, carrot and peas in curry-roux sauce, over rice",
  "servings": 7,
  "servingUnit": "portions",

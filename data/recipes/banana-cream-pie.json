@@ -1,6 +1,8 @@
 {
  "name": "Banana Cream Pie",
  "cuisine": "American",
+ "category": "Desserts",
+ "collection": "weekly",
  "subtitle": "Blind-baked crust, stovetop vanilla pudding layered with bananas, whipped cream on top",
  "servings": 8,
  "servingUnit": "slices",

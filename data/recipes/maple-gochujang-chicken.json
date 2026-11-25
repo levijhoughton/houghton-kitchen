@@ -1,6 +1,9 @@
 {
  "name": "Maple-Gochujang Chicken",
  "cuisine": "Korean-American",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Roasted sweet potato, air-fried broccoli, spicy cucumber salad (oi-muchim)",
  "yields": "2 dinners + 3 lunches",
  "time": "~60 min, ~30 hands-on",

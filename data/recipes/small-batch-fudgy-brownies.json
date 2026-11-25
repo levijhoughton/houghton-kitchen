@@ -1,6 +1,8 @@
 {
   "name": "Small-Batch Fudgy Brownies",
   "cuisine": "American",
+  "category": "Desserts",
+  "collection": "weekly",
   "subtitle": "Half batch for the small square Pyrex glass dish (~5–5½ inch inside)",
   "servings": 4,
   "servingUnit": "brownies",

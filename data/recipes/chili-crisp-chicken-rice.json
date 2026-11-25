@@ -1,6 +1,9 @@
 {
  "name": "Slow Cooker Chili Crisp Chicken & Rice",
  "cuisine": "Chinese-American",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Shredded chili crisp chicken with cabbage, carrots and edamame, spicy yogurt mayo and smashed cucumbers",
  "servings": 5,
  "servingUnit": "portions",

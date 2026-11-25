@@ -1,6 +1,9 @@
 {
  "name": "Beef Deshebrada Sopes",
  "cuisine": "Mexican",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "weekly",
  "subtitle": "Guajillo-braised shredded chuck on masa sopes, with refried pintos and calabacitas",
  "servings": 12,
  "servingUnit": "portions",

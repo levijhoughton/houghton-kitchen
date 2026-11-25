@@ -1,6 +1,9 @@
 {
  "name": "Gochujang Turkey & Sweet Potato Bowls",
  "cuisine": "Korean-American",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Glazed ground turkey with edamame, roasted sweet potato and green beans, quick cucumber pickle",
  "servings": 5,
  "servingUnit": "portions",

@@ -1,6 +1,9 @@
 {
  "name": "Thai-Style Basil Chicken",
  "cuisine": "Thai",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Chopped chicken with garlic, chilies and sweet basil, rice and stir-fried green beans",
  "servings": 5,
  "servingUnit": "portions",

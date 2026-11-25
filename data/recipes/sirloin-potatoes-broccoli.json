@@ -1,6 +1,9 @@
 {
  "name": "Seared Sirloin with Roasted Potatoes & Broccoli",
  "cuisine": "American",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "weekly",
  "subtitle": "One sheet pan of potatoes and broccoli, steak in a skillet",
  "servings": 3,
  "servingUnit": "portions",

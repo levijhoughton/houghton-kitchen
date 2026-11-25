@@ -1,6 +1,9 @@
 {
  "name": "Cottage Pie",
  "cuisine": "British",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "weekly",
  "subtitle": "Beef and lentil filling with carrots and peas under a Yukon gold mash, with steamed broccoli",
  "servings": 5,
  "servingUnit": "portions",

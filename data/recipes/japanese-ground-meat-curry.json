@@ -1,6 +1,9 @@
 {
  "name": "Japanese Ground-Meat Curry (Kīma Karē)",
  "cuisine": "Japanese",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Turkey and beef curry with carrots, potatoes and peas, thickened with curry roux, over calrose rice",
  "servings": 6,
  "servingUnit": "portions",

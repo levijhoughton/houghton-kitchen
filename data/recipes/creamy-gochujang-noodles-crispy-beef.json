@@ -1,6 +1,9 @@
 {
  "name": "Creamy Gochujang Noodles with Crispy Beef",
  "cuisine": "Korean-inspired",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "weekly",
  "subtitle": "Chewy noodles in a blended cottage cheese–gochujang sauce, topped with maple-glazed lean beef, with broccoli and edamame",
  "servings": 5,
  "servingUnit": "portions",

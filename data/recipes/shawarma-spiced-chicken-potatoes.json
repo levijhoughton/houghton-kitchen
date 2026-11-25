@@ -1,6 +1,9 @@
 {
  "name": "Shawarma-Spiced Chicken & Potatoes",
  "cuisine": "Middle Eastern",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Sheet-pan chicken, baby potatoes and carrots, with garlic yogurt and cucumber-tomato salad",
  "servings": 4,
  "servingUnit": "portions",

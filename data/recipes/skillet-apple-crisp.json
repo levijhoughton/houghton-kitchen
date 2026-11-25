@@ -1,6 +1,8 @@
 {
  "name": "Skillet Apple Crisp",
  "cuisine": "American",
+ "category": "Desserts",
+ "collection": "weekly",
  "subtitle": "Apples cooked down first with reduced cider, under a pecan-oat topping",
  "servings": 8,
  "servingUnit": "servings",

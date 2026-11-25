@@ -1,6 +1,9 @@
 {
  "name": "Teriyaki Chicken",
  "cuisine": "Japanese",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Bottled teriyaki glaze, with sesame cabbage slaw, edamame and rice",
  "servings": 4,
  "servingUnit": "portions",

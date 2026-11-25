@@ -1,6 +1,9 @@
 {
  "name": "Red Lentil Dal with Sweet Potato & Spinach",
  "cuisine": "Indian",
+ "category": "Mains",
+ "protein": "Meatless",
+ "collection": "weekly",
  "subtitle": "Instant Pot masoor dal finished with a sizzling cumin-garlic tadka, with Greek-yogurt flatbreads and cumin yogurt",
  "servings": 4,
  "servingUnit": "portions",

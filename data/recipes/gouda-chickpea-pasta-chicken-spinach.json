@@ -1,6 +1,9 @@
 {
  "name": "Gouda Chickpea Pasta with Chicken",
  "cuisine": "American",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Chickpea pasta in a gouda and Jack cheese sauce with seared chicken, with a salad kit on the side",
  "servings": 4,
  "servingUnit": "portions",

@@ -1,6 +1,9 @@
 {
  "name": "Pork & Edamame Fried Rice",
  "cuisine": "Chinese-style",
+ "category": "Mains",
+ "protein": "Pork",
+ "collection": "weekly",
  "subtitle": "Uses the banked pork shoulder and freezer vegetables",
  "yields": "2 dinners + 2 lunches",
  "time": "~25 min once rice is cold",

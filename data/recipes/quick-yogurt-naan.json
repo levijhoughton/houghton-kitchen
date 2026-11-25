@@ -1,6 +1,8 @@
 {
  "name": "Quick Yogurt Naan",
  "cuisine": "Indian",
+ "category": "Breakfast & quick breads",
+ "collection": "weekly",
  "subtitle": "Skillet naan from a Greek-yogurt dough, brushed with garlic butter",
  "servings": 8,
  "servingUnit": "naan",

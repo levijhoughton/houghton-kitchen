@@ -1,6 +1,9 @@
 {
  "name": "Turkey, White Bean & Kale Soup",
  "cuisine": "Italian-inspired",
+ "category": "Soups",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Instant Pot soup with ground turkey, cannellini, kale and lemon, with crusty bread",
  "servings": 5,
  "servingUnit": "portions",

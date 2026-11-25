@@ -1,6 +1,8 @@
 {
  "name": "Lemon Blueberry Cream Pie",
  "cuisine": "American",
+ "category": "Desserts",
+ "collection": "weekly",
  "subtitle": "A favorite of many, including a very young Levi",
  "servings": 8,
  "servingUnit": "slices",

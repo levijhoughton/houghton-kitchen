@@ -1,6 +1,9 @@
 {
  "name": "Greek Lemon-Oregano Chicken & Potatoes",
  "cuisine": "Greek",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "With village salad (horiatiki) and tzatziki",
  "yields": "2 dinners + 4 lunches",
  "time": "~65 min, ~30 hands-on",

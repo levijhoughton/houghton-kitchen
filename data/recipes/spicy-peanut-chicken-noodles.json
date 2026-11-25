@@ -1,6 +1,9 @@
 {
  "name": "Spicy Peanut Chicken Noodles",
  "cuisine": "Asian-American",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "Seared garlic chicken and whole wheat noodles in a honey-lime peanut sauce, with broccoli and edamame",
  "servings": 5,
  "servingUnit": "portions",

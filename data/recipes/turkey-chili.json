@@ -1,6 +1,9 @@
 {
  "name": "Turkey Chili",
  "cuisine": "American",
+ "category": "Soups",
+ "protein": "Chicken & turkey",
+ "collection": "weekly",
  "subtitle": "With yogurt crema, cheddar, scallions and lime",
  "servings": 5,
  "servingUnit": "bowls (2 cups)",

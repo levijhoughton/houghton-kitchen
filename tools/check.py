@@ -6,6 +6,9 @@ Exits non-zero (and prints what's wrong) if anything would break or silently dis
 """
 import json, os, re, sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import build_catalog
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = os.path.join(ROOT, "data")
 errors, warnings = [], []
@@ -48,11 +51,18 @@ for rid in ix.get("recipes", []):
             errors.append(f"{where}: ingredient group '{g.get('group')}' has no items")
     if "servings" in r and not (isinstance(r["servings"], int) and r["servings"] > 0):
         errors.append(f"{where}: servings must be a positive whole number")
+    for k, allowed in (("category", build_catalog.CATEGORIES), ("protein", build_catalog.PROTEINS), ("collection", build_catalog.COLLECTIONS)):
+        if k in r and r[k] not in allowed:
+            errors.append(f"{where}: {k} '{r[k]}' isn't one of: {', '.join(allowed)}")
+    if not r.get("category"):
+        warnings.append(f"{where}: no 'category', so it lands under Other on the contents page")
+    family = r.get("collection") == "family"
     if "servings" not in r:
         warnings.append(f"{where}: no 'servings', so the servings adjuster is hidden")
     m = r.get("macros")
     if m is None:
-        warnings.append(f"{where}: no 'macros'")
+        if not family:
+            warnings.append(f"{where}: no 'macros'")
     else:
         if not isinstance(m.get("portion"), str) or not m["portion"].strip():
             warnings.append(f"{where}: no 'macros.portion', so the page doesn't say what a portion is")
@@ -97,6 +107,10 @@ if ix.get("freezer"):
     fz = load(os.path.join(D, "freezer.json"))
     if fz is not None and not isinstance(fz.get("items"), list):
         errors.append("freezer.json: 'items' must be a list")
+
+if not errors:
+    c = build_catalog.build()
+    print(f"catalog.json rebuilt: {len(c['recipes'])} recipes")
 
 for w in warnings:
     print("warning:", w)
