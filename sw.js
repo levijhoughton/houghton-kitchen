@@ -1,5 +1,5 @@
 // Network-first for everything on this origin; falls back to the last cached copy when offline.
-const CACHE = "kitchen-v9";
+const CACHE = "kitchen-v10";
 const CORE = ["./", "index.html", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png", "data/index.json", "data/catalog.json"];
 
 self.addEventListener("install", (e) => {

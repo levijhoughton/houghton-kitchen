@@ -667,6 +667,8 @@ function prefetchWeek(){
 }
 
 function lastPlanned(id){ var best=null; S.plans.forEach(function(p){ (p.nights||[]).forEach(function(n){ if(n.recipeId===id && n.date<=today() && (!best||n.date>best)) best=n.date; }); }); return best; }
+// Latest night a recipe is on any plan, past or upcoming: the original library order.
+function anyPlanned(id){ var best=null; S.plans.forEach(function(p){ (p.nights||[]).forEach(function(n){ if(n.recipeId===id && (!best||n.date>best)) best=n.date; }); }); return best; }
 function nextPlanned(id){ var t=today(), best=null; S.plans.forEach(function(p){ (p.nights||[]).forEach(function(n){ if(n.recipeId===id && n.date>=t && (!best||n.date<best)) best=n.date; }); }); return best; }
 
 // Parse a query into include and exclude terms. "-cilantro" excludes; quotes keep a phrase together.
@@ -743,7 +745,7 @@ function sortResults(list,sort){
   var byName=function(a,b){ return sortKey(a.e.name).localeCompare(sortKey(b.e.name)) || (a.e.subtitle||"").localeCompare(b.e.subtitle||""); };
   var cmp={
     match:function(a,b){ return b.sc-a.sc || byName(a,b); },
-    recent:function(a,b){ return (lastPlanned(b.e.id)||"").localeCompare(lastPlanned(a.e.id)||"") || byName(a,b); },
+    recent:function(a,b){ return (anyPlanned(b.e.id)||"").localeCompare(anyPlanned(a.e.id)||"") || byName(a,b); },
     az:byName,
     quick:function(a,b){ var x=a.e.mins, y=b.e.mins; return (x==null)-(y==null) || (x||0)-(y||0) || byName(a,b); },
     protein:function(a,b){ var x=a.e.macros&&a.e.macros.protein, y=b.e.macros&&b.e.macros.protein; return (x==null)-(y==null) || (y||0)-(x||0) || byName(a,b); },
@@ -785,7 +787,7 @@ function renderLibrary(){
     return c;
   }
   function draw(){
-    var R=libResults(st), sort=st.sort||(R.searching?"match":"recent");
+    var R=libResults(st), sort=st.sort||"recent";
     if(sort==="match" && !R.searching) sort="recent";
     var list=sortResults(R.list,sort), t=today();
     // course chips
