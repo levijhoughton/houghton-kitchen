@@ -1,0 +1,66 @@
+{
+ "name": "Sugar Cookies",
+ "subtitle": "Classic Houghton recipe",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "notes": "Bonus tip: If you need to speed up the decorating process, thin the frosting with more milk or lemon and place in a shallow dish like a pie tin. Mix colors in with a toothpick, creating a marbled effect and dip cookies in face-first. Immediately place on a cooling rack to allow the extra icing to drip off the edges.",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "⅔ cup shortening",
+    "1½ cups sugar",
+    "2 eggs",
+    "1 tsp vanilla/almond/lemon flavoring",
+    "3½ cups flour",
+    "2½ tsp baking powder",
+    "½ tsp salt",
+    "4 tsp milk"
+   ]
+  },
+  {
+   "group": "Lemon frosting",
+   "items": [
+    "2–4 Tbsp softened butter",
+    "1 cup powdered sugar",
+    "⅛ cup milk",
+    "About ¼ cup lemon juice",
+    "3+ cups powdered sugar"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the shortening",
+   "body": "Cream until fluffy: **⅔ cup shortening**, **1½ cups sugar**, **2 eggs** and **1 tsp vanilla/almond/lemon flavoring**."
+  },
+  {
+   "title": "Add the dry ingredients",
+   "body": "Add and mix in **3½ cups flour**, **2½ tsp baking powder**, **½ tsp salt** and **4 tsp milk**."
+  },
+  {
+   "title": "Chill the dough",
+   "body": "Chill dough, covered tight, for at least 1 hour.",
+   "timerMin": 60
+  },
+  {
+   "title": "Roll and cut",
+   "body": "Roll out ½ at a time, to ⅛–¼-inch thick, and cut into amazing shapes."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 8 minutes at 400°F.",
+   "timerMin": 8
+  },
+  {
+   "title": "Make the frosting",
+   "body": "For lemon frosting, blend **2–4 Tbsp softened butter** and **1 cup powdered sugar** until creamy. Add **⅛ cup milk** and about **¼ cup lemon juice**."
+  },
+  {
+   "title": "Add more sugar",
+   "body": "Add another **3+ cups powdered sugar**, adding additional milk or lemon juice to taste and powdered sugar to make the consistency and quantity desired. Color and spread!"
+  }
+ ]
+}

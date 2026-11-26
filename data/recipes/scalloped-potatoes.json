@@ -1,0 +1,89 @@
+{
+ "name": "Scalloped Potatoes",
+ "category": "Sides",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "equipment": "9×13 baking dish",
+ "notes": "Served at Tess and Paul’s Wedding Open House in Soulsbyville, and declared delicious!",
+ "ingredients": [
+  {
+   "group": "Cream sauce",
+   "items": [
+    "3 Tbsp butter",
+    "1 small onion, peeled and thinly sliced",
+    "4 large cloves garlic, minced",
+    "¼ cup flour",
+    "1 cup chicken stock",
+    "2 cups milk",
+    "1½ tsp salt",
+    "½ tsp black pepper",
+    "1 tsp thyme"
+   ]
+  },
+  {
+   "group": "Potatoes and cheese",
+   "items": [
+    "4 pound Yukon gold potatoes (others work too), sliced into ⅛” rounds",
+    "1 (of 2) cups fresh grated sharp cheddar cheese",
+    "½ cup fresh-grated Parmesan cheese"
+   ]
+  },
+  {
+   "group": "To serve",
+   "items": [
+    "1 tsp thyme",
+    "Additional Parmesan"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Sauté the onion",
+   "body": "Melt **3 Tbsp butter** in a large sauté pan over med-high heat. Add and sauté for 4–5 minutes: **1 small onion**, peeled and thinly sliced.",
+   "timerMin": 4
+  },
+  {
+   "title": "Add the garlic",
+   "body": "Add and sauté for an additional 1–2 minutes, til fragrant: **4 large cloves garlic**, minced.",
+   "timerMin": 1
+  },
+  {
+   "title": "Make the roux",
+   "body": "Stir in, until evenly combined: **¼ cup flour**. Cook for one minute, then gradually whisk in: **1 cup chicken stock**, **2 cups milk**, **1½ tsp salt**, **½ tsp black pepper** and **1 tsp thyme**.",
+   "timerMin": 1
+  },
+  {
+   "title": "Thicken the sauce",
+   "body": "Continue cooking 1–2 minutes until the sauce just begins to simmer around the edges of the pan and thickens (don’t let it boil). Remove from heat and set aside.",
+   "timerMin": 1
+  },
+  {
+   "title": "Slice the potatoes",
+   "body": "Slice, into ⅛” rounds: **4 pound Yukon gold potatoes** (others work too)."
+  },
+  {
+   "title": "Layer the first half",
+   "body": "In a greased 9×13 baking dish, place half the sliced potatoes in an even layer. Top with half the cream sauce, then sprinkle with **1 (of 2) cups fresh grated sharp cheddar cheese** and **½ cup fresh-grated Parmesan cheese**."
+  },
+  {
+   "title": "Repeat the layers",
+   "body": "Repeat layers of potato, cream sauce, and sharp cheddar cheese."
+  },
+  {
+   "title": "Bake covered",
+   "body": "Cover with foil and bake for 30 minutes at 400°F.",
+   "timerMin": 30
+  },
+  {
+   "title": "Bake uncovered",
+   "body": "Then remove foil and bake uncovered for 25–30 minutes more, until potatoes are cooked through.",
+   "timerMin": 25
+  },
+  {
+   "title": "Serve",
+   "body": "To serve, sprinkle with **1 tsp thyme** and additional Parmesan."
+  }
+ ]
+}

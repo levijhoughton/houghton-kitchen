@@ -1,0 +1,66 @@
+{
+ "name": "Persimmon Bar Cookies",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×13 pan",
+ "equipment": "9×13 pan",
+ "ingredients": [
+  {
+   "group": "Bars",
+   "items": [
+    "1 cup persimmon pulp",
+    "1 tsp baking soda",
+    "1 egg",
+    "1 cup sugar",
+    "½ cup oil",
+    "1¾ cups flour",
+    "1 tsp salt",
+    "1 tsp cinnamon",
+    "1 tsp nutmeg",
+    "1 tsp cloves",
+    "1 cup chopped nuts",
+    "1 cup raisins or chopped dates"
+   ]
+  },
+  {
+   "group": "Lemon glaze",
+   "items": [
+    "1 cup powdered sugar",
+    "2 Tbsp lemon juice"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Prepare the persimmon",
+   "body": "Mix and set aside **1 cup persimmon pulp** and **1 tsp baking soda**."
+  },
+  {
+   "title": "Mix the wet ingredients",
+   "body": "Mix well **1 egg**, **1 cup sugar** and **½ cup oil**."
+  },
+  {
+   "title": "Sift the dry ingredients",
+   "body": "Sift together **1¾ cups flour**, **1 tsp salt**, **1 tsp cinnamon**, **1 tsp nutmeg** and **1 tsp cloves**."
+  },
+  {
+   "title": "Combine the batter",
+   "body": "Alternate adding pulp and flour mixtures to liquid mixture until it’s all well blended."
+  },
+  {
+   "title": "Add the nuts and fruit",
+   "body": "Then add **1 cup chopped nuts** and **1 cup raisins or chopped dates**."
+  },
+  {
+   "title": "Bake",
+   "body": "Spread in a greased 9×13 pan and bake at 350°F for 20–25 minutes.",
+   "timerMin": 20
+  },
+  {
+   "title": "Glaze",
+   "body": "Cool for 5 minutes, then spread the glaze made from **1 cup powdered sugar** and **2 Tbsp lemon juice**.",
+   "timerMin": 5
+  }
+ ]
+}

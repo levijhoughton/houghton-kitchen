@@ -1,0 +1,64 @@
+{
+ "name": "Toffee",
+ "subtitle": "From BH&G",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×13 pan",
+ "equipment": "9×13 pan, heavy 2 quart pan",
+ "source": {
+  "label": "From BH&G"
+ },
+ "ingredients": [
+  {
+   "group": "Pan",
+   "items": [
+    "½ cup coarsely chopped almonds"
+   ]
+  },
+  {
+   "group": "Toffee",
+   "items": [
+    "1 cup butter",
+    "1 cup sugar",
+    "3 Tbsp water",
+    "1 Tbsp light corn syrup"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "¾ cup chocolate chips",
+    "½ cup fine chopped almonds"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Prep the pan",
+   "body": "Line a 9×13 pan with foil or parchment, and sprinkle with **½ cup coarsely chopped almonds**."
+  },
+  {
+   "title": "Melt the butter",
+   "body": "Butter sides of heavy 2 quart pan, and over medium-high heat, melt **1 cup butter**."
+  },
+  {
+   "title": "Cook the toffee",
+   "body": "Stir in **1 cup sugar**, **3 Tbsp water** and **1 Tbsp light corn syrup**. Cook and stir until it boils, then stir until it reaches 290°F (soft crack). Watch closely after 280°F to prevent burning."
+  },
+  {
+   "title": "Pour and top",
+   "body": "Remove from heat, and pour toffee into the prepared pan. Let cool for about 5 minutes, then sprinkle with **¾ cup chocolate chips**.",
+   "timerMin": 5
+  },
+  {
+   "title": "Spread the chocolate",
+   "body": "Wait for 2-3 minutes, until chocolate is melted, then spread evenly over surface and sprinkle with **½ cup fine chopped almonds**.",
+   "timerMin": 2
+  },
+  {
+   "title": "Cool and break",
+   "body": "Cool, then cut/break into pieces and hide."
+  }
+ ]
+}

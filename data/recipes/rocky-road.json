@@ -1,0 +1,38 @@
+{
+ "name": "Rocky Road",
+ "subtitle": "Dad’s favorite from Grandma Houghton",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×13 pan",
+ "equipment": "9×13 pan",
+ "ingredients": [
+  {
+   "group": "Rocky road",
+   "items": [
+    "1 pound milk chocolate",
+    "1 pound large marshmallows, cut into quarters",
+    "1 cup chopped walnuts",
+    "1 can sweetened condensed milk"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Melt the chocolate",
+   "body": "Melt in double boiler: **1 pound milk chocolate**."
+  },
+  {
+   "title": "Add the rest",
+   "body": "When melted, add: **1 pound large marshmallows**, cut into quarters, **1 cup chopped walnuts** and **1 can sweetened condensed milk**."
+  },
+  {
+   "title": "Pour and cool",
+   "body": "Stir gently, then place in a well greased 9×13 pan, and allow to cool."
+  },
+  {
+   "title": "Cut and serve",
+   "body": "Cut and enjoy."
+  }
+ ]
+}

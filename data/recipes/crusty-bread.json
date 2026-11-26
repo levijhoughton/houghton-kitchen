@@ -1,0 +1,49 @@
+{
+ "name": "Crusty Bread",
+ "category": "Yeast breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "loaf",
+ "equipment": "Cast iron pot with lid",
+ "notes": "Add-in ideas: Gruyere, rosemary, lemon zest; Walnut, cranberry, orange zest; Rosemary & garlic.",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "3 cups flour",
+    "1¾ tsp salt",
+    "½ tsp yeast",
+    "1½ cups water"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dough",
+   "body": "Mix together: **3 cups flour**, **1¾ tsp salt**, **½ tsp yeast** and **1½ cups water**. Stir with a spoon."
+  },
+  {
+   "title": "Rest overnight",
+   "body": "Cover and leave on counter overnight (12-18 hours).",
+   "timerMin": 720
+  },
+  {
+   "title": "Heat the oven",
+   "body": "Heat oven to 450°F with cast iron pot with lid inside."
+  },
+  {
+   "title": "Shape the dough",
+   "body": "Place dough on a heavily floured surface and shape into a ball. May add add-ins at this point. Cover with plastic wrap."
+  },
+  {
+   "title": "Bake covered",
+   "body": "Remove the pot from the hot oven, place dough in the pot (no oil needed), replace the lid, and place the pot in the oven for 30 minutes.",
+   "timerMin": 30
+  },
+  {
+   "title": "Bake uncovered",
+   "body": "Remove the lid and bake for 15 more minutes.",
+   "timerMin": 15
+  }
+ ]
+}

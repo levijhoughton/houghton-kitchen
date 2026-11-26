@@ -1,0 +1,64 @@
+{
+ "name": "Orzo Pasta Salad",
+ "subtitle": "Yummy in Summer!",
+ "category": "Salads",
+ "protein": "Chicken & turkey",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "servings",
+ "notes": "This is a really refreshing, light and delicious salad you can munch on for a meal or two–but don’t double it unless you’ve got more than a couple of people eating it. It can be eaten cold or warm.",
+ "ingredients": [
+  {
+   "group": "Pasta",
+   "items": [
+    "1 cup (uncooked) orzo pasta–whole wheat if you can find it"
+   ]
+  },
+  {
+   "group": "Corn",
+   "items": [
+    "Olive oil",
+    "1–2 cups fresh sweet corn (3–4 ears), cut off the cob",
+    "2 cloves garlic, minced"
+   ]
+  },
+  {
+   "group": "Add-ins",
+   "items": [
+    "1–2 cups rotisserie chicken, shredded or cut into small pieces",
+    "1–2 cups chopped cucumber",
+    "1–2 cups baby spinach",
+    "Small bundle of fresh dill, minced",
+    "Small bundle of green onions, sliced",
+    "Crumbled goat cheese (optional)"
+   ]
+  },
+  {
+   "group": "Dressing",
+   "items": [
+    "Olive oil",
+    "Lemon juice, and a little fancy balsamic vinegar if you have some sitting in your pantry",
+    "Salt",
+    "Pepper"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the orzo",
+   "body": "Cook **1 cup (uncooked) orzo pasta**, whole wheat if you can find it, just until al dente."
+  },
+  {
+   "title": "Sauté the corn",
+   "body": "In a separate pan, sauté olive oil and **1–2 cups fresh sweet corn (3–4 ears)**, cut off the cob, and **2 cloves garlic**, minced, just until the corn turns bright."
+  },
+  {
+   "title": "Prep the add-ins",
+   "body": "Meanwhile, prepare the following to toss into the pasta and corn mixture: **1–2 cups rotisserie chicken**, shredded or cut into small pieces; **1–2 cups chopped cucumber**; **1–2 cups baby spinach**; small bundle of fresh dill, minced; small bundle of green onions, sliced; and crumbled goat cheese (optional)."
+  },
+  {
+   "title": "Toss and dress",
+   "body": "Toss the add-ins into the pasta and corn mixture, then dress to taste with olive oil, lemon juice and a little fancy balsamic vinegar if you have some sitting in your pantry, salt and pepper."
+  }
+ ]
+}

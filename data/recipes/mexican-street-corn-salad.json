@@ -1,0 +1,60 @@
+{
+ "name": "Mexican Street Corn Salad",
+ "category": "Salads",
+ "protein": "Meatless",
+ "cuisine": "Mexican",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "equipment": "Large skillet, large bowl",
+ "source": {
+  "label": "From Jo Cooks",
+  "url": "https://www.jocooks.com/recipes/mexican-street-corn-salad/"
+ },
+ "ingredients": [
+  {
+   "group": "Salad",
+   "items": [
+    "4 cups raw corn (about 5 ears, cut from the cob, or you can use frozen or (rinsed and patted dry) canned)",
+    "1 Tbsp olive oil",
+    "½ medium red bell pepper, finely diced",
+    "½ small red onion, finely diced",
+    "½ cup cilantro, chopped",
+    "6 green onions, chopped",
+    "1 jalapeno pepper, finely diced",
+    "½ avocado, finely diced",
+    "4 Tbsp lime juice (about 2 limes)",
+    "½ tsp cumin",
+    "½ tsp smoked paprika",
+    "¼ tsp black pepper",
+    "¼ tsp salt",
+    "2 Tbsp sour cream (or plain yogurt)",
+    "2 Tbsp mayonnaise",
+    "½ cup cotija cheese (or feta, crumbled)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cut the corn",
+   "body": "Cut the corn off the cob (**5 ears** should produce about **4 cups**). You can use canned or frozen corn (if using frozen, no need to thaw it out)."
+  },
+  {
+   "title": "Char the corn",
+   "body": "Heat **1 Tbsp olive oil** in a large skillet over high heat. Add the corn and stir it around. Cook for about 3-5 minutes, or until the corn starts to char (why to use high heat). If using frozen corn, this will take a couple extra minutes.",
+   "timerMin": 3
+  },
+  {
+   "title": "Cool the corn",
+   "body": "Transfer the corn to a large bowl and let it cool for a couple minutes."
+  },
+  {
+   "title": "Mix in the rest",
+   "body": "To the same bowl, add **½ medium red bell pepper** (finely diced), **½ small red onion** (finely diced), **½ cup cilantro** (chopped), **6 green onions** (chopped), **1 jalapeno pepper** (finely diced), **½ avocado** (finely diced), **4 Tbsp lime juice**, **½ tsp cumin**, **½ tsp smoked paprika**, **¼ tsp black pepper**, **¼ tsp salt**, **2 Tbsp sour cream** (or plain yogurt), **2 Tbsp mayonnaise** and **½ cup cotija cheese** (or feta, crumbled). Stir everything together until well combined. Adjust lime juice and salt and pepper as necessary."
+  },
+  {
+   "title": "Serve",
+   "body": "To serve, garnish with additional cheese and cilantro, if preferred. Eat with chips, alongside any Mexican food, or on its own!"
+  }
+ ]
+}

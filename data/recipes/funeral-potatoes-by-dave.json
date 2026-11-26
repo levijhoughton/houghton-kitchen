@@ -1,0 +1,49 @@
+{
+ "name": "Funeral Potatoes",
+ "subtitle": "By Dave",
+ "category": "Sides",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "equipment": "Greased casserole",
+ "notes": "Served at the 2025 Sonora Ward Christmas party.",
+ "ingredients": [
+  {
+   "group": "Potatoes",
+   "items": [
+    "2 pounds shredded hash browns, thawed",
+    "2 cups sour cream",
+    "1 × 10.5 oz can cream of chicken soup",
+    "¼ cup melted butter",
+    "2 cups shredded cheddar cheese",
+    "½ cup chopped onion (optional)",
+    "1 tsp salt",
+    "½ tsp black pepper",
+    "1 tsp garlic powder"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "1½ cups crushed cornflakes",
+    "2 Tbsp melted butter"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the potatoes",
+   "body": "Mix together and place in greased casserole: **2 pounds shredded hash browns**, thawed, **2 cups sour cream**, **1 × 10.5 oz can cream of chicken soup**, **¼ cup melted butter**, **2 cups shredded cheddar cheese**, **½ cup chopped onion** (optional), **1 tsp salt**, **½ tsp black pepper** and **1 tsp garlic powder**."
+  },
+  {
+   "title": "Add the topping",
+   "body": "Mix together and place on top of potatoes: **1½ cups crushed cornflakes** and **2 Tbsp melted butter**."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 350°F for 1 hour.",
+   "timerMin": 60
+  }
+ ]
+}

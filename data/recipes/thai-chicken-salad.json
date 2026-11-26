@@ -1,0 +1,65 @@
+{
+ "name": "Thai Chicken Salad",
+ "category": "Salads",
+ "protein": "Chicken & turkey",
+ "cuisine": "Thai",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "yields": "Serves 4",
+ "notes": "I often double the sauce recipe, and if there’s some leftover, it’s just an excuse to have this next week.",
+ "ingredients": [
+  {
+   "group": "Sauce",
+   "items": [
+    "⅓ cup hot water",
+    "2 Tbsp peanut butter",
+    "⅓ cup soy sauce",
+    "⅓ cup brown sugar",
+    "1 clove garlic, minced",
+    "1 Tbsp sesame oil",
+    "1 Tbsp sesame seeds",
+    "3 dashes hot sauce",
+    "1 tsp ginger root, freshly grated",
+    "1 tsp lime juice",
+    "¼ tsp lime zest",
+    "2 Tbsp green onion, thinly sliced"
+   ]
+  },
+  {
+   "group": "Salad",
+   "items": [
+    "Bok choy",
+    "Bean sprouts",
+    "Cucumbers",
+    "Romaine",
+    "Water chestnuts",
+    "Iceberg lettuce",
+    "Grated carrots, as desired"
+   ]
+  },
+  {
+   "group": "Toppings",
+   "items": [
+    "3 cups chicken or turkey (cooked and chopped)",
+    "Chopped peanuts",
+    "Crisp noodles (ramen will do in a pinch, or chow-mein noodles, or rice noodles fried if you’re feeling ambitious)",
+    "Sunflower seeds (optional)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the sauce",
+   "body": "Combine **⅓ cup hot water** and **2 Tbsp peanut butter** until smooth. Add **⅓ cup soy sauce**, **⅓ cup brown sugar**, **1 clove garlic**, minced, **1 Tbsp sesame oil**, **1 Tbsp sesame seeds**, **3 dashes hot sauce**, **1 tsp ginger root**, freshly grated, **1 tsp lime juice**, **¼ tsp lime zest** and **2 Tbsp green onion**, thinly sliced."
+  },
+  {
+   "title": "Mix the greens",
+   "body": "Mix up greens, including bok choy, bean sprouts, cucumbers, romaine, water chestnuts, iceberg lettuce and grated carrots as desired."
+  },
+  {
+   "title": "Top the salad",
+   "body": "Top with **3 cups chicken or turkey** (cooked and chopped), chopped peanuts, and crisp noodles (ramen will do in a pinch, or chow-mein noodles, or if you’re feeling ambitious, fry up some rice noodles). You can also add sunflower seeds."
+  }
+ ]
+}

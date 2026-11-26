@@ -1,0 +1,50 @@
+{
+ "name": "Vanilla Cream Pie Filling",
+ "subtitle": "Aunt Michelle’s standard",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pie",
+ "notes": "Can be adjusted for coconut, banana, and chocolate.",
+ "source": {
+  "label": "From the Better Home and Garden’s red gingham cookbook"
+ },
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "¾ cup sugar",
+    "⅓ cup flour or 3 Tbsp cornstarch",
+    "¼ tsp salt",
+    "2 cups milk",
+    "3 slightly beaten egg yolks",
+    "2 Tbsp butter",
+    "1 Tbsp vanilla (or other flavoring if desired: chocolate chips, coconut flavoring, etc.)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the custard",
+   "body": "In a saucepan, combine **¾ cup sugar**, **⅓ cup flour or 3 Tbsp cornstarch** and **¼ tsp salt**. Gradually whisk in **2 cups milk**. Stir over medium-high heat until bubbly, then cook and stir 2 minutes more.",
+   "timerMin": 2
+  },
+  {
+   "title": "Temper the egg yolks",
+   "body": "Remove from heat, and stir a moderate amount of the hot mixture into **3 slightly beaten egg yolks**."
+  },
+  {
+   "title": "Finish cooking",
+   "body": "Return the egg yolks and hot mixture to the saucepan and cook for 2 minutes, stirring constantly.",
+   "timerMin": 2
+  },
+  {
+   "title": "Add butter and vanilla",
+   "body": "Remove from heat. Add **2 Tbsp butter** and **1 Tbsp vanilla** (or other flavoring if desired: chocolate chips, coconut flavoring, etc.)."
+  },
+  {
+   "title": "Fill the pie",
+   "body": "Pour into cooled baked pastry shell. To prevent skin from forming on surface of filling, put waxed paper directly on top of hot filling."
+  }
+ ]
+}

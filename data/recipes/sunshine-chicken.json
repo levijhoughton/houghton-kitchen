@@ -1,0 +1,48 @@
+{
+ "name": "Sunshine Chicken",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "notes": "A long-time family favorite, made by many a college cousin.",
+ "ingredients": [
+  {
+   "group": "Sauce",
+   "items": [
+    "1 tsp salt",
+    "1 tsp basil",
+    "1 tsp ground pepper",
+    "½ cup soy sauce",
+    "½ cup ketchup",
+    "¼ cup honey",
+    "¼ cup oil",
+    "2 cloves garlic"
+   ]
+  },
+  {
+   "group": "Chicken",
+   "items": [
+    "8 chicken thighs",
+    "Salt, for sprinkling",
+    "Basil, for sprinkling",
+    "Ground pepper, for sprinkling"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the sauce",
+   "body": "Prepare the sauce by combining **1 tsp salt**, **1 tsp basil**, **1 tsp ground pepper**, **½ cup soy sauce**, **½ cup ketchup**, **¼ cup honey**, **¼ cup oil** and **2 cloves garlic**."
+  },
+  {
+   "title": "Season the chicken",
+   "body": "In an oiled pan, place **8 chicken thighs**. Sprinkle with salt, basil and ground pepper."
+  },
+  {
+   "title": "Bake",
+   "body": "Baste chicken with sauce, then bake at 350°F, uncovered, and basting frequently, for about 1 hour.",
+   "timerMin": 60
+  }
+ ]
+}

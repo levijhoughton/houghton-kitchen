@@ -1,0 +1,50 @@
+{
+ "name": "Baked Beans",
+ "subtitle": "From Mary",
+ "category": "Sides",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Beans",
+   "items": [
+    "2 × 15 oz cans butter beans, drained",
+    "1 × 16 oz can lima beans, drained",
+    "1 × 16 oz can red beans, drained twice",
+    "1 × 24 oz can baked beans, undrained"
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    "5 slices bacon, fried and crumbled",
+    "4 medium onions (fewer okay), sliced, sautéed in bacon drippings",
+    "½ cup cider or wine vinegar",
+    "½ cup brown sugar",
+    "1 tsp dry mustard",
+    "1 tsp garlic powder"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Fry the bacon",
+   "body": "Fry **5 slices bacon** and crumble it."
+  },
+  {
+   "title": "Sauté the onions",
+   "body": "Sauté **4 medium onions** (fewer okay), sliced, in the bacon drippings."
+  },
+  {
+   "title": "Combine",
+   "body": "Combine: the onions, **½ cup cider or wine vinegar**, **½ cup brown sugar**, **1 tsp dry mustard**, **1 tsp garlic powder**, **2 × 15 oz cans butter beans**, drained, **1 × 16 oz can lima beans**, drained, **1 × 16 oz can red beans**, drained twice, and **1 × 24 oz can baked beans**, undrained."
+  },
+  {
+   "title": "Bake",
+   "body": "Sprinkle the bacon on top and bake, covered, for 1 hour at 300°F.",
+   "timerMin": 60
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "name": "Strawberry Pizza",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pizza",
+ "notes": "Also, you may add other fruits to the strawberries to make a beautiful pattern.",
+ "ingredients": [
+  {
+   "group": "Crust",
+   "items": [
+    "1½ cubes butter",
+    "1½ cups flour",
+    "½ cup powdered sugar"
+   ]
+  },
+  {
+   "group": "Sweet cheese topping",
+   "items": [
+    "8 oz cream cheese, softened",
+    "⅓ cup sugar",
+    "1 egg"
+   ]
+  },
+  {
+   "group": "Strawberry topping",
+   "items": [
+    "1 basket strawberries, cut as desired",
+    "1 basket strawberries, crushed"
+   ]
+  },
+  {
+   "group": "Glaze",
+   "items": [
+    "2 Tbsp corn starch",
+    "½ cup water",
+    "⅔ cup sugar"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the crust",
+   "body": "Cut together **1½ cubes butter**, **1½ cups flour** and **½ cup powdered sugar**. Press into a pan and bake at 325°F for 15 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Make the cheese topping",
+   "body": "Blend together **8 oz cream cheese, softened**, **⅓ cup sugar** and **1 egg**."
+  },
+  {
+   "title": "Bake the cheese topping",
+   "body": "Place on a warm crust, and bake at 250°F for another 10-12 minutes. Cool.",
+   "timerMin": 10
+  },
+  {
+   "title": "Arrange the strawberries",
+   "body": "For strawberry topping, place in a beautiful pattern on top of cooled sweet cheese topping: **1 basket strawberries, cut as desired**."
+  },
+  {
+   "title": "Make the glaze",
+   "body": "Cook, stirring until thick and clear: **1 basket strawberries, crushed**, **2 Tbsp corn starch**, **½ cup water** and **⅔ cup sugar**. Then pour over the strawberries."
+  },
+  {
+   "title": "Serve",
+   "body": "Cool and serve, with whipped topping if desired."
+  }
+ ]
+}

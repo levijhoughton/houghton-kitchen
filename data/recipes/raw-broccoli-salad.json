@@ -1,0 +1,43 @@
+{
+ "name": "Raw Broccoli Salad",
+ "category": "Salads",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "yields": "Serves 6–8",
+ "ingredients": [
+  {
+   "group": "Salad",
+   "items": [
+    "1 pkg bacon, cut in pieces and cooked until crisp",
+    "2 bunches raw broccoli (flowers only), cut in bite-size pieces",
+    "1 cup raisins",
+    "1 cup sunflower seeds",
+    "1 small red onion, chopped"
+   ]
+  },
+  {
+   "group": "Dressing",
+   "items": [
+    "1 cup mayonnaise",
+    "⅓ cup sugar",
+    "2 Tbsp red wine vinegar"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Combine the salad",
+   "body": "Place in bowl: **1 pkg bacon**, cut in pieces and cooked until crisp; **2 bunches raw broccoli** (flowers only), cut in bite-size pieces; **1 cup raisins**; **1 cup sunflower seeds**; and **1 small red onion**, chopped."
+  },
+  {
+   "title": "Mix the dressing",
+   "body": "Mix dressing: **1 cup mayonnaise**, **⅓ cup sugar** and **2 Tbsp red wine vinegar**."
+  },
+  {
+   "title": "Serve",
+   "body": "Combine and serve!"
+  }
+ ]
+}

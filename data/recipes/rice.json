@@ -1,0 +1,35 @@
+{
+ "name": "Rice",
+ "category": "Sides",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "servings",
+ "yields": "About 2 large servings per ½ cup uncooked rice",
+ "notes": "Adjust quantities for number to be served—about two large servings per ½ cup uncooked rice.",
+ "ingredients": [
+  {
+   "group": "Rice",
+   "items": [
+    "1 cup water",
+    "¼ tsp salt",
+    "½ cup rice"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Boil the water",
+   "body": "Bring to a boil in a pot with a lid: **1 cup water** and **¼ tsp salt**."
+  },
+  {
+   "title": "Simmer the rice",
+   "body": "Add **½ cup rice**. Cover, and simmer (lowest setting) for 20 minutes.",
+   "timerMin": 20
+  },
+  {
+   "title": "Check and fluff",
+   "body": "When the rice surface is “pocked,” rice is ready to serve. Fluff with a fork."
+  }
+ ]
+}

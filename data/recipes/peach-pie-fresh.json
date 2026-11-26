@@ -1,0 +1,55 @@
+{
+ "name": "Peach Pie",
+ "subtitle": "Fresh",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pie",
+ "notes": "If you don’t have cream cheese: prepare pie crust and bake with cinnamon sugar topping, or after baking, line with a thin layer of homemade jam to reduce moisture seepage.",
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "4-6 peaches, cut",
+    "Lemon juice, for tossing the peaches",
+    "Blackberries (optional)",
+    "Pie shell"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "1 cup mashed fresh peaches",
+    "¾ cup water",
+    "1 cup sugar",
+    "3 Tbsp cornstarch",
+    "1 Tbsp fresh lemon juice",
+    "⅛ tsp salt",
+    "1 Tbsp butter"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Fill the shell",
+   "body": "Place **4-6 peaches**, cut and tossed with lemon juice, in pie shell. May add blackberries."
+  },
+  {
+   "title": "Heat the peaches",
+   "body": "Make the topping: in a saucepan, combine and heat about 1 minute: **1 cup mashed fresh peaches** and **¾ cup water**.",
+   "timerMin": 1
+  },
+  {
+   "title": "Thicken",
+   "body": "Combine and add to peach mixture: **1 cup sugar** and **3 Tbsp cornstarch**."
+  },
+  {
+   "title": "Cook",
+   "body": "Cook on medium, stirring occasionally, til thick and clear, then remove from heat and add: **1 Tbsp fresh lemon juice**, **⅛ tsp salt** and **1 Tbsp butter**."
+  },
+  {
+   "title": "Pour and cool",
+   "body": "Pour over peaches. Cool in refrigerator."
+  }
+ ]
+}

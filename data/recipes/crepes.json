@@ -1,0 +1,33 @@
+{
+ "name": "Crepes",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "crepe pan or griddle",
+ "notes": "Serve for breakfast/dessert with whipped cream, berries, nutella, nuts, sour cream-lemon-sugar. Or use for main dish crepes (ham and asparagus with hollandaise; chicken, onion, sliced almonds, cheese with marinara).",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "3 cups flour",
+    "6 eggs",
+    "3 cups milk",
+    "4 Tbsp oil",
+    "Pinch of salt",
+    "⅔ cup sugar",
+    "1 tsp lemon/oj/rind"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Blend the batter",
+   "body": "Blend in blender: **3 cups flour**, **6 eggs**, **3 cups milk**, **4 Tbsp oil**, pinch of salt, **⅔ cup sugar** and **1 tsp lemon/oj/rind**."
+  },
+  {
+   "title": "Cook the crepes",
+   "body": "Cook in crepe pan or on griddle."
+  }
+ ]
+}

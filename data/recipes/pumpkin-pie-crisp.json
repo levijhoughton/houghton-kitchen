@@ -1,0 +1,57 @@
+{
+ "name": "Pumpkin Pie Crisp",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "10×12 pan",
+ "yields": "Makes 10×12 pan",
+ "equipment": "10×12 pan",
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "1 × 15 oz can pumpkin puree",
+    "1 can evaporated milk",
+    "3 eggs, slightly beaten",
+    "½ cup sugar",
+    "2 tsp cinnamon",
+    "½ tsp nutmeg"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "1 cake mix (yellow, lemon, or spice)",
+    "1 cup chopped nuts",
+    "½ cup butter, melted"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the filling",
+   "body": "Mix together **1 × 15 oz can pumpkin puree**, **1 can evaporated milk**, **3 eggs**, slightly beaten, **½ cup sugar**, **2 tsp cinnamon** and **½ tsp nutmeg**."
+  },
+  {
+   "title": "Pour into pan",
+   "body": "Pour into greased 10×12 pan."
+  },
+  {
+   "title": "Add the topping",
+   "body": "Sprinkle over top of mixture: **1 cake mix (yellow, lemon, or spice)** and **1 cup chopped nuts**."
+  },
+  {
+   "title": "Drizzle butter",
+   "body": "Drizzle over top: **½ cup butter**, melted."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 45 minutes at 350°F.",
+   "timerMin": 45
+  },
+  {
+   "title": "Serve",
+   "body": "Serve with whipped cream."
+  }
+ ]
+}

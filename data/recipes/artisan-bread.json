@@ -1,0 +1,62 @@
+{
+ "name": "Artisan Bread",
+ "category": "Yeast breads",
+ "collection": "family",
+ "servings": 3,
+ "servingUnit": "large loaves",
+ "yields": "Makes 3–4 large loaves or about 3 large pizzas",
+ "equipment": "Dough bucket (a gallon ice cream bucket is a good size), wooden spoon, metal pan with sides, wire rack",
+ "notes": "Make ahead, mix with a wooden spoon, great for pizza dough.",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "6½ cups flour",
+    "1½ Tbsp yeast",
+    "1½ Tbsp kosher salt",
+    "3 cups warm water"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Stir, in a “dough bucket” (a gallon ice cream bucket is a good size): **6½ cups flour**, **1½ Tbsp yeast** and **1½ Tbsp kosher salt**."
+  },
+  {
+   "title": "Add the water",
+   "body": "Add and mix in with wooden spoon: **3 cups warm water**."
+  },
+  {
+   "title": "Rest the dough",
+   "body": "Do not knead—just mix with a wooden spoon. The dough will seem “wet.” Cover loosely (not with an airtight lid), and leave on the counter for 2 hours.",
+   "timerMin": 120
+  },
+  {
+   "title": "Store or use",
+   "body": "You can now use the dough or place it in the refrigerator for up to 2 weeks. The longer time between mixing and using the dough, the more “sourdough” flavor you will have."
+  },
+  {
+   "title": "Shape the loaf",
+   "body": "When ready for some fresh bread, sprinkle the dough’s surface with flour, and pull off the desired amount of dough. Make a “gluten cloak,” by adding a little more flour as needed, then gently stretching the surface of the dough around to the bottom on all four sides, rotating the ball, and doing it again until you have a smooth top. Work toward shaping your loaf into whatever form or fantasy you desire, then place on an oiled and corn-meal topped pan."
+  },
+  {
+   "title": "Rest the loaf",
+   "body": "Let the dough rest for about 40 minutes (or overnight in a cool room).",
+   "timerMin": 40
+  },
+  {
+   "title": "Preheat the oven",
+   "body": "Prepare your oven for baking by placing a metal pan with sides in the oven, and preheating to 450°F."
+  },
+  {
+   "title": "Bake",
+   "body": "Dust the top of the loaf with flour and slash the top of the bread if desired. After your dough has rested for 40 minutes or so, place the loaf in the oven, pour **a cup of hot water** into your metal pan, close the oven, and bake for 20-30 minutes, depending on loaf size.",
+   "timerMin": 20
+  },
+  {
+   "title": "Cool",
+   "body": "Remove the loaf and cool on a wire rack."
+  }
+ ]
+}

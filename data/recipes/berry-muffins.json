@@ -1,0 +1,37 @@
+{
+ "name": "Berry Muffins",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "dozen muffins",
+ "yields": "Makes approximately 2 dozen",
+ "equipment": "greased muffin tins",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "4 cups flour",
+    "2 cups sugar",
+    "6 tsp baking powder",
+    "1 tsp salt",
+    "4 eggs",
+    "2 cups plain yogurt",
+    "1 cup vegetable oil",
+    "2 tsp lemon zest",
+    "¼ cup lemon juice",
+    "2 cups unsweetened berries"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the batter",
+   "body": "Mix in a bowl: **4 cups flour**, **2 cups sugar**, **6 tsp baking powder**, **1 tsp salt**, **4 eggs**, **2 cups plain yogurt**, **1 cup vegetable oil**, **2 tsp lemon zest**, **¼ cup lemon juice** and **2 cups unsweetened berries**."
+  },
+  {
+   "title": "Bake",
+   "body": "Place in greased muffin tins ⅔ full and bake at 350°F for about 15 minutes, or until the center springs back when tested.",
+   "timerMin": 15
+  }
+ ]
+}

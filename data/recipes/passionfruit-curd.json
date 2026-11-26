@@ -1,0 +1,34 @@
+{
+ "name": "Passionfruit Curd",
+ "category": "Extras",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "Saucepan",
+ "notes": "May freeze.",
+ "ingredients": [
+  {
+   "items": [
+    "¾ cup passionfruit pulp",
+    "2 whole eggs",
+    "2 egg yolks",
+    "½ cup sugar",
+    "½ stick butter"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Combine",
+   "body": "Combine in a saucepan: **¾ cup passionfruit pulp**, **2 whole eggs**, **2 egg yolks** and **½ cup sugar**."
+  },
+  {
+   "title": "Cook until thick",
+   "body": "Stir constantly until it thickens and coats the back of a spoon, then remove from heat and add **½ stick butter**."
+  },
+  {
+   "title": "Chill",
+   "body": "Chill before use."
+  }
+ ]
+}

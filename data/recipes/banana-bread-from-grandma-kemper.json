@@ -1,0 +1,49 @@
+{
+ "name": "Banana Bread",
+ "subtitle": "From Grandma Kemper",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "loaf",
+ "equipment": "loaf pan",
+ "notes": "From Pam—the best I can find.",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "1 cup sugar",
+    "½ cup butter",
+    "2 eggs",
+    "2 cups flour",
+    "1 tsp baking soda",
+    "¼ tsp salt",
+    "1 tsp baking powder",
+    "5 mashed ripe bananas",
+    "nuts"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the batter",
+   "body": "Mix together **1 cup sugar**, **½ cup butter**, **2 eggs**, **2 cups flour**, **1 tsp baking soda**, **¼ tsp salt** and **1 tsp baking powder**."
+  },
+  {
+   "title": "Add the bananas and nuts",
+   "body": "Add **5 mashed ripe bananas** and nuts."
+  },
+  {
+   "title": "Pour into the pan",
+   "body": "Pour into a greased loaf pan."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 350°F for 1 hour (about 35 minutes for the smaller loaves).",
+   "timerMin": 60
+  },
+  {
+   "title": "Wrap",
+   "body": "Wrap in foil while still slightly warm."
+  }
+ ]
+}

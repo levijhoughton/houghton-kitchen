@@ -1,0 +1,54 @@
+{
+ "name": "Pork Ribs",
+ "category": "Mains",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "equipment": "Baking pan, grill (optional)",
+ "ingredients": [
+  {
+   "group": "Dry rub",
+   "items": [
+    "¼ cup sweet paprika",
+    "4½ tsp freshly ground black pepper",
+    "4½ tsp dark brown sugar",
+    "1 Tbsp salt",
+    "1½ tsp celery salt",
+    "¾–1½ tsp cayenne pepper",
+    "1½ tsp garlic powder",
+    "1½ tsp dry mustard",
+    "1½ tsp ground cumin"
+   ]
+  },
+  {
+   "group": "Ribs",
+   "items": [
+    "three racks of baby back ribs"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the rub",
+   "body": "Combine **¼ cup sweet paprika**, **4½ tsp freshly ground black pepper**, **4½ tsp dark brown sugar**, **1 Tbsp salt**, **1½ tsp celery salt**, **¾–1½ tsp cayenne pepper**, **1½ tsp garlic powder**, **1½ tsp dry mustard** and **1½ tsp ground cumin**."
+  },
+  {
+   "title": "Rub the ribs",
+   "body": "Rub into **three racks of baby back ribs**."
+  },
+  {
+   "title": "Bake the ribs",
+   "body": "To prepare in the oven, wrap ribs in heavy duty foil, sealing edges, and bake on a pan at 250°F for six hours.",
+   "timerMin": 360
+  },
+  {
+   "title": "Char on the grill",
+   "body": "Ribs can be finished on a low temperature grill for a little charring if desired."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve with your favorite BBQ sauce."
+  }
+ ]
+}

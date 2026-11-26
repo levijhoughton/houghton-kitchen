@@ -1,0 +1,71 @@
+{
+ "name": "Indian Fry Bread",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "yields": "Serves 4–6",
+ "ingredients": [
+  {
+   "group": "Fry bread",
+   "items": [
+    "4 cups flour",
+    "2 Tbsp cooking oil",
+    "2 Tbsp baking powder",
+    "1½ tsp salt",
+    "2 Tbsp sugar",
+    "1¾ cups warm water",
+    "Oil for frying"
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    "1½ pounds hamburger",
+    "6 oz tomato paste + 2 cans (1½ cups) water",
+    "2 cans chili beans",
+    "1 pkg taco mix (about ¼ cup)"
+   ]
+  },
+  {
+   "group": "Toppings",
+   "items": [
+    "Cheese",
+    "Onion",
+    "Lettuce",
+    "Tomatoes",
+    "Tabasco sauce",
+    "Olives",
+    "Sour cream"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dough",
+   "body": "Combine and mix, kneading as needed: **4 cups flour**, **2 Tbsp cooking oil**, **2 Tbsp baking powder**, **1½ tsp salt**, **2 Tbsp sugar** and **1¾ cups warm water**."
+  },
+  {
+   "title": "Rest",
+   "body": "Let stand at room temperature for 30 minutes.",
+   "timerMin": 30
+  },
+  {
+   "title": "Knead and roll",
+   "body": "Knead until smooth and elastic. Roll golf-ball sized pieces out to ¼\" (about plate size)."
+  },
+  {
+   "title": "Fry",
+   "body": "Fry in hot oil until golden brown on both sides."
+  },
+  {
+   "title": "Make the sauce",
+   "body": "Combine for the sauce: **1½ pounds hamburger**, **6 oz tomato paste** + **2 cans (1½ cups) water**, **2 cans chili beans** and **1 pkg taco mix** (about ¼ cup)."
+  },
+  {
+   "title": "Top and serve",
+   "body": "Place sauce on fry bread, and top with cheese, onion, lettuce, tomatoes, Tabasco sauce, olives and sour cream."
+  }
+ ]
+}

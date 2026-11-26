@@ -1,0 +1,58 @@
+{
+ "name": "Granola #1",
+ "category": "Extras",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "Sheet pan",
+ "notes": "You can fit 2 recipes in one sheet pan, although you may opt for a deeper pan so it’s easier to turn.",
+ "ingredients": [
+  {
+   "group": "Dry ingredients",
+   "items": [
+    "3 cups rolled oats",
+    "1 cup slivered or chopped almonds",
+    "1 cup cashews",
+    "¾ cup shredded sweet coconut"
+   ]
+  },
+  {
+   "group": "Wet ingredients",
+   "items": [
+    "¼ cup + 2 Tbsp dark brown sugar",
+    "¼ cup + 2 Tbsp maple syrup",
+    "¼ cup vegetable oil",
+    "¾ tsp salt"
+   ]
+  },
+  {
+   "group": "Add after baking",
+   "items": [
+    "1 cup dried fruit"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix dry ingredients",
+   "body": "Mix together **3 cups rolled oats**, **1 cup slivered or chopped almonds**, **1 cup cashews** and **¾ cup shredded sweet coconut**."
+  },
+  {
+   "title": "Mix wet ingredients",
+   "body": "In another bowl, mix **¼ cup + 2 Tbsp dark brown sugar**, **¼ cup + 2 Tbsp maple syrup**, **¼ cup vegetable oil** and **¾ tsp salt**."
+  },
+  {
+   "title": "Combine",
+   "body": "Pour over dry ingredients and mix together. Pour into a sheet pan."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 300°F for about 75 minutes, stirring every 15–20 minutes.",
+   "timerMin": 75
+  },
+  {
+   "title": "Add the fruit",
+   "body": "Remove from oven and add **1 cup dried fruit**."
+  }
+ ]
+}

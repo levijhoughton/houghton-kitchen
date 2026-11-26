@@ -1,0 +1,41 @@
+{
+ "name": "Luke’s Chunky Beef Marinara Sauce",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "ingredients": [
+  {
+   "group": "Sauce",
+   "items": [
+    "2 Tbsp olive oil",
+    "1 onion, chopped",
+    "1 clove garlic, chopped",
+    "14.5 oz peeled and diced tomatoes",
+    "15 oz tomato sauce",
+    "1 tsp white sugar",
+    "1 tsp dried oregano",
+    "¼ tsp salt",
+    "Pinch of rosemary",
+    "Cooked ground beef, in desired portions"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the onion and garlic",
+   "body": "Heat in a saucepan over medium-high heat: **2 Tbsp olive oil**. Add and cook 2-4 minutes until crisp-tender, stirring frequently: **1 onion, chopped** and **1 clove garlic, chopped**.",
+   "timerMin": 2
+  },
+  {
+   "title": "Add the tomatoes",
+   "body": "Mix in, and bring to a boil: **14.5 oz peeled and diced tomatoes**, **15 oz tomato sauce**, **1 tsp white sugar**, **1 tsp dried oregano**, **¼ tsp salt**, pinch of rosemary and cooked ground beef, in desired portions."
+  },
+  {
+   "title": "Simmer",
+   "body": "Reduce heat to low and simmer 15-20 minutes or until flavors blended, stirring frequently.",
+   "timerMin": 15
+  }
+ ]
+}

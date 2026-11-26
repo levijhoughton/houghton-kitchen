@@ -1,0 +1,53 @@
+{
+ "name": "Zuppa Toscana Soup",
+ "subtitle": "Made by Lara",
+ "category": "Soups",
+ "protein": "Pork",
+ "cuisine": "Italian",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "notes": "Luke’s favorite soup in the world.",
+ "ingredients": [
+  {
+   "items": [
+    "1 lb spicy Italian ground sausage (can use reg pork sausage, add 1 tsp Italian seasoning and ¼ tsp cayenne (opt))",
+    "1 Tbsp butter",
+    "1 yellow onion, diced",
+    "1 Tbsp minced garlic",
+    "½ tsp dried rosemary",
+    "6 cups chicken broth",
+    "1 cup water",
+    "4–5 yellow potatoes, cut into 1-inch pieces",
+    "2 tsp salt, or to taste",
+    "1 tsp black pepper",
+    "2 cups heavy cream",
+    "4 cups chopped kale"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Soften the onion",
+   "body": "Chop **1 yellow onion**. Melt **1 Tbsp butter** in a pot, add onion and cook for 1–2 minutes until soft.",
+   "timerMin": 1
+  },
+  {
+   "title": "Brown the sausage",
+   "body": "Add **1 Tbsp minced garlic** and **1 lb spicy Italian ground sausage**. Cook sausage until brown. Drain fat."
+  },
+  {
+   "title": "Add the rosemary",
+   "body": "Add **½ tsp dried rosemary**."
+  },
+  {
+   "title": "Simmer the potatoes",
+   "body": "Add **6 cups chicken broth**, **1 cup water**, **4–5 yellow potatoes**, cut into 1-inch pieces, **2 tsp salt**, or to taste, and **1 tsp black pepper**. Bring to a boil and cook until potatoes are tender, about 10 minutes.",
+   "timerMin": 10
+  },
+  {
+   "title": "Finish the soup",
+   "body": "Remove from heat and stir in **4 cups chopped kale**. Add **2 cups heavy cream**. Serve!"
+  }
+ ]
+}

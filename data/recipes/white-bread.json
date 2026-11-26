@@ -1,0 +1,58 @@
+{
+ "name": "White Bread",
+ "category": "Yeast breads",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "loaves",
+ "yields": "Makes 4 loaves",
+ "equipment": "Mixer with dough hook, greased bread pans",
+ "notes": "Ginger taught me that this bread could be put together before school in the midst of morning chaos—“It just has five ingredients!” (and water). Can be used for cinnamon bread, inside-out-pizza, etc.",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "10 cups bread flour",
+    "3 Tbsp yeast",
+    "½ cup sugar",
+    "2½ Tbsp salt",
+    "6 cups warm water",
+    "½ cup oil"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Combine in mixer with dough hook: **10 cups bread flour**, **3 Tbsp yeast**, **½ cup sugar** and **2½ Tbsp salt**."
+  },
+  {
+   "title": "Add the wet ingredients",
+   "body": "Add and mix: **6 cups warm water** and **½ cup oil**."
+  },
+  {
+   "title": "Add more flour",
+   "body": "Scrape down the sides of the bowl and lid. Then while mixing, add **6-8 cups more bread flour** so the dough doesn’t stick to the sides of the bowl when the mixer is running. Mix for about 5 minutes more."
+  },
+  {
+   "title": "First rise",
+   "body": "Let rise until doubled."
+  },
+  {
+   "title": "Shape the loaves",
+   "body": "Mix again for about 5 minutes, then form into 4 loaves and place in greased bread pans."
+  },
+  {
+   "title": "Second rise",
+   "body": "Let rise til about 1-inch above pan tops."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 350°F for 28-30 minutes.",
+   "timerMin": 28
+  },
+  {
+   "title": "Finish",
+   "body": "Remove from pans immediately, butter tops of loaves, and cool before bagging."
+  }
+ ]
+}

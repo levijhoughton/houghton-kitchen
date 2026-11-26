@@ -1,0 +1,42 @@
+{
+ "name": "Denise’s Best Pasta Salad",
+ "category": "Salads",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "yields": "Serves 4",
+ "ingredients": [
+  {
+   "group": "Salad",
+   "items": [
+    "2 cups pasta, cooked to al dente",
+    "1 cup chopped tomatoes",
+    "½ cup bell pepper, chopped",
+    "½ cup black olives, sliced",
+    "Other add-ins as desired"
+   ]
+  },
+  {
+   "group": "Dressing",
+   "items": [
+    "1 cup mayo",
+    "1 Tbsp red wine vinegar",
+    "1 tsp salt",
+    "¼ tsp black pepper",
+    "1 clove garlic, minced",
+    "1½ Tbsp basil"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the dressing",
+   "body": "Mix dressing: **1 cup mayo**, **1 Tbsp red wine vinegar**, **1 tsp salt**, **¼ tsp black pepper**, **1 clove garlic**, minced, and **1½ Tbsp basil**."
+  },
+  {
+   "title": "Finish the salad",
+   "body": "Add to salad and enjoy!"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Salted Caramel Sauce",
+ "subtitle": "From the Taysoms",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "ingredients": [
+  {
+   "group": "Caramel",
+   "items": [
+    "1 cup granulated sugar",
+    "6 Tbsp salted butter, cubed",
+    "½ cup heavy cream, room temperature",
+    "1 tsp pure vanilla extract",
+    "1 tsp fine sea salt"
+   ]
+  },
+  {
+   "group": "Pecans (optional)",
+   "items": [
+    "Pecan halves",
+    "2 Tbsp butter (for every cup of pecans)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Melt the sugar",
+   "body": "Add **1 cup granulated sugar** to a large heavy-bottomed non-stick saucepan and heat over medium heat, stirring constantly until sugar is melted and turns a medium amber caramel color. Don’t worry if the sugar clumps up, just keep stirring and it will melt smoothly. Keep a close eye on the pot as the sugar can easily burn, and you would have to start over again."
+  },
+  {
+   "title": "Add butter",
+   "body": "As soon as the caramel turns a deep amber, add **6 Tbsp salted butter, cubed**, whisking constantly until butter is melted and fully combined."
+  },
+  {
+   "title": "Add cream",
+   "body": "Once butter is combined, slowly pour in **½ cup heavy cream, room temperature** while whisking vigorously, be careful as it will begin to bubble up furiously. The caramel may begin to clump together if your cream is too cold. If so, just continue stirring until caramel melts back down."
+  },
+  {
+   "title": "Boil",
+   "body": "Allow caramel to boil for 1 minute, then remove from heat.",
+   "timerMin": 1
+  },
+  {
+   "title": "Add vanilla and salt",
+   "body": "Stir in the **1 tsp pure vanilla extract** (optional) and **1 tsp fine sea salt**. You can leave out the salt if you don’t want the caramel to be salted."
+  },
+  {
+   "title": "Cool and store",
+   "body": "Let caramel cool to room temperature before pouring into a jar or an airtight container. Set aside or store in the refrigerator until ready to use."
+  },
+  {
+   "title": "Add pecans (optional)",
+   "body": "If you want to add pecans, combine pecan halves with **2 Tbsp butter** (for every cup of pecans) and bake at 350°F for 5-6 minutes. Chop if desired.",
+   "timerMin": 5
+  }
+ ]
+}

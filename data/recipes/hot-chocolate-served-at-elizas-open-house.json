@@ -1,0 +1,38 @@
+{
+ "name": "Hot Chocolate",
+ "subtitle": "Served at Eliza’s Open House",
+ "category": "Extras",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "items": [
+    "3 cups whole milk",
+    "1 cup half and half",
+    "¼ Dutch cocoa",
+    "½ cup sugar",
+    "¼ tsp cinnamon",
+    "¼ tsp vanilla"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Heat the milk",
+   "body": "Heat **3 cups whole milk** and **1 cup half and half**."
+  },
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Stir together in a separate bowl: **¼ Dutch cocoa**, **½ cup sugar** and **¼ tsp cinnamon**."
+  },
+  {
+   "title": "Make the paste",
+   "body": "Add a small amount of the warmed milk mixture to the dry ingredients to form a paste, then mix in with milk and simmer to avoid clumps, but do not boil."
+  },
+  {
+   "title": "Add vanilla",
+   "body": "Add **¼ tsp vanilla**."
+  }
+ ]
+}

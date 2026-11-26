@@ -1,0 +1,65 @@
+{
+ "name": "“Monster” Pasta",
+ "subtitle": "Green, discovered by Eliza",
+ "category": "Mains",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "Blender, big pot",
+ "notes": "Approved by the Weyand boys. This recipe makes several cups of sauce, so freeze the rest and pull it out for a quick nutritious meal another day! OPTIONAL: We like to add grilled chicken, tomatoes, and red pepper flakes for a bit of extra flavor/pizazz.",
+ "ingredients": [
+  {
+   "items": [
+    "1 (8-oz) block of Parmigiano Reggiano (not Parmesan)",
+    "20 cloves garlic, peeled and rough-chopped",
+    "½ cup high-quality extra-virgin olive oil",
+    "1 bunch lacinato kale (roughly 1 lb), ends trimmed if they look yucky",
+    "1 bunch spinach (roughly 12 oz) or 10-12 oz bagged spinach",
+    "1 lb pasta",
+    "2 lemons",
+    "1 cup reserved pasta water",
+    "Optional: red pepper flakes, chicken"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Grate the cheese",
+   "body": "Cut the rind off the **1 (8-oz) block of Parmigiano Reggiano**, cut the cheese into a few chunks, and throw it in a blender until it becomes grated. Leave it there."
+  },
+  {
+   "title": "Cook the garlic",
+   "body": "Add **20 cloves garlic, peeled and rough-chopped** to a small pot and cover with **½ cup high-quality extra-virgin olive oil**. Cook on low heat until the garlic is light golden-brown and softened (5-7 minutes). Remove from the heat and let cool.",
+   "timerMin": 5
+  },
+  {
+   "title": "Boil the water",
+   "body": "Bring a BIG pot of heavily salted water (we’re talking **2 Tbsp salt**) to a boil."
+  },
+  {
+   "title": "Blanch the greens",
+   "body": "Add **1 bunch lacinato kale (roughly 1 lb)** to the water and cook for 2 minutes. Add **1 bunch spinach (roughly 12 oz)** or **10-12 oz bagged spinach** and continue cooking for 2-3 more minutes, until both spinach and kale have wilted. Remove the pot from heat."
+  },
+  {
+   "title": "Transfer the greens",
+   "body": "Use tongs or a slotted spoon to transfer all the greens from the pot to the blender. Squeeze or shake the excess water out of the greens as you transfer them, but it’s ok if a bit of water comes over too. DON’T DRAIN THE POT OF WATER! Put the pot back on the stove over high heat and bring the water back to a boil."
+  },
+  {
+   "title": "Cook the pasta",
+   "body": "Once the water has reached a roiling boil, cook **1 lb pasta**. Scoop out **1 cup** of cooking water and drain the pasta."
+  },
+  {
+   "title": "Make the sauce",
+   "body": "SAUCE: Add the cooled garlic and olive oil to the blender along with the zest and juice of **1 lemon** and **1½ tsp salt**. Blend on high until smooth. Add a bit of the reserved pasta water to get a saucy consistency."
+  },
+  {
+   "title": "Season",
+   "body": "Add lemon juice or salt to taste."
+  },
+  {
+   "title": "Combine",
+   "body": "Pour **1 cup green sauce** into the pasta to start, and add more as desired."
+  }
+ ]
+}

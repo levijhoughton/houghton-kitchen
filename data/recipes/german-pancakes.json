@@ -1,0 +1,66 @@
+{
+ "name": "German Pancakes",
+ "category": "Breakfast & quick breads",
+ "cuisine": "German",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "dozen pancakes",
+ "yields": "Makes 2 dozen",
+ "equipment": "9×13 pan or muffin tins",
+ "ingredients": [
+  {
+   "group": "Pan",
+   "items": [
+    "6 Tbsp butter"
+   ]
+  },
+  {
+   "group": "Batter",
+   "items": [
+    "1 cup milk",
+    "6 eggs",
+    "½ tsp salt",
+    "1 cup flour"
+   ]
+  },
+  {
+   "group": "Or, apple baby (instead of plain batter)",
+   "items": [
+    "Brown sugar",
+    "Thin-sliced apples",
+    "Cinnamon"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Heat the oven",
+   "body": "Heat oven to 450°F."
+  },
+  {
+   "title": "Melt the butter",
+   "body": "In a 9×13 pan, or in muffin tins, melt the following in a hot oven: **6 Tbsp butter**."
+  },
+  {
+   "title": "Make the batter",
+   "body": "In a blender, or with a mixer, combine: **1 cup milk**, **6 eggs**, **½ tsp salt** and **1 cup flour**."
+  },
+  {
+   "title": "Apple baby option",
+   "body": "For the apple baby, before adding batter to buttered pans, place brown sugar and thin-sliced apples and cinnamon in bottom of pan, then add batter."
+  },
+  {
+   "title": "Pour and bake",
+   "body": "Pour batter into hot buttered pan and bake for 15 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Serve",
+   "body": "Serve immediately with jam."
+  },
+  {
+   "title": "Invert the apple baby",
+   "body": "For the apple baby, invert baking pan when done, and serve with apples on top."
+  }
+ ]
+}

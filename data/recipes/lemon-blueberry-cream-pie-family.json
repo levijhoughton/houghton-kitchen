@@ -1,0 +1,44 @@
+{
+ "name": "Lemon Blueberry Cream Pie",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pie",
+ "yields": "Makes a single 8-inch pie",
+ "notes": "A favorite of many, including a very young Levi. This pie is just the right texture with 4 Tbsp cornstarch instead of 3–discovered and revised 4/23.",
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "1 cup sugar",
+    "4 Tbsp cornstarch",
+    "1 cup milk",
+    "3 beaten egg yolks",
+    "¼ cup butter",
+    "1 Tbsp lemon peel",
+    "¼ cup lemon juice",
+    "1 cup sour cream",
+    "2 cups blueberries (fresh are better)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Start the filling",
+   "body": "Combine in saucepan: **1 cup sugar** and **4 Tbsp cornstarch**. Then add: **1 cup milk**, **3 beaten egg yolks**, **¼ cup butter** and **1 Tbsp lemon peel**."
+  },
+  {
+   "title": "Cook",
+   "body": "Cook and stir on medium heat til thick, then two minutes more. Add **¼ cup lemon juice**."
+  },
+  {
+   "title": "Chill and add",
+   "body": "Refrigerate til cool, then add: **1 cup sour cream** and **2 cups blueberries (fresh are better)**."
+  },
+  {
+   "title": "Assemble",
+   "body": "Place in a pre-baked pie crust and chill for about 4 hours. Serve with whipped cream, if desired.",
+   "timerMin": 240
+  }
+ ]
+}

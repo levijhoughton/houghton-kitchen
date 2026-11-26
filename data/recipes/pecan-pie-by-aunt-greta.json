@@ -1,0 +1,52 @@
+{
+ "name": "Pecan Pie",
+ "subtitle": "By Aunt Greta",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pie",
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "4 eggs",
+    "1 cup dark brown sugar",
+    "¾ cup light corn syrup",
+    "½ tsp salt",
+    "¼ cup melted butter",
+    "1 tsp vanilla"
+   ]
+  },
+  {
+   "group": "Shell and topping",
+   "items": [
+    "Unbaked pastry shell",
+    "2 cups chopped pecans",
+    "Pecan halves (as many as you need to make your beautiful pattern)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Beat the eggs",
+   "body": "Beat **4 eggs**."
+  },
+  {
+   "title": "Add the sugar and syrup",
+   "body": "Add: **1 cup dark brown sugar**, **¾ cup light corn syrup**, **½ tsp salt**, **¼ cup melted butter** and **1 tsp vanilla**."
+  },
+  {
+   "title": "Add the pecans",
+   "body": "Sprinkle in unbaked pastry shell: **2 cups chopped pecans**."
+  },
+  {
+   "title": "Arrange the pecan halves",
+   "body": "Pour egg mixture over pecans, and arrange on top, in a beautiful pattern: pecan halves (as many as you need to make your beautiful pattern)."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 325°F for about 70 minutes.",
+   "timerMin": 70
+  }
+ ]
+}

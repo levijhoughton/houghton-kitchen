@@ -1,0 +1,55 @@
+{
+ "name": "“The” Cookies",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "½ cup shortening",
+    "½ cup butter",
+    "1 cup sugar",
+    "1 cup brown sugar",
+    "2 eggs",
+    "1 tsp vanilla",
+    "½ tsp salt",
+    "1 tsp baking soda",
+    "½ tsp baking powder",
+    "2 cups regular oats",
+    "2 cups flour",
+    "¾ cup coconut",
+    "¾ cup chopped nuts",
+    "1 cup chocolate chips, or mix with butterscotch chips if desired"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the fats and sugars",
+   "body": "Cream together **½ cup shortening**, **½ cup butter**, **1 cup sugar** and **1 cup brown sugar**."
+  },
+  {
+   "title": "Add eggs and vanilla",
+   "body": "Add **2 eggs** and **1 tsp vanilla**."
+  },
+  {
+   "title": "Add the salt and leaveners",
+   "body": "Add **½ tsp salt**, **1 tsp baking soda** and **½ tsp baking powder**."
+  },
+  {
+   "title": "Mix in oats and flour",
+   "body": "Mix in **2 cups regular oats** and **2 cups flour**."
+  },
+  {
+   "title": "Add the mix-ins",
+   "body": "Add **¾ cup coconut**, **¾ cup chopped nuts** and **1 cup chocolate chips**, or mix with butterscotch chips if desired."
+  },
+  {
+   "title": "Drop and bake",
+   "body": "Drop onto cookie sheets, and bake at 350°F for 10–13 minutes.",
+   "timerMin": 10
+  }
+ ]
+}

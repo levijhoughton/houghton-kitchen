@@ -1,0 +1,38 @@
+{
+ "name": "Sloppy Joes",
+ "subtitle": "Twin Falls 7th Ward",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Beef and sauce",
+   "items": [
+    "2 lb ground beef",
+    "2 onions, chopped",
+    "1½ tsp mustard",
+    "1½ cans tomato soup",
+    "4½ Tbsp catsup",
+    "2¼ Tbsp brown sugar",
+    "1½ Tbsp vinegar",
+    "Salt and pepper to taste"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Brown the beef",
+   "body": "Brown **2 lb ground beef** and **2 onions**, chopped."
+  },
+  {
+   "title": "Simmer the sauce",
+   "body": "Add **1½ tsp mustard**, **1½ cans tomato soup**, **4½ Tbsp catsup**, **2¼ Tbsp brown sugar** and **1½ Tbsp vinegar**, and simmer until desired consistency, adding water as needed."
+  },
+  {
+   "title": "Season",
+   "body": "Salt and pepper to taste."
+  }
+ ]
+}

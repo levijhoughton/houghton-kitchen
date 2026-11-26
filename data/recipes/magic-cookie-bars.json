@@ -1,0 +1,46 @@
+{
+ "name": "Magic Cookie Bars",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "10×12 pan",
+ "equipment": "10×12 pan",
+ "ingredients": [
+  {
+   "group": "Crust",
+   "items": [
+    "1¾ cups graham cracker crumbs",
+    "3 Tbsp sugar",
+    "1 cube butter, melted"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "6 oz chocolate chips",
+    "3½ oz flaked coconut",
+    "1 cup chopped walnuts",
+    "1 can sweetened condensed milk"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the crust",
+   "body": "Mix together **1¾ cups graham cracker crumbs**, **3 Tbsp sugar** and **1 cube butter**, melted. Press into a 10×12 pan."
+  },
+  {
+   "title": "Add the toppings",
+   "body": "Top with **6 oz chocolate chips**, **3½ oz flaked coconut** and **1 cup chopped walnuts**."
+  },
+  {
+   "title": "Add the milk",
+   "body": "Pour **1 can sweetened condensed milk** over the nuts, coconut and chips."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 350°F for 25 minutes until light brown.",
+   "timerMin": 25
+  }
+ ]
+}

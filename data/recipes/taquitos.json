@@ -1,0 +1,62 @@
+{
+ "name": "Taquitos",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "cuisine": "Mexican",
+ "collection": "family",
+ "servings": 30,
+ "servingUnit": "taquitos",
+ "equipment": "Griddle or skillet, lined baking sheet",
+ "notes": "This recipe was discovered by Marta and enjoyed by Jeff! It’s a really great make-ahead recipe because it cooks up from the freezer to the table quickly and easily.",
+ "ingredients": [
+  {
+   "group": "Filling and tortillas",
+   "items": [
+    "3 cups roasted and shredded chicken breast",
+    "8 oz cream cheese",
+    "4 Tbsp chopped cilantro",
+    "2 Tbsp lime juice",
+    "1 × 6 oz can green chiles (or salsa verde)",
+    "¾ tsp cumin",
+    "1½ tsp chili powder",
+    "1 tsp onion powder",
+    "¼ tsp garlic powder",
+    "1½ cups shredded pepper jack cheese",
+    "30 tortillas (flour or corn)",
+    "Salt",
+    "Cooking spray"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the filling",
+   "body": "Melt your **8 oz cream cheese** and mix in **4 Tbsp chopped cilantro**, **2 Tbsp lime juice**, **1 × 6 oz can green chiles** (or salsa verde), **¾ tsp cumin**, **1½ tsp chili powder**, **1 tsp onion powder** and **¼ tsp garlic powder**."
+  },
+  {
+   "title": "Combine",
+   "body": "Combine cream cheese mixture with **1½ cups shredded pepper jack cheese** and **3 cups roasted and shredded chicken breast** in a large bowl."
+  },
+  {
+   "title": "Fill and roll",
+   "body": "Heat **30 tortillas (flour or corn)** on a griddle, so they don’t crack. Spoon **about 2 Tbsp** of mixture into each tortilla and roll."
+  },
+  {
+   "title": "Bake",
+   "body": "Place rolled taquitos on a lined (parchment or foil) baking sheet with the crease down. Bake in the oven at 425°F for 15 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Corn tortillas",
+   "body": "If using corn tortillas: Heat tortillas on a skillet before adding filling so they don’t crack, then spray the bottom of the pan with oil, and spray and lightly salt the tops of the taquitos after they are rolled."
+  },
+  {
+   "title": "Freeze",
+   "body": "For freezing: roll taquitos and place in a freezer bag or freeze on a baking sheet and bag later."
+  },
+  {
+   "title": "Bake from frozen",
+   "body": "You don’t need to thaw them before baking, just pop them in the oven at the same temperature and add a couple of minutes to the bake time."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "name": "Lemon Pudding",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "notes": "Old fashioned. Goes great warm with Gingerbread.",
+ "ingredients": [
+  {
+   "group": "Pudding",
+   "items": [
+    "2 cups white sugar",
+    "⅔ cup cornstarch",
+    "1 tsp salt",
+    "5 cups water",
+    "4 eggs",
+    "⅔ cup lemon juice",
+    "¼ cup butter"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the sugar mixture",
+   "body": "Combine **2 cups white sugar**, **⅔ cup cornstarch** and **1 tsp salt** in the top of a double boiler over simmering water. Stir to prevent clumps. Gradually stir in **5 cups water**."
+  },
+  {
+   "title": "Cook the sugar mixture",
+   "body": "Cook, stirring frequently until mixture is gravy consistency, 5-7 minutes then remove from heat but keep pot of water hot for future use.",
+   "timerMin": 5
+  },
+  {
+   "title": "Beat the eggs",
+   "body": "Beat **4 eggs** in a large bowl until light and foamy."
+  },
+  {
+   "title": "Temper the eggs",
+   "body": "Vigorously whisk **one cup of the sugar mixture** into the eggs to avoid curdling."
+  },
+  {
+   "title": "Thicken",
+   "body": "Then whisk egg mixture into sugar mixture gradually and return it to the double boiler. Cook, whisking consistently until thickened to pudding consistency, 6-8 minutes.",
+   "timerMin": 6
+  },
+  {
+   "title": "Finish",
+   "body": "Whisk in **⅔ cup lemon juice** and **¼ cup butter** gradually."
+  },
+  {
+   "title": "Serve",
+   "body": "Can be served warm or cool after 30-60 minutes in the refrigerator."
+  }
+ ]
+}

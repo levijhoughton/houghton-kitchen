@@ -1,0 +1,61 @@
+{
+ "name": "Mexican Quinoa",
+ "subtitle": "One pan, discovered by Tess",
+ "category": "Mains",
+ "protein": "Meatless",
+ "cuisine": "Mexican",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "Large skillet",
+ "notes": "Enjoyed by the Weyands. We like to add meat, either chopped chicken or beef with taco seasoning, which you can prepare while the quinoa is cooking.",
+ "ingredients": [
+  {
+   "group": "Quinoa",
+   "items": [
+    "1 Tbsp olive oil",
+    "2 cloves garlic, minced",
+    "1 jalapeño, diced",
+    "1 cup uncooked quinoa",
+    "1 cup chicken stock",
+    "1 × 14.5 oz can corn, drained",
+    "1 × 14.5 oz can black beans, drained and rinsed",
+    "1 × 14.5 oz can fire roasted diced tomatoes",
+    "1 tsp chili powder",
+    "½ tsp cumin",
+    "Salt and black pepper to taste"
+   ]
+  },
+  {
+   "group": "Finish",
+   "items": [
+    "Juice of 1 lime",
+    "1 avocado, diced",
+    "2 Tbsp chopped cilantro"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Saute the aromatics",
+   "body": "Heat **1 Tbsp olive oil** in a large skillet and add **2 cloves garlic, minced** and **1 jalapeño, diced**. Cook for one minute."
+  },
+  {
+   "title": "Add the quinoa",
+   "body": "Add **1 cup uncooked quinoa**, **1 cup chicken stock**, **1 × 14.5 oz can corn, drained**, **1 × 14.5 oz can black beans, drained and rinsed**, **1 × 14.5 oz can fire roasted diced tomatoes**, **1 tsp chili powder**, **½ tsp cumin**, and salt and black pepper to taste. Stir it all together."
+  },
+  {
+   "title": "Cook the quinoa",
+   "body": "Put a lid on and cook on medium-low heat for 15 minutes, until the quinoa is cooked.",
+   "timerMin": 15
+  },
+  {
+   "title": "Finish",
+   "body": "Take it off the heat and add **juice of 1 lime**, **1 avocado, diced** and **2 Tbsp chopped cilantro**."
+  },
+  {
+   "title": "Top and serve",
+   "body": "Top with sour cream and salsa (if you want). Then eat it straight with a spoon, fill a burrito with it, or scoop it up with tortilla chips."
+  }
+ ]
+}

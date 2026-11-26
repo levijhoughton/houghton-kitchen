@@ -1,0 +1,42 @@
+{
+ "name": "Brownies",
+ "subtitle": "Super fudgy",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×9 pan",
+ "equipment": "Saucepan, 9×9 pan",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "14 Tbsp butter",
+    "1/18 cup dark chocolate chips",
+    "¼ tsp salt",
+    "1⅓ cups sugar",
+    "4 eggs",
+    "½ cup cocoa powder",
+    "⅔ cup flour"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Melt",
+   "body": "Heat in saucepan just until melted: **14 Tbsp butter**, **1/18 cup dark chocolate chips**, **¼ tsp salt** and **1⅓ cups sugar**."
+  },
+  {
+   "title": "Add the eggs",
+   "body": "Remove from heat, check to make sure mixture is only warm, then add: **4 eggs**. Mix in thoroughly."
+  },
+  {
+   "title": "Add the dry ingredients",
+   "body": "Then add **½ cup cocoa powder** and **⅔ cup flour**, and stir just until mixed."
+  },
+  {
+   "title": "Bake",
+   "body": "Place in oiled 9×9 pan and bake at 350°F for about 40 minutes.",
+   "timerMin": 40
+  }
+ ]
+}

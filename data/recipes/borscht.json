@@ -1,0 +1,59 @@
+{
+ "name": "Borscht",
+ "category": "Soups",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Broth",
+   "items": [
+    "1 pound lean beef, cubed",
+    "1½ quart water",
+    "1 Tbsp salt"
+   ]
+  },
+  {
+   "group": "Vegetables",
+   "items": [
+    "1½ cups shredded raw beets",
+    "¾ cup shredded carrots",
+    "¾ cup shredded turnips",
+    "2 Tbsp tomato puree",
+    "2 Tbsp vinegar",
+    "1 tsp sugar",
+    "2 Tbsp butter",
+    "2 bay leaves"
+   ]
+  },
+  {
+   "group": "Finish",
+   "items": [
+    "½ head small cabbage, shredded",
+    "Sour cream, to serve"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Simmer the beef",
+   "body": "Simmer about 1½ hours: **1 pound lean beef**, cubed, **1½ quart water** and **1 Tbsp salt**.",
+   "timerMin": 90
+  },
+  {
+   "title": "Simmer the vegetables",
+   "body": "In another pan, simmer covered, for about 15 minutes, stirring frequently: **1½ cups shredded raw beets**, **¾ cup shredded carrots**, **¾ cup shredded turnips**, **2 Tbsp tomato puree**, **2 Tbsp vinegar**, **1 tsp sugar**, **2 Tbsp butter** and **2 bay leaves**.",
+   "timerMin": 15
+  },
+  {
+   "title": "Add the cabbage",
+   "body": "Add and cook about 10 minutes: **½ head small cabbage**, shredded.",
+   "timerMin": 10
+  },
+  {
+   "title": "Season and serve",
+   "body": "Mix, and season with vinegar, a (tiny bit of) sugar, and pepper as needed. Serve with sour cream."
+  }
+ ]
+}

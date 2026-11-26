@@ -1,0 +1,59 @@
+{
+ "name": "Cranberry Bread",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "loaf",
+ "equipment": "well-oiled loaf pan",
+ "notes": "May also bake as cupcakes, adjusting baking time.",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "½ cup shortening",
+    "1 cup sugar",
+    "2 eggs",
+    "¾ cup orange juice",
+    "1 tsp vanilla",
+    "2 cups flour",
+    "½ tsp baking powder",
+    "1 tsp nutmeg",
+    "1 tsp cinnamon",
+    "½ tsp baking soda",
+    "½ tsp ground ginger (or 2 tsp grated fresh)",
+    "½ tsp salt",
+    "2 tsp orange peel"
+   ]
+  },
+  {
+   "group": "Add-ins",
+   "items": [
+    "1½ cups coarsely chopped cranberries",
+    "1½ cups chopped pecans"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the shortening and sugar",
+   "body": "Cream together **½ cup shortening** and **1 cup sugar**."
+  },
+  {
+   "title": "Add the eggs and liquids",
+   "body": "Add and mix: **2 eggs**, **¾ cup orange juice** and **1 tsp vanilla**."
+  },
+  {
+   "title": "Add the dry ingredients",
+   "body": "Add and mix in: **2 cups flour**, **½ tsp baking powder**, **1 tsp nutmeg**, **1 tsp cinnamon**, **½ tsp baking soda**, **½ tsp ground ginger** (or **2 tsp grated fresh**), **½ tsp salt** and **2 tsp orange peel**."
+  },
+  {
+   "title": "Stir in the add-ins",
+   "body": "Stir in **1½ cups coarsely chopped cranberries** and **1½ cups chopped pecans**."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake in a well-oiled loaf pan. Bake at 350°F for 75 minutes, or until done.",
+   "timerMin": 75
+  }
+ ]
+}

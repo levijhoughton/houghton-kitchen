@@ -1,0 +1,58 @@
+{
+ "name": "Granola #2",
+ "category": "Extras",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "Sheet pans",
+ "ingredients": [
+  {
+   "group": "Dry ingredients",
+   "items": [
+    "3 cups oats",
+    "1 cup chopped almonds",
+    "½ cup sunflower seed",
+    "½ cup pumpkin seed (or other nut, such as pecan)",
+    "½ Tbsp wheat germ (if you have it)"
+   ]
+  },
+  {
+   "group": "Wet ingredients",
+   "items": [
+    "½ Tbsp cinnamon",
+    "¼ tsp salt",
+    "2 Tbsp oil or butter",
+    "½ cup sugar (honey, syrup, or brown sugar)"
+   ]
+  },
+  {
+   "group": "Add after baking",
+   "items": [
+    "1 cup dried fruit"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix dry ingredients",
+   "body": "Mix together **3 cups oats**, **1 cup chopped almonds**, **½ cup sunflower seed**, **½ cup pumpkin seed** (or other nut, such as pecan) and **½ Tbsp wheat germ** (if you have it)."
+  },
+  {
+   "title": "Mix wet ingredients",
+   "body": "In another bowl, mix **½ Tbsp cinnamon**, **¼ tsp salt**, **2 Tbsp oil or butter** and **½ cup sugar** (honey, syrup, or brown sugar)."
+  },
+  {
+   "title": "Combine",
+   "body": "Pour over dry ingredients and mix together. Pour into sheet pans."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 30–45 minutes at 325°F, stirring every 15 minutes.",
+   "timerMin": 30
+  },
+  {
+   "title": "Add the fruit",
+   "body": "Remove from oven and add **1 cup dried fruit**."
+  }
+ ]
+}

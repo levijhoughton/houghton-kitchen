@@ -1,0 +1,63 @@
+{
+ "name": "Banana Cinnamon Muffins",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 12,
+ "servingUnit": "muffins",
+ "equipment": "12 regular-size muffin cups",
+ "source": {
+  "label": "Together as Family",
+  "url": "https://togetherasfamily.com/cinnamon-banana-bread-muffins/?swcfpc=1"
+ },
+ "ingredients": [
+  {
+   "group": "Muffin",
+   "items": [
+    "⅔ cup granulated sugar",
+    "½ cup vegetable or canola oil",
+    "2 large eggs",
+    "⅔ cup mashed banana (about 2 small bananas)",
+    "1 tsp vanilla extract",
+    "1⅔ cups all-purpose flour",
+    "1 tsp baking soda",
+    "½ tsp salt",
+    "½ tsp ground cinnamon"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "3 Tbsp butter, melted",
+    "¼ cup granulated sugar",
+    "½ tsp ground cinnamon"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Heat the oven",
+   "body": "Heat oven to 375°F. Spray bottoms only of 12 regular-size muffin cups with cooking spray (or you can use liners)."
+  },
+  {
+   "title": "Mix the wet ingredients",
+   "body": "In a medium bowl combine **⅔ cup granulated sugar**, **½ cup vegetable or canola oil**, **2 large eggs** and stir with wire whisk. Add in **⅔ cup mashed banana** and **1 tsp vanilla extract**, whisk until combined."
+  },
+  {
+   "title": "Add the dry ingredients",
+   "body": "Add in **1⅔ cups all-purpose flour**, **1 tsp baking soda**, **½ tsp salt**, and **½ tsp ground cinnamon** and stir together until just combined."
+  },
+  {
+   "title": "Bake",
+   "body": "Divide batter evenly among muffin cups and bake for 17 to 21 minutes or until a toothpick inserted in the center comes out clean and muffins are high and rounded on top. The tops of the muffins should not look wet and a toothpick inserted into the center should come out with crumbs on it, NOT wet batter.",
+   "timerMin": 17
+  },
+  {
+   "title": "Cool",
+   "body": "Remove muffins from the pan to a cooling rack."
+  },
+  {
+   "title": "Add the topping",
+   "body": "Combine **¼ cup granulated sugar** and **½ tsp ground cinnamon** for the topping in a small bowl, put **3 Tbsp butter**, melted, in a separate small bowl. Dip muffin tops into melted butter and then into cinnamon-sugar. Serve warm or let cool completely."
+  }
+ ]
+}

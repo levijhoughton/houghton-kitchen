@@ -1,0 +1,48 @@
+{
+ "name": "White Fudge",
+ "subtitle": "A favorite of Grandma Kemper and her sister Aunt Margaret",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "ingredients": [
+  {
+   "group": "Fudge",
+   "items": [
+    "Butter for the pan",
+    "4 cups white sugar",
+    "1½ cups cream",
+    "2 Tbsp white corn syrup",
+    "2 Tbsp butter",
+    "1 tsp vanilla",
+    "Nuts (toasted pecans if possible)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Combine in pan",
+   "body": "Butter inside of pan, then combine in pan: **4 cups white sugar**, **1½ cups cream** and **2 Tbsp white corn syrup**."
+  },
+  {
+   "title": "Boil to soft ball",
+   "body": "Heat over medium heat, and stir constantly, scraping sides until it boils. Stop stirring, and boil until 240°F (soft ball stage). Don’t overcook."
+  },
+  {
+   "title": "Add butter",
+   "body": "Drop into pan: **2 Tbsp butter**."
+  },
+  {
+   "title": "Cool",
+   "body": "Cover tightly and cool quickly and thoroughly."
+  },
+  {
+   "title": "Beat",
+   "body": "Remove from pan and beat in mixer until fudge consistency, then add: **1 tsp vanilla** and nuts (toasted pecans if possible)."
+  },
+  {
+   "title": "Pour and hide",
+   "body": "Pour into a buttered pan, and hide."
+  }
+ ]
+}

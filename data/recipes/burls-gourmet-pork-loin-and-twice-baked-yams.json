@@ -1,0 +1,71 @@
+{
+ "name": "Burl’s Gourmet Pork Loin and Twice-Baked Yams",
+ "subtitle": "From Chef Burl",
+ "category": "Mains",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "notes": "A friend who cooked an office party dinner for our first Christmas holiday in the new Soulsbyville house—2006. (Gourmet salad and trifle too!)",
+ "ingredients": [
+  {
+   "group": "Pork loin",
+   "items": [
+    "Pork loin",
+    "Granny Smith apples, sliced",
+    "Dijon mustard",
+    "Fresh thyme"
+   ]
+  },
+  {
+   "group": "Onion and apple sauce",
+   "items": [
+    "Chopped onions",
+    "Apples, chopped",
+    "Butter",
+    "Cream"
+   ]
+  },
+  {
+   "group": "Twice-baked yams",
+   "items": [
+    "10 medium-sized scrubbed sweet potatoes or yams",
+    "½–1 pound bacon, chopped",
+    "1 large onion, chopped",
+    "½ cup butter",
+    "¾ cup sour cream",
+    "Salt and pepper to taste"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Roast the pork",
+   "body": "Place pork loin on a bed of sliced Granny Smith apples and top with Dijon mustard and fresh thyme. Roast until 165°F inside."
+  },
+  {
+   "title": "Make the sauce",
+   "body": "Accompany with sauce made of sautéed chopped onions and apples with butter and cream, lightly sautéed."
+  },
+  {
+   "title": "Bake the yams",
+   "body": "Bake **10 medium-sized scrubbed sweet potatoes or yams** at 350°F until tender."
+  },
+  {
+   "title": "Sauté the bacon and onion",
+   "body": "Sauté **½–1 pound bacon**, chopped, and **1 large onion**, chopped."
+  },
+  {
+   "title": "Scoop the potatoes",
+   "body": "Cook potatoes slightly, then scoop out insides."
+  },
+  {
+   "title": "Whip the filling",
+   "body": "Whip potato insides, and add **½ cup butter**, sautéed onion and bacon, **¾ cup sour cream** and salt and pepper to taste."
+  },
+  {
+   "title": "Serve the yams",
+   "body": "If desired, place back in skins and warm in oven, or simply serve in a tasteful serving bowl."
+  }
+ ]
+}

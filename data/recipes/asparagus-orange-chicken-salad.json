@@ -1,0 +1,43 @@
+{
+ "name": "Asparagus Orange Chicken Salad",
+ "category": "Salads",
+ "protein": "Chicken & turkey",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Salad",
+   "items": [
+    "1 lb fresh asparagus",
+    "2 cups cooked quinoa or 8 cups greens",
+    "2 medium blood oranges",
+    "1 large ripe, but firm avocado, thinly sliced",
+    "1 cup cooked chicken",
+    "1 tsp freshly grated blood orange zest",
+    "½ cup raw almonds, roughly chopped"
+   ]
+  },
+  {
+   "group": "Ginger miso dressing",
+   "items": [
+    "2 Tbsp lime juice",
+    "2 Tbsp avocado or another flavorless oil",
+    "1 Tbsp fresh ginger, grated",
+    "1 Tbsp light miso",
+    "1 Tbsp pure maple syrup",
+    "Pinch garlic powder or minced garlic"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Salad ingredients",
+   "body": "For the salad: **1 lb fresh asparagus**, **2 cups cooked quinoa** or **8 cups greens**, **2 medium blood oranges**, **1 large ripe, but firm avocado**, thinly sliced, **1 cup cooked chicken**, **1 tsp freshly grated blood orange zest** and **½ cup raw almonds**, roughly chopped."
+  },
+  {
+   "title": "Dressing ingredients",
+   "body": "For the ginger miso dressing: **2 Tbsp lime juice**, **2 Tbsp avocado or another flavorless oil**, **1 Tbsp fresh ginger**, grated, **1 Tbsp light miso**, **1 Tbsp pure maple syrup** and a pinch of garlic powder or minced garlic."
+  }
+ ]
+}

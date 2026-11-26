@@ -1,0 +1,55 @@
+{
+ "name": "Sweet and Sour Spareribs",
+ "category": "Mains",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "notes": "May also add pineapple.",
+ "source": {
+  "label": "From the Edmonton Branch Cookbook, circa 1930?"
+ },
+ "ingredients": [
+  {
+   "group": "Sauce",
+   "items": [
+    "4 Tbsp cornstarch",
+    "2 cups tomato juice",
+    "1 cup vinegar",
+    "1 cup brown sugar",
+    "1 tsp soy sauce"
+   ]
+  },
+  {
+   "group": "Pork",
+   "items": [
+    "2½ lb pork roast, cut into 1-inch cubes",
+    "Mushrooms, sliced, if desired",
+    "Bell pepper, chopped, if desired"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the sauce",
+   "body": "Mix **4 Tbsp cornstarch**, **2 cups tomato juice**, **1 cup vinegar**, **1 cup brown sugar** and **1 tsp soy sauce**."
+  },
+  {
+   "title": "Simmer the sauce",
+   "body": "Simmer for 40 minutes.",
+   "timerMin": 40
+  },
+  {
+   "title": "Brown the pork",
+   "body": "Brown **2½ lb pork roast**, cut into 1-inch cubes, mushrooms, sliced, if desired, and bell pepper, chopped, if desired."
+  },
+  {
+   "title": "Combine",
+   "body": "Pour sauce over pork and simmer just until pork is done."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve over rice."
+  }
+ ]
+}

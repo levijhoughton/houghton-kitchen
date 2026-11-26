@@ -1,0 +1,53 @@
+{
+ "name": "Creamy White Chili",
+ "category": "Soups",
+ "protein": "Chicken & turkey",
+ "collection": "family",
+ "servings": 7,
+ "servingUnit": "servings",
+ "yields": "Yields about 7 servings",
+ "ingredients": [
+  {
+   "items": [
+    "1 lb chicken breasts, cut into ½-inch cubes",
+    "1 medium onion, chopped",
+    "1 clove garlic",
+    "1 tsp olive oil",
+    "2 × 15 oz cans great northern beans, rinsed and drained",
+    "1¾ cups water",
+    "2 tsp chicken base",
+    "2 cans chopped green chilies, drained",
+    "1 tsp salt",
+    "1 tsp ground cumin",
+    "1 tsp dried oregano",
+    "½ tsp pepper",
+    "¼ tsp cayenne pepper",
+    "1 cup light sour cream",
+    "½ cup whipping cream"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the chicken",
+   "body": "Sauté **1 lb chicken breasts**, cut into ½-inch cubes, **1 medium onion**, chopped, **1 clove garlic** and **1 tsp olive oil** until the chicken is no longer pink."
+  },
+  {
+   "title": "Add the beans and seasonings",
+   "body": "Add **2 × 15 oz cans great northern beans**, rinsed and drained, **1¾ cups water**, **2 tsp chicken base**, **2 cans chopped green chilies**, drained, **1 tsp salt**, **1 tsp ground cumin**, **1 tsp dried oregano**, **½ tsp pepper** and **¼ tsp cayenne pepper**."
+  },
+  {
+   "title": "Simmer",
+   "body": "Bring to a boil. Reduce heat and simmer, uncovered, for 30 minutes.",
+   "timerMin": 30
+  },
+  {
+   "title": "Add the dairy",
+   "body": "Remove from heat and add **1 cup light sour cream** and **½ cup whipping cream**."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve immediately."
+  }
+ ]
+}

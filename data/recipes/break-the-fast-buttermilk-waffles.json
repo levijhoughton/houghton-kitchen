@@ -1,0 +1,47 @@
+{
+ "name": "Break-the-Fast Buttermilk Waffles",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 3,
+ "servingUnit": "large waffles",
+ "yields": "Makes 3–4 large waffles",
+ "equipment": "waffle iron",
+ "notes": "To substitute regular milk for buttermilk, add about 1 Tbsp lemon juice to 1½ cups milk and let curdle before mixing with dry ingredients.",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "3 eggs, separated",
+    "1¾ cups flour (may use whole wheat)",
+    "2 tsp baking powder",
+    "1 tsp baking soda",
+    "½ tsp salt",
+    "1½ cups buttermilk",
+    "½ cup melted shortening",
+    "3 egg yolks"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Whip the egg whites",
+   "body": "Separate, and whip the whites to soft peaks: **3 eggs**."
+  },
+  {
+   "title": "Mix the dry ingredients",
+   "body": "In another mixing bowl, combine: **1¾ cups flour** (may use whole wheat), **2 tsp baking powder**, **1 tsp baking soda** and **½ tsp salt**."
+  },
+  {
+   "title": "Mix the wet ingredients",
+   "body": "Add and mix together: **1½ cups buttermilk**, **½ cup melted shortening** and **3 egg yolks**."
+  },
+  {
+   "title": "Fold and cook",
+   "body": "Fold in beaten egg whites, and cook on waffle iron."
+  },
+  {
+   "title": "Top and serve",
+   "body": "Top with syrups, sausage, nuts, berries, cut fruit, and yogurt."
+  }
+ ]
+}

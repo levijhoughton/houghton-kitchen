@@ -1,0 +1,32 @@
+{
+ "name": "Cranberry Salsa",
+ "subtitle": "A la Kathleen",
+ "category": "Appetizers",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "notes": "May add heat (jalapeños) if desired. Yummm.",
+ "ingredients": [
+  {
+   "group": "Salsa",
+   "items": [
+    "12 oz cranberry, chopped",
+    "1 fuji/gala/pink lady apple, chopped",
+    "½ red onion, chopped",
+    "½ red pepper, chopped",
+    "3–5 Tbsp cilantro, chopped",
+    "½ tsp salt",
+    "⅓ cup unsweetened applesauce",
+    "¾ cup sugar (or less if applesauce is sweet)",
+    "1 lime—zest and juice"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Combine",
+   "body": "Combine **12 oz cranberry**, chopped, **1 fuji/gala/pink lady apple**, chopped, **½ red onion**, chopped, **½ red pepper**, chopped, **3–5 Tbsp cilantro**, chopped, **½ tsp salt**, **⅓ cup unsweetened applesauce**, **¾ cup sugar** (or less if applesauce is sweet) and **1 lime**—zest and juice, and refrigerate."
+  }
+ ]
+}

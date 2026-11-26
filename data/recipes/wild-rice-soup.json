@@ -1,0 +1,54 @@
+{
+ "name": "Wild Rice Soup",
+ "subtitle": "Lara’s find",
+ "category": "Soups",
+ "protein": "Chicken & turkey",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "equipment": "Instant Pot",
+ "notes": "Delicious and way easier than chicken noodle. Denise’s note: This IS delicious, but for some reason, mine was a little saltier and spicier than I might like, so in future, I’ll opt to use half the salt and Cajun seasoning, then add more to taste when it’s all cooked. Also, this works on the stove top, just takes a little longer. And if you use rice that “rinses” purple, the whole soup, including the chicken, takes on quite a maroon hue.",
+ "ingredients": [
+  {
+   "items": [
+    "1 cup chopped carrots",
+    "1 cup chopped onion",
+    "1 cup chopped celery",
+    "1 cup uncooked wild rice, rinsed",
+    "1 lb boneless skinless chicken thighs",
+    "6–8 cloves of garlic, minced",
+    "½ tsp dried thyme",
+    "1 Tbsp Cajun seasoning",
+    "2 bay leaves",
+    "4 cups chicken broth",
+    "2 cups water",
+    "½ tsp salt",
+    "½ tsp ground pepper",
+    "1 cup cream"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Add to the pot",
+   "body": "Add to Instant Pot: **1 cup chopped carrots**, **1 cup chopped onion**, **1 cup chopped celery**, **1 cup uncooked wild rice**, rinsed, **1 lb boneless skinless chicken thighs**, **6–8 cloves of garlic**, minced, **½ tsp dried thyme**, **1 Tbsp Cajun seasoning**, **2 bay leaves**, **4 cups chicken broth**, **2 cups water**, **½ tsp salt** and **½ tsp ground pepper**."
+  },
+  {
+   "title": "Pressure cook",
+   "body": "Cook on manual (high pressure) for 35 minutes, then quick release the steam.",
+   "timerMin": 35
+  },
+  {
+   "title": "Chop the chicken",
+   "body": "Remove the chicken and chop into desired size pieces, then add back to pot."
+  },
+  {
+   "title": "Add the cream",
+   "body": "Stir in **1 cup cream**."
+  },
+  {
+   "title": "Season and serve",
+   "body": "Season to taste and serve with bread (GF for Lara)."
+  }
+ ]
+}

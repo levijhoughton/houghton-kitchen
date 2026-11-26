@@ -1,0 +1,60 @@
+{
+ "name": "Gluten Free Scones",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "triangle scones",
+ "yields": "Eight 3–4-inch triangle scones, or about ten 3½–4-inch drop scones",
+ "equipment": "baking sheet",
+ "notes": "Variation: Replace cranberries with dried currants. Or make lemon blueberry ones (sub blueberries for cranberries and lemon zest for orange zest).",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "2⅓ cups (327 g) Pamela’s Baking & Pancake Mix",
+    "⅓ cup + 1 tablespoon sugar",
+    "1 teaspoon baking powder",
+    "¼ cup (4 tablespoons) butter, cut in small dice, chilled",
+    "⅓ cup milk",
+    "1 egg, large, beaten",
+    "½ cup dried cranberries",
+    "1 tablespoon finely chopped orange zest (optional)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Preheat the oven",
+   "body": "Preheat oven to 375°F. Lightly grease a baking sheet or line it with parchment paper."
+  },
+  {
+   "title": "Whisk the dry ingredients",
+   "body": "Whisk together **2⅓ cups (327 g) Pamela’s Baking & Pancake Mix**, **⅓ cup + 1 tablespoon sugar** and **1 teaspoon baking powder**."
+  },
+  {
+   "title": "Cut in the butter",
+   "body": "Cut **¼ cup (4 tablespoons) butter** into dry ingredients, using two knives, pastry blender, or electric stand mixer with paddle attachment, until mixture resembles coarse crumbs."
+  },
+  {
+   "title": "Add the wet ingredients",
+   "body": "Add **⅓ cup milk**, **1 egg**, large, beaten, **½ cup dried cranberries** and **1 tablespoon finely chopped orange zest** (optional), and mix until just combined. Dough will be thick."
+  },
+  {
+   "title": "Shape triangle scones",
+   "body": "To make triangle scones: Turn dough out onto a baking sheet and pat it into a 6- to 8-inch circle, about 1½-inch thick. Cut the circle into quarters, then cut those quarters in half, to make 8 triangle-shaped pieces. Separate the pieces about an inch apart before baking."
+  },
+  {
+   "title": "Or shape drop scones",
+   "body": "To make drop scones: Scoop or drop about ¼ cup of dough per scone onto baking sheet and pat into balls."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 14–17 minutes until just starting to brown on the edges.",
+   "timerMin": 14
+  },
+  {
+   "title": "Glaze",
+   "body": "Make lemon or orange glaze to go on top!"
+  }
+ ]
+}

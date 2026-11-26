@@ -1,0 +1,42 @@
+{
+ "name": "Cottage Cakes",
+ "subtitle": "From Aunt Michelle",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 3,
+ "servingUnit": "servings",
+ "yields": "Serves 3–4",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "6 eggs",
+    "½ cup sugar",
+    "½ cup flour",
+    "¼ cup vegetable oil",
+    "¼ cup milk",
+    "¼ tsp salt",
+    "1 tsp vanilla",
+    "1 cup cottage cheese"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Blend the batter",
+   "body": "Combine in blender: **6 eggs**, **½ cup sugar**, **½ cup flour**, **¼ cup vegetable oil**, **¼ cup milk**, **¼ tsp salt** and **1 tsp vanilla**."
+  },
+  {
+   "title": "Add the cottage cheese",
+   "body": "Add **1 cup cottage cheese**."
+  },
+  {
+   "title": "Blend and cook",
+   "body": "Blend in well, then cook on griddle."
+  },
+  {
+   "title": "Serve",
+   "body": "Top with butter and powdered sugar."
+  }
+ ]
+}

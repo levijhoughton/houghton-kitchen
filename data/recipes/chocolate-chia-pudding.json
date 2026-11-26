@@ -1,0 +1,45 @@
+{
+ "name": "Chocolate Chia Pudding",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Pudding",
+   "items": [
+    "½ cup milk",
+    "½ cup heavy cream",
+    "1½ Tbsp cocoa powder",
+    "2 Tbsp zero calorie sweetener",
+    "2 Tbsp peanut butter",
+    "½ tsp vanilla extract",
+    "5 drops almond extract",
+    "¼ cup chia seeds"
+   ]
+  },
+  {
+   "group": "Garnish options",
+   "items": [
+    "Whipped cream",
+    "Berries",
+    "Mint leaves",
+    "Chocolate shavings"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Beat the base",
+   "body": "Beat together **½ cup milk**, **½ cup heavy cream**, **1½ Tbsp cocoa powder**, **2 Tbsp zero calorie sweetener**, **2 Tbsp peanut butter**, **½ tsp vanilla extract** and **5 drops almond extract**."
+  },
+  {
+   "title": "Add chia seeds",
+   "body": "Add, and mix in **¼ cup chia seeds**."
+  },
+  {
+   "title": "Chill",
+   "body": "Chill in the refrigerator. Stir after 10 and 20 minutes to remove clumps as it sets."
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "name": "World Peace Cookies",
+ "subtitle": "Found by Eliza",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "1 stick + 3 Tbsp butter, softened",
+    "⅔ cup light brown sugar",
+    "¼ cup sugar",
+    "¼ tsp salt",
+    "1 tsp vanilla",
+    "1¼ cups flour",
+    "⅓ cup unsweetened cocoa powder",
+    "½ tsp baking soda",
+    "¾ dark chocolate chips, preferably mini"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the butter and sugars",
+   "body": "Beat together until fluffy: **1 stick + 3 Tbsp butter**, softened, **⅔ cup light brown sugar**, **¼ cup sugar**, **¼ tsp salt** and **1 tsp vanilla**."
+  },
+  {
+   "title": "Mix in the flour and cocoa",
+   "body": "Mix in **1¼ cups flour**, **⅓ cup unsweetened cocoa powder** and **½ tsp baking soda**."
+  },
+  {
+   "title": "Add the chocolate chips",
+   "body": "Add **¾ dark chocolate chips**, preferably mini."
+  },
+  {
+   "title": "Shape and chill",
+   "body": "Shape dough into 1½-inch diameter logs, wrap into plastic wrap, and refrigerate for at least 3 hours.",
+   "timerMin": 180
+  },
+  {
+   "title": "Slice and bake",
+   "body": "Slice into ½-inch slices, and place on a baking pan. Bake at 325°F for 12 minutes.",
+   "timerMin": 12
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Pasta Primavera",
+ "category": "Mains",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "notes": "Serve to a hungry crowd who is willing to do dishes for dinner!",
+ "ingredients": [
+  {
+   "group": "Pasta and vegetables",
+   "items": [
+    "Appropriate quantity of pasta",
+    "Carrots",
+    "Cauliflower",
+    "Broccoli"
+   ]
+  },
+  {
+   "group": "White sauce (about 2 recipes per pound of pasta)",
+   "items": [
+    "2 cups water",
+    "⅓ cup powdered milk",
+    "¼ cup flour",
+    "Chicken base, to taste"
+   ]
+  },
+  {
+   "group": "Toppings",
+   "items": [
+    "Cheddar and parmesan cheeses, shredded",
+    "Garlic salt",
+    "Seasoned and sauteed chicken strips (if desired and available)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the pasta",
+   "body": "Cook and drain the appropriate quantity of pasta."
+  },
+  {
+   "title": "Steam the vegetables",
+   "body": "Steam and drain the carrots, cauliflower and broccoli."
+  },
+  {
+   "title": "Make the white sauce",
+   "body": "Whisk together **2 cups water**, **⅓ cup powdered milk**, **¼ cup flour** and chicken base to taste (about 2 recipes per pound of pasta). Cook on medium, stirring occasionally, until thickened, and season with salt and pepper."
+  },
+  {
+   "title": "Assemble the plates",
+   "body": "Place noodles on plates, then vegetables, then white sauce, and top with shredded cheddar and parmesan cheeses, garlic salt, and seasoned and sauteed chicken strips, if desired and available."
+  }
+ ]
+}

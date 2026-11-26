@@ -1,0 +1,79 @@
+{
+ "name": "Keto Quiche",
+ "category": "Extras",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pie",
+ "equipment": "Pie tin, large frying pan",
+ "ingredients": [
+  {
+   "group": "Crust",
+   "items": [
+    "½ cup butter, melted",
+    "1½ cups almond flour",
+    "⅓ coconut flour (if needed, and especially for a sweet pie, blend coconut as a substitute)",
+    "½ tsp salt",
+    "1 beaten egg"
+   ]
+  },
+  {
+   "group": "Filling",
+   "items": [
+    "6 slices thick-cut bacon, cut in pieces",
+    "1 medium onion",
+    "8 ounces chopped fresh spinach (or if using frozen, thaw and squeeze to remove moisture)",
+    "½ cup heavy whipping cream",
+    "4 eggs",
+    "¼ tsp salt",
+    "⅙ tsp pepper",
+    "1 cup cheese of choice, grated"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the crust",
+   "body": "Preheat oven to 400°F, and mix together in a bowl: **½ cup butter**, melted, **1½ cups almond flour**, **⅓ coconut flour** (if needed, and especially for a sweet pie, blend coconut as a substitute), **½ tsp salt** and **1 beaten egg**."
+  },
+  {
+   "title": "Rest the crust",
+   "body": "Let sit for 5 minutes.",
+   "timerMin": 5
+  },
+  {
+   "title": "Par-bake the crust",
+   "body": "Press into pie tin, prick with fork, and par-bake until golden, 10–15 minutes. Then remove and reduce oven heat to 350°F.",
+   "timerMin": 10
+  },
+  {
+   "title": "Fry the bacon",
+   "body": "In a large frying pan, chop and fry until crispy: **6 slices thick-cut bacon**, cut in pieces."
+  },
+  {
+   "title": "Soften the onion",
+   "body": "Remove bacon, drain some fat, and sauté until soft: **1 medium onion**."
+  },
+  {
+   "title": "Wilt the spinach",
+   "body": "Add and cook until wilted: **8 ounces chopped fresh spinach** (or if using frozen, thaw and squeeze to remove moisture)."
+  },
+  {
+   "title": "Fill the crust",
+   "body": "Pour this mixture into the par-baked pie shell."
+  },
+  {
+   "title": "Whisk the custard",
+   "body": "In a bowl, whisk together: **½ cup heavy whipping cream**, **4 eggs**, **¼ tsp salt** and **⅙ tsp pepper**. Mix into bowl: **1 cup cheese of choice**, grated."
+  },
+  {
+   "title": "Bake",
+   "body": "Pour this mixture over the bacon/spinach/onion, and bake for 45 minutes.",
+   "timerMin": 45
+  },
+  {
+   "title": "Serve",
+   "body": "Serve with fresh tomatoes, basil, aioli, etc. as desired."
+  }
+ ]
+}

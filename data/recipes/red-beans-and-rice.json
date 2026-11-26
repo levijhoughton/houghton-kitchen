@@ -1,0 +1,67 @@
+{
+ "name": "Red Beans and Rice",
+ "category": "Mains",
+ "protein": "Beef",
+ "cuisine": "Cajun",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "yields": "Serves 4",
+ "equipment": "Large stockpot, separate pan for rice",
+ "notes": "Dad (Mark) said this was pretty authentic compared to the normal fare he experienced as a missionary in Louisiana. Note: if you don’t have any Cajun seasoning, you can make your own using a basic recipe from online. It’s just a blend of a few other spices.",
+ "ingredients": [
+  {
+   "group": "Red beans and rice",
+   "items": [
+    "1 cup basmati rice",
+    "1 Tbsp vegetable oil",
+    "1 package (13ish oz) smoked sausage, thinly sliced",
+    "1 medium sweet onion, diced",
+    "1 green bell pepper, diced",
+    "2 celery ribs, diced",
+    "2 Tbsp tomato paste",
+    "3 cloves garlic, minced",
+    "1½ tsp Cajun seasoning",
+    "3 (15 oz) cans red beans, drained and rinsed",
+    "3 cups chicken stock",
+    "1 tsp hot sauce",
+    "1 bay leaf",
+    "Salt and pepper to taste"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Start the rice",
+   "body": "Get the water and rice started in a separate pan: **1 cup basmati rice**."
+  },
+  {
+   "title": "Brown the sausage",
+   "body": "Heat **1 Tbsp vegetable oil** in a large stockpot and add **1 package (13ish oz) smoked sausage, thinly sliced**, stirring frequently until sausage is lightly browned. Set sausage aside."
+  },
+  {
+   "title": "Cook the vegetables",
+   "body": "Add **1 medium sweet onion, diced**, **1 green bell pepper, diced** and **2 celery ribs, diced** to the pot. Cook for 3-4 minutes.",
+   "timerMin": 3
+  },
+  {
+   "title": "Add the aromatics",
+   "body": "Add **2 Tbsp tomato paste**, **3 cloves garlic, minced** and **1½ tsp Cajun seasoning** for an additional 1 minute.",
+   "timerMin": 1
+  },
+  {
+   "title": "Simmer covered",
+   "body": "Stir in **3 (15 oz) cans red beans, drained and rinsed**, **3 cups chicken stock**, **1 tsp hot sauce**, **1 bay leaf** and the cooked sausage; season with salt and pepper to taste. Bring to a boil; cover, reduce heat, and simmer for 15 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Reduce",
+   "body": "Uncover, continue to simmer until reduced, an additional 15 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Mash and serve",
+   "body": "Using a wooden spoon, mash beans until slightly thickened. Serve immediately, topped with rice."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Whole Wheat Bread",
+ "category": "Yeast breads",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "large loaves",
+ "yields": "Makes 4 large loaves",
+ "equipment": "Mixer with dough hook, greased bread pans",
+ "notes": "This needs only to rise once, so it can be completed in less than two hours! This bread is best if eaten within 24-48 hours. It freezes well, and makes amazing toast.",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "10 cups whole wheat flour",
+    "3 Tbsp yeast",
+    "2 Tbsp salt",
+    "2 crushed Vitamin C tablets (if using 100% whole wheat)",
+    "½ cup honey",
+    "½ cup vegetable/canola oil",
+    "6 cups warm water"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Combine in mixer with dough hook: **10 cups whole wheat flour**, **3 Tbsp yeast**, **2 Tbsp salt** and **2 crushed Vitamin C tablets** (if using 100% whole wheat)."
+  },
+  {
+   "title": "Add the wet ingredients",
+   "body": "Add and mix: **½ cup honey**, **½ cup vegetable/canola oil** and **6 cups warm water**."
+  },
+  {
+   "title": "Add more flour",
+   "body": "Scrape down the sides of the bowl and lid. Then while mixing, add **6-10 cups more flour** so the dough doesn’t stick to the sides of the bowl when the mixer is running. Additional flour may be whole wheat or bread flour. If using bread flour, you may omit the Vitamin C."
+  },
+  {
+   "title": "Mix",
+   "body": "Mix for 5 minutes more."
+  },
+  {
+   "title": "Shape the loaves",
+   "body": "Form into 4 loaves and place in greased bread pans. Let rise until about 1-inch above pan tops."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 350°F for 28-30 minutes.",
+   "timerMin": 28
+  },
+  {
+   "title": "Finish",
+   "body": "Remove from pans immediately, butter tops of loaves, and cool before bagging."
+  }
+ ]
+}

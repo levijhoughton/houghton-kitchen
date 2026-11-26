@@ -1,0 +1,52 @@
+{
+ "name": "Lemon Dessert",
+ "subtitle": "From Grandma Maureen",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pan",
+ "equipment": "Ungreased pan smaller than 9×11, or ramekins; larger pan for water",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "1 cup sugar",
+    "¼ cup flour",
+    "Dash salt",
+    "2 Tbsp melted butter",
+    "2 tsp grated lemon rind",
+    "⅓ cup lemon juice",
+    "1½ cups milk, scalded",
+    "3 beaten egg yolks",
+    "3 stiff beaten egg whites"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry base",
+   "body": "In a bowl, combine: **1 cup sugar**, **¼ cup flour**, dash salt and **2 Tbsp melted butter**."
+  },
+  {
+   "title": "Add lemon",
+   "body": "Add: **2 tsp grated lemon rind** and **⅓ cup lemon juice**."
+  },
+  {
+   "title": "Mix the milk and yolks",
+   "body": "In another bowl, slowly stir together: **1½ cups milk, scalded** and **3 beaten egg yolks**."
+  },
+  {
+   "title": "Combine",
+   "body": "Add this mixture to first bowl, then fold in: **3 stiff beaten egg whites**."
+  },
+  {
+   "title": "Bake",
+   "body": "Pour into an ungreased pan (smaller than 9×11), or ramekins. Place this pan in a larger pan of water. Bake at 325°F for about 45 minutes.",
+   "timerMin": 45
+  },
+  {
+   "title": "Serve",
+   "body": "Serve warm with a dollop of ice cream."
+  }
+ ]
+}

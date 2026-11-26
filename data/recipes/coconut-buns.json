@@ -1,0 +1,111 @@
+{
+ "name": "Coconut Buns",
+ "category": "Yeast breads",
+ "cuisine": "Chinese",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "dozen buns",
+ "yields": "Makes 2 dozen buns",
+ "equipment": "10×12 pan",
+ "notes": "These are like the Chinese Coconut Buns from Kings Bakery in SF—much beloved by Levi. A tasty “hot crossed buns” surprise for Easter celebrations. Best served warm. Can refrigerate or freeze.",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "5½ cups bread flour",
+    "½ cup sugar",
+    "1 tsp salt",
+    "1 Tbsp yeast",
+    "2⅛ cups warm milk",
+    "6 Tbsp melted butter",
+    "2 eggs"
+   ]
+  },
+  {
+   "group": "Filling",
+   "items": [
+    "2 cups shredded coconut",
+    "1⅛ cups butter, melted (2 cubes, + 2 Tbsp)",
+    "¾ dry milk powder",
+    "¾ cup sugar",
+    "6 Tbsp flour",
+    "¾ tsp salt"
+   ]
+  },
+  {
+   "group": "Egg wash",
+   "items": [
+    "1 egg",
+    "1 Tbsp heavy cream or milk"
+   ]
+  },
+  {
+   "group": "Garnish (optional)",
+   "items": [
+    "2 Tbsp toasted sesame seeds"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "4½ Tbsp melted butter",
+    "6 Tbsp flour",
+    "3 Tbsp powdered sugar",
+    "Water if needed to make this an icing consistency"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Mix together: **5½ cups bread flour**, **½ cup sugar**, **1 tsp salt** and **1 Tbsp yeast**."
+  },
+  {
+   "title": "Add the wet ingredients",
+   "body": "Add: **2⅛ cups warm milk**, **6 Tbsp melted butter** and **2 eggs**."
+  },
+  {
+   "title": "Knead the dough",
+   "body": "Mix, adding flour until dough just pulls away from bowl, then knead until gluten is formed."
+  },
+  {
+   "title": "First rise",
+   "body": "Let rise until double."
+  },
+  {
+   "title": "Divide the dough",
+   "body": "Divide into 24 balls (or 32 for smaller serving size)."
+  },
+  {
+   "title": "Rest and roll",
+   "body": "Rest for 10 minutes, then roll into approximately 3×5-inch ovals, keeping the dough covered with saran wrap to prevent drying out.",
+   "timerMin": 10
+  },
+  {
+   "title": "Make the filling",
+   "body": "While dough is rising, prepare filling. Mix together: **2 cups shredded coconut**, **1⅛ cups butter, melted** (2 cubes, + 2 Tbsp), **¾ dry milk powder**, **¾ cup sugar**, **6 Tbsp flour** and **¾ tsp salt**."
+  },
+  {
+   "title": "Fill the buns",
+   "body": "Place 1 heaping Tbsp of filling on each disc of dough, optimally in a bit of a log, then form into an oval bun and place in a 10×12 oiled pan, 12 rolls per pan. If making smaller buns, adjust the amount of filling and number of rolls per pan."
+  },
+  {
+   "title": "Second rise",
+   "body": "Cover and let rise for about 30-40 minutes.",
+   "timerMin": 30
+  },
+  {
+   "title": "Prepare the toppings",
+   "body": "During the second proving, prepare the egg wash (**1 egg**, **1 Tbsp heavy cream or milk**), the sesame seeds (**2 Tbsp toasted sesame seeds**, optional) and the topping (**4½ Tbsp melted butter**, **6 Tbsp flour**, **3 Tbsp powdered sugar**, and water if needed to make this an icing consistency)."
+  },
+  {
+   "title": "Brush and pipe",
+   "body": "Brush risen buns with egg wash, sprinkle with sesame seeds, place topping in a ziploc bag with a corner cut out, and apply a line of topping along each short end of the buns, or for a hot-crossed bun look, along one short end, and then center of the length of the buns, in a cross."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake in a 350°F oven for 20+ minutes until golden.",
+   "timerMin": 20
+  }
+ ]
+}

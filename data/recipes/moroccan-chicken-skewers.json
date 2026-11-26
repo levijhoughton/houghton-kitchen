@@ -1,0 +1,72 @@
+{
+ "name": "Moroccan Chicken Skewers",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "cuisine": "Moroccan",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "Rimmed baking dish, foil, skewers",
+ "notes": "Discovered and rated divine during October Conference 2021 in Channahon. Serve with pilaf and a yummy salad. Drizzle any extra sauce over the pilaf.",
+ "source": {
+  "label": "From Cookish"
+ },
+ "ingredients": [
+  {
+   "group": "Marinade",
+   "items": [
+    "Grated zest and juice of 1 lemon",
+    "1 Tbsp finely grated fresh ginger",
+    "¼ cup olive oil",
+    "2 Tbsp honey",
+    "2 Tbsp ground cumin or coriander (or mix)",
+    "2 tsp salt",
+    "1 tsp black pepper"
+   ]
+  },
+  {
+   "group": "Chicken",
+   "items": [
+    "2 pounds boneless skinless chicken thigh, halved lengthwise"
+   ]
+  },
+  {
+   "group": "To serve",
+   "items": [
+    "4 lemon halves, cut side up",
+    "Fresh cilantro or mint or flat parsley or mix"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the marinade",
+   "body": "In a medium bowl, mix **grated zest and juice of 1 lemon**, **1 Tbsp finely grated fresh ginger**, **¼ cup olive oil**, **2 Tbsp honey**, **2 Tbsp ground cumin or coriander** (or mix), **2 tsp salt** and **1 tsp black pepper**."
+  },
+  {
+   "title": "Reserve some sauce",
+   "body": "Set aside **2 Tbsp** of the mixture in a separate bowl."
+  },
+  {
+   "title": "Coat the chicken",
+   "body": "Toss **2 pounds boneless skinless chicken thigh**, halved lengthwise, into the remaining mixture."
+  },
+  {
+   "title": "Skewer and arrange",
+   "body": "Scrunch the chicken onto skewers and place on a foil lined rimmed baking dish. Add to the baking dish: **4 lemon halves**, cut side up."
+  },
+  {
+   "title": "Broil",
+   "body": "Broil, 4\" from element, for about 12 minutes until charred, turning halfway through.",
+   "timerMin": 12
+  },
+  {
+   "title": "Add the sauce",
+   "body": "Remove from the oven, and drizzle the reserved sauce over the lemons. Sprinkle over the chicken: fresh cilantro or mint or flat parsley or mix."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve lemons alongside the skewers for squeezing over the chicken."
+  }
+ ]
+}

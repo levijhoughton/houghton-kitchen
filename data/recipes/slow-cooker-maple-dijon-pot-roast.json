@@ -1,0 +1,68 @@
+{
+ "name": "Slow Cooker Maple & Dijon Pot Roast",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "yields": "Serves 4–6",
+ "equipment": "Slow cooker, Dutch oven or heavy skillet",
+ "ingredients": [
+  {
+   "group": "Roast",
+   "items": [
+    "2½ to 3 lb beef chuck roast (see Recipe Notes)",
+    "4 to 5 slices bacon, diced (or neutral cooking oil)",
+    "3 large onions, peeled and sliced into half moons",
+    "1½ to 2 cups chicken stock",
+    "1 Tbsp Dijon mustard",
+    "1 Tbsp maple syrup",
+    "1 Tbsp balsamic vinegar",
+    "1 tsp paprika",
+    "1 tsp kosher salt",
+    "Freshly ground black pepper, to taste",
+    "Fresh thyme, for garnish"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Season the meat",
+   "body": "Pat the pork dry with paper towels and season generously with salt and pepper."
+  },
+  {
+   "title": "Render the bacon",
+   "body": "Set a large Dutch oven or heavy skillet over medium-high to high heat. Add **4 to 5 slices bacon**, diced, and cook until some fat starts rendering and it begins to turn golden."
+  },
+  {
+   "title": "Sear the beef",
+   "body": "Push the bacon to the sides and add **2½ to 3 lb beef chuck roast**. Sear both sides until golden brown, about 10 minutes per side, and transfer all the meat to the bowl of the slow cooker."
+  },
+  {
+   "title": "Soften the onions",
+   "body": "Pour off all but **2 Tbsp** of the bacon fat. Reduce heat to medium. Add **3 large onions**, peeled and sliced into half moons, and cook until starting to soften, about 5 minutes.",
+   "timerMin": 5
+  },
+  {
+   "title": "Deglaze the pan",
+   "body": "Pour in a few tablespoons of chicken stock and bring to a boil, scraping up any of the brown bits from the bottom of the pan. Pour the onions and pan juices into the bowl of the slow cooker."
+  },
+  {
+   "title": "Make the sauce",
+   "body": "In a separate bowl, whisk the remaining chicken stock, **1 Tbsp Dijon mustard**, **1 Tbsp balsamic vinegar**, **1 Tbsp maple syrup**, **1 tsp paprika**, **1 tsp kosher salt**, and pepper until combined. Pour the liquid mixture over the roast."
+  },
+  {
+   "title": "Slow cook",
+   "body": "Close the lid and cook on LOW heat until the meat falls apart and is meltingly tender, about 8 hours.",
+   "timerMin": 480
+  },
+  {
+   "title": "Make the gravy",
+   "body": "Transfer the roast to a serving bowl or platter and cover with foil. Pour the cooking liquids into a large saucepan and bring to a boil. Cook until the gravy is reduced to desired thickness."
+  },
+  {
+   "title": "Serve",
+   "body": "Cut the roast into chunks and pour hot gravy over the top. Serve with creamy grits, egg noodles, or mashed potatoes and/or oven-roasted carrots."
+  }
+ ]
+}

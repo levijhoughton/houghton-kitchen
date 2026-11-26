@@ -1,0 +1,47 @@
+{
+ "name": "Cilantro Lime Rice",
+ "category": "Sides",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Rice",
+   "items": [
+    "1 cup uncooked rice",
+    "1 tsp butter or margarine",
+    "2 tsp minced garlic",
+    "1 tsp freshly squeezed lime juice",
+    "1 × 15 oz can chicken broth"
+   ]
+  },
+  {
+   "group": "Lime and cilantro",
+   "items": [
+    "1 Tbsp lime juice",
+    "2 tsp sugar",
+    "3 Tbsp cilantro"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Combine and boil",
+   "body": "In a saucepan, combine **1 cup uncooked rice**, **1 tsp butter or margarine**, **2 tsp minced garlic**, **1 tsp freshly squeezed lime juice** and **1 × 15 oz can chicken broth**. Bring to a boil."
+  },
+  {
+   "title": "Simmer the rice",
+   "body": "Cover and cook on low 15–20 minutes, until rice is tender. Remove from heat.",
+   "timerMin": 15
+  },
+  {
+   "title": "Mix the lime and cilantro",
+   "body": "In a small bowl, combine **1 Tbsp lime juice**, **2 tsp sugar** and **3 Tbsp cilantro**."
+  },
+  {
+   "title": "Fluff the rice",
+   "body": "Pour over hot cooked rice and mix in as you fluff the rice."
+  }
+ ]
+}

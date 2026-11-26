@@ -1,0 +1,40 @@
+{
+ "name": "Swedish Pancakes",
+ "subtitle": "Levi’s favorite",
+ "category": "Breakfast & quick breads",
+ "cuisine": "Swedish",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "Blender, griddle",
+ "notes": "Grandpa Kemper used to get up in the morning and make these for the family. This recipe has been healthified, just a bit.",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "3 cups milk",
+    "1½ cups flour",
+    "3 Tbsp melted shortening",
+    "2 Tbsp sugar",
+    "1 tsp salt",
+    "3 eggs",
+    "1½ tsp cinnamon",
+    "Less nutmeg"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Blend the batter",
+   "body": "Combine in blender: **3 cups milk**, **1½ cups flour**, **3 Tbsp melted shortening**, **2 Tbsp sugar**, **1 tsp salt**, **3 eggs**, **1½ tsp cinnamon** and less nutmeg."
+  },
+  {
+   "title": "Cook",
+   "body": "Cook on griddle."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve with apple butter, sour cream, jam, etc."
+  }
+ ]
+}

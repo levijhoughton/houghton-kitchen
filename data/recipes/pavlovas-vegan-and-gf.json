@@ -1,0 +1,56 @@
+{
+ "name": "Mini Pavlovas",
+ "subtitle": "Vegan and GF",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 12,
+ "servingUnit": "mini pavlovas",
+ "yields": "Makes about 12 mini pavlovas",
+ "equipment": "Large baking tray",
+ "notes": "An elegant, melt-in-your-mouth dessert.",
+ "ingredients": [
+  {
+   "group": "Meringue",
+   "items": [
+    "½ cup garbanzo bean juice (aquafaba)",
+    "½ tsp cream of tartar",
+    "¾ cup superfine sugar (may use raw sugar, blended til fine, for a slight toffee taste)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Prep the tray",
+   "body": "Line a large baking tray with parchment. With a sharpie, draw twelve 10 cm circles on the baking paper, allowing room between circles for slight expansion. Flip the baking paper so the pavlovas do not come into contact with the ink. Preheat oven to 250°F."
+  },
+  {
+   "title": "Whip the aquafaba",
+   "body": "In an immaculately clean bowl, whip 3-5 minutes on high speed until stiff peaks have started to form, stiff enough that it will remain in the bowl if turned upside down: **½ cup garbanzo bean juice (aquafaba)** and **½ tsp cream of tartar**."
+  },
+  {
+   "title": "Add the sugar",
+   "body": "With the motor running on medium-high speed, add, a tablespoon at a time, allowing sugar to dissolve between each addition: **¾ cup superfine sugar** (may use raw sugar, blended til fine, for a slight toffee taste)."
+  },
+  {
+   "title": "Finish the meringue",
+   "body": "Once all sugar has been added, scrape down sides of the bowl, and continue to whip for another two minutes until the meringue is stiff and glossy."
+  },
+  {
+   "title": "Shape",
+   "body": "Dollop or pipe onto baking circles, leaving a depression in the middle of each pavlova."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 2 hours, then turn off and leave in closed oven overnight.",
+   "timerMin": 120
+  },
+  {
+   "title": "Store",
+   "body": "Store at room temperature in sealed container for up to 5 days before using."
+  },
+  {
+   "title": "Serve",
+   "body": "Top with a curd/whipped cream mixture and fresh fruit and serve immediately."
+  }
+ ]
+}

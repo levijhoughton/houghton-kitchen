@@ -1,0 +1,55 @@
+{
+ "name": "Chicken Divan",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "9×12 pan",
+ "ingredients": [
+  {
+   "group": "Broccoli",
+   "items": [
+    "1–2 heads broccoli"
+   ]
+  },
+  {
+   "group": "Chicken",
+   "items": [
+    "1 pound chicken"
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    "1 can cream of chicken soup",
+    "1 cup Miracle Whip",
+    "2 tsp lemon juice",
+    "1 tsp ground curry"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Steam the broccoli",
+   "body": "Steam until tender and then place **1–2 heads broccoli** in greased 9×12 pan."
+  },
+  {
+   "title": "Cook the chicken",
+   "body": "Cook, lightly season, and dice **1 pound chicken**."
+  },
+  {
+   "title": "Make the sauce",
+   "body": "Combine **1 can cream of chicken soup**, **1 cup Miracle Whip**, **2 tsp lemon juice** and **1 tsp ground curry** in a separate bowl, then add the cooked chicken."
+  },
+  {
+   "title": "Assemble",
+   "body": "Pour chicken mixture over broccoli, and top with croutons."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake until warm (about 45 min) at 350°F and serve over rice.",
+   "timerMin": 45
+  }
+ ]
+}

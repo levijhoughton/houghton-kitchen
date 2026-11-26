@@ -1,0 +1,58 @@
+{
+ "name": "Sour Cream & Apple Pie",
+ "subtitle": "Aunt Michelle’s famous",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pie",
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "2 Tbsp flour",
+    "⅛ tsp salt",
+    "¾ cup sugar",
+    "1 egg",
+    "1 cup sour cream",
+    "1 tsp vanilla",
+    "¼ tsp nutmeg",
+    "2 cups sliced peeled apples"
+   ]
+  },
+  {
+   "group": "Nut topping",
+   "items": [
+    "¼ cup sugar",
+    "¼ cup flour",
+    "¾ tsp cinnamon",
+    "¼ cup chopped nuts",
+    "¼ cup butter (no substitutes)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the filling",
+   "body": "Beat together **2 Tbsp flour**, **⅛ tsp salt**, **¾ cup sugar**, **1 egg**, **1 cup sour cream**, **1 tsp vanilla** and **¼ tsp nutmeg**. Fold in **2 cups sliced peeled apples**."
+  },
+  {
+   "title": "Bake",
+   "body": "Pour into a 9-inch unbaked pie shell and bake at 400°F for 15 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Continue baking",
+   "body": "Then bake at 350°F for 30 minutes.",
+   "timerMin": 30
+  },
+  {
+   "title": "Make the nut topping",
+   "body": "Meanwhile, cut together nut topping: **¼ cup sugar**, **¼ cup flour**, **¾ tsp cinnamon**, **¼ cup chopped nuts** and **¼ cup butter** (no substitutes)."
+  },
+  {
+   "title": "Top and finish",
+   "body": "Remove pie from oven after 30 minutes at 350°F, top with nut topping, then bake 10 minutes more.",
+   "timerMin": 10
+  }
+ ]
+}

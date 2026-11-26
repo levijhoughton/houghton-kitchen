@@ -1,0 +1,50 @@
+{
+ "name": "Super Easy Stroganoff",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "yields": "Serves 4",
+ "notes": "I—Marta—love this recipe because it’s quick and easy and I have almost all the ingredients on hand already. The texture and taste come out just the way I like them too!",
+ "ingredients": [
+  {
+   "group": "Stroganoff",
+   "items": [
+    "2 cups rice, or a bag of egg noodles",
+    "1 lb ground beef",
+    "1 medium onion (you may also use some finely diced apple)",
+    "1 can cream of mushroom soup",
+    "1½ cups milk",
+    "1 cup sour cream",
+    "Salt and pepper to taste"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the rice or noodles",
+   "body": "Cook **2 cups rice**, or **a bag of egg noodles**, in a separate pan."
+  },
+  {
+   "title": "Cook the beef",
+   "body": "Cook **1 lb ground beef** and **1 medium onion** (you may also use some finely diced apple) over the stove in a large pan or pot."
+  },
+  {
+   "title": "Add the soup and milk",
+   "body": "Add **1 can cream of mushroom soup** and **1½ cups milk**. Allow it to simmer and thicken."
+  },
+  {
+   "title": "Take off heat",
+   "body": "Take off heat when you’ve reached the desired consistency."
+  },
+  {
+   "title": "Add the sour cream",
+   "body": "Add **1 cup sour cream** and then season to taste."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve over rice/noodles!"
+  }
+ ]
+}

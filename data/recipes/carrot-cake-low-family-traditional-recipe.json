@@ -1,0 +1,63 @@
+{
+ "name": "Carrot Cake",
+ "subtitle": "Low Family Traditional Recipe",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "cake",
+ "ingredients": [
+  {
+   "group": "Cake",
+   "items": [
+    "2 cups sugar",
+    "4 eggs",
+    "1½ cups oil",
+    "1 tsp vanilla",
+    "2 cups flour",
+    "2 tsp soda",
+    "2 tsp cinnamon",
+    "1 tsp salt",
+    "3 cups grated carrots",
+    "Raisins",
+    "Walnuts",
+    "Coconut"
+   ]
+  },
+  {
+   "group": "Frosting",
+   "items": [
+    "8 oz cream cheese, softened",
+    "⅔ cup butter",
+    "1 tsp vanilla",
+    "4–6 cups powdered sugar",
+    "Nutmeg, for sprinkling"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Beat the wet ingredients",
+   "body": "Beat together **2 cups sugar**, **4 eggs**, **1½ cups oil** and **1 tsp vanilla**."
+  },
+  {
+   "title": "Add the dry ingredients",
+   "body": "Add, and mix in **2 cups flour**, **2 tsp soda**, **2 tsp cinnamon** and **1 tsp salt**."
+  },
+  {
+   "title": "Stir in the add-ins",
+   "body": "Stir in, just until mixed: **3 cups grated carrots**, raisins, walnuts and coconut."
+  },
+  {
+   "title": "Bake the cake",
+   "body": "Bake at 350°F in a greased pan."
+  },
+  {
+   "title": "Make the frosting",
+   "body": "Make the cream cheese frosting by creaming together **8 oz cream cheese**, softened, **⅔ cup butter**, **1 tsp vanilla** and **4–6 cups powdered sugar**."
+  },
+  {
+   "title": "Frost and sprinkle",
+   "body": "Top with the frosting and sprinkle with nutmeg."
+  }
+ ]
+}

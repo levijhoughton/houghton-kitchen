@@ -1,0 +1,84 @@
+{
+ "name": "Kolaches",
+ "category": "Yeast breads",
+ "collection": "family",
+ "servings": 20,
+ "servingUnit": "kolaches",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "1 cup sour cream",
+    "½ cup sugar",
+    "1½ tsp salt",
+    "½ cup butter, melted",
+    "2 tsp yeast",
+    "½ cup lukewarm water",
+    "2 large eggs",
+    "4 cups flour"
+   ]
+  },
+  {
+   "group": "Sweet filling",
+   "items": [
+    "4 oz cream cheese (per recipe)",
+    "Powdered sugar and milk, to desired sweetness and consistency",
+    "Favorite jam or lemon curd"
+   ]
+  },
+  {
+   "group": "Savory filling",
+   "items": [
+    "About a dozen eggs (per recipe)",
+    "1 lb meat (per recipe)",
+    "2 cups cheese (per recipe)",
+    "Your favorite ingredients for the egg scramble"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Warm the sour cream",
+   "body": "Warm gently: **1 cup sour cream**."
+  },
+  {
+   "title": "Add the sugar and butter",
+   "body": "Add to: **½ cup sugar**, **1½ tsp salt** and **½ cup butter, melted**."
+  },
+  {
+   "title": "Add yeast and eggs",
+   "body": "Cool to lukewarm and add: **2 tsp yeast**, **½ cup lukewarm water**, **2 large eggs** and **4 cups flour**."
+  },
+  {
+   "title": "Knead the dough",
+   "body": "Mix and knead the dough, until it's soft and smooth. Cover with plastic wrap and refrigerate overnight."
+  },
+  {
+   "title": "Divide the dough",
+   "body": "Next day, divide dough into about 20 golf ball sized pieces."
+  },
+  {
+   "title": "Flatten and rest",
+   "body": "Flatten the balls until they're about ½-inch thick, and allow them to rest for 10 minutes.",
+   "timerMin": 10
+  },
+  {
+   "title": "Make sweet kolaches",
+   "body": "For sweet kolaches: Using your fingers, make a wide, deep indentation in the center of each flattened dough ball. Don't be afraid of being decisive here; you want to make a deep enough indentation that it doesn't just disappear as the buns rise and bake. Top with about 1 Tbsp cream cheese mixture (cream cheese + powdered sugar + milk to desired sweetness and consistency; **4 oz cream cheese** per recipe) then with 1 Tbsp of a favorite jam or lemon curd (mmmm)."
+  },
+  {
+   "title": "Make savory kolaches",
+   "body": "For savory kolaches: Cook up an egg scramble with your favorite ingredients (about **a dozen eggs**, **1 lb meat** and **2 cups cheese** per recipe). Add the cheese halfway through, and leave the scramble slightly wet. Roll out dough a little flatter (larger) than for the sweet kolaches, place 1-2 Tbsp of the egg scramble in the dough, and pull edges around to form a ball. Place on baking pan, seam side down. Bake as other kolaches, then brush with butter after baking."
+  },
+  {
+   "title": "Rise",
+   "body": "Then, cover the kolaches, and allow them to rise for about an hour (they won't necessarily double in bulk).",
+   "timerMin": 60
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 350°F for 15-20 minutes until golden brown.",
+   "timerMin": 15
+  }
+ ]
+}

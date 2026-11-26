@@ -17,7 +17,7 @@ This repo is the published side of the **Houghton Food** meal-planning project. 
 - Amounts in step bodies go in `**bold**`; that's what the servings scaler rescales and what the cook-mode highlighter shows.
 - Don't put non-quantities in bold unless the scaler already skips them (°F, min, -inch, parentheses, `× 15 oz`).
 - Recipes are written in real cooking order. Stir-fries: prep everything first. Sheet-pan and simmer recipes: prep during the oven or simmer time.
-- The repo is public. No personal contact details, addresses or other people's names in data files.
+- The repo is public. No personal contact details, addresses or other people's names in data files. Exception: family recipes (`"collection": "family"`) keep their attributions, but only as first names or a surname alone ("Grandma Kemper", "from Heather"), never a full name.
 - **The site shows the plan, not the reasons.** Nights without a dinner are just "No dinner planned". A night cooked at a larger size gets that size as its default (`servings` on the recipe, `sizing` on the night) with no explanation of who it's for or why. The same goes for grocery groups, reminders, recipe notes and the freezer.
 - Changing `index.html`, `sw.js` or the icons: bump `CACHE` in `sw.js` so installed copies pick up the new shell.
 - Test UI changes in a headless browser at 390px and 1280px, light and dark, before pushing.

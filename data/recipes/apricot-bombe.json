@@ -1,0 +1,44 @@
+{
+ "name": "Apricot Bombe",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×13 pan",
+ "equipment": "9×13 pan",
+ "ingredients": [
+  {
+   "group": "Crust",
+   "items": [
+    "3 cups crushed vanilla wafers (12 oz box)",
+    "⅔ cup melted butter",
+    "1⅓ cups toasted sliced almonds",
+    "2 tsp almond flavoring"
+   ]
+  },
+  {
+   "group": "Filling",
+   "items": [
+    "2 quarts vanilla ice cream",
+    "24 oz apricot jam"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the crust",
+   "body": "Mix **3 cups crushed vanilla wafers** (12 oz box), **⅔ cup melted butter**, **1⅓ cups toasted sliced almonds** and **2 tsp almond flavoring**. Save ½ for topping."
+  },
+  {
+   "title": "Freeze the base",
+   "body": "Press half of the mixture in a 9×13 pan and freeze."
+  },
+  {
+   "title": "Layer the ice cream and jam",
+   "body": "Spread over frozen crust, in 2 rounds of ice cream tiered with jam, freezing between each round: **2 quarts vanilla ice cream** and **24 oz apricot jam**."
+  },
+  {
+   "title": "Top and freeze",
+   "body": "Sprinkle remaining vanilla wafer mixture on top and freeze until serving."
+  }
+ ]
+}

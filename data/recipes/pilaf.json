@@ -1,0 +1,42 @@
+{
+ "name": "Pilaf",
+ "category": "Sides",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Pilaf",
+   "items": [
+    "2 Tbsp butter",
+    "¼ lb vermicelli (skinny spaghetti), broken into 1-inch pieces",
+    "¼ cup chopped nuts (we like roasted almonds best)",
+    "2 cups rice",
+    "4 cups water",
+    "4 tsp chicken stock base",
+    "½ tsp salt",
+    "½ tsp black pepper"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Brown the pasta",
+   "body": "In pot with a lid, sauté until lightly brown: **2 Tbsp butter** and **¼ lb vermicelli** (skinny spaghetti), broken into 1-inch pieces."
+  },
+  {
+   "title": "Add the nuts and rice",
+   "body": "Add and coat with butter: **¼ cup chopped nuts** (we like roasted almonds best) and **2 cups rice**."
+  },
+  {
+   "title": "Add the liquid",
+   "body": "Add **4 cups water**, **4 tsp chicken stock base**, **½ tsp salt** and **½ tsp black pepper**."
+  },
+  {
+   "title": "Simmer and check",
+   "body": "Cover and simmer (on low). After about 20 minutes, check for doneness. Season with additional salt and pepper to taste.",
+   "timerMin": 20
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "name": "Caroline’s Wedding Sandwiches for a Crowd",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 12,
+ "servingUnit": "servings",
+ "yields": "Serves 12–14",
+ "notes": "A hit when served as a picnic lunch after Caroline’s wedding in Oakland.",
+ "ingredients": [
+  {
+   "group": "Spread",
+   "items": [
+    "2 loaves (1 pound each) unsliced Italian bread",
+    "1 package (8 ounces) cream cheese, softened",
+    "1 cup shredded cheddar cheese",
+    "¾ cup sliced green onions",
+    "¼ cup mayonnaise",
+    "1 tablespoon Worcestershire sauce"
+   ]
+  },
+  {
+   "group": "Filling",
+   "items": [
+    "1 pound thinly sliced fully cooked ham",
+    "1 pound thinly sliced roast beef",
+    "12 to 14 thin slices dill pickle"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Hollow the bread",
+   "body": "Slice **2 loaves (1 pound each) unsliced Italian bread** in half, longways, and take out some of the bread in the center."
+  },
+  {
+   "title": "Make the spread",
+   "body": "Mix together and spread on bottom and top of each loaf: **1 package (8 ounces) cream cheese, softened**, **1 cup shredded cheddar cheese**, **¾ cup sliced green onions**, **¼ cup mayonnaise** and **1 tablespoon Worcestershire sauce**."
+  },
+  {
+   "title": "Layer the meat",
+   "body": "Layer on bottom and top of each half: **1 pound thinly sliced fully cooked ham** and **1 pound thinly sliced roast beef**."
+  },
+  {
+   "title": "Add the pickles",
+   "body": "Place in middle: **12 to 14 thin slices dill pickle**."
+  },
+  {
+   "title": "Wrap and rest",
+   "body": "Gently close sandwiches and wrap tightly in saran wrap for at least 2 hours.",
+   "timerMin": 120
+  },
+  {
+   "title": "Slice",
+   "body": "Slice in 1½–2 inch slices."
+  }
+ ]
+}

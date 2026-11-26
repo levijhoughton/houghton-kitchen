@@ -1,0 +1,76 @@
+{
+ "name": "Gingerbread Cookies",
+ "subtitle": "Soft & So So Good!",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "source": {
+  "label": "Love and Lemons",
+  "url": "https://www.loveandlemons.com/gingerbread-cookies-recipe/#wprm-recipe-container-67705"
+ },
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "½ cup unsalted butter, at room temperature",
+    "⅔ cup packed dark brown sugar",
+    "⅓ cup unsulphured blackstrap molasses",
+    "1 large egg yolk",
+    "1 tsp vanilla extract",
+    "2¼ cups flour",
+    "2 tsp cinnamon",
+    "2 tsp ground ginger",
+    "1 tsp baking soda",
+    "½ tsp fine sea salt",
+    "¼ tsp ground cloves",
+    "1 Tbsp almond milk, or any milk"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the butter and sugar",
+   "body": "In a stand mixer, cream together **½ cup unsalted butter**, at room temperature, and **⅔ cup packed dark brown sugar**."
+  },
+  {
+   "title": "Add the wet ingredients",
+   "body": "Add, then mix: **⅓ cup unsulphured blackstrap molasses**, **1 large egg yolk** and **1 tsp vanilla extract**."
+  },
+  {
+   "title": "Whisk the dry ingredients",
+   "body": "In a medium bowl, whisk together **2¼ cups flour**, **2 tsp cinnamon**, **2 tsp ground ginger**, **1 tsp baking soda**, **½ tsp fine sea salt** and **¼ tsp ground cloves**."
+  },
+  {
+   "title": "Combine the dough",
+   "body": "Gradually combine wet and dry ingredients, then add and mix **1 Tbsp almond milk**, or any milk."
+  },
+  {
+   "title": "Chill the dough",
+   "body": "Form the dough into a ball, divide the ball in half, and flatten each half into a 1-inch-thick disk. Wrap in plastic and chill for at least 2 hours.",
+   "timerMin": 120
+  },
+  {
+   "title": "Preheat and prepare",
+   "body": "When ready to bake, preheat the oven to 350°F and line two large baking sheets with parchment paper."
+  },
+  {
+   "title": "Roll and cut",
+   "body": "Roll out the dough on a lightly floured surface until about ¼-inch thick. Use cookie cutters to cut out desired shapes, then transfer the cut-outs to the prepared baking sheets."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake, one sheet at a time, for 7–9 minutes, or until the edges of the cookies are just set but the middles are still soft. The cookies might seem underdone, but taking them out at this point will ensure that they stay soft once they cool.",
+   "timerMin": 7
+  },
+  {
+   "title": "Cool",
+   "body": "Let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+   "timerMin": 5
+  },
+  {
+   "title": "Decorate",
+   "body": "Decorate as desired (a classic lemon icing was used in 2023, to great success)."
+  }
+ ]
+}

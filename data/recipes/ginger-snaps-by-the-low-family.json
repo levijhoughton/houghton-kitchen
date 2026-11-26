@@ -1,0 +1,49 @@
+{
+ "name": "Ginger Snaps",
+ "subtitle": "By the Low family",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "¾ cup shortening",
+    "1 cup sugar",
+    "1 egg",
+    "¼ cup molasses",
+    "2 cups flour",
+    "1 Tbsp ginger",
+    "2 tsp baking soda",
+    "1 tsp cinnamon",
+    "¼ tsp ground cloves",
+    "½ tsp salt",
+    "Coarse sugar, for coating"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the shortening",
+   "body": "Cream together **¾ cup shortening** and **1 cup sugar**."
+  },
+  {
+   "title": "Add the egg and molasses",
+   "body": "Add and mix in **1 egg** and **¼ cup molasses**."
+  },
+  {
+   "title": "Mix in the dry ingredients",
+   "body": "Mix in **2 cups flour**, **1 Tbsp ginger**, **2 tsp baking soda**, **1 tsp cinnamon**, **¼ tsp ground cloves** and **½ tsp salt**."
+  },
+  {
+   "title": "Roll and coat",
+   "body": "Roll in 1-inch balls and coat with coarse sugar (regular sugar will work but your family will know you didn’t plan ahead)."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 10–12 minutes at 350°F.",
+   "timerMin": 10
+  }
+ ]
+}

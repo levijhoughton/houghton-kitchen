@@ -1,0 +1,48 @@
+{
+ "name": "Fruit Cobbler",
+ "subtitle": "From Linda, a Clovis neighbor",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "yields": "Serves 6",
+ "equipment": "8×8 pan (one recipe) or 10×12 pan (two); Dutch oven",
+ "notes": "The only cobbler recipe we use, and great in a Dutch oven. We usually double it! Try not to fight over the edge pieces. For camping, mix all dry ingredients, including powdered milk, in a ziploc bag, then just add water to the batter in the bag at camp.",
+ "ingredients": [
+  {
+   "group": "Cobbler",
+   "items": [
+    "½-1 cube butter",
+    "1 cup flour",
+    "1 cup sugar",
+    "1½ tsp baking powder",
+    "½ tsp salt",
+    "¾ cup milk",
+    "2 cups sweetened fruit (use fresh or canned; peaches, apricots, and berries are all wonderful)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Heat the oven",
+   "body": "Heat oven to 375°F. Place 8×8 pan for one recipe, or 10×12 pan for two, in hot oven with **½-1 cube butter**."
+  },
+  {
+   "title": "Sift dry ingredients",
+   "body": "Meanwhile, sift together **1 cup flour**, **1 cup sugar**, **1½ tsp baking powder** and **½ tsp salt**."
+  },
+  {
+   "title": "Add milk",
+   "body": "Add and mix in **¾ cup milk**."
+  },
+  {
+   "title": "Pour batter",
+   "body": "Before the butter burns, pull it out of the oven, and pour batter over the hot butter. Then add to the pan: **2 cups sweetened fruit** (use fresh or canned; peaches, apricots, and berries are all wonderful)."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 35-40 minutes, til golden in the middle of the top.",
+   "timerMin": 35
+  }
+ ]
+}

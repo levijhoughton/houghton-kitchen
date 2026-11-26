@@ -1,0 +1,57 @@
+{
+ "name": "Scones",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "scones",
+ "equipment": "parchment-lined pan sheet",
+ "notes": "Add-in ideas: 1+ tsp orange zest and dried cranberries; 1+ tsp lemon zest and dried blueberry; ½ tsp almond to sour cream mixture and dried cherries.",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "2 cups flour",
+    "⅓ cup sugar",
+    "1 tsp baking powder",
+    "¼ tsp baking soda",
+    "½ tsp salt",
+    "8 Tbsp butter, frozen",
+    "½ cup raisins/desired add-ins",
+    "½ cup sour cream",
+    "1 egg",
+    "1 tsp sugar, for sprinkling"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Stir together: **2 cups flour**, **⅓ cup sugar**, **1 tsp baking powder**, **¼ tsp baking soda** and **½ tsp salt**."
+  },
+  {
+   "title": "Grate in the butter",
+   "body": "Grate in **8 Tbsp butter**, frozen. Work in with fingers to resemble coarse meal."
+  },
+  {
+   "title": "Add the add-ins",
+   "body": "Stir in **½ cup raisins/desired add-ins**."
+  },
+  {
+   "title": "Whisk the wet ingredients",
+   "body": "Whisk together **½ cup sour cream** and **1 egg**."
+  },
+  {
+   "title": "Form the dough",
+   "body": "Stir egg/sour cream into flour mixture with fork then press dough into a ball against edge of the bowl with hand."
+  },
+  {
+   "title": "Shape the dough",
+   "body": "Place on a lightly floured surface and pat into a 7–8-inch circle, ¾-inch thick. Sprinkle with **1 tsp sugar**, and cut into 8 triangles."
+  },
+  {
+   "title": "Bake",
+   "body": "Place on a parchment-lined pan sheet. Bake at 350°F until golden, 15–17 minutes.",
+   "timerMin": 15
+  }
+ ]
+}

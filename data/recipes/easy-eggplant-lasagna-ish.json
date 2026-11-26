@@ -1,0 +1,57 @@
+{
+ "name": "Easy Eggplant Lasagna-ish",
+ "subtitle": "Made up by Marta",
+ "category": "Mains",
+ "protein": "Beef",
+ "cuisine": "Italian",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×13 pan",
+ "equipment": "9×13 pan",
+ "notes": "It’s a very basic, tasty way to enjoy some purple veg!",
+ "ingredients": [
+  {
+   "items": [
+    "2 medium eggplants",
+    "2 Tbsp butter",
+    "2 cloves garlic, minced",
+    "1 lb ground beef",
+    "1 medium onion",
+    "1 can pasta sauce",
+    "Mozzarella cheese (about a cup)",
+    "Garlic salt"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Preheat the oven",
+   "body": "Preheat the oven to 350°F."
+  },
+  {
+   "title": "Cook the beef",
+   "body": "Cook **1 medium onion** and **1 lb ground beef** together on the stove, seasoning with salt and pepper."
+  },
+  {
+   "title": "Slice the eggplant",
+   "body": "Slice **2 medium eggplants** into thin rounds and cover the bottom of a 9×13 pan (should use about half of the eggplant)."
+  },
+  {
+   "title": "Add the garlic butter",
+   "body": "Melt **2 Tbsp butter** and add **2 cloves garlic, minced**, then brush the mixture over the bottom layer of eggplant. Cover with the meat and onion mixture."
+  },
+  {
+   "title": "Add the top layer",
+   "body": "Add another layer of eggplant over the top of the meat and onion."
+  },
+  {
+   "title": "Add the sauce and cheese",
+   "body": "Pour **1 can pasta sauce** over the entire thing, spreading and allowing it to seep down between the eggplant rounds. Cover with **about a cup mozzarella cheese**, shredded or sliced, and sprinkle garlic salt on top."
+  },
+  {
+   "title": "Bake",
+   "body": "Pop it in the oven for 45 minutes, or until the eggplant in the middle of the pan is soft.",
+   "timerMin": 45
+  }
+ ]
+}

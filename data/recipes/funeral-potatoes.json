@@ -1,0 +1,57 @@
+{
+ "name": "Funeral Potatoes",
+ "category": "Sides",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "equipment": "9×13 pan",
+ "ingredients": [
+  {
+   "group": "Potatoes",
+   "items": [
+    "5 large potatoes",
+    "3 Tbsp melted butter"
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    "1 can cream of chicken soup",
+    "1 cup sour cream",
+    "3 Tbsp green onions, sliced",
+    "3 Tbsp parmesan cheese"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "¾ cup corn flake crumbs",
+    "2 Tbsp melted butter"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Boil and shred",
+   "body": "Boil, peel, and shred, then place in 9×13 pan: **5 large potatoes**."
+  },
+  {
+   "title": "Add the butter",
+   "body": "Melt and pour over potatoes: **3 Tbsp melted butter**."
+  },
+  {
+   "title": "Add the sauce",
+   "body": "Mix and pour over top: **1 can cream of chicken soup**, **1 cup sour cream**, **3 Tbsp green onions**, sliced, and **3 Tbsp parmesan cheese**."
+  },
+  {
+   "title": "Add the topping",
+   "body": "Mix and sprinkle over casserole: **¾ cup corn flake crumbs** and **2 Tbsp melted butter**."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake in the oven until heated through. 350°F for an hour or, if you have a long funeral, 250°F semi-indefinitely. For cremation potatoes, maximize oven temperature and bake for 24 hours.",
+   "timerMin": 60
+  }
+ ]
+}

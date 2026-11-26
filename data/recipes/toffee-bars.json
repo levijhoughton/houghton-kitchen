@@ -1,0 +1,59 @@
+{
+ "name": "Toffee Bars",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×9 pan",
+ "equipment": "9×9 pan",
+ "ingredients": [
+  {
+   "group": "Crust",
+   "items": [
+    "½ cup butter, at room temperature",
+    "½ brown sugar",
+    "¾ tsp vanilla",
+    "1 cup flour",
+    "¼ tsp salt"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "1 cup semisweet chocolate chips",
+    "½ finely chopped toasted almonds"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the butter",
+   "body": "Beat until light and fluffy: **½ cup butter**, at room temperature, **½ brown sugar** and **¾ tsp vanilla**."
+  },
+  {
+   "title": "Add the flour and salt",
+   "body": "Combine and add to butter mixture: **1 cup flour** and **¼ tsp salt**."
+  },
+  {
+   "title": "Bake the crust",
+   "body": "Press into a 9×9 pan and bake at 350°F for 20 minutes, until golden brown.",
+   "timerMin": 20
+  },
+  {
+   "title": "Add the chocolate",
+   "body": "Immediately after removing from oven, top with **1 cup semisweet chocolate chips**."
+  },
+  {
+   "title": "Melt the chocolate",
+   "body": "Place back in the oven for about 1 minute.",
+   "timerMin": 1
+  },
+  {
+   "title": "Spread the chocolate",
+   "body": "Remove from oven, spread melted chocolate chips with a spatula, then sprinkle on top: **½ finely chopped toasted almonds**."
+  },
+  {
+   "title": "Chill and cut",
+   "body": "Thoroughly chill before cutting into small rectangles."
+  }
+ ]
+}

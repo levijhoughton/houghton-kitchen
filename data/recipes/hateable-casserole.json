@@ -1,0 +1,58 @@
+{
+ "name": "Hateable Casserole",
+ "subtitle": "Zucchini",
+ "category": "Mains",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Vegetables",
+   "items": [
+    "2 pounds sliced zucchini",
+    "1 medium onion, diced",
+    "Salt, to taste"
+   ]
+  },
+  {
+   "group": "Soup mixture",
+   "items": [
+    "1 can cream of chicken soup",
+    "2-3 grated carrots",
+    "8 oz sour cream",
+    "Water chestnuts (optional)"
+   ]
+  },
+  {
+   "group": "Stuffing",
+   "items": [
+    "8 oz stuffing mix",
+    "½ cup melted butter"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the vegetables",
+   "body": "Cook **2 pounds sliced zucchini** and **1 medium onion, diced** until tender, then drain, adding salt to taste."
+  },
+  {
+   "title": "Make the soup mixture",
+   "body": "Combine **1 can cream of chicken soup**, **2-3 grated carrots**, **8 oz sour cream** and water chestnuts (optional)."
+  },
+  {
+   "title": "Mix the stuffing",
+   "body": "Combine **8 oz stuffing mix** and **½ cup melted butter**."
+  },
+  {
+   "title": "Layer",
+   "body": "In a pan, layer **½ of the stuffing mix**, then the cooked squash and onions, then the soup mixture, and top with the remaining stuffing."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake 30-35 minutes (or more if you want it crunchy) at 350°F.",
+   "timerMin": 30
+  }
+ ]
+}

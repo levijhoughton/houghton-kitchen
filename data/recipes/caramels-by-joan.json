@@ -1,0 +1,65 @@
+{
+ "name": "Caramels",
+ "subtitle": "By Joan",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "9-inch square or 7×11-inch baking pan",
+ "ingredients": [
+  {
+   "group": "Licorice or cinnamon caramels",
+   "items": [
+    "1 can sweetened condensed milk",
+    "1½ cups light corn syrup",
+    "1 cup butter",
+    "2 cups sugar",
+    "¼ tsp salt",
+    "1 tsp anise (licorice) oil OR 1 tsp cinnamon oil",
+    "1 tsp black or red food color paste (no flavor)"
+   ]
+  },
+  {
+   "group": "Vanilla (butter) caramels",
+   "items": [
+    "1 can sweetened condensed milk",
+    "1½ cups light corn syrup",
+    "1 cup butter",
+    "¼ tsp salt",
+    "1 cup white sugar",
+    "1 cup brown sugar",
+    "2 tsp vanilla (added after cooking the caramel)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Prepare the pan",
+   "body": "Lightly spray or butter a 9-inch square or 7×11-inch baking pan."
+  },
+  {
+   "title": "Combine the ingredients",
+   "body": "In a heavy 4-quart saucepan, combine **1 can sweetened condensed milk**, **1½ cups light corn syrup**, **1 cup butter** and **¼ tsp salt**. For licorice or cinnamon caramels, add **2 cups sugar**. For vanilla (butter) caramels, add **1 cup white sugar** and **1 cup brown sugar** instead."
+  },
+  {
+   "title": "Stir over heat",
+   "body": "Place over medium heat and stir with a wooden spoon until well-mixed."
+  },
+  {
+   "title": "Cook to temperature",
+   "body": "Cook, stirring constantly, to around 243°F (depends on elevation, your thermometer, weather, etc.)."
+  },
+  {
+   "title": "Add the flavoring",
+   "body": "Remove from heat and stir in **1 tsp anise (licorice) oil** OR **1 tsp cinnamon oil**, and **1 tsp black or red food color paste** (no flavor), until well blended. For vanilla (butter) caramels, stir in **2 tsp vanilla** instead."
+  },
+  {
+   "title": "Pour and cool",
+   "body": "Pour into the prepared pan. Allow to stand at room temperature several hours until completely cool."
+  },
+  {
+   "title": "Cut and wrap",
+   "body": "Cut and wrap in cellophane or waxed paper pieces."
+  }
+ ]
+}

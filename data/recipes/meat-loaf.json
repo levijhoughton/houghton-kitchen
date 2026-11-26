@@ -1,0 +1,79 @@
+{
+ "name": "Meat Loaf",
+ "subtitle": "From L&L’s friend Jennah",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "loaf",
+ "equipment": "Greased bread pan, ramekins for excess",
+ "ingredients": [
+  {
+   "group": "Onion and garlic",
+   "items": [
+    "1 Tbsp butter",
+    "1 large onion, minced",
+    "3 cloves garlic, minced"
+   ]
+  },
+  {
+   "group": "Milk mixture",
+   "items": [
+    "1 cup milk",
+    "1 cup bread crumbs"
+   ]
+  },
+  {
+   "group": "Meat loaf",
+   "items": [
+    "2 lb ground beef",
+    "1 Tbsp all purpose seasoning",
+    "1 Tbsp Italian seasoning",
+    "1 Tbsp Worcestershire sauce",
+    "1 Tbsp salt",
+    "2 tsp black pepper",
+    "2 tsp chilli flakes",
+    "¼ cup ketchup",
+    "2 eggs"
+   ]
+  },
+  {
+   "group": "Glaze",
+   "items": [
+    "½ cup brown sugar",
+    "¾ cup ketchup",
+    "1 Tbsp onion powder",
+    "1 Tbsp garlic powder",
+    "¼ cup white vinegar"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Sauté the onion and garlic",
+   "body": "Sauté in medium pan until onions sweated: **1 Tbsp butter**, **1 large onion, minced** and **3 cloves garlic, minced**."
+  },
+  {
+   "title": "Mix the milk mixture",
+   "body": "Mix together in a separate bowl: **1 cup milk** and **1 cup bread crumbs**."
+  },
+  {
+   "title": "Mix the meat loaf",
+   "body": "In a large bowl, mix together the spices, then add all these ingredients plus the milk mixture and sautéed onions and garlic: **2 lb ground beef**, **1 Tbsp all purpose seasoning**, **1 Tbsp Italian seasoning**, **1 Tbsp Worcestershire sauce**, **1 Tbsp salt**, **2 tsp black pepper**, **2 tsp chilli flakes**, **¼ cup ketchup** and **2 eggs**."
+  },
+  {
+   "title": "Bake the loaf",
+   "body": "Bake in a greased bread pan at 350°F for 45 minutes. Excess can be baked in ramekins in less time.",
+   "timerMin": 45
+  },
+  {
+   "title": "Make the glaze",
+   "body": "Mix to make glaze (this makes about 50% more glaze than you need): **½ cup brown sugar**, **¾ cup ketchup**, **1 Tbsp onion powder**, **1 Tbsp garlic powder** and **¼ cup white vinegar**."
+  },
+  {
+   "title": "Glaze and finish",
+   "body": "Spread glaze on top of loaf while still hot then bake for 15-20 more minutes at 350°F, until internal temperature is 160°F.",
+   "timerMin": 15
+  }
+ ]
+}

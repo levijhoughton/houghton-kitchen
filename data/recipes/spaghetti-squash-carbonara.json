@@ -1,0 +1,79 @@
+{
+ "name": "Spaghetti Squash Carbonara",
+ "category": "Mains",
+ "protein": "Pork",
+ "cuisine": "Italian",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "servings",
+ "equipment": "Large frying pan",
+ "notes": "Keto, and declared a “hit” by Levi, Summer 2020.",
+ "ingredients": [
+  {
+   "group": "Squash",
+   "items": [
+    "1 large spaghetti squash"
+   ]
+  },
+  {
+   "group": "Pan",
+   "items": [
+    "1 Tbsp olive oil",
+    "¾ cup bacon bits (cooked)",
+    "4 cloves garlic (minced)",
+    "½ cup green peas"
+   ]
+  },
+  {
+   "group": "Egg mixture",
+   "items": [
+    "1 large egg",
+    "6 Tbsp heavy cream",
+    "½ cup grated Parmesan cheese"
+   ]
+  },
+  {
+   "group": "To finish",
+   "items": [
+    "Salt and pepper, to taste",
+    "Fresh parsley, for garnish",
+    "Additional Parmesan, for garnish"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Bake the squash",
+   "body": "Cut **1 large spaghetti squash** in half and bake in a 375°F oven until tender, cut side down, about 45 minutes.",
+   "timerMin": 45
+  },
+  {
+   "title": "Heat the bacon and garlic",
+   "body": "In a large frying pan, heat together **1 Tbsp olive oil**, **¾ cup bacon bits** (cooked) and **4 cloves garlic** (minced)."
+  },
+  {
+   "title": "Add the peas",
+   "body": "Add **½ cup green peas** and sauté until warm."
+  },
+  {
+   "title": "Whisk the egg mixture",
+   "body": "In a bowl, whisk together **1 large egg**, **6 Tbsp heavy cream** and **½ cup grated Parmesan cheese**."
+  },
+  {
+   "title": "Pull the noodles",
+   "body": "When squash is baked, use a fork to pull out the “noodles.”"
+  },
+  {
+   "title": "Combine",
+   "body": "While still very hot, add the egg/cream/cheese mixture, then the **½ cup green peas** and **¾ cup bacon bits**."
+  },
+  {
+   "title": "Season",
+   "body": "Toss together and season with salt and pepper to taste."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve, garnished with fresh parsley and additional Parmesan."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Broccoli Farro Delight",
+ "category": "Mains",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "notes": "Eat as a main or side dish, hot or cold, topped with a fried egg or salad greens if desired.",
+ "ingredients": [
+  {
+   "items": [
+    "1 cup farro",
+    "1 pound broccoli",
+    "½ lb Italian sausage (optional)",
+    "2-3 Tbsp olive oil",
+    "2 cloves garlic, minced",
+    "Red pepper flakes, to taste",
+    "Finely grated zest, then juice, of 1 lemon",
+    "Freshly ground black pepper",
+    "1 tsp salt",
+    "4 oz parmesan"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the farro",
+   "body": "Cook **1 cup farro** in a medium pot of salted water, like you would pasta (about 25-30 minutes until al dente, but check the package as cooking times vary widely depending on the type of farro). Drain.",
+   "timerMin": 25
+  },
+  {
+   "title": "Chop the broccoli",
+   "body": "Meanwhile, chop **1 pound broccoli** (if frozen, thaw before proceeding further) into approx. ½-inch bits."
+  },
+  {
+   "title": "Cook the sausage",
+   "body": "Cook **½ lb Italian sausage** (optional) in a frying pan. Place on a paper towel-covered plate, but don’t clean the pan."
+  },
+  {
+   "title": "Saute the garlic",
+   "body": "Add **2-3 Tbsp olive oil**. Saute **2 cloves garlic, minced** and red pepper flakes until the garlic is golden."
+  },
+  {
+   "title": "Cook the broccoli",
+   "body": "Add the broccoli, lemon zest and **1 tsp salt**. Cook until the broccoli is tender."
+  },
+  {
+   "title": "Combine",
+   "body": "Combine the farro, sausage, broccoli mixture, lemon juice, salt and pepper to taste, and **4 oz parmesan**."
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "name": "Cranberry Eggnog Rolls",
+ "category": "Yeast breads",
+ "collection": "family",
+ "servings": 12,
+ "servingUnit": "rolls",
+ "yields": "Makes 12 rolls",
+ "equipment": "Saucepan, 13×9×2-inch pan",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "1½ cups bread flour (may use regular flour)",
+    "¼ cup whole wheat flour",
+    "1 Tbsp yeast",
+    "1 cup eggnog",
+    "¼ cup water",
+    "¼ cup sugar",
+    "¼ cup butter",
+    "1 tsp salt",
+    "1¼ cups + flour"
+   ]
+  },
+  {
+   "group": "Filling",
+   "items": [
+    "2 Tbsp butter",
+    "¼ cup sugar",
+    "¾ tsp nutmeg",
+    "¼ tsp cinnamon"
+   ]
+  },
+  {
+   "group": "Bottom layer",
+   "items": [
+    "1 cup brown sugar",
+    "¼ cup butter",
+    "¼ cup eggnog"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "⅓ cup chopped cranberries",
+    "¼ cup chopped walnuts"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Mix together: **1½ cups bread flour** (may use regular flour), **¼ cup whole wheat flour** and **1 Tbsp yeast**."
+  },
+  {
+   "title": "Add the liquids",
+   "body": "Heat in saucepan to 120°F, then add to the flour mixture: **1 cup eggnog**, **¼ cup water**, **¼ cup sugar**, **¼ cup butter** and **1 tsp salt**."
+  },
+  {
+   "title": "Add flour",
+   "body": "Add and mix thoroughly: **1¼ cups + flour**."
+  },
+  {
+   "title": "First rise",
+   "body": "Let the dough rise."
+  },
+  {
+   "title": "Fill the dough",
+   "body": "Roll out to 15×12 rectangle and spread with a mixture of: **2 Tbsp butter**, **¼ cup sugar**, **¾ tsp nutmeg** and **¼ tsp cinnamon**."
+  },
+  {
+   "title": "Slice the rolls",
+   "body": "Roll starting at the short side, and cut to 12 1-inch slices."
+  },
+  {
+   "title": "Make the bottom layer",
+   "body": "Heat in saucepan until mixture bubbles: **1 cup brown sugar**, **¼ cup butter** and **¼ cup eggnog**."
+  },
+  {
+   "title": "Assemble the pan",
+   "body": "Place the mixture in the bottom of a greased 13×9×2-inch pan, and top with: **⅓ cup chopped cranberries** and **¼ cup chopped walnuts**. Then add sliced rolls."
+  },
+  {
+   "title": "Second rise",
+   "body": "Let the rolls rise."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 350°F for about 30 minutes, until golden.",
+   "timerMin": 30
+  },
+  {
+   "title": "Invert",
+   "body": "Remove from the oven, let stand for 5 minutes, then invert.",
+   "timerMin": 5
+  }
+ ]
+}

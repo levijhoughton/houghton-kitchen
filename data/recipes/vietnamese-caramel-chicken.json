@@ -1,0 +1,55 @@
+{
+ "name": "Vietnamese Caramel Chicken",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "cuisine": "Vietnamese",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "notes": "Judged worthy of keeping by Levi after water polo practice in August 2014. Serve with Jasmine rice and Asian vegetables. I like extra sauce, so I double those ingredients.",
+ "ingredients": [
+  {
+   "items": [
+    "4 tsp canola oil",
+    "1½ pounds boneless skinless thigh meat, cut in 2-inch pieces",
+    "1 Tbsp minced fresh ginger",
+    "3 garlic cloves, minced",
+    "1 large shallot, thinly sliced",
+    "¼ cup chicken stock",
+    "3 Tbsp dark brown sugar",
+    "1 Tbsp soy sauce (or fish sauce)",
+    "1 Tbsp fresh lime juice",
+    "¼ tsp salt",
+    "¼ tsp freshly ground black pepper",
+    "¼ tsp crushed red pepper",
+    "6 green onions, cut into 1-inch pieces"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Heat the oil",
+   "body": "Swirl **4 tsp canola oil** in a hot pan."
+  },
+  {
+   "title": "Brown the chicken",
+   "body": "Add **1½ pounds boneless skinless thigh meat, cut in 2-inch pieces** and cook on one side for two minutes.",
+   "timerMin": 2
+  },
+  {
+   "title": "Add the aromatics",
+   "body": "Turn the meat over and add **1 Tbsp minced fresh ginger**, **3 garlic cloves, minced** and **1 large shallot, thinly sliced**."
+  },
+  {
+   "title": "Add the sauce",
+   "body": "Meanwhile, mix the sauce ingredients together: **¼ cup chicken stock**, **3 Tbsp dark brown sugar**, **1 Tbsp soy sauce** (or fish sauce), **1 Tbsp fresh lime juice**, **¼ tsp salt**, **¼ tsp freshly ground black pepper** and **¼ tsp crushed red pepper**. Add to the pan when the chicken is no longer pink."
+  },
+  {
+   "title": "Reduce the sauce",
+   "body": "Simmer until the sauce is reduced to about half, then add **6 green onions, cut into 1-inch pieces**."
+  }
+ ],
+ "source": {
+  "label": "From Cooking Light"
+ }
+}

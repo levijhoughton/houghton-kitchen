@@ -1,0 +1,50 @@
+{
+ "name": "Moroccan Chickpea Salad",
+ "category": "Salads",
+ "protein": "Meatless",
+ "cuisine": "Moroccan",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "yields": "Serves 4 if chicken is included",
+ "notes": "Discovered Summer 2020–a surprise in every bite. Can serve with Pita bread.",
+ "ingredients": [
+  {
+   "group": "Salad",
+   "items": [
+    "Greens (arugula is a good choice)",
+    "3 cups grated carrots",
+    "2 cans chickpeas",
+    "2 cups cooked quinoa",
+    "3 Tbsp chopped fresh mint",
+    "¼ cup golden raisins (or figs/dates)",
+    "⅓ cup crumbled feta cheese",
+    "⅓ cup toasted pistachios (or almonds, pumpkin seeds)",
+    "Cooked chicken, if desired",
+    "Onions, cucumber, other vegetables as desired"
+   ]
+  },
+  {
+   "group": "Dressing",
+   "items": [
+    "6 Tbsp olive oil",
+    "8+ Tbsp fresh lemon juice (enough to make the dressing taste “bright”)",
+    "2 tsp Dijon mustard",
+    "2 tsp maple syrup (or honey) + more to keep the dressing from being sour",
+    "1½ tsp ground chili powder",
+    "1 tsp kosher salt",
+    "½ tsp ground cinnamon"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Layer the bowl",
+   "body": "Layer in a bowl: greens (arugula is a good choice), **3 cups grated carrots**, **2 cans chickpeas**, **2 cups cooked quinoa**, **3 Tbsp chopped fresh mint**, **¼ cup golden raisins** (or figs/dates), **⅓ cup crumbled feta cheese**, **⅓ cup toasted pistachios** (or almonds, pumpkin seeds), cooked chicken if desired, and onions, cucumber, other vegetables as desired."
+  },
+  {
+   "title": "Dress and toss",
+   "body": "Toss and top with dressing made of: **6 Tbsp olive oil**, **8+ Tbsp fresh lemon juice** (enough to make the dressing taste “bright”), **2 tsp Dijon mustard**, **2 tsp maple syrup** (or honey) + more to keep the dressing from being sour, **1½ tsp ground chili powder**, **1 tsp kosher salt** and **½ tsp ground cinnamon**."
+  }
+ ]
+}

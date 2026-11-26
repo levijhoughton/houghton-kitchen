@@ -1,0 +1,45 @@
+{
+ "name": "Chocolate Chip Cookies",
+ "subtitle": "From Sister Stiles",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "yields": "Huge batch",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "1 pound butter",
+    "1½ cups sugar",
+    "2 cups brown sugar",
+    "3 eggs",
+    "2 tsp vanilla",
+    "½ tsp salt",
+    "6 cups flour",
+    "1½ tsp baking soda",
+    "4–6 cups chocolate chips",
+    "2 cups nuts, optional"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the butter and sugars",
+   "body": "Cream together **1 pound butter**, **1½ cups sugar**, **2 cups brown sugar**, **3 eggs** and **2 tsp vanilla**."
+  },
+  {
+   "title": "Add the dry ingredients",
+   "body": "Blend, add to the creamed ingredients, and mix in **½ tsp salt**, **6 cups flour** and **1½ tsp baking soda**."
+  },
+  {
+   "title": "Add the mix-ins",
+   "body": "Add **4–6 cups chocolate chips** and **2 cups nuts**, optional."
+  },
+  {
+   "title": "Bake",
+   "body": "Place on the baking pan in desired size, and bake for 14 minutes at 350°F.",
+   "timerMin": 14
+  }
+ ]
+}

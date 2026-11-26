@@ -1,0 +1,73 @@
+{
+ "name": "Kristen’s Enchiladas",
+ "category": "Mains",
+ "protein": "Beef",
+ "cuisine": "Mexican",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×13 pan",
+ "equipment": "9×13 pan",
+ "notes": "Consider doubling this, and putting a casserole in the freezer.",
+ "ingredients": [
+  {
+   "group": "Sauce",
+   "items": [
+    "2 Tbsp shortening",
+    "2 Tbsp flour",
+    "1 tsp chili powder",
+    "⅛ tsp garlic powder",
+    "15 oz can enchilada sauce",
+    "15 oz can tomato sauce"
+   ]
+  },
+  {
+   "group": "Filling",
+   "items": [
+    "1 pound hamburger",
+    "1 large onion, diced",
+    "1 can black beans (optional)"
+   ]
+  },
+  {
+   "group": "Assembly",
+   "items": [
+    "1 dozen tortillas, corn or flour",
+    "¾ pound shredded cheese (cheddar, Monterey Jack)"
+   ]
+  },
+  {
+   "group": "Creamy sauce",
+   "items": [
+    "8 oz sour cream",
+    "1 can cream of chicken soup"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the sauce",
+   "body": "Melt in a saucepan: **2 Tbsp shortening**. Stir in **2 Tbsp flour**, **1 tsp chili powder** and **⅛ tsp garlic powder**. Add and bring heat through: **15 oz can enchilada sauce** and **15 oz can tomato sauce**."
+  },
+  {
+   "title": "Brown the meat",
+   "body": "Saute in another pan: **1 pound hamburger**, **1 large onion, diced** and **1 can black beans** (optional)."
+  },
+  {
+   "title": "Prepare the tortillas and cheese",
+   "body": "Prepare: **1 dozen tortillas, corn or flour** and **¾ pound shredded cheese** (cheddar, Monterey Jack)."
+  },
+  {
+   "title": "Mix the creamy sauce",
+   "body": "Mix creamy sauce: **8 oz sour cream** and **1 can cream of chicken soup**."
+  },
+  {
+   "title": "Layer",
+   "body": "Spray a 9×13 pan with oil, start with **¼ of the tomato sauce**. Layer with tortillas, sprinkle with the meat/onion mixture, then cheese. Repeat for 3 layers. Top with the creamy sauce and cheese."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 350°F until hot and bubbly, about 45 minutes.",
+   "timerMin": 45
+  }
+ ]
+}

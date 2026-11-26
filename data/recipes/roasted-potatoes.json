@@ -1,0 +1,82 @@
+{
+ "name": "Roasted Potatoes",
+ "subtitle": "Who needs fries? Or amp it up!",
+ "category": "Sides",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "Cookie sheet (Version 1), 13×9-inch pan (Version 2)",
+ "notes": "Yummy with everything from hamburgers to pork roast. Note: You can vary Version 2 by first boiling your potatoes, then smashing (just squashing each potato down flat once–not mashing) them and adding the smashed potatoes to the cheese/butter mixture, and baking just until crisp.",
+ "ingredients": [
+  {
+   "group": "Version 1: Who needs fries?",
+   "items": [
+    "Potatoes, sliced as desired",
+    "About 1 Tbsp olive oil",
+    "Desired flavorings (for something simple, garlic salt; or fancy pepper, rosemary, etc.)"
+   ]
+  },
+  {
+   "group": "Version 2: Amp it up!",
+   "items": [
+    "½ cup butter",
+    "2 pounds small red or gold potatoes, washed and dried",
+    "½ cup fine grated parmesan cheese",
+    "1½ Tbsp Italian herb seasoning",
+    "½ tsp garlic powder",
+    "1 tsp salt",
+    "½ tsp black pepper",
+    "1 Tbsp parmesan, for topping",
+    "Olive oil",
+    "Salt & pepper"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Season the potatoes (Version 1)",
+   "body": "Version 1: Preheat the oven to 450°F. Slice potatoes as desired. Pour a small amount (about **1 Tbsp olive oil**) and desired flavorings (for something simple, use garlic salt, or get creative and add fancy pepper, rosemary, etc.)."
+  },
+  {
+   "title": "Bake (Version 1)",
+   "body": "Version 1: Place flat on a cookie sheet and bake for 20 minutes, turning once at 10 minutes. Serve immediately.",
+   "timerMin": 20
+  },
+  {
+   "title": "Microwave option (Version 1)",
+   "body": "Version 1: You can also microwave for 5 minutes or until soft prior to baking to improve the internal texture.",
+   "timerMin": 5
+  },
+  {
+   "title": "Melt the butter (Version 2)",
+   "body": "Version 2: Place in 13×9-inch pan **½ cup butter**. Place pan in oven and turn to 400°F to preheat. When butter is bubbly, remove pan and set aside."
+  },
+  {
+   "title": "Score the potatoes (Version 2)",
+   "body": "Version 2: Meanwhile, halve and score, by making a crosshatch pattern about ⅛” deep: **2 pounds small red or gold potatoes**, washed and dried."
+  },
+  {
+   "title": "Mix the coating (Version 2)",
+   "body": "Version 2: In a small bowl, mix together **½ cup fine grated parmesan cheese**, **1½ Tbsp Italian herb seasoning**, **½ tsp garlic powder**, **1 tsp salt** and **½ tsp black pepper**."
+  },
+  {
+   "title": "Nestle the potatoes (Version 2)",
+   "body": "Version 2: Add to melted butter in the pan and mix well, then nestle the potatoes cut side down into the cheese and butter mixture."
+  },
+  {
+   "title": "Brush and sprinkle (Version 2)",
+   "body": "Version 2: Brush and sprinkle the tops of the potatoes with **1 Tbsp parmesan**, olive oil, salt & pepper."
+  },
+  {
+   "title": "Bake (Version 2)",
+   "body": "Version 2: Place pan in oven and bake uncovered for 35–40 minutes or until the potatoes are fork tender with a crispy crust.",
+   "timerMin": 35
+  },
+  {
+   "title": "Rest and top (Version 2)",
+   "body": "Version 2: Allow to cool for 5–10 minutes to allow cheese to set. Top with parsley or chives if you like.",
+   "timerMin": 5
+  }
+ ]
+}

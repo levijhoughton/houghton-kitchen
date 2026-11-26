@@ -1,0 +1,76 @@
+{
+ "name": "Cross Rib Beef Roast",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "roast",
+ "notes": "Cross rib roasts are often relegated to crock pot or slow roasting. This method yields a tender and yummy main dish for Sunday dinner!",
+ "ingredients": [
+  {
+   "group": "Roast",
+   "items": [
+    "3-4 lb roast",
+    "6 Tbsp balsamic vinegar"
+   ]
+  },
+  {
+   "group": "Rub",
+   "items": [
+    "6 Tbsp minced garlic",
+    "6 tsp thyme",
+    "3 tsp rosemary",
+    "3 Tbsp salt",
+    "3 Tbsp pepper",
+    "3 Tbsp olive oil"
+   ]
+  },
+  {
+   "group": "Gravy",
+   "items": [
+    "Hot water for desired amount of gravy",
+    "1 tsp beef bouillon for each cup of hot water",
+    "1 cup water",
+    "½ cup flour or ¼ cup corn starch",
+    "Salt and pepper to taste"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Brush the roast",
+   "body": "Brush **3-4 lb roast** with **6 Tbsp balsamic vinegar**."
+  },
+  {
+   "title": "Rub the roast",
+   "body": "Mix and rub on roast: **6 Tbsp minced garlic**, **6 tsp thyme**, **3 tsp rosemary**, **3 Tbsp salt**, **3 Tbsp pepper** and **3 Tbsp olive oil**."
+  },
+  {
+   "title": "Roast",
+   "body": "Bake at 450°F for 15 minutes, fat side up.",
+   "timerMin": 15
+  },
+  {
+   "title": "Finish roasting",
+   "body": "Then bake at 350°F until internal temp is 125–140°F (depending on your preference, about 1-2 hours).",
+   "timerMin": 60
+  },
+  {
+   "title": "Rest",
+   "body": "Remove roast from oven, and cover with foil for at least 10 minutes before carving.",
+   "timerMin": 10
+  },
+  {
+   "title": "Start the gravy",
+   "body": "Go ahead and use some of the rub remnants in the dripping for a gourmet gravy! Brown drippings from roasting pan, then add hot water for desired amount of gravy and **1 tsp beef bouillon** for each cup of hot water. Bring to a boil."
+  },
+  {
+   "title": "Whisk the flour",
+   "body": "In the meantime, whisk together **1 cup water** and **½ cup flour or ¼ cup corn starch**."
+  },
+  {
+   "title": "Thicken the gravy",
+   "body": "While whisking, slowly pour this mixture into the boiling water and drippings, until gravy reaches desired thickness. Season to taste with salt and pepper."
+  }
+ ]
+}

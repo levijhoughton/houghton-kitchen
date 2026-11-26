@@ -1,0 +1,51 @@
+{
+ "name": "Shortbread Tarts",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 3,
+ "servingUnit": "dozen tarts",
+ "yields": "Makes about 3 dozen",
+ "equipment": "Mini muffin tins",
+ "notes": "These are great mini tarts that can be used for many occasions! Double the recipe if you’re making many. Whipped cream with lemon curd is especially yummy. Chocolate mousse is delicious as well!",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "8 oz very soft butter (2 sticks)",
+    "1 cup powdered sugar",
+    "2 tsp vanilla extract",
+    "¼ cup corn starch",
+    "1¾ cups flour",
+    "¼ tsp salt"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the butter",
+   "body": "Cream together **8 oz very soft butter (2 sticks)** and **1 cup powdered sugar**. Add **2 tsp vanilla extract**."
+  },
+  {
+   "title": "Add the dry ingredients",
+   "body": "Sprinkle in **¼ cup corn starch**. Then add and mix just until dough holds together: **1¾ cups flour** and **¼ tsp salt**."
+  },
+  {
+   "title": "Shape the tarts",
+   "body": "Form into balls, about **16g** each, and place in mini muffin tins. Press with a ½ tsp spoon."
+  },
+  {
+   "title": "Bake and press",
+   "body": "Bake for 18 min at 350°F, then pull out and immediately press with a 1 Tbsp spoon (preferably one with sharper edges around the bottom), to create a nice “cup”.",
+   "timerMin": 18
+  },
+  {
+   "title": "Cool",
+   "body": "Let sit in pan for 3-5 minutes, then gently remove and cool.",
+   "timerMin": 3
+  },
+  {
+   "title": "Fill",
+   "body": "Fill with whatever you’d like."
+  }
+ ]
+}

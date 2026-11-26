@@ -1,0 +1,41 @@
+{
+ "name": "Hawaiian Haystacks",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "cuisine": "Hawaiian",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Base",
+   "items": [
+    "3 chicken breasts, cooked and cut into small chunks (or canned chicken)",
+    "10½ ounces cream of chicken soup",
+    "1 cup chicken broth",
+    "½ cup sour cream",
+    "Pepper to taste",
+    "3 cups steamed rice"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the gravy",
+   "body": "Heat **10½ ounces cream of chicken soup** and **1 cup chicken broth** to make a gravy."
+  },
+  {
+   "title": "Add the chicken",
+   "body": "Add the chicken chunks and simmer for 10 minutes.",
+   "timerMin": 10
+  },
+  {
+   "title": "Stir in sour cream",
+   "body": "Stir in **½ cup sour cream**."
+  },
+  {
+   "title": "Serve",
+   "body": "To serve, start with **3 cups steamed rice**, then top with the chicken gravy, then cheese, chow mein noodles, and any other garnishes you like (canned pineapple, canned mandarin oranges, green onions, olives, celery, tomato, bell pepper, slivered almonds, coconut, soy sauce)."
+  }
+ ]
+}

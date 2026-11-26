@@ -1,0 +1,48 @@
+{
+ "name": "Zucchini Bread",
+ "subtitle": "From the Kitchen of Ida",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "loaves",
+ "yields": "Makes 2 loaves",
+ "ingredients": [
+  {
+   "group": "Cream together",
+   "items": [
+    "3 eggs",
+    "1 cup oil",
+    "2 cups sugar"
+   ]
+  },
+  {
+   "group": "Add and mix in",
+   "items": [
+    "2 cups zucchini (peeled and grated)",
+    "3 cups sifted flour",
+    "¼ tsp salt",
+    "¼ tsp baking soda",
+    "2 tsp cinnamon",
+    "½ tsp cloves",
+    "½ tsp nutmeg",
+    "½ tsp baking powder",
+    "Optional 1 cup nuts"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the eggs",
+   "body": "Cream together in bowl: **3 eggs**, **1 cup oil** and **2 cups sugar**."
+  },
+  {
+   "title": "Add the rest",
+   "body": "Add and mix in: **2 cups zucchini** (peeled and grated), **3 cups sifted flour**, **¼ tsp salt**, **¼ tsp baking soda**, **2 tsp cinnamon**, **½ tsp cloves**, **½ tsp nutmeg**, **½ tsp baking powder** and optional **1 cup nuts**."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake in sprayed pans at 350°F for approximately 1 hour.",
+   "timerMin": 60
+  }
+ ]
+}

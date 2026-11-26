@@ -1,0 +1,71 @@
+{
+ "name": "Lemon Blueberry Cottage Cheese Muffins",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "dozen muffins",
+ "yields": "Makes 1 dozen",
+ "equipment": "12 muffin cups",
+ "notes": "Can do blackberry or raspberry instead of blueberry.",
+ "source": {
+  "label": "Eggs.ca",
+  "url": "https://www.eggs.ca/recipes/lemon-and-blueberry-cottage-cheese-muffins"
+ },
+ "ingredients": [
+  {
+   "group": "Dry",
+   "items": [
+    "2 cups flour",
+    "½ cup sugar",
+    "2 tsp baking powder",
+    "½ tsp baking soda",
+    "½ tsp salt",
+    "Pinch ground nutmeg"
+   ]
+  },
+  {
+   "group": "Wet",
+   "items": [
+    "2 eggs",
+    "1 cup cottage cheese",
+    "⅓ cup butter, melted",
+    "1 tsp lemon zest",
+    "3 Tbsp lemon juice",
+    "1 tsp vanilla"
+   ]
+  },
+  {
+   "group": "Add-in",
+   "items": [
+    "1 cup blueberries (fresh or fully frozen)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Heat the oven",
+   "body": "Heat oven to 400°F. Line 12 muffin cups with paper liners (or grease a tin)."
+  },
+  {
+   "title": "Whisk the dry ingredients",
+   "body": "In a large bowl, whisk together: **2 cups flour**, **½ cup sugar**, **2 tsp baking powder**, **½ tsp baking soda**, **½ tsp salt** and pinch ground nutmeg."
+  },
+  {
+   "title": "Whisk the wet ingredients",
+   "body": "In a separate bowl or container, whisk or blend together: **2 eggs**, **1 cup cottage cheese**, **⅓ cup butter**, melted, **1 tsp lemon zest**, **3 Tbsp lemon juice** and **1 tsp vanilla**."
+  },
+  {
+   "title": "Combine",
+   "body": "Combine mixtures until just moistened and fold in **1 cup blueberries** (fresh or fully frozen)."
+  },
+  {
+   "title": "Bake",
+   "body": "Divide batter evenly among muffin cups, then bake 20–22 minutes, or until golden brown and tops spring back when lightly pressed.",
+   "timerMin": 20
+  },
+  {
+   "title": "Cool",
+   "body": "Let cool, then enjoy!"
+  }
+ ]
+}

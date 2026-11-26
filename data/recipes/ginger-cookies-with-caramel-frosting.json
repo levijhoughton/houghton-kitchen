@@ -1,0 +1,68 @@
+{
+ "name": "Ginger Cookies with Caramel Frosting",
+ "subtitle": "From Ingrid",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "notes": "This recipe was shared by Ingrid, from the Spokane 7-mile ward, and passed along by Marta in December 2022.",
+ "ingredients": [
+  {
+   "group": "Cookies",
+   "items": [
+    "1½ cups butter",
+    "¾ cup sugar",
+    "1 cup brown sugar",
+    "2 eggs",
+    "½ cup molasses",
+    "2 tsp vanilla",
+    "4½ cups flour",
+    "1 Tbsp ginger",
+    "2 tsp baking soda",
+    "2 tsp cinnamon",
+    "½ tsp salt",
+    "½ tsp ground cloves"
+   ]
+  },
+  {
+   "group": "Frosting",
+   "items": [
+    "1 cup brown sugar",
+    "4 Tbsp butter",
+    "¼ cup milk",
+    "1 tsp vanilla",
+    "Dash of salt",
+    "1½ cups powdered sugar"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the butter and sugars",
+   "body": "Cream together **1½ cups butter**, **¾ cup sugar**, **1 cup brown sugar**, **2 eggs**, **½ cup molasses** and **2 tsp vanilla**."
+  },
+  {
+   "title": "Add the dry ingredients",
+   "body": "Add and mix well: **4½ cups flour**, **1 Tbsp ginger**, **2 tsp baking soda**, **2 tsp cinnamon**, **½ tsp salt** and **½ tsp ground cloves**."
+  },
+  {
+   "title": "Bake the cookies",
+   "body": "Drop teaspoon portions of dough on ungreased cookie sheets and bake for 8–10 minutes at 325°F. (They're better soft, so err on the side of under-baking.)",
+   "timerMin": 8
+  },
+  {
+   "title": "Start the frosting",
+   "body": "For the frosting, add to a small-medium saucepan: **1 cup brown sugar** and **4 Tbsp butter**. Bring to a boil, then stir constantly for 1 minute.",
+   "timerMin": 1
+  },
+  {
+   "title": "Add the milk",
+   "body": "Then add **¼ cup milk**. Bring the mixture to a boil again and remove from heat."
+  },
+  {
+   "title": "Finish the frosting",
+   "body": "Let cool for 3 minutes, then add **1 tsp vanilla**, a dash of salt and **1½ cups powdered sugar**. Mix and frost cookies immediately, since this frosting cools and hardens rapidly.",
+   "timerMin": 3
+  }
+ ]
+}

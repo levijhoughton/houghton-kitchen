@@ -1,0 +1,100 @@
+{
+ "name": "Perfect Pulled Pork",
+ "category": "Mains",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "equipment": "Baking pan, probe thermometer",
+ "notes": "It does work to simply put the rub on the pork and smoke or cook it for about 16 hours in the crock pot, then shred and top with your favorite BBQ sauce. Don’t forget the white sauce!",
+ "ingredients": [
+  {
+   "group": "Pork",
+   "items": [
+    "1 (4-7 pound) whole Boston Butt or pork shoulder (bone-in with a layer of fat on bottom)"
+   ]
+  },
+  {
+   "group": "Dry rub",
+   "items": [
+    "1 Tbsp ground cumin",
+    "1 Tbsp garlic powder",
+    "1 Tbsp onion powder",
+    "1 Tbsp chili powder",
+    "1 Tbsp cayenne pepper",
+    "1 Tbsp salt",
+    "1 Tbsp ground pepper",
+    "1 Tbsp paprika",
+    "½ cup brown sugar"
+   ]
+  },
+  {
+   "group": "Brine solution",
+   "items": [
+    "½ cup salt",
+    "½ cup brown sugar",
+    "2 quarts cold water",
+    "2 bay leaves",
+    "3 Tbsp dry rub mix"
+   ]
+  },
+  {
+   "group": "White BBQ sauce",
+   "items": [
+    "1½ cups mayo",
+    "¼ cup cider vinegar",
+    "1 tsp garlic",
+    "1 Tbsp black pepper",
+    "1 Tbsp spicy brown mustard",
+    "1 tsp sugar",
+    "2 tsp horseradish",
+    "1 tsp salt",
+    "½ tsp cayenne pepper",
+    "2 tsp parsley"
+   ]
+  },
+  {
+   "group": "Crunchy slaw",
+   "items": [
+    "Thin sliced cabbage (napa is great)",
+    "Thin sliced onions (red are great)",
+    "Sliced pepperoncinis and juice"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the dry rub",
+   "body": "Mix well **1 Tbsp ground cumin**, **1 Tbsp garlic powder**, **1 Tbsp onion powder**, **1 Tbsp chili powder**, **1 Tbsp cayenne pepper**, **1 Tbsp salt**, **1 Tbsp ground pepper**, **1 Tbsp paprika** and **½ cup brown sugar**, and store in an airtight container."
+  },
+  {
+   "title": "Make the brine",
+   "body": "Add **½ cup salt** to **2 quarts cold water** and stir very well until all the salt is completely dissolved. Then add **½ cup brown sugar**, **3 Tbsp dry rub mix** and **2 bay leaves** and stir well to combine."
+  },
+  {
+   "title": "Brine the pork",
+   "body": "Rinse the **1 (4-7 pound) whole Boston Butt or pork shoulder** and place in a large container, pour in the brine solution until the shoulder is completely covered. Cover the container and place in the refrigerator for at least 8 hours.",
+   "timerMin": 480
+  },
+  {
+   "title": "Coat the shoulder",
+   "body": "Remove pork shoulder from brine solution, pat dry with paper towels, and place in a baking pan that is bigger than the shoulder by at least an inch in length and width and at least 3 inches deep. Sprinkle dry rub onto the surface of the shoulder and massage in such that it adheres to the surface. Coat all sides."
+  },
+  {
+   "title": "Start roasting",
+   "body": "Make sure the fat layer on the shoulder is facing up before cooking! Place the baking pan uncovered in a 225°F oven on the middle rack. Insert a probe thermometer into the center or thickest part of the shoulder, but not touching the bone. Monitor the temperature throughout cooking (a digital thermometer with an alarm function is the easiest way to do this). Do not remove from the oven until the center of the shoulder reaches 200°F."
+  },
+  {
+   "title": "Cool the roast",
+   "body": "When the shoulder has reached 200°F, shut off the oven and let the roast cool for a couple of hours before removing from the oven. If the bottom of the pan is dry (or crusted with dried spices), then cover the pan with foil to retain internal moisture of the meat during the cooling period. When the temperature drops to 170°F or slightly lower, remove from the oven."
+  },
+  {
+   "title": "Pull the pork",
+   "body": "Place on a large, clean work surface such as a cutting board, and remove the large sheet of crusted fat on the top. Pull apart with two forks, it will pull apart very easily. Serve for friends and family!"
+  },
+  {
+   "title": "Rest the slaw",
+   "body": "Let the crunchy slaw sit for a bit before serving."
+  }
+ ]
+}

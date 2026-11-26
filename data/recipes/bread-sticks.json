@@ -1,0 +1,62 @@
+{
+ "name": "Bread Sticks",
+ "subtitle": "Quick!",
+ "category": "Yeast breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "10×12 pan",
+ "equipment": "10×12 pan",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "3½ cups flour",
+    "1 tsp salt",
+    "1½ Tbsp sugar",
+    "1 Tbsp yeast",
+    "1½ cups warm water"
+   ]
+  },
+  {
+   "group": "Pan and topping",
+   "items": [
+    "¼–½ cup butter",
+    "Garlic salt",
+    "Parmesan"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Stir together: **3½ cups flour**, **1 tsp salt**, **1½ Tbsp sugar** and **1 Tbsp yeast**."
+  },
+  {
+   "title": "Add the water",
+   "body": "Add and stir with wooden spoon until mixed: **1½ cups warm water**."
+  },
+  {
+   "title": "Rest the dough",
+   "body": "Let sit covered for 15-30 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Prepare the pan",
+   "body": "In the meantime, heat the oven to 350°F and melt **¼–½ cup butter** in a 10×12 pan."
+  },
+  {
+   "title": "Coat the dough",
+   "body": "Spread dough in the hot pan with your hands and flip to coat with butter on both sides."
+  },
+  {
+   "title": "Season and cut",
+   "body": "Sprinkle with garlic salt and parmesan, cut, then let rise for 15 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 15 minutes at 350°F.",
+   "timerMin": 15
+  }
+ ]
+}

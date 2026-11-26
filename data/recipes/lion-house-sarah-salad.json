@@ -1,0 +1,49 @@
+{
+ "name": "Lion House Sarah Salad",
+ "category": "Salads",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "yields": "Serves 8",
+ "ingredients": [
+  {
+   "group": "Salad",
+   "items": [
+    "1 head iceberg lettuce, chopped or torn into bite-sized pieces",
+    "2 cups or approximately half of a 16 oz bag frozen peas, thawed"
+   ]
+  },
+  {
+   "group": "Dressing",
+   "items": [
+    "¼ cup mayonnaise",
+    "¼ cup Miracle Whip salad dressing",
+    "1 tsp sugar",
+    "½ tsp salt",
+    "¼ tsp pepper"
+   ]
+  },
+  {
+   "group": "Toppings",
+   "items": [
+    "4 strips bacon, cooked and crumbled",
+    "4 slices (4 oz) Swiss cheese, cubed or in strips",
+    "3 green onions"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Layer the salad",
+   "body": "Layer **1 head iceberg lettuce**, chopped or torn into bite-sized pieces, and **2 cups frozen peas** (or approximately half of a 16 oz bag), thawed."
+  },
+  {
+   "title": "Add the dressing",
+   "body": "Top with dressing made with **¼ cup mayonnaise**, **¼ cup Miracle Whip salad dressing**, **1 tsp sugar**, **½ tsp salt** and **¼ tsp pepper**."
+  },
+  {
+   "title": "Add the toppings",
+   "body": "Top with **4 strips bacon**, cooked and crumbled, **4 slices (4 oz) Swiss cheese**, cubed or in strips, and **3 green onions**."
+  }
+ ]
+}

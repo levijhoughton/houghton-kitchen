@@ -1,0 +1,61 @@
+{
+ "name": "Blueberry Buckle",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "11×7 pan",
+ "equipment": "11×7 pan",
+ "notes": "Enjoy!",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "½ cup shortening",
+    "¾ cup sugar",
+    "1 egg",
+    "1 cup flour",
+    "½ cup milk",
+    "1 cup flour (again)",
+    "2½ tsp baking powder",
+    "¼ tsp salt",
+    "2 cups blueberries (frozen)"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "½ cup sugar",
+    "½ cup flour",
+    "½ tsp cinnamon",
+    "¼ cup butter or margarine"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the shortening and sugar",
+   "body": "Cream **½ cup shortening** and **¾ cup sugar**."
+  },
+  {
+   "title": "Add the egg",
+   "body": "Add **1 egg** and beat until light."
+  },
+  {
+   "title": "Add the flour and milk",
+   "body": "Add and mix: **1 cup flour**, **½ cup milk**, **1 cup flour** (again), **2½ tsp baking powder**, **¼ tsp salt** and **2 cups blueberries** (frozen)."
+  },
+  {
+   "title": "Pour into the pan",
+   "body": "Pour the mixture into an 11×7 pan."
+  },
+  {
+   "title": "Make the topping",
+   "body": "Mix then sprinkle on top: **½ cup sugar**, **½ cup flour**, **½ tsp cinnamon** and **¼ cup butter or margarine**."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 45 minutes at 350°F.",
+   "timerMin": 45
+  }
+ ]
+}

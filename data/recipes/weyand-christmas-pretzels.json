@@ -1,0 +1,89 @@
+{
+ "name": "Weyand Christmas Pretzels",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 10,
+ "servingUnit": "pretzels",
+ "equipment": "Baking sheet",
+ "ingredients": [
+  {
+   "group": "Yeast mixture",
+   "items": [
+    "1½ cups warm water",
+    "2¼ tsp dry yeast"
+   ]
+  },
+  {
+   "group": "Whisk in",
+   "items": [
+    "1 tsp salt",
+    "1 Tbsp brown sugar",
+    "1 Tbsp butter, melted and cooled (so as not to splatter)"
+   ]
+  },
+  {
+   "group": "Dough",
+   "items": [
+    "3 cups flour, plus up to 1 more cup"
+   ]
+  },
+  {
+   "group": "Baking soda bath",
+   "items": [
+    "9 cups boiling water",
+    "½ cup baking soda"
+   ]
+  },
+  {
+   "group": "To finish",
+   "items": [
+    "Coarse sea salt"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Dissolve the yeast",
+   "body": "Whisk and let sit 1 minute: **1½ cups warm water** and **2¼ tsp dry yeast**.",
+   "timerMin": 1
+  },
+  {
+   "title": "Add seasonings",
+   "body": "Whisk in **1 tsp salt**, **1 Tbsp brown sugar** and **1 Tbsp butter, melted and cooled** (so as not to splatter)."
+  },
+  {
+   "title": "Add flour",
+   "body": "Gradually add **3 cups flour** and continue to add up to **1 more cup** until the dough is no longer sticky."
+  },
+  {
+   "title": "Knead",
+   "body": "Knead dough for 3 minutes."
+  },
+  {
+   "title": "Rest the dough",
+   "body": "Cover and let rest for 10 minutes.",
+   "timerMin": 10
+  },
+  {
+   "title": "Prepare the bath",
+   "body": "Preheat oven to 400°F and prepare baking soda bath: **9 cups boiling water** and **½ cup baking soda**."
+  },
+  {
+   "title": "Grease the pan",
+   "body": "Grease pan (don’t use parchment paper)."
+  },
+  {
+   "title": "Cut and rope",
+   "body": "Cut dough into ⅓ cup sections and roll into 20-22 inch ropes."
+  },
+  {
+   "title": "Shape and boil",
+   "body": "Shape into pretzels and boil for 20-30 seconds."
+  },
+  {
+   "title": "Salt and bake",
+   "body": "Place on the baking sheet and sprinkle with coarse sea salt. Bake for 12-15 minutes or until golden brown.",
+   "timerMin": 12
+  }
+ ]
+}

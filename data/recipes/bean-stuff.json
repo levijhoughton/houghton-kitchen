@@ -1,0 +1,55 @@
+{
+ "name": "Bean Stuff",
+ "subtitle": "From Sarah",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "Large Dutch oven",
+ "notes": "Enjoy!",
+ "source": {
+  "label": "From the 1993 Low Family Cookbook"
+ },
+ "ingredients": [
+  {
+   "group": "Beans and beef",
+   "items": [
+    "6 slices bacon",
+    "1 pound ground beef",
+    "1 chopped onion",
+    "1 green pepper, chopped",
+    "1 clove garlic, minced",
+    "2 Tbsp molasses",
+    "2 Tbsp brown sugar",
+    "1 tsp dry mustard",
+    "⅓ cup vinegar",
+    "19 oz canned tomatoes",
+    "1 can kidney beans",
+    "1 can drained garbanzo beans (chickpeas)",
+    "1 can pork and beans",
+    "1 tsp Worcestershire sauce",
+    "Salt, pepper, and tabasco to taste"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Fry the bacon",
+   "body": "In large Dutch oven, fry **6 slices bacon** until crisp, then remove and crumble."
+  },
+  {
+   "title": "Brown the beef",
+   "body": "Brown **1 pound ground beef** and **1 chopped onion**."
+  },
+  {
+   "title": "Add the rest",
+   "body": "Add and mix together the bacon crumbles, **1 green pepper, chopped**, **1 clove garlic, minced**, **2 Tbsp molasses**, **2 Tbsp brown sugar**, **1 tsp dry mustard**, **⅓ cup vinegar**, **19 oz canned tomatoes**, **1 can kidney beans**, **1 can drained garbanzo beans (chickpeas)**, **1 can pork and beans**, **1 tsp Worcestershire sauce**, and salt, pepper, and tabasco to taste."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake 2-2½ hours at 300°F.",
+   "timerMin": 120
+  }
+ ]
+}

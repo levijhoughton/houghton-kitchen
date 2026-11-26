@@ -1,0 +1,50 @@
+{
+ "name": "Red Cabbage",
+ "subtitle": "From Aunt Kristen",
+ "category": "Sides",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Cabbage and apples",
+   "items": [
+    "1 head red cabbage, shredded finely",
+    "2 apples, cut in slices"
+   ]
+  },
+  {
+   "group": "Bacon and onion",
+   "items": [
+    "1 onion, chopped",
+    "5 slices bacon, chopped"
+   ]
+  },
+  {
+   "group": "Seasoning",
+   "items": [
+    "¼ tsp cloves",
+    "2 Tbsp cider vinegar",
+    "2 tsp sugar",
+    "2 tsp salt",
+    "¾ tsp pepper"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Steam the cabbage",
+   "body": "Steam for about 10 minutes: **1 head red cabbage**, shredded finely, and **2 apples**, cut in slices.",
+   "timerMin": 10
+  },
+  {
+   "title": "Cook the bacon and onion",
+   "body": "In another pan, cook until golden brown: **1 onion**, chopped, and **5 slices bacon**, chopped."
+  },
+  {
+   "title": "Combine",
+   "body": "Mix cabbage/apple and bacon/onion mixture with: **¼ tsp cloves**, **2 Tbsp cider vinegar**, **2 tsp sugar**, **2 tsp salt** and **¾ tsp pepper**."
+  }
+ ]
+}

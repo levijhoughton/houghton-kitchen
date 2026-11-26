@@ -1,0 +1,47 @@
+{
+ "name": "Cranberry Cake",
+ "subtitle": "From Jill",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×13 pan",
+ "equipment": "9×13 pan",
+ "notes": "Christmas 2014, baked with prodding from Grandma Kemper, and devoured before dishes were finished. An elegant and satisfying conclusion to Christmas dinner.",
+ "ingredients": [
+  {
+   "group": "Cake",
+   "items": [
+    "3 eggs",
+    "2 cups sugar",
+    "¾ cup butter",
+    "1 tsp almond extract",
+    "2 cups flour",
+    "2½ cups cranberries",
+    "⅔ cup pecans"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Beat eggs and sugar",
+   "body": "Beat for 5 minutes: **3 eggs** and **2 cups sugar**."
+  },
+  {
+   "title": "Add butter and extract",
+   "body": "Add and beat 2 minutes more: **¾ cup butter** and **1 tsp almond extract**."
+  },
+  {
+   "title": "Add flour",
+   "body": "Add and stir just til combined: **2 cups flour**."
+  },
+  {
+   "title": "Fold in fruit and nuts",
+   "body": "Fold in: **2½ cups cranberries** and **⅔ cup pecans**."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake in 9×13 pan at 350°F for 45-50 minutes. Serve with whipped cream.",
+   "timerMin": 45
+  }
+ ]
+}

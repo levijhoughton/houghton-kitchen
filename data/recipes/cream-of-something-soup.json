@@ -1,0 +1,59 @@
+{
+ "name": "Cream of Something Soup",
+ "category": "Soups",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "servings",
+ "yields": "Makes soup for about 2 people",
+ "notes": "A good way to use up that powdered milk and make a healthy economical meal! *This white sauce is the same that’s used to make gravy for fried chicken and biscuits and gravy—just use the drippings leftover from cooking the meat.",
+ "ingredients": [
+  {
+   "group": "Base",
+   "items": [
+    "1 onion, chopped",
+    "Bacon or ham, if you have some"
+   ]
+  },
+  {
+   "group": "Vegetables",
+   "items": [
+    "Broccoli, potatoes, beans, carrot, cauliflower, etc. (unless using corn or other canned vegetable, which is added at the end)",
+    "A small amount of water, to steam the vegetables"
+   ]
+  },
+  {
+   "group": "White sauce",
+   "items": [
+    "2 cups water",
+    "⅓ cup powdered milk",
+    "¼ cup flour"
+   ]
+  },
+  {
+   "group": "To finish",
+   "items": [
+    "Chicken base, pepper and hot sauce, to taste",
+    "Cheese, for garnish"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Sauté the onion",
+   "body": "In a good-sized pot, sauté **1 onion**, chopped, and bacon or ham if you have some."
+  },
+  {
+   "title": "Steam the vegetables",
+   "body": "When onion is tender and the bacon is crisp, add a small amount of water and steam the vegetables you have chosen until tender: broccoli, potatoes, beans, carrot, cauliflower, etc. Unless you’re using corn or other canned vegetable, which can be added at the end."
+  },
+  {
+   "title": "Make the white sauce",
+   "body": "Whisk together a basic medium white sauce* (multiply according to quantity of vegetables and eaters—this will make soup for about 2 people): **2 cups water**, **⅓ cup powdered milk** and **¼ cup flour**."
+  },
+  {
+   "title": "Thicken the soup",
+   "body": "Pour whisked mixture into soup pot and cook, stirring occasionally, on medium heat until thick. Don’t let this boil—it separates and will not thicken. Season with chicken base, pepper and hot sauce to taste. Garnish with a bit of cheese and serve to a hungry crew."
+  }
+ ]
+}

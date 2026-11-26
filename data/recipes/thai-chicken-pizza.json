@@ -1,0 +1,62 @@
+{
+ "name": "Thai Chicken Pizza",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "cuisine": "Thai",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pizza",
+ "notes": "The peanut sauce could be used for other Thai recipes as well – it’s yummy, easy, and doesn’t require crazy ingredients!",
+ "ingredients": [
+  {
+   "group": "Crust",
+   "items": [
+    "Artisan Bread dough or your favorite pizza dough, rolled out raw"
+   ]
+  },
+  {
+   "group": "Peanut sauce",
+   "items": [
+    "3 Tbsp peanut butter, smooth or chunky",
+    "2 tsp rice vinegar",
+    "2 tsp low-sodium soy sauce",
+    "1 tsp olive oil",
+    "½ tsp crushed red pepper flakes",
+    "1 Tbsp freshly grated ginger",
+    "2 tsp honey",
+    "½ tsp sesame oil",
+    "2–3 Tbsp water"
+   ]
+  },
+  {
+   "group": "Toppings",
+   "items": [
+    "1 heaping cup cooked, shredded chicken",
+    "¼ cup chopped red or green onion",
+    "3 Tbsp shredded carrot, moisture squeezed out",
+    "1¼ cups shredded mozzarella cheese",
+    "¼ cup fresh chopped cilantro",
+    "¼ cup chopped roasted salted peanuts"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the peanut sauce",
+   "body": "Mix together **3 Tbsp peanut butter, smooth or chunky**, **2 tsp rice vinegar**, **2 tsp low-sodium soy sauce**, **1 tsp olive oil**, **½ tsp crushed red pepper flakes**, **1 Tbsp freshly grated ginger**, **2 tsp honey**, **½ tsp sesame oil** and **2–3 Tbsp water** (you may need to heat in the microwave to get it to mix well), and double this, to leave enough to drizzle over the top and to dip extra chicken in and snitch while making the pizza."
+  },
+  {
+   "title": "Sauce the dough",
+   "body": "Spread raw, rolled-out dough with peanut sauce."
+  },
+  {
+   "title": "Top the pizza",
+   "body": "Top the pizza with **1 heaping cup cooked, shredded chicken**, **¼ cup chopped red or green onion**, **3 Tbsp shredded carrot**, moisture squeezed out, **1¼ cups shredded mozzarella cheese**, **¼ cup fresh chopped cilantro** and **¼ cup chopped roasted salted peanuts**."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 475°F for 8–10 minutes, then top with extra cilantro and drizzle with peanut sauce.",
+   "timerMin": 8
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Brown Sugar Muffins",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "dozen muffins",
+ "yields": "Makes 2 dozen",
+ "equipment": "muffin tins",
+ "notes": "AKA “Good Boy Muffins”, as certain boys get these if they are good boys in church.",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "½ cup butter",
+    "1 cup brown sugar",
+    "1 egg",
+    "1 tsp vanilla",
+    "1 tsp baking soda",
+    "¼ tsp salt",
+    "1 cup milk",
+    "2 cups flour"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the butter and sugar",
+   "body": "Cream **½ cup butter** and **1 cup brown sugar**."
+  },
+  {
+   "title": "Add the egg and seasonings",
+   "body": "Add **1 egg**, **1 tsp vanilla**, **1 tsp baking soda** and **¼ tsp salt**."
+  },
+  {
+   "title": "Mix in the milk and flour",
+   "body": "Alternate adding, and mix in: **1 cup milk** and **2 cups flour**."
+  },
+  {
+   "title": "Bake",
+   "body": "Place in muffin tins and bake at 375°F for 10–15 minutes.",
+   "timerMin": 10
+  }
+ ]
+}

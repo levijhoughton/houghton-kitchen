@@ -1,0 +1,31 @@
+{
+ "name": "Temple Chicken Sandwiches",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "sandwiches",
+ "notes": "A special occasion sandwich, frequently served on outings to the Oakland temple. Marta named this sandwich, and requested it for her wedding luncheon.",
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "4 oz cream cheese",
+    "2 oz herbed goat cheese",
+    "2 cups pre-cooked chicken breast, cut into ¼” × 1 × 1” cubes",
+    "1 cup marinated artichoke hearts, chopped",
+    "Artichoke marinade, enough to make the mixture spreadable"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the filling",
+   "body": "Mix together **4 oz cream cheese**, **2 oz herbed goat cheese**, **2 cups pre-cooked chicken breast**, cut into ¼” × 1 × 1” cubes, **1 cup marinated artichoke hearts**, chopped, and artichoke marinade (enough to make mixture spreadable)."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve on good bread with romaine lettuce and grape tomatoes."
+  }
+ ]
+}

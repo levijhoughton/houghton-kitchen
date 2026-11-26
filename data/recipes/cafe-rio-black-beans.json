@@ -1,0 +1,37 @@
+{
+ "name": "Cafe Rio Black Beans",
+ "category": "Sides",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Beans",
+   "items": [
+    "2 Tbsp olive oil",
+    "2 tsp minced garlic",
+    "1 tsp ground cumin",
+    "1 × 15 oz can black beans, rinsed and drained",
+    "1 cup tomato juice",
+    "1½ tsp salt",
+    "2 Tbsp fresh chopped cilantro"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the aromatics",
+   "body": "In a nonstick skillet, cook over medium heat until you can smell it (about 2–3 minutes): **2 Tbsp olive oil**, **2 tsp minced garlic** and **1 tsp ground cumin**.",
+   "timerMin": 2
+  },
+  {
+   "title": "Add the beans",
+   "body": "Add **1 × 15 oz can black beans**, rinsed and drained, **1 cup tomato juice** and **1½ tsp salt**."
+  },
+  {
+   "title": "Heat through",
+   "body": "Continually stir until heated through. Just before serving, stir in **2 Tbsp fresh chopped cilantro**."
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Simon and Garfunkel Chicken",
+ "subtitle": "From Aunt Mary",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Chicken and coating",
+   "items": [
+    "3 chicken breasts, cut in half then sliced again",
+    "½ cup butter",
+    "Salt and pepper",
+    "6 slices mozzarella",
+    "Flour",
+    "1 egg",
+    "1 cup bread crumbs",
+    "2 Tbsp dried parsley",
+    "½ tsp each sage, rosemary, and thyme"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the herb butter",
+   "body": "Mix **2 Tbsp dried parsley** and **½ tsp each sage, rosemary, and thyme** with **½ cup butter**, melted."
+  },
+  {
+   "title": "Coat the chicken",
+   "body": "Dip chicken pieces (**3 chicken breasts**, cut in half then sliced again) in **1 egg**, then flour, then **1 cup bread crumbs**."
+  },
+  {
+   "title": "Assemble",
+   "body": "Place a slice of mozzarella (**6 slices mozzarella**) between 2 pieces of chicken."
+  },
+  {
+   "title": "Bake",
+   "body": "Pour butter over chicken. Bake at 350°F for 45 minutes.",
+   "timerMin": 45
+  }
+ ]
+}

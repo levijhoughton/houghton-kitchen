@@ -1,0 +1,38 @@
+{
+ "name": "Key Lime Pie",
+ "subtitle": "A Jill & Rick specialty",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pie",
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "8 oz cream cheese",
+    "1 can sweetened condensed milk",
+    "1 egg",
+    "⅓ cup key lime juice"
+   ]
+  },
+  {
+   "group": "Homemade graham cracker crust",
+   "items": [
+    "1½ cups graham cracker crumbs",
+    "2 Tbsp sugar",
+    "1 Tbsp brown sugar",
+    "7 Tbsp melted butter"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Blend the filling",
+   "body": "Blend together: **8 oz cream cheese**, **1 can sweetened condensed milk**, **1 egg** and **⅓ cup key lime juice**."
+  },
+  {
+   "title": "Fill and chill",
+   "body": "Pour into a prepared or homemade graham cracker pie crust (**1½ cups graham cracker crumbs**, **2 Tbsp sugar**, **1 Tbsp brown sugar**, **7 Tbsp melted butter**), and chill."
+  }
+ ]
+}

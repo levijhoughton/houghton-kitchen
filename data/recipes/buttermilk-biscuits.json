@@ -1,0 +1,46 @@
+{
+ "name": "Buttermilk Biscuits",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "biscuits",
+ "yields": "Makes 6–8 biscuits",
+ "notes": "This mix can be pre-assembled in a ziploc bag (keep the buttermilk separate) and taken on camping trips for delicious dutch oven breakfasts. To substitute regular milk for buttermilk, add about 2 tsp lemon juice to 1 cup milk and let curdle before mixing with dry ingredients.",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "2 cups flour",
+    "4 tsp baking powder",
+    "¾ tsp salt",
+    "¼ tsp baking soda",
+    "2 Tbsp butter",
+    "2 Tbsp shortening",
+    "1 cup chilled buttermilk"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Mix in bowl: **2 cups flour**, **4 tsp baking powder**, **¾ tsp salt** and **¼ tsp baking soda**."
+  },
+  {
+   "title": "Cut in the fat",
+   "body": "Cut in, until pea-sized chunks: **2 Tbsp butter** and **2 Tbsp shortening**."
+  },
+  {
+   "title": "Add the buttermilk",
+   "body": "Add and mix in gently: **1 cup chilled buttermilk**."
+  },
+  {
+   "title": "Fold the dough",
+   "body": "Turn out on floured counter, roll into a rectangle and fold in half. Repeat twice."
+  },
+  {
+   "title": "Cut and bake",
+   "body": "Then cut into biscuits and bake at 450°F for 14–15 minutes.",
+   "timerMin": 14
+  }
+ ]
+}

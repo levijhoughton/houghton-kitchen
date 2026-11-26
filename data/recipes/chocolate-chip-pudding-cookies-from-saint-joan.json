@@ -1,0 +1,49 @@
+{
+ "name": "Chocolate Chip & Pudding Cookies",
+ "subtitle": "From Saint Joan",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "2 cups softened butter",
+    "1½ cups brown sugar",
+    "½ cup white sugar",
+    "4 eggs",
+    "2 tsp vanilla",
+    "2 × 3.4 oz packages instant pudding (vanilla or chocolate)",
+    "4½ cups flour",
+    "2 tsp baking soda",
+    "4 cups chocolate chips",
+    "2 cups nuts",
+    "Dried fruit, optional"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the butter and sugars",
+   "body": "Cream together **2 cups softened butter**, **1½ cups brown sugar** and **½ cup white sugar**."
+  },
+  {
+   "title": "Add the eggs and vanilla",
+   "body": "Add **4 eggs** and **2 tsp vanilla**."
+  },
+  {
+   "title": "Mix in the dry ingredients",
+   "body": "Mix until integrated: **2 × 3.4 oz packages instant pudding (vanilla or chocolate)**, **4½ cups flour** and **2 tsp baking soda**."
+  },
+  {
+   "title": "Add the mix-ins",
+   "body": "Add **4 cups chocolate chips** and **2 cups nuts**, and if you really want to bug Levi, some dried fruit as well."
+  },
+  {
+   "title": "Drop and bake",
+   "body": "Drop by spoon onto a baking pan. Bake at 350°F for 10–12 minutes, until the edges are golden brown.",
+   "timerMin": 10
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "name": "Rose’s Mix",
+ "subtitle": "Not to eat. From Rose",
+ "category": "Extras",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "notes": "Mom’s favorite cleaning solution.",
+ "ingredients": [
+  {
+   "items": [
+    "1 quart ammonia (non-sudsing)",
+    "1 quart isopropyl alcohol",
+    "2 quarts water"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the solution",
+   "body": "Mix in a gallon-size container: **1 quart ammonia** (non-sudsing), **1 quart isopropyl alcohol** and **2 quarts water**."
+  },
+  {
+   "title": "Dilute to use",
+   "body": "When ready to use, dilute 1:1 with water in a spray bottle."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "name": "Steak Rub",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "Grill",
+ "ingredients": [
+  {
+   "group": "Rub",
+   "items": [
+    "1½ Tbsp kosher salt",
+    "2 tsp brown sugar",
+    "¼ tsp cornstarch",
+    "¼ tsp garlic powder",
+    "¼ tsp garlic salt",
+    "¼ tsp turmeric",
+    "½ tsp paprika",
+    "½ tsp chili powder",
+    "1 tsp black pepper"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Season and rest",
+   "body": "Generously sprinkle the rub (**1½ Tbsp kosher salt**, **2 tsp brown sugar**, **¼ tsp cornstarch**, **¼ tsp garlic powder**, **¼ tsp garlic salt**, **¼ tsp turmeric**, **½ tsp paprika**, **½ tsp chili powder** and **1 tsp black pepper**) on steak and let rest for about 40 minutes before grilling on hot grill.",
+   "timerMin": 40
+  }
+ ]
+}

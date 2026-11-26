@@ -1,0 +1,35 @@
+{
+ "name": "Gourmet Salads",
+ "category": "Salads",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "salad",
+ "ingredients": [
+  {
+   "group": "Salad",
+   "items": [
+    "Mixed greens",
+    "Dried cranberries or sliced pears",
+    "Salted, buttered, lightly sugared, and sautéed nuts, cooled",
+    "Crumbled feta cheese"
+   ]
+  },
+  {
+   "group": "Dressing",
+   "items": [
+    "Balsamic or light Caesar dressing"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Build the plate",
+   "body": "On an individual serving plate, place mixed greens, dried cranberries or sliced pears, salted, buttered, lightly sugared, and sautéed nuts, cooled, and crumbled feta cheese."
+  },
+  {
+   "title": "Dress the salad",
+   "body": "Drizzle balsamic or light Caesar dressing over top."
+  }
+ ]
+}

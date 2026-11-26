@@ -1,0 +1,28 @@
+{
+ "name": "Lemon Ice Cream",
+ "subtitle": "From Aunt Michelle",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "ingredients": [
+  {
+   "group": "Ice cream",
+   "items": [
+    "Juice of 8 lemons (about 1½ cups)",
+    "2 Tbsp+ lemon zest",
+    "2 tsp lemon extract",
+    "4 cups sugar",
+    "1 quart + 1½ cups heavy cream",
+    "1 quart + 1½ cups milk",
+    "Yellow food coloring"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Directions",
+   "body": "No directions were written down for this one; the original lists only the ingredients."
+  }
+ ]
+}

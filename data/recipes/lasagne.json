@@ -1,0 +1,76 @@
+{
+ "name": "Lasagne",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 10,
+ "servingUnit": "servings",
+ "yields": "Serves 10",
+ "equipment": "10×12×2 pan",
+ "notes": "From Clovis friend, Dale. We used to do dinner exchanges, and this was one of our favorites! Dale also taught me how to kindly tell a child to “run along” when it was time to quit interrupting grown-up conversation and get back to playing. I usually double this recipe and freeze one for later. It makes too many dirty dishes for just one dinner. Besides, one of these in the freezer is WAY better than a frozen lasagne from the store! If you refrigerate or freeze the casserole, don’t top it directly with foil, as the tomato sauce will corrode the foil. Put a layer of wax paper in between. Keto variation: use dried zucchini succeed instead of pasta, but be sure to bake a full hour.",
+ "ingredients": [
+  {
+   "group": "Meat sauce",
+   "items": [
+    "1 pound ground beef (or bulk Italian sausage)",
+    "½ cup chopped onion",
+    "1 clove garlic, minced",
+    "16 oz can tomatoes, cut up, undrained",
+    "8 oz tomato sauce",
+    "6 oz tomato puree",
+    "2 tsp dried basil, crushed",
+    "1 tsp salt"
+   ]
+  },
+  {
+   "group": "Pasta and cheese",
+   "items": [
+    "8 oz lasagne noodles",
+    "1 Tbsp cooking oil",
+    "2 eggs",
+    "2½ cups ricotta cheese or cream-style cottage cheese",
+    "½ cup grated parmesan",
+    "2 Tbsp dried parsley flakes",
+    "1 lb mozzarella cheese, thinly sliced",
+    "¼ cup grated parmesan"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Brown the beef",
+   "body": "Saute until done: **1 pound ground beef** (or bulk Italian sausage), **½ cup chopped onion** and **1 clove garlic, minced** (add in last 1-2 minutes)."
+  },
+  {
+   "title": "Simmer the sauce",
+   "body": "Drain off fat, then add and simmer, covered, about 15 minutes: **16 oz can tomatoes, cut up, undrained**, **8 oz tomato sauce**, **6 oz tomato puree**, **2 tsp dried basil, crushed** and **1 tsp salt**.",
+   "timerMin": 15
+  },
+  {
+   "title": "Cook the noodles",
+   "body": "Meanwhile, cook til al dente, then drain: **8 oz lasagne noodles** and **1 Tbsp cooking oil**."
+  },
+  {
+   "title": "Mix the cheese filling",
+   "body": "In a separate bowl, mix together: **2 eggs**, **2½ cups ricotta cheese or cream-style cottage cheese**, **½ cup grated parmesan** and **2 Tbsp dried parsley flakes**."
+  },
+  {
+   "title": "Prepare the toppings",
+   "body": "Prepare and set aside: **1 lb mozzarella cheese, thinly sliced** and **¼ cup grated parmesan**."
+  },
+  {
+   "title": "Layer",
+   "body": "Oil a 10×12×2 pan, then layer half the noodles, spread half the ricotta cheese mixture, then half the mozzarella cheese, and top with half the meat sauce. Repeat. Sprinkle remaining parmesan cheese atop."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 375°F for 30-35 minutes, or until heated through, longer if refrigerated before.",
+   "timerMin": 30
+  },
+  {
+   "title": "Rest",
+   "body": "Let stand for 10 minutes.",
+   "timerMin": 10
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "name": "San Joaquin Spaghetti",
+ "category": "Mains",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "Blender",
+ "notes": "I usually double this for 6-7 hearty eaters.\n\nOn July 22nd, 2017, Luke (in Pittsburgh for the summer with Lara) chopped up his left thumb with an immersion blender while blending walnuts to make this recipe. Undeterred, Luke and Lara returned to the kitchen (after an hour and a half at prompt care and with five stitches in Luke’s thumb) to continue making dinner. Sweat and tears were added for good measure.",
+ "ingredients": [
+  {
+   "group": "Pasta",
+   "items": [
+    "12 oz spaghetti"
+   ]
+  },
+  {
+   "group": "Walnut sauce",
+   "items": [
+    "½ cup shelled walnuts",
+    "¼ tsp dried thyme, crushed",
+    "½ tsp salt",
+    "1 garlic clove, crushed",
+    "2 Tbsp olive oil",
+    "¼ cup warm water"
+   ]
+  },
+  {
+   "group": "Finish",
+   "items": [
+    "¼ cup grated parmesan cheese",
+    "2 Tbsp chopped walnuts"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the pasta",
+   "body": "Cook and drain **12 oz spaghetti**."
+  },
+  {
+   "title": "Blend the walnuts",
+   "body": "Place in a blender and blend to a smooth texture: **½ cup shelled walnuts**, **¼ tsp dried thyme**, crushed, **½ tsp salt** and **1 garlic clove**, crushed."
+  },
+  {
+   "title": "Add the oil and water",
+   "body": "Slowly pour **2 Tbsp olive oil** into the blended nut mixture, with **¼ cup warm water**."
+  },
+  {
+   "title": "Toss the spaghetti",
+   "body": "Toss the spaghetti with nut mixture, then add **¼ cup grated parmesan cheese**."
+  },
+  {
+   "title": "Toss again and top",
+   "body": "Toss again, and top with **2 Tbsp chopped walnuts**."
+  }
+ ]
+}

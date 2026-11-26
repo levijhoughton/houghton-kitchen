@@ -1,0 +1,45 @@
+{
+ "name": "Beetroot Pasta",
+ "subtitle": "Adapted from Nadia Hussein",
+ "category": "Mains",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "notes": "You may only need half this sauce—it freezes well.",
+ "ingredients": [
+  {
+   "group": "Sauce",
+   "items": [
+    "2 cans cooked beets, drained",
+    "¼ cup olive oil",
+    "1 Tbsp lemon juice",
+    "1 tsp salt",
+    "4 garlic cloves",
+    "1 large red chili (or some red chili flakes)"
+   ]
+  },
+  {
+   "group": "To finish",
+   "items": [
+    "14 oz cooked pasta (or zoodles, or cooked sliced cabbage)",
+    "7 oz feta cheese",
+    "Finely chopped fresh dill"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the sauce",
+   "body": "In a blender, combine **2 cans cooked beets, drained**, **¼ cup olive oil**, **1 Tbsp lemon juice**, **1 tsp salt**, **4 garlic cloves** and **1 large red chili** (or some red chili flakes)."
+  },
+  {
+   "title": "Toss with pasta",
+   "body": "Toss with **14 oz cooked pasta** (or zoodles, or cooked sliced cabbage)."
+  },
+  {
+   "title": "Top",
+   "body": "Top with **7 oz feta cheese** and finely chopped fresh dill."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Fire It Up Tacos",
+ "category": "Mains",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Asian braised pork",
+   "items": [
+    "Braised pork",
+    "Citrus slaw",
+    "Spicy soy-ginger sauce",
+    "Pickled red onion"
+   ]
+  },
+  {
+   "group": "Or, BBQ pork",
+   "items": [
+    "Pulled pork",
+    "BBQ sauce",
+    "Red onion",
+    "Napa cabbage",
+    "Lemon aioli"
+   ]
+  },
+  {
+   "group": "Lemon aioli",
+   "items": [
+    "½ cup mayo",
+    "½ Tbsp fresh lemon juice",
+    "1 clove garlic",
+    "1 tsp lemon zest",
+    "1 tsp Dijon mustard",
+    "Coarse salt and pepper"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the aioli",
+   "body": "Mix together **½ cup mayo**, **½ Tbsp fresh lemon juice**, **1 clove garlic**, **1 tsp lemon zest**, **1 tsp Dijon mustard** and coarse salt and pepper."
+  }
+ ]
+}

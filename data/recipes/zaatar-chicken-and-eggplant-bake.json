@@ -1,0 +1,62 @@
+{
+ "name": "Za’atar Chicken and Eggplant Bake",
+ "subtitle": "From Eliza",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "cuisine": "Middle Eastern",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "equipment": "Rimmed baking sheet, serving dish",
+ "notes": "Make sure to add lots of other vegetables too—mushrooms, onions, zucchini…. You might want a really big pan.",
+ "ingredients": [
+  {
+   "group": "Seasoning",
+   "items": [
+    "3 Tbsp Za’atar seasoning",
+    "1 tsp white sugar",
+    "1 Tbsp salt (may want to reduce this a bit and add more later if needed)",
+    "2 tsp black pepper"
+   ]
+  },
+  {
+   "group": "Chicken and vegetables",
+   "items": [
+    "10 medium garlic cloves, peeled",
+    "3 pounds chicken (breasts or thighs, bone in and skin on—or not. It’s good however you do it)",
+    "1 pound eggplant cut into 2-inch chunks (or more)",
+    "Other vegetables in large quantity",
+    "Extra-virgin olive oil"
+   ]
+  },
+  {
+   "group": "Finish",
+   "items": [
+    "¼ cup water",
+    "Juice of 1 lemon"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the seasoning",
+   "body": "Heat the oven to 450°F. Stir together **3 Tbsp Za’atar seasoning**, **1 tsp white sugar**, **1 Tbsp salt** (may want to reduce this a bit and add more later if needed) and **2 tsp black pepper**."
+  },
+  {
+   "title": "Arrange the pan",
+   "body": "Place **10 medium garlic cloves, peeled** in the center of a rimmed baking sheet. Arrange around the garlic in the pan: **3 pounds chicken** (breasts or thighs, bone in and skin on—or not. It’s good however you do it), **1 pound eggplant cut into 2-inch chunks** (or more) and other vegetables in large quantity."
+  },
+  {
+   "title": "Season and roast",
+   "body": "Drizzle with extra-virgin olive oil, then sprinkle with the za’atar mixture. You may want to toss at this point, but try to keep the garlic separate, in the middle of the pan. Roast until the chicken reaches 165°F."
+  },
+  {
+   "title": "Make the sauce",
+   "body": "Transfer the chicken and vegetables to a serving dish, then mash the garlic on the baking sheet and add **¼ cup water** and **juice of 1 lemon**."
+  },
+  {
+   "title": "Scrape and serve",
+   "body": "Scrape up the browned bits with the liquid, then spoon the sauce over the chicken and vegetables and serve."
+  }
+ ]
+}

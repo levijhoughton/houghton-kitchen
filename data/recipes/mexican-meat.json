@@ -1,0 +1,38 @@
+{
+ "name": "Mexican Meat",
+ "category": "Mains",
+ "protein": "Beef",
+ "cuisine": "Mexican",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "Crock pot",
+ "notes": "Freezes well for later use.",
+ "ingredients": [
+  {
+   "group": "Meat and seasonings",
+   "items": [
+    "Beef roast",
+    "Pork roast",
+    "Large chopped onion",
+    "1 can green salsa",
+    "2 sticks cinnamon"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Slow cook",
+   "body": "Place in crock pot with beef roast, pork roast, large chopped onion, **1 can green salsa** and **2 sticks cinnamon**. Cook on high about 10+ hours, until meat shreds easily.",
+   "timerMin": 600
+  },
+  {
+   "title": "Shred",
+   "body": "Shred meat and stir."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve over rice with salsa and sour cream, or put in a burrito or your favorite Mexican casserole."
+  }
+ ]
+}

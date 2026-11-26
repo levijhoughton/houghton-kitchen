@@ -1,0 +1,62 @@
+{
+ "name": "Better-Than-Costco One Hour Rolls",
+ "category": "Yeast breads",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "dozen rolls",
+ "yields": "Makes about 4 dozen",
+ "equipment": "Mixer with dough hook, oiled pan, muffin tins, small loaf pans",
+ "notes": "I paid for this recipe and it was worth it! (Or do not crush the Vitamin C tablet, and someone will be blessed with a full serving of Vitamin C.) These rolls stay moist for up to three days without getting crumbly, so they’re great with a roast dinner as they can be used for sandwiches for a few days.\n\nSavory herbed roll variation: For half a recipe (2 dozen rolls), roll out dough into a large rectangle. Mix 1-2 Tbsp each of minced rosemary, thyme and oregano into ½ cup softened butter. Spread over dough. Sprinkle it with parmesan and garlic salt. Cut dough into fourths and stack on top of each other. Cut stacked dough into 24 rectangles and place with the cut edge facing up in greased muffin tins. Bake until slightly browned and remove from pans immediately.\n\nFor citrus bread/rolls: Mix zest of 2 oranges (or lemons) into half a batch of dough. Roll out into a large rectangle and spread a mix of ½ cup melted butter, 1 cup of sugar and zest of 1 orange, onto dough. Sprinkle with chopped chocolate, if desired. Roll as if for cinnamon rolls, then cut rolled dough into four equal pieces. Cut each roll in half lengthwise. With each pair of halves, cut side facing up, \"braid\" into a loaf and place in a greased and parchment-lined small loaf baking pan-- makes 6 small loaf pans. Bake for about 22 minutes at 350°F. Remove from the oven and pans, and drizzle with glaze made of powdered sugar and lemon juice.",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "6 cups bread flour (may use regular or whole wheat flour)",
+    "1 Tbsp salt",
+    "¾ cup sugar",
+    "6 Tbsp yeast",
+    "1 crushed Vitamin C tablet (if using whole wheat)",
+    "1 cup oil",
+    "3 eggs",
+    "3½ cups warm water"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Combine in mixer with dough hook: **6 cups bread flour** (may use regular or whole wheat flour), **1 Tbsp salt**, **¾ cup sugar**, **6 Tbsp yeast** and **1 crushed Vitamin C tablet** (if using whole wheat)."
+  },
+  {
+   "title": "Add the wet ingredients",
+   "body": "Add: **1 cup oil**, **3 eggs** and **3½ cups warm water**."
+  },
+  {
+   "title": "Add more flour",
+   "body": "Mix and add up to **6 cups more flour** until the dough doesn’t stick to the sides of the bowl when the mixer is running. Mix about 5 more minutes."
+  },
+  {
+   "title": "First rise",
+   "body": "Let rise for 10 minutes.",
+   "timerMin": 10
+  },
+  {
+   "title": "Mix again",
+   "body": "Mix again in the mixer for about five minutes."
+  },
+  {
+   "title": "Shape the rolls",
+   "body": "Then shape (a golf-sized ball or crescent rolls are easiest, but orange or cinnamon rolls work too!)."
+  },
+  {
+   "title": "Second rise",
+   "body": "Place the rolls on an oiled pan and let rise for 10 minutes more.",
+   "timerMin": 10
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 400°F for 10 minutes or until golden brown.",
+   "timerMin": 10
+  }
+ ]
+}

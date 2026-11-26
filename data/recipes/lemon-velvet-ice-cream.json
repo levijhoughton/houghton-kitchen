@@ -1,0 +1,55 @@
+{
+ "name": "Lemon Velvet Ice Cream",
+ "subtitle": "Taysom contribution",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "notes": "No one has made any other lemon ice cream since Eliza and Scott’s wedding. Add raspberries if desired.",
+ "ingredients": [
+  {
+   "group": "Ice cream",
+   "items": [
+    "2 cups sugar",
+    "¼ tsp salt",
+    "3 Tbsp flour",
+    "3½ cups milk",
+    "6 egg yolks, slightly beaten",
+    "2 Tbsp grated lemon zest",
+    "⅔ cup lemon juice",
+    "3 cups heavy cream"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the base",
+   "body": "Combine in a large saucepan: **2 cups sugar**, **¼ tsp salt** and **3 Tbsp flour**. Add to saucepan gradually: **3½ cups milk**."
+  },
+  {
+   "title": "Thicken",
+   "body": "Cook over medium heat, stirring constantly, until mixture thickens and bubbles. Remove from heat."
+  },
+  {
+   "title": "Add the yolks",
+   "body": "Stir half the mixture slowly into **6 egg yolks, slightly beaten**. Stir back into remaining mixture in saucepan."
+  },
+  {
+   "title": "Cook again",
+   "body": "Cook, stirring constantly, 1 minute.",
+   "timerMin": 1
+  },
+  {
+   "title": "Cool",
+   "body": "Remove from heat, pour into large bowl. Cool. Then stir in: **2 Tbsp grated lemon zest**, **⅔ cup lemon juice** and **3 cups heavy cream**."
+  },
+  {
+   "title": "Chill and churn",
+   "body": "Chill, then pour into 4-6 quart ice cream freezer, and freeze according to manufacturer’s directions."
+  },
+  {
+   "title": "Pack and freeze",
+   "body": "Pack in plastic containers; freeze until firm."
+  }
+ ]
+}

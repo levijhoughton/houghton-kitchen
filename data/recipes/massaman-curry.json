@@ -1,0 +1,71 @@
+{
+ "name": "Massaman Curry",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "cuisine": "Thai",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "Large pot or Dutch oven",
+ "ingredients": [
+  {
+   "group": "Curry",
+   "items": [
+    "2 Tbsp coconut oil",
+    "3 medium shallots, thinly sliced (or 1 small onion)",
+    "1 tsp whole cumin seed (or cumin powder)",
+    "1 tsp whole coriander seed (or coriander powder)",
+    "3–5 Tbsp red curry paste (start with 3–you can always add more)",
+    "1½ cups baby potatoes, cut into bite-size pieces",
+    "2 large carrots, peeled and diced to ¼” thick",
+    "2 × 14 oz cans light coconut milk",
+    "1½ cups water",
+    "¼ tsp ground cinnamon",
+    "1 dash each cardamom and nutmeg",
+    "2–3 Tbsp coconut aminos or soy sauce",
+    "1–2 Tbsp maple syrup",
+    "2 Tbsp peanut butter",
+    "1 large chicken breast, cut to ½ × 1 × ¼” pieces",
+    "1–2 Tbsp lime juice"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Sauté the shallots",
+   "body": "Heat a large pot or Dutch oven on medium, and add **2 Tbsp coconut oil** and **3 medium shallots**, thinly sliced (or sub **1 small onion**). Saute for 2 minutes, stirring frequently."
+  },
+  {
+   "title": "Add the spices",
+   "body": "Add **1 tsp whole cumin seed** (or substitute cumin powder) and **1 tsp whole coriander seed** (or substitute coriander powder). Saute for another 2 minutes, stirring."
+  },
+  {
+   "title": "Add the curry paste",
+   "body": "Add **3–5 Tbsp red curry paste** (start with 3–you can always add more). Stir to coat onions."
+  },
+  {
+   "title": "Add the vegetables",
+   "body": "Add **1½ cups baby potatoes**, cut into bite-size pieces, and **2 large carrots**, peeled and diced to ¼” thick. Stir to coat vegetables, cook for 2 minutes, then add **2 × 14 oz cans light coconut milk**, **1½ cups water**, **¼ tsp ground cinnamon**, **1 dash each cardamom and nutmeg**, **2–3 Tbsp coconut aminos or soy sauce**, **1–2 Tbsp maple syrup** and **2 Tbsp peanut butter**."
+  },
+  {
+   "title": "Add the liquid",
+   "body": "If needed, add enough liquid to cover vegetables. Bring to a boil over medium high heat, then reduce to a simmer."
+  },
+  {
+   "title": "Add the chicken",
+   "body": "Add **1 large chicken breast**, cut to ½ × 1 × ¼” pieces."
+  },
+  {
+   "title": "Finish the chicken",
+   "body": "Simmer until chicken is cooked, then add **1–2 Tbsp lime juice**."
+  },
+  {
+   "title": "Season",
+   "body": "Season to taste, adding more PB, curry, lime, soy sauce, or maple syrup as desired."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve over rice (may add coconut and sautéed onions to rice), and top with chopped roasted salted peanuts, cilantro and lime. Accompany with steamed bok choy."
+  }
+ ]
+}

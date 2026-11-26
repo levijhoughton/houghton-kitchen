@@ -1,0 +1,49 @@
+{
+ "name": "Cream Cheese Pound Cake",
+ "subtitle": "From Auntie Mamie",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "Bundt cake",
+ "equipment": "Bundt pan",
+ "ingredients": [
+  {
+   "group": "Cake",
+   "items": [
+    "3 cubes of butter (no margarine)",
+    "1 brick (8 ounces) cream cheese, original",
+    "3 cups sugar",
+    "1½ tsp vanilla",
+    "6 eggs",
+    "3 cups flour"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Bring to room temperature",
+   "body": "Make sure butter, cream cheese and eggs are at room temperature."
+  },
+  {
+   "title": "Cream butter and cheese",
+   "body": "Cream together: **3 cubes of butter (no margarine)** and **1 brick (8 ounces) cream cheese, original**."
+  },
+  {
+   "title": "Add sugar and vanilla",
+   "body": "Add: **3 cups sugar** and **1½ tsp vanilla**."
+  },
+  {
+   "title": "Add eggs and flour",
+   "body": "Alternate adding: **6 eggs** (2 at a time) and **3 cups flour** (1 at a time)."
+  },
+  {
+   "title": "Pour into pan",
+   "body": "Pour batter into a buttered and sugared Bundt pan. DO NOT PREHEAT THE OVEN."
+  },
+  {
+   "title": "Bake",
+   "body": "Place cake in a cold oven and set to 325°F. Bake for 1 hour 15 minutes. Cook until set. I cook an additional 3 minutes at a time.",
+   "timerMin": 75
+  }
+ ]
+}

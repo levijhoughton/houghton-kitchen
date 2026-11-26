@@ -1,0 +1,67 @@
+{
+ "name": "Raspberry Jell-O Delight",
+ "subtitle": "Chloe’s secret recipe",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×13 pan",
+ "equipment": "9×13 pan",
+ "ingredients": [
+  {
+   "group": "Base",
+   "items": [
+    "3 cups crushed pretzels (crushing in a bag is easiest)",
+    "⅓-½ cup chopped pecans",
+    "2 Tbsp sugar",
+    "¾ cup butter, softened/melted"
+   ]
+  },
+  {
+   "group": "Filling",
+   "items": [
+    "8 oz package cream cheese",
+    "¾ cup sugar",
+    "8 oz tub whipped topping"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "6 oz raspberry Jell-O mix",
+    "2 cups boiling water",
+    "20 oz frozen raspberries"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the base",
+   "body": "Mix **3 cups crushed pretzels**, **⅓-½ cup chopped pecans**, **2 Tbsp sugar** and **¾ cup butter, softened/melted**, then press into bottom of ungreased 9×13 pan (can mix in pan)."
+  },
+  {
+   "title": "Bake the base",
+   "body": "Bake at 350°F for 10 minutes or until lightly brown.",
+   "timerMin": 10
+  },
+  {
+   "title": "Cool the base",
+   "body": "Cool."
+  },
+  {
+   "title": "Make the filling",
+   "body": "Beat **8 oz package cream cheese** and **¾ cup sugar**, then fold in **8 oz tub whipped topping**."
+  },
+  {
+   "title": "Spread the filling",
+   "body": "Spread over the cooled crust, ensuring no holes for jello to sleep down to the crust."
+  },
+  {
+   "title": "Make the topping",
+   "body": "Dissolve **6 oz raspberry Jell-O mix** in **2 cups boiling water**. Stir in **20 oz frozen raspberries** until almost set."
+  },
+  {
+   "title": "Chill",
+   "body": "Spread Jell-O over filling and refrigerate overnight."
+  }
+ ]
+}

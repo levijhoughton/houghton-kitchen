@@ -1,0 +1,141 @@
+{
+ "name": "Chocolate Candy Making",
+ "subtitle": "A Low family tradition in chocolate making",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "notes": "This process can possibly be done with a good bread mixer. Recooked fondant will be darker with a caramel flavor.",
+ "ingredients": [
+  {
+   "group": "Truffle filling",
+   "items": [
+    "2 cups whipping cream",
+    "3 lbs chocolate, chopped fine (Guittard is a favorite)"
+   ]
+  },
+  {
+   "group": "Almond crunch",
+   "items": [
+    "2 cups butter",
+    "2 cups sugar",
+    "¼ cup water",
+    "2 Tbsp white corn syrup",
+    "2 cups toasted almonds",
+    "8 oz dipping chocolate, chopped",
+    "Chopped almonds, for sprinkling"
+   ]
+  },
+  {
+   "group": "Basic cream fondant",
+   "items": [
+    "1½ cups cream (can be light cream)",
+    "4 cups white sugar",
+    "2 Tbsp white corn syrup",
+    "2 Tbsp butter"
+   ]
+  },
+  {
+   "group": "Lemon truffles",
+   "items": [
+    "2 Tbsp butter",
+    "6 Tbsp heavy cream",
+    "1 tsp corn syrup",
+    "8 oz white chocolate",
+    "Zest of 2 lemons (Meyer lemons are best)",
+    "Juice of 3 lemons, reduced to 3 Tbsp (don't burn)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the truffle filling",
+   "body": "Add the scalded **2 cups whipping cream** to the **3 lbs chocolate**, chopped fine, and beat until fluffy with a mixer."
+  },
+  {
+   "title": "Add flavoring",
+   "body": "Add flavoring (peppermint, nuts, etc.), if desired."
+  },
+  {
+   "title": "Set the filling",
+   "body": "Pour into molds or pour into a pan, and cut and shape when set."
+  },
+  {
+   "title": "Melt the butter",
+   "body": "Melt in heavy kettle: **2 cups butter**."
+  },
+  {
+   "title": "Cook the toffee",
+   "body": "Add **2 cups sugar**, **¼ cup water** and **2 Tbsp white corn syrup**. Cook over low heat until brittle stage, to 290°F, stirring frequently."
+  },
+  {
+   "title": "Add the almonds",
+   "body": "Quickly add **2 cups toasted almonds**. Pour into a pan until ¼-inch deep."
+  },
+  {
+   "title": "Top with chocolate",
+   "body": "Let cool for about 2 minutes, then top with **8 oz dipping chocolate**, chopped. Sprinkle with chopped almonds.",
+   "timerMin": 2
+  },
+  {
+   "title": "Break the candy",
+   "body": "Cool and break into pieces, or score into squares deeply when still warm then break when cold and dip in melted chocolate."
+  },
+  {
+   "title": "Prepare the fondant pan",
+   "body": "Butter the sides of a heavy aluminum or stainless steel saucepan (to prevent sugar crystals from clinging to the sides of the pan), which should be 3× the capacity of the ingredients (to prevent boiling)."
+  },
+  {
+   "title": "Heat the cream",
+   "body": "Heat **1½ cups cream** (can be light cream) until hot but not boiling."
+  },
+  {
+   "title": "Dissolve the sugar",
+   "body": "Add until completely dissolved—do NOT let boil: **4 cups white sugar**, **2 Tbsp white corn syrup** and **2 Tbsp butter**."
+  },
+  {
+   "title": "Clean the pan sides",
+   "body": "Wipe down the sides of the pan with a wet cloth wrapped around a long-handled spoon—remove every grain of sugar."
+  },
+  {
+   "title": "Boil the fondant",
+   "body": "Let the mixture boil rapidly on high heat and DO NOT STIR while it boils, bringing to 230°F (softball stage)."
+  },
+  {
+   "title": "Cool the fondant",
+   "body": "Remove from heat carefully and cool as rapidly as possible by placing pot outside in snow, or in a sink of cold water. It must not be disturbed until it is cold."
+  },
+  {
+   "title": "Warm to room temperature",
+   "body": "When you are sure the fondant is cold, bring it into the warm house and let it warm to room temperature without disturbing it."
+  },
+  {
+   "title": "Loosen and pour",
+   "body": "Immerse the pan in very warm water for about 30 seconds—just long enough to loosen the fondant—and pour onto the kitchen countertop."
+  },
+  {
+   "title": "Beat the fondant",
+   "body": "Beat the fondant with a wooden paint stick or a wooden spoon or paddle. Do not stop beating during this process until the fondant has set up. At first the fondant will be very shiny and somewhat stiff. Just before it sets up, it will become thinner and spread out over the counter. At this point, sprinkle a dash of salt into the candy. Keep beating and it will set up."
+  },
+  {
+   "title": "Add flavoring and knead",
+   "body": "As it does so, add the flavoring. Knead it with your hands at the last. (If the fondant sets up too soon and is too firm, quickly add a little tap water and work it in.) Continue to knead until the fondant is the desired consistency for dipping."
+  },
+  {
+   "title": "Fix grainy fondant",
+   "body": "If, despite the careful method above, the fondant is grainy, place it in a butter pot along with water equalling half the quantity of liquid in the recipe. Stir over low heat until dissolved, and strain and pour into a clean saucepan and proceed as before."
+  },
+  {
+   "title": "Melt the lemon base",
+   "body": "Melt together **2 Tbsp butter**, **6 Tbsp heavy cream** and **1 tsp corn syrup**."
+  },
+  {
+   "title": "Add chocolate and lemon",
+   "body": "Add **8 oz white chocolate**, zest of **2 lemons** (Meyer lemons are best), and juice of **3 lemons**, reduced to **3 Tbsp** (don't burn)."
+  },
+  {
+   "title": "Form the truffles",
+   "body": "Cool, then form into balls."
+  }
+ ]
+}

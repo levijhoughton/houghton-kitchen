@@ -1,0 +1,59 @@
+{
+ "name": "Mojo Sauce",
+ "subtitle": "From Greta",
+ "category": "Extras",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "Saucepan, immersion blender",
+ "notes": "Another divine Greta contribution, discovered in 2025 by Mom. Great as a marinade/sauce for grilled chicken. Also good on pork or beef, or over rice, or with a cucumber and tomato salad, or with leftover chicken for chicken salad. This is YUMMY! Sherry vinegar is worth buying and keeping around.",
+ "ingredients": [
+  {
+   "group": "Garlic and spices",
+   "items": [
+    "12 cloves raw mashed garlic",
+    "Cayenne pepper, to taste",
+    "1 tsp kosher salt",
+    "4 tsp ground cumin"
+   ]
+  },
+  {
+   "group": "Oil",
+   "items": [
+    "1 cup olive oil"
+   ]
+  },
+  {
+   "group": "Citrus and sweetener",
+   "items": [
+    "⅓ cup orange juice concentrate",
+    "⅓ cup lime juice",
+    "¼ cup brown sugar",
+    "1½ Tbsp sherry vinegar"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Combine the garlic and spices",
+   "body": "Combine and set aside: **12 cloves raw mashed garlic**, cayenne pepper to taste, **1 tsp kosher salt** and **4 tsp ground cumin**."
+  },
+  {
+   "title": "Heat the oil",
+   "body": "Heat **1 cup olive oil** in a saucepan until just before it smokes. The oil should sizzle when cool ingredients are added."
+  },
+  {
+   "title": "Add the garlic and spices",
+   "body": "Add combined spices and garlic, remove from heat, stir, and let stand for 10 minutes to cook the garlic slightly.",
+   "timerMin": 10
+  },
+  {
+   "title": "Blend in the citrus",
+   "body": "Whisk in, or better yet, use an immersion blender to homogenize: **⅓ cup orange juice concentrate**, **⅓ cup lime juice**, **¼ cup brown sugar** and **1½ Tbsp sherry vinegar**."
+  },
+  {
+   "title": "Season and cool",
+   "body": "Season with salt and pepper and set aside to cool completely."
+  }
+ ]
+}

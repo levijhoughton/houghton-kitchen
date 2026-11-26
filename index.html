@@ -224,6 +224,7 @@ a.rcard{text-decoration:none}
 .tlist li{break-inside:avoid;display:flex;align-items:baseline;gap:8px;padding:6px 0;border-bottom:1px dotted var(--rule)}
 .tlist a{color:var(--ink);text-decoration:none;font-weight:700;line-height:1.3}
 .tlist a:hover{color:var(--sage);text-decoration:underline}
+.tlist .sub{font-weight:400;color:var(--muted);font-size:14px}
 .tlist .tm{margin-left:auto;font-family:var(--mono);font-size:12px;color:var(--faint);white-space:nowrap}
 .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--sage);flex:none;vertical-align:middle}
 @media print{.top,.tabs,.dock,.jump,.seg,.foot{display:none!important}body{background:#fff}main.in{padding:0}.tlist a{color:#000}}
@@ -392,7 +393,7 @@ var FR={"½":.5,"¼":.25,"¾":.75,"⅓":1/3,"⅔":2/3,"⅛":.125};
 var NUM="(\\d+ \\d\\/\\d|\\d+[½¼¾⅓⅔⅛]|\\d+\\/\\d+|\\d+(?:\\.\\d+)?|[½¼¾⅓⅔⅛])";
 var QRE=new RegExp(NUM+"(?:\\s?(–|-|to)\\s?"+NUM+")?","g");
 var SKIP_AFTER=/^\s?(°|-?min\b|minutes?\b|sec\b|seconds?\b|hrs?\b|hours?\b|-?inch|in\b|%|-qt|qt\b|-cup bowl|-quart|g protein|g fiber|kcal)/i;
-var MEASURE=/^\s?(lbs?\b|oz\b|cups?\b|c\b|tbsp|tsp|g\b|kg\b|ml\b|l\b|liters?|qt|pints?|pinch|quarts?|bunch|handful)/i;
+var MEASURE=/^\s?(lbs?\b|pounds?\b|oz\b|ounces?\b|cups?\b|c\b|tbsp|tsp|tablespoons?\b|teaspoons?\b|g\b|kg\b|ml\b|l\b|liters?|qt|pints?|pinch|quarts?|gallons?|bunch|handful|dash)/i;
 function parseQ(t){
   t=t.trim(); var m;
   if((m=t.match(/^(\d+) (\d)\/(\d)$/))) return +m[1]+m[2]/m[3];
@@ -629,6 +630,7 @@ function stem(w){
   if(w.length>3 && /s$/.test(w) && !/(ss|us)$/.test(w)) return w.slice(0,-1);
   return w;
 }
+function sortKey(n){ return norm(n).replace(/^[^a-z0-9]+/,""); }
 function reEsc(s){ return s.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"); }
 function indexEntry(e){
   e._name=norm(e.name);
@@ -738,7 +740,7 @@ function libResults(st,skip){
   return {list:out,searching:!!Q.inc.length};
 }
 function sortResults(list,sort){
-  var byName=function(a,b){ return (a.e.name||"").localeCompare(b.e.name||""); };
+  var byName=function(a,b){ return sortKey(a.e.name).localeCompare(sortKey(b.e.name)) || (a.e.subtitle||"").localeCompare(b.e.subtitle||""); };
   var cmp={
     match:function(a,b){ return b.sc-a.sc || byName(a,b); },
     recent:function(a,b){ return (lastPlanned(b.e.id)||"").localeCompare(lastPlanned(a.e.id)||"") || byName(a,b); },
@@ -838,9 +840,10 @@ function renderContents(){
   S.catList.forEach(function(e){ var c=e.category||"Other"; (groups[c]=groups[c]||[]).push(e); });
   var present=order.filter(function(c){ return groups[c]; }).concat(Object.keys(groups).filter(function(c){ return order.indexOf(c)<0; }));
   var slug=function(c){ return "c-"+norm(c).replace(/[^a-z0-9]+/g,"-"); };
-  var byName=function(a,b){ return (a.name||"").localeCompare(b.name||""); };
+  var byName=function(a,b){ return sortKey(a.name).localeCompare(sortKey(b.name)) || (a.subtitle||"").localeCompare(b.subtitle||""); };
+  var nameCount={}; S.catList.forEach(function(e){ var k=norm(e.name); nameCount[k]=(nameCount[k]||0)+1; });
   var li=function(e){ var tm=shortTime(e);
-    return '<li><a href="#recipe/'+esc(e.id)+'">'+esc(e.name)+'</a>'+(e.collection==="weekly"?'<span class="dot" title="From our weekly plans" aria-label="From our weekly plans"></span>':'')+(tm?'<span class="tm">'+esc(tm)+'</span>':'')+'</li>'; };
+    return '<li><a href="#recipe/'+esc(e.id)+'">'+esc(e.name)+(nameCount[norm(e.name)]>1&&e.subtitle?' <span class="sub">'+esc(e.subtitle)+'</span>':'')+'</a>'+(e.collection==="weekly"?'<span class="dot" title="From our weekly plans" aria-label="From our weekly plans"></span>':'')+(tm?'<span class="tm">'+esc(tm)+'</span>':'')+'</li>'; };
   var h=['<div class="weekhead"><div class="t"><div class="eyebrow">Recipe box</div><h1>Contents</h1></div>'+libSeg("contents")+'</div>'];
   h.push('<nav class="jump" aria-label="Jump to a course"><div class="filters scroll">'+present.map(function(c){ return '<button class="fchip" data-jump="'+slug(c)+'">'+esc(c)+'<span class="n">'+groups[c].length+'</span></button>'; }).join("")+'</div></nav>');
   h.push('<p class="toc-lede muted">'+S.catList.length+' recipes, A to Z within each course. <span class="dot" aria-hidden="true"></span> marks recipes from our weekly plans.</p>');
@@ -859,7 +862,8 @@ function renderContents(){
   });
   h.push(footer());
   view.innerHTML=h.join("");
-  $$("[data-jump]",view).forEach(function(b){ b.onclick=function(){ var el=document.getElementById(b.dataset.jump); if(el) el.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth",block:"start"}); }; });
+  $$("[data-jump]",view).forEach(function(b){ b.onclick=function(){ var el=document.getElementById(b.dataset.jump); if(!el) return; var jb=$(".jump",view), off=(jb?(parseFloat(getComputedStyle(jb).top)||0)+jb.offsetHeight-8:60)+12;
+    window.scrollTo({top:el.getBoundingClientRect().top+window.scrollY-off,behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}); }; });
 }
 
 /* ================= recipe ================= */

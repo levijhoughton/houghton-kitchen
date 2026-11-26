@@ -1,0 +1,83 @@
+{
+ "name": "Pork Carnitas",
+ "category": "Mains",
+ "protein": "Pork",
+ "cuisine": "Mexican",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "equipment": "Slow cooker, large non-stick pan",
+ "notes": "For burritos, casseroles, tacos, etc. Delicious!",
+ "ingredients": [
+  {
+   "group": "Pork",
+   "items": [
+    "5 lb pork shoulder, skinless, bone-in (4 lb if boneless)"
+   ]
+  },
+  {
+   "group": "Rub",
+   "items": [
+    "1½ Tbsp table salt or 2 Tbsp kosher salt",
+    "1 tsp black pepper",
+    "1 Tbsp dried oregano",
+    "2 tsp ground cumin",
+    "1 Tbsp olive oil"
+   ]
+  },
+  {
+   "group": "Slow cooker",
+   "items": [
+    "1 onion, coarsely chopped",
+    "1 jalapeno, seeded and ribs removed, chopped",
+    "4 cloves garlic, minced",
+    "Juice of 2 oranges (or equivalent with lime juice and some sugar)"
+   ]
+  },
+  {
+   "group": "Finish",
+   "items": [
+    "1 Tbsp oil"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Rinse and dry the pork",
+   "body": "Rinse and dry **5 lb pork shoulder**, skinless, bone-in (4 lb if boneless)."
+  },
+  {
+   "title": "Rub the pork",
+   "body": "Combine **1½ Tbsp table salt** or **2 Tbsp kosher salt**, **1 tsp black pepper**, **1 Tbsp dried oregano**, **2 tsp ground cumin** and **1 Tbsp olive oil**, and rub into meat."
+  },
+  {
+   "title": "Add the aromatics",
+   "body": "Place pork in a slow cooker, fat cap up, and top with **1 onion**, coarsely chopped, **1 jalapeno**, seeded and ribs removed, chopped, **4 cloves garlic**, minced, and **juice of 2 oranges** (or equivalent with lime juice and some sugar)."
+  },
+  {
+   "title": "Slow cook",
+   "body": "Cook on low for 8-10 hours, or on high for 6 hours, until meat is tender and falling off the bone.",
+   "timerMin": 480
+  },
+  {
+   "title": "Shred the pork",
+   "body": "Remove from the slow cooker and cool slightly, then shred, using two forks."
+  },
+  {
+   "title": "Reduce the juices",
+   "body": "Skim off the fat from the juices remaining in the slow cooker. Discard the fat, and reduce remaining juices to **½–2 cups**."
+  },
+  {
+   "title": "Crisp the pork",
+   "body": "To serve, heat **1 Tbsp oil** in a large non-stick pan over high heat. Place shredded pork into the pan and press down and cook until the bottom side is golden brown and crusty. Pour warmed juices over meat and serve immediately. Do not skip these steps!"
+  },
+  {
+   "title": "Reheat",
+   "body": "To reheat, warm in an oiled pan and cook the other side briefly, just to warm through—just leave one side crusty."
+  },
+  {
+   "title": "Freeze",
+   "body": "To freeze, pour juices over the pulled pork and store in ziplock bags. To use, defrost completely, then follow instructions to serve."
+  }
+ ]
+}

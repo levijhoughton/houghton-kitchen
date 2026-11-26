@@ -1,0 +1,59 @@
+{
+ "name": "Special K Bars",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "10×12 pan",
+ "equipment": "10×12 pan",
+ "source": {
+  "label": "From the 1993 Low Family Cookbook0"
+ },
+ "ingredients": [
+  {
+   "group": "Cereal mixture",
+   "items": [
+    "1 cup sugar",
+    "1 cup white corn syrup",
+    "1 cup peanut butter",
+    "7–10 cups Special K or Corn Flakes"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "6 oz chocolate chips",
+    "6 oz butterscotch chips"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Boil the syrup",
+   "body": "Bring to a boil in a pan on the stove, then take off heat immediately: **1 cup sugar** and **1 cup white corn syrup**."
+  },
+  {
+   "title": "Stir in the peanut butter",
+   "body": "Stir in **1 cup peanut butter**."
+  },
+  {
+   "title": "Add the cereal",
+   "body": "Then mix in **7–10 cups Special K or Corn Flakes**."
+  },
+  {
+   "title": "Press into the pan",
+   "body": "Press into a greased 10×12 pan."
+  },
+  {
+   "title": "Melt the chips",
+   "body": "Melt together **6 oz chocolate chips** and **6 oz butterscotch chips**."
+  },
+  {
+   "title": "Top and cool",
+   "body": "Spread on top of cereal mixture. Let cool."
+  },
+  {
+   "title": "Cut and serve",
+   "body": "Cut into desired sizes and serve."
+  }
+ ]
+}

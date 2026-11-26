@@ -1,0 +1,42 @@
+{
+ "name": "Corn Bread",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "10×12 pan",
+ "equipment": "10×12 pan",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "1 cup sugar",
+    "½ cup butter, softened",
+    "2 eggs, beaten",
+    "1 cup corn meal",
+    "½ tsp salt",
+    "2 tsp baking powder",
+    "1½ cups flour",
+    "1½ cups milk"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the sugar and butter",
+   "body": "Cream together **1 cup sugar**, **½ cup butter**, softened, and **2 eggs**, beaten."
+  },
+  {
+   "title": "Add the cornmeal",
+   "body": "Add and stir in: **1 cup corn meal**, **½ tsp salt** and **2 tsp baking powder**."
+  },
+  {
+   "title": "Add the flour and milk",
+   "body": "Add, alternating: **1½ cups flour** and **1½ cups milk**."
+  },
+  {
+   "title": "Bake",
+   "body": "Place in a greased 10×12 pan and bake for 23–30 minutes at 375°F.",
+   "timerMin": 23
+  }
+ ]
+}

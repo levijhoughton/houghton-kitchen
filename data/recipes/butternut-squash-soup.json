@@ -1,0 +1,59 @@
+{
+ "name": "Butternut Squash Soup",
+ "subtitle": "A Weyand family favorite",
+ "category": "Soups",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Vegetables",
+   "items": [
+    "1 medium-large butternut squash (peeled and de-seeded)",
+    "1–2 large carrots",
+    "1–3 stalks of celery",
+    "1–3 medium potatoes",
+    "1 medium onion"
+   ]
+  },
+  {
+   "group": "Butter and stock",
+   "items": [
+    "2 Tbsp butter",
+    "4 cups (32 oz) chicken stock, or enough to just cover the vegetables"
+   ]
+  },
+  {
+   "group": "To finish",
+   "items": [
+    "½ cup heavy whipping cream",
+    "Salt and pepper"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Chop the vegetables",
+   "body": "Chop into chunks and toss in a pot: **1 medium-large butternut squash** (peeled and de-seeded), **1–2 large carrots**, **1–3 stalks of celery**, **1–3 medium potatoes** and **1 medium onion**."
+  },
+  {
+   "title": "Sauté",
+   "body": "Add **2 Tbsp butter** and sauté for 5 minutes on medium heat.",
+   "timerMin": 5
+  },
+  {
+   "title": "Simmer",
+   "body": "Add **4 cups (32 oz) chicken stock**, or enough to just cover the vegetables, and simmer for 40 minutes or until vegetables are soft.",
+   "timerMin": 40
+  },
+  {
+   "title": "Blend",
+   "body": "Take off the heat and blend until smooth with an immersion blender (or a regular blender)."
+  },
+  {
+   "title": "Finish",
+   "body": "Add to taste: **½ cup heavy whipping cream**, salt and pepper."
+  }
+ ]
+}

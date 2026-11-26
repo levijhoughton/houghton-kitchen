@@ -1,0 +1,54 @@
+{
+ "name": "Pie Crust",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "10-inch crusts",
+ "yields": "Makes 2 10-inch crusts",
+ "ingredients": [
+  {
+   "group": "Pie crust (shortening)",
+   "items": [
+    "2⅔ cups flour",
+    "1 tsp salt",
+    "⅞ cup shortening or lard",
+    "½ cup + cold water"
+   ]
+  },
+  {
+   "group": "Or, butter crust:",
+   "items": [
+    "2½ cups (315g) all-purpose flour (spoon & leveled)",
+    "1 teaspoon salt",
+    "6 Tablespoons (90g) unsalted butter, chilled and cubed",
+    "¾ cup (148g) vegetable shortening, chilled",
+    "½ cup (120ml) ice water"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cut in the shortening",
+   "body": "For the shortening crust, cut together til in pea-sized chunks: **2⅔ cups flour**, **1 tsp salt** and **⅞ cup shortening or lard**."
+  },
+  {
+   "title": "Mix in water",
+   "body": "For the shortening crust, mix in gently til just moist: **½ cup + cold water**."
+  },
+  {
+   "title": "Chill the dough",
+   "body": "Chill for two hours before rolling out.",
+   "timerMin": 120
+  },
+  {
+   "title": "Roll and bake",
+   "body": "Roll out on pastry cloth and place in pie pans. For unfilled baking, prick with fork and bake at 425°F for about 10 minutes. If filled, follow pie instructions for baking.",
+   "timerMin": 10
+  },
+  {
+   "title": "Bake cookies",
+   "body": "Make sugar and cinnamon cookies out of leftover dough, and bake at 425°F for 10 minutes.",
+   "timerMin": 10
+  }
+ ]
+}

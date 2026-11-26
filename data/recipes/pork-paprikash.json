@@ -1,0 +1,54 @@
+{
+ "name": "Pork Paprikash",
+ "category": "Mains",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "equipment": "Crockpot",
+ "ingredients": [
+  {
+   "group": "Pork and sauerkraut",
+   "items": [
+    "2 lb boneless pork shoulder, cut in 1-inch pieces",
+    "1 cup chopped onion",
+    "2 Tbsp butter",
+    "3 cloves garlic, minced",
+    "1 tsp caraway seed",
+    "2 Tbsp paprika",
+    "1 tsp salt",
+    "3 cups sauerkraut, rinsed and drained"
+   ]
+  },
+  {
+   "group": "Sour cream and sauce",
+   "items": [
+    "1 Tbsp flour",
+    "2 cups sour cream",
+    "8–15 oz tomato sauce",
+    "2 Tbsp vinegar",
+    "Sugar, salt, and pepper"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Slow cook the pork",
+   "body": "Place **2 lb boneless pork shoulder**, cut in 1-inch pieces, **1 cup chopped onion**, **2 Tbsp butter**, **3 cloves garlic**, minced, **1 tsp caraway seed**, **2 Tbsp paprika**, **1 tsp salt** and **3 cups sauerkraut**, rinsed and drained, in a crockpot on low for 8-10 hours.",
+   "timerMin": 480
+  },
+  {
+   "title": "Add the flour and sour cream",
+   "body": "When meat is tender, mix together **1 Tbsp flour** and **2 cups sour cream**, and add to meat."
+  },
+  {
+   "title": "Add the tomato sauce",
+   "body": "Add **8–15 oz tomato sauce** and **2 Tbsp vinegar**, then sugar, salt and pepper to give it a zing to your taste."
+  },
+  {
+   "title": "Finish",
+   "body": "Cook 10 minutes more, and serve over buttered egg noodles or rice.",
+   "timerMin": 10
+  }
+ ]
+}

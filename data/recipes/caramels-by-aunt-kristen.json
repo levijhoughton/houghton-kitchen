@@ -1,0 +1,50 @@
+{
+ "name": "Caramels",
+ "subtitle": "By Aunt Kristen",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×13 pan",
+ "equipment": "9×13 pan",
+ "notes": "Consider dipping in chocolate and sprinkling with coarse salt.",
+ "ingredients": [
+  {
+   "group": "Caramel",
+   "items": [
+    "2⅓ cups brown sugar",
+    "1 cup butter",
+    "Dash salt",
+    "1 cup light corn syrup",
+    "1 can Eagle Brand (sweetened and condensed milk)",
+    "1 tsp vanilla",
+    "Nuts (optional)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Melt the sugar and butter",
+   "body": "Melt in large heavy pan: **2⅓ cups brown sugar**, **1 cup butter** and a dash of salt."
+  },
+  {
+   "title": "Add the syrup and milk",
+   "body": "Stir in **1 cup light corn syrup** and **1 can Eagle Brand (sweetened and condensed milk)**."
+  },
+  {
+   "title": "Cook to soft ball",
+   "body": "Cook to 240°F (soft ball stage)."
+  },
+  {
+   "title": "Add the vanilla",
+   "body": "Remove from heat. Add **1 tsp vanilla** and nuts (optional)."
+  },
+  {
+   "title": "Pour and cool",
+   "body": "Pour in a buttered 9×13 pan. Cool."
+  },
+  {
+   "title": "Cut and wrap",
+   "body": "Cut. Serve or wrap in wax paper."
+  }
+ ]
+}

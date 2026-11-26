@@ -1,0 +1,51 @@
+{
+ "name": "Tortilla Soup",
+ "subtitle": "From Greta",
+ "category": "Soups",
+ "protein": "Chicken & turkey",
+ "cuisine": "Mexican",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "items": [
+    "1 onion, chopped",
+    "1 jalapeno, chopped",
+    "2 garlic cloves, pressed",
+    "1 × 15 oz stewed tomatoes",
+    "4 cups chicken broth",
+    "1 × 10 oz tomato soup",
+    "1 × 15 oz canned corn",
+    "1 tsp ground cumin",
+    "2 tsp Worcestershire sauce",
+    "3 chicken breasts, cooked and shredded or chopped",
+    "2 tsp lemon pepper",
+    "Carrots, celery, black or kidney beans, as desired",
+    "Hot sauce, to adjust heat",
+    "Tortilla chips, for serving",
+    "Cheddar cheese, grated, for serving",
+    "Sour cream, for serving"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Sauté the vegetables",
+   "body": "Sauté in a large kettle with a bit of oil for several minutes: **1 onion**, chopped, **1 jalapeno**, chopped, **2 garlic cloves**, pressed, and **1 × 15 oz stewed tomatoes**."
+  },
+  {
+   "title": "Simmer",
+   "body": "Add and simmer for 30 minutes: **4 cups chicken broth**, **1 × 10 oz tomato soup**, **1 × 15 oz canned corn**, **1 tsp ground cumin**, **2 tsp Worcestershire sauce**, **3 chicken breasts**, cooked and shredded or chopped, **2 tsp lemon pepper**, and carrots, celery, or black or kidney beans, as desired.",
+   "timerMin": 30
+  },
+  {
+   "title": "Adjust the heat",
+   "body": "Adjust heat with hot sauce."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve with tortilla chips, grated cheddar cheese and sour cream."
+  }
+ ]
+}

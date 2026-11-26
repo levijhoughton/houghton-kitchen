@@ -1,0 +1,55 @@
+{
+ "name": "Red Curry Soup",
+ "subtitle": "From the cafeteria lady at the Oakland Temple",
+ "category": "Soups",
+ "cuisine": "Thai",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "yields": "Serves 6–10",
+ "ingredients": [
+  {
+   "items": [
+    "1 pound ground chicken or pork",
+    "1 Tbsp Red Curry Paste",
+    "1 Tbsp ground garlic",
+    "½ cup chopped red onion",
+    "3 Tbsp vegetable oil",
+    "1 can coconut milk",
+    "About 8 Thai lemon leaves",
+    "About 2 Tbsp galanga root, grated",
+    "5 cups water",
+    "2 carrots, chopped",
+    "2 potatoes, chopped",
+    "1 Tbsp sugar",
+    "½ Tbsp salt",
+    "1 tsp fish sauce",
+    "Rice noodles, for serving",
+    "Chopped cabbage, for serving",
+    "Cilantro, if desired"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Brown the meat",
+   "body": "Brown **1 pound ground chicken or pork**, **1 Tbsp Red Curry Paste**, **1 Tbsp ground garlic**, **½ cup chopped red onion** and **3 Tbsp vegetable oil**."
+  },
+  {
+   "title": "Add the coconut milk",
+   "body": "Add **1 can coconut milk**, about **8 Thai lemon leaves** and about **2 Tbsp galanga root**, grated."
+  },
+  {
+   "title": "Boil the vegetables",
+   "body": "In **5 cups water**, boil **2 carrots**, chopped, and **2 potatoes**, chopped, until tender."
+  },
+  {
+   "title": "Combine",
+   "body": "Add meat mixture to carrots with **1 Tbsp sugar**, **½ Tbsp salt** and **1 tsp fish sauce**."
+  },
+  {
+   "title": "Season and serve",
+   "body": "Season to taste. Serve over rice noodles and chopped cabbage. Top with cilantro, if desired."
+  }
+ ]
+}

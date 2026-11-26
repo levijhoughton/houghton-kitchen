@@ -1,0 +1,43 @@
+{
+ "name": "Hamburger Soup",
+ "subtitle": "From Grandma Kemper",
+ "category": "Soups",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "notes": "This soup is always better the 2nd day.",
+ "ingredients": [
+  {
+   "items": [
+    "1 pound hamburger",
+    "2 medium onions",
+    "1 quart tomatoes",
+    "3 cups water",
+    "2 medium carrots",
+    "2 ribs celery, chopped",
+    "¼ cup ketchup",
+    "¼ cup pearl barley",
+    "1 Tbsp beef bouillon",
+    "1 tsp seasoned salt",
+    "1 tsp dried basil",
+    "1 bay leaf"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Brown the beef",
+   "body": "Cook until brown: **1 pound hamburger** and **2 medium onions**."
+  },
+  {
+   "title": "Add the rest",
+   "body": "Add **1 quart tomatoes**, **3 cups water**, **2 medium carrots**, **2 ribs celery**, chopped, **¼ cup ketchup**, **¼ cup pearl barley**, **1 Tbsp beef bouillon**, **1 tsp seasoned salt**, **1 tsp dried basil** and **1 bay leaf**."
+  },
+  {
+   "title": "Boil or bake",
+   "body": "Boil or bake for 1 hour. Salt and pepper to taste.",
+   "timerMin": 60
+  }
+ ]
+}

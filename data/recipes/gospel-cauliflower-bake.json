@@ -1,0 +1,58 @@
+{
+ "name": "Gospel Cauliflower Bake",
+ "subtitle": "From Aunt Geniel",
+ "category": "Sides",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "equipment": "Buttered casserole",
+ "notes": "This recipe, from Aunt Geniel, is like the gospel, too good not to share.",
+ "ingredients": [
+  {
+   "group": "Cauliflower",
+   "items": [
+    "1 head cauliflower, cut into florets",
+    "3 cups water",
+    "1 tsp salt"
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    "1 medium onion, chopped",
+    "1 Tbsp sugar",
+    "½ tsp salt",
+    "½ tsp pepper",
+    "16 ounces crushed tomatoes",
+    "1 cup sharp cheddar cheese, shredded"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "More cheese"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Boil the cauliflower",
+   "body": "In a pot, boil 4–5 minutes: **1 head cauliflower**, cut into florets, **3 cups water** and **1 tsp salt**.",
+   "timerMin": 4
+  },
+  {
+   "title": "Mix the sauce",
+   "body": "Mix: **1 medium onion**, chopped, **1 Tbsp sugar**, **½ tsp salt**, **½ tsp pepper**, **16 ounces crushed tomatoes** and **1 cup sharp cheddar cheese**, shredded."
+  },
+  {
+   "title": "Assemble",
+   "body": "Add onion and tomato mixture to the cauliflower. Pour it all into a buttered casserole. Top with more cheese."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake covered at 325°F for 20–25 minutes.",
+   "timerMin": 20
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "name": "Apricot Almond Bars",
+ "subtitle": "Decadent!",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×9×2-inch pan",
+ "equipment": "9×9×2-inch pan",
+ "notes": "Hide. You might want to think about doubling this, if you have enough white chocolate.",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "½ cup butter",
+    "1 cup white chocolate baking pieces, melted with the butter",
+    "2 eggs, slightly beaten",
+    "½ cup sugar",
+    "1 tsp almond extract",
+    "1 cup flour",
+    "½ tsp salt"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "½ cup apricot jam",
+    "1 cup white chocolate baking pieces, stirred into the remaining batter",
+    "¼ cup chopped almonds"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Preheat the oven",
+   "body": "Preheat the oven to 325°F."
+  },
+  {
+   "title": "Melt the butter and chocolate",
+   "body": "In a small saucepan, melt **½ cup butter**. Remove from heat and add **1 cup white chocolate baking pieces**."
+  },
+  {
+   "title": "Prepare the pan",
+   "body": "Set aside, and grease a 9×9×2-inch pan."
+  },
+  {
+   "title": "Mix the eggs and sugar",
+   "body": "In a medium bowl, combine **2 eggs**, slightly beaten, and **½ cup sugar**."
+  },
+  {
+   "title": "Add the butter mixture",
+   "body": "Add the butter and white chocolate mixture and **1 tsp almond extract**. Add and stir until just combined: **1 cup flour** and **½ tsp salt**."
+  },
+  {
+   "title": "Bake the base",
+   "body": "Spread half of the batter in the pan, and bake for 15–20 minutes or until the edges are lightly browned.",
+   "timerMin": 15
+  },
+  {
+   "title": "Add the jam",
+   "body": "Remove from the oven. Spread evenly over warmed crust: **½ cup apricot jam**."
+  },
+  {
+   "title": "Add the top batter",
+   "body": "Stir into remaining batter: **1 cup white chocolate baking pieces**. Then drop on top of jam."
+  },
+  {
+   "title": "Add the almonds",
+   "body": "Sprinkle **¼ cup chopped almonds** over top of all."
+  },
+  {
+   "title": "Bake until set",
+   "body": "Bake about 35 minutes more, or until a toothpick inserted near the center comes out clean.",
+   "timerMin": 35
+  },
+  {
+   "title": "Cool and cut",
+   "body": "Cool, and cut into bars."
+  }
+ ]
+}

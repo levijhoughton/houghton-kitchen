@@ -1,0 +1,58 @@
+{
+ "name": "Peppermint Ice Cream",
+ "subtitle": "Taysom contribution",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "2 quart or larger freezer",
+ "notes": "Little candy canes work best, and don’t crush too finely.",
+ "ingredients": [
+  {
+   "group": "Base",
+   "items": [
+    "¾ cup sugar",
+    "2 Tbsp cornstarch",
+    "3 cups whole milk",
+    "¾ cup corn syrup",
+    "2 eggs, lightly beaten"
+   ]
+  },
+  {
+   "group": "Finish",
+   "items": [
+    "1 cup heavy cream",
+    "⅛-¼ tsp peppermint extract",
+    "2 drops red food coloring",
+    "1 to 1¼ cups crushed candy canes"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the base",
+   "body": "Mix in saucepan: **¾ cup sugar** and **2 Tbsp cornstarch**. Gradually stir in: **3 cups whole milk**, **¾ cup corn syrup** and **2 eggs, lightly beaten**."
+  },
+  {
+   "title": "Cook",
+   "body": "Cook over boiling water 10 minutes, or until thickened.",
+   "timerMin": 10
+  },
+  {
+   "title": "Chill",
+   "body": "Chill."
+  },
+  {
+   "title": "Add cream and flavor",
+   "body": "Stir in: **1 cup heavy cream**, **⅛-¼ tsp peppermint extract** and **2 drops red food coloring**."
+  },
+  {
+   "title": "Freeze",
+   "body": "Freeze in 2 quart or larger freezer."
+  },
+  {
+   "title": "Add candy canes",
+   "body": "When mostly frozen, add: **1 to 1¼ cups crushed candy canes**."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "Authentic German Potato Salad",
+ "subtitle": "From Carrie’s German grandmother",
+ "category": "Salads",
+ "cuisine": "German",
+ "collection": "family",
+ "servings": 10,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Potatoes",
+   "items": [
+    "4–5 lb potatoes, peeled, halved lengthwise, then sliced"
+   ]
+  },
+  {
+   "group": "Bacon and onion",
+   "items": [
+    "⅓ pound bacon",
+    "1 large onion, diced"
+   ]
+  },
+  {
+   "group": "Dressing",
+   "items": [
+    "2–3 Tbsp bacon grease",
+    "3 cups water",
+    "1 cup sugar",
+    "½ cup vinegar",
+    "Cornstarch to thicken slightly, but leave about the consistency of heavy cream"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the potatoes",
+   "body": "Cook, then drain, being careful not to overcook to mush: **4–5 lb potatoes**, peeled, halved lengthwise, then sliced."
+  },
+  {
+   "title": "Fry the bacon and onion",
+   "body": "In another pan, dice and fry until crisp: **⅓ pound bacon** and **1 large onion**, diced."
+  },
+  {
+   "title": "Make the dressing",
+   "body": "Save **2–3 Tbsp bacon grease** in pan, discarding the rest. Then add to bacon pan and simmer: **3 cups water**, **1 cup sugar**, **½ cup vinegar** and cornstarch to thicken slightly, but leave about the consistency of heavy cream."
+  },
+  {
+   "title": "Combine",
+   "body": "Pour the bacon and sauce over drained potatoes in a bowl and gently fold to coat. Salt and pepper to taste."
+  }
+ ]
+}

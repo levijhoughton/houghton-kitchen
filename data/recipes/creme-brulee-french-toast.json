@@ -1,0 +1,67 @@
+{
+ "name": "Creme Brulee French Toast",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×13 pan",
+ "equipment": "9×13 baking dish",
+ "notes": "Enjoy plain or serve with sliced fresh fruit (it’s perfect with fresh strawberries). If you want to make things even more fancy, you could add cinnamon, orange zest, or raspberry puree to the milk mixture before pouring it over the bread. If you are diabetic, make sure to pre-bolus before enjoying.",
+ "ingredients": [
+  {
+   "group": "Brown sugar sauce",
+   "items": [
+    "½ cup butter",
+    "1 cup brown sugar",
+    "2 Tbsp corn syrup"
+   ]
+  },
+  {
+   "group": "Bread",
+   "items": [
+    "Approx. 1½ loaves French bread, cut 1 inch thick"
+   ]
+  },
+  {
+   "group": "Custard",
+   "items": [
+    "5 large eggs",
+    "1½ cups half and half",
+    "1 tsp vanilla",
+    "¼ tsp salt"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Melt the sugar mixture",
+   "body": "Melt together on the stove until smooth: **½ cup butter**, **1 cup brown sugar** and **2 Tbsp corn syrup**."
+  },
+  {
+   "title": "Layer the bread",
+   "body": "Pour into a 9×13 baking dish. Cover with a layer of approx. **1½ loaves French bread**, cut 1 inch thick. Squish the bread into the pan to fill in any holes."
+  },
+  {
+   "title": "Make the custard",
+   "body": "In a separate bowl, or the cooled down pot you used for the butter-sugar mixture, mix together: **5 large eggs**, **1½ cups half and half**, **1 tsp vanilla** and **¼ tsp salt**."
+  },
+  {
+   "title": "Pour over the bread",
+   "body": "Pour over the bread in the pan evenly. Cover and refrigerate overnight or up to one day."
+  },
+  {
+   "title": "Bake covered",
+   "body": "In the morning, bake, covered, at 350°F for 40 minutes.",
+   "timerMin": 40
+  },
+  {
+   "title": "Broil",
+   "body": "Then broil it for about 3 minutes to give it some nice crisp.",
+   "timerMin": 3
+  },
+  {
+   "title": "Or bake uncovered",
+   "body": "You can also bake uncovered at 350°F for 40 minutes if you don’t want to do the broiling step, but we prefer the texture the other way.",
+   "timerMin": 40
+  }
+ ]
+}

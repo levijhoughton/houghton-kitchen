@@ -1,0 +1,100 @@
+{
+ "name": "Weyand Wedding Cake",
+ "subtitle": "By the Hobbs sisters",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "cake",
+ "equipment": "3 6-inch or 2 8-inch round pans",
+ "notes": "Originally discovered and created by the Hobbs sisters for Marta and Jeff’s 2017 wedding! Buttercream is standard buttercream, flavors picked by Amy. I know it seems like a long time. Just do it!",
+ "ingredients": [
+  {
+   "group": "Cake",
+   "items": [
+    "1 cup butter (softened)",
+    "1½ cups sugar",
+    "1 tsp vanilla extract",
+    "2 whole eggs, room temperature",
+    "3 egg yolks, room temperature",
+    "2 Tbsp lemon juice",
+    "2 Tbsp grated lemon peel",
+    "2½ cups cake flour",
+    "½ tsp baking powder",
+    "½ tsp baking soda",
+    "1 tsp salt",
+    "1 cup buttermilk, room temperature"
+   ]
+  },
+  {
+   "group": "Wedding Cake Buttercream",
+   "items": [
+    "1 cup butter, room temp",
+    "4 cups powdered sugar",
+    "1 Tbsp clear vanilla extract",
+    "1 tsp almond extract",
+    "1 tsp butter flavoring",
+    "1-2 Tbsp milk (regular or coconut)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Preheat the oven",
+   "body": "Preheat oven to 350°F."
+  },
+  {
+   "title": "Prepare the pans",
+   "body": "Grease 3 6-inch or 2 8-inch round pans."
+  },
+  {
+   "title": "Bring to room temperature",
+   "body": "Make sure all your ingredients are room temperature."
+  },
+  {
+   "title": "Mix the dry ingredients",
+   "body": "In a separate bowl, combine **2½ cups cake flour**, **1 tsp salt**, **½ tsp baking powder** and **½ tsp baking soda** and mix."
+  },
+  {
+   "title": "Cream the butter and sugar",
+   "body": "In your mixer fitted with the paddle attachment, blend **1 cup butter**, **1½ cups sugar**, **1 tsp vanilla extract**, **2 Tbsp lemon juice** and **2 Tbsp grated lemon peel** at medium speed until pale and fluffy."
+  },
+  {
+   "title": "Add the eggs",
+   "body": "Add **2 whole eggs** and **3 egg yolks**, one at a time, scraping the bowl after each addition."
+  },
+  {
+   "title": "Add flour and buttermilk",
+   "body": "Reduce speed to low and add **a cup of flour** followed by **⅓ of the buttermilk**."
+  },
+  {
+   "title": "Repeat",
+   "body": "Repeat this 3 times, until you have incorporated all the flour and buttermilk."
+  },
+  {
+   "title": "Bake",
+   "body": "Pour into pans evenly and bake about 20 minutes or until a knife is inserted and when removed is clean.",
+   "timerMin": 20
+  },
+  {
+   "title": "Cool",
+   "body": "Cool completely."
+  },
+  {
+   "title": "Whip the butter",
+   "body": "Beat **1 cup room temp butter** with paddle attachment until it turns white, about 4-5 minutes.",
+   "timerMin": 4
+  },
+  {
+   "title": "Add the sugar",
+   "body": "Incorporate **4 cups powdered sugar**, **1 cup** at a time."
+  },
+  {
+   "title": "Add the flavorings",
+   "body": "Add flavorings: **1 Tbsp clear vanilla extract**, **1 tsp almond extract** and **1 tsp butter flavoring**."
+  },
+  {
+   "title": "Adjust the consistency",
+   "body": "Adjust consistency by beating in **1-2 Tbsp milk** (regular or coconut) until frosting is at the desired texture."
+  }
+ ]
+}

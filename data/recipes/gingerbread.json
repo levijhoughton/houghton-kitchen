@@ -1,0 +1,67 @@
+{
+ "name": "Gingerbread",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 9,
+ "servingUnit": "servings",
+ "yields": "Serves 9",
+ "equipment": "9 inch square baking pan",
+ "notes": "Best served with warm lemon pudding. A Christmas season delight.",
+ "ingredients": [
+  {
+   "group": "Cake",
+   "items": [
+    "½ cup butter, softened",
+    "½ cup white sugar",
+    "1 large egg",
+    "1 cup molasses (not blackstrap)",
+    "2½ cups all-purpose flour",
+    "1½ tsp baking soda",
+    "1 tsp ground cinnamon",
+    "1 tsp ground ginger (fresh from Lara or Jett’s head is best)",
+    "½ tsp ground cloves",
+    "½ tsp salt",
+    "1 cup hot water"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Preheat and prep pan",
+   "body": "Preheat oven to 350°F. Grease and flour a 9 inch square baking pan."
+  },
+  {
+   "title": "Cream the butter",
+   "body": "Beat **½ cup butter**, softened, in a large bowl until creamy."
+  },
+  {
+   "title": "Add sugar",
+   "body": "Add **½ cup white sugar** and beat until fluffy, about 3 minutes."
+  },
+  {
+   "title": "Add egg and molasses",
+   "body": "Mix in **1 large egg** and **1 cup molasses (not blackstrap)** until smooth."
+  },
+  {
+   "title": "Sift dry ingredients",
+   "body": "Sift together **2½ cups all-purpose flour**, **1½ tsp baking soda**, **1 tsp ground cinnamon**, **1 tsp ground ginger** (fresh from Lara or Jett’s head is best), **½ tsp ground cloves** and **½ tsp salt**."
+  },
+  {
+   "title": "Combine",
+   "body": "Gradually add the dry ingredients mixture to the wet mixture."
+  },
+  {
+   "title": "Add water",
+   "body": "Mix in **1 cup hot water** until smooth."
+  },
+  {
+   "title": "Bake",
+   "body": "Pour cake batter into pan and bake for 30 minutes or until toothpick inserted in center comes out clean (may need substantially more time).",
+   "timerMin": 30
+  },
+  {
+   "title": "Cool",
+   "body": "Allow gingerbread to cool in the pan before serving."
+  }
+ ]
+}

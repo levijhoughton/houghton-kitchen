@@ -1,0 +1,60 @@
+{
+ "name": "Tom Kha",
+ "category": "Soups",
+ "protein": "Chicken & turkey",
+ "cuisine": "Thai",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "items": [
+    "2 cups chicken stock, unsalted, preferably homemade",
+    "1½ cups coconut milk",
+    "1 teaspoon kosher salt, or half the amount of table salt",
+    "1 lb boneless skinless chicken thighs",
+    "1 stalk lemongrass, bottom half only, smashed and cut into 2-inch pieces",
+    "12 thin slices galangal root",
+    "5 makrut lime leaves, roughly torn into big chunks, center stems removed",
+    "3–4 Thai chilies, bruised or cut into large pieces",
+    "2 tablespoons fish sauce",
+    "1 teaspoon finely chopped palm sugar, or granulated sugar",
+    "5.5 oz oyster mushrooms",
+    "2 carrots, peeled and diced",
+    "1 small onion, cut into medium pieces",
+    "2½ tablespoons lime juice",
+    "Chopped green onion and/or cilantro, for garnish",
+    "Jasmine rice, for serving"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Simmer the chicken",
+   "body": "Bring **1 teaspoon kosher salt** and **2 cups chicken stock** to a boil, then add **1 lb boneless skinless chicken thighs** and simmer for 15–20 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Add the aromatics",
+   "body": "Add **1½ cups coconut milk**, **12 thin slices galangal root**, **5 makrut lime leaves**, **1 stalk lemongrass**, half of the fish sauce, **1 small onion**, **2 carrots** and **1 teaspoon finely chopped palm sugar** (or granulated sugar). Simmer for 5 minutes.",
+   "timerMin": 5
+  },
+  {
+   "title": "Add the mushrooms",
+   "body": "Add **5.5 oz oyster mushrooms** and simmer for 1–2 minutes.",
+   "timerMin": 1
+  },
+  {
+   "title": "Season with lime",
+   "body": "Add fish sauce as needed, then turn off heat and add **2½ tablespoons lime juice**. Taste, and add more as needed."
+  },
+  {
+   "title": "Remove the aromatics",
+   "body": "Remove galangal root, lime leaves and lemongrass."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve as a side dish or with rice as a main dish."
+  }
+ ]
+}

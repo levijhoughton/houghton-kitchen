@@ -1,0 +1,81 @@
+{
+ "name": "Mac & Cheese",
+ "category": "Mains",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "Dutch oven, baking dish",
+ "ingredients": [
+  {
+   "group": "Pasta",
+   "items": [
+    "10 ounce large elbow macaroni"
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    "2 Tbsp canola oil",
+    "3 garlic cloves, crushed",
+    "1 cup unsalted chicken stock",
+    "1¼ chicken stock",
+    "½ cup 2% milk",
+    "8 Tbsp flour",
+    "4 ounces low fat cream cheese",
+    "½ tsp salt",
+    "¼ tsp black pepper"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "¾ cup shredded cheddar cheese"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the pasta",
+   "body": "Cook **10 ounce large elbow macaroni**."
+  },
+  {
+   "title": "Start the garlic",
+   "body": "Heat **2 Tbsp canola oil** and **3 garlic cloves, crushed** in a Dutch oven over medium heat, stirring frequently, until fragrant."
+  },
+  {
+   "title": "Add the stock",
+   "body": "Stir in **1 cup unsalted chicken stock**."
+  },
+  {
+   "title": "Make the roux",
+   "body": "In a bowl, whisk together **1¼ chicken stock**, **½ cup 2% milk** and **8 Tbsp flour**. Add to the garlic mixture and stir until thick."
+  },
+  {
+   "title": "Finish the sauce",
+   "body": "Remove from heat and add, stirring until smooth: **4 ounces low fat cream cheese**, **½ tsp salt** and **¼ tsp black pepper**."
+  },
+  {
+   "title": "Add the pasta",
+   "body": "Add the cooked pasta, tossing to coat. Let stand 5 minutes.",
+   "timerMin": 5
+  },
+  {
+   "title": "Pour and top",
+   "body": "Pour into a baking dish and sprinkle the top with **¾ cup shredded cheddar cheese**."
+  },
+  {
+   "title": "Broil",
+   "body": "Broil for 3 minutes under the oven broiler until the cheese melts.",
+   "timerMin": 3
+  },
+  {
+   "title": "Rest and serve",
+   "body": "Let stand another 5 minutes. Serve!",
+   "timerMin": 5
+  }
+ ],
+ "source": {
+  "label": "From Cooking Light"
+ }
+}

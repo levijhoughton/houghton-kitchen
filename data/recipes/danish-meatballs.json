@@ -1,0 +1,65 @@
+{
+ "name": "Danish Meatballs",
+ "subtitle": "Frikadeller",
+ "category": "Mains",
+ "protein": "Beef",
+ "cuisine": "Danish",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "Large skillet",
+ "notes": "Best if served with lingonberry jam.",
+ "ingredients": [
+  {
+   "group": "Meatballs",
+   "items": [
+    "¾ lb ground beef",
+    "1 lb ground pork",
+    "1 large onion, grated",
+    "½ cup breadcrumbs",
+    "4 Tbsp flour",
+    "2 eggs",
+    "½ tsp salt",
+    "¼ tsp pepper",
+    "¼ tsp nutmeg",
+    "2-3 cloves of garlic",
+    "½ tsp sage leaves",
+    "¼ to ½ cup half & half or milk"
+   ]
+  },
+  {
+   "group": "Gravy",
+   "items": [
+    "2 Tbsp drippings from Frickadeller",
+    "Tiny bit of butter if needed",
+    "6 Tbsp flour",
+    "2 cups heavy cream (milk works too)",
+    "2 Tbsp beef bouillon",
+    "Salt and pepper"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the meat",
+   "body": "Combine **¾ lb ground beef**, **1 lb ground pork** and **1 large onion**, grated."
+  },
+  {
+   "title": "Add the seasonings",
+   "body": "Add **½ cup breadcrumbs**, **4 Tbsp flour**, **2 eggs**, **½ tsp salt**, **¼ tsp pepper**, **¼ tsp nutmeg**, **2-3 cloves of garlic** and **½ tsp sage leaves**."
+  },
+  {
+   "title": "Add the half & half",
+   "body": "Add **¼ to ½ cup half & half or milk**, to bring to a slightly sticky consistency (you shouldn’t be able to form them into a ball)."
+  },
+  {
+   "title": "Fry the meatballs",
+   "body": "Coat a large skillet well with butter, drop heaping tablespoon size clumps onto the skillet. Fry the meatballs on medium-low heat until brown, pressing meat down lightly with a fork so it flattens a bit (like a fat hamburger), then flip (cook approx. 3-5 minutes per side).",
+   "timerMin": 3
+  },
+  {
+   "title": "Make the gravy",
+   "body": "For gravy: **2 Tbsp drippings from Frickadeller**, tiny bit of butter if needed, **6 Tbsp flour**, **2 cups heavy cream** (milk works too), **2 Tbsp beef bouillon**, salt and pepper."
+  }
+ ]
+}

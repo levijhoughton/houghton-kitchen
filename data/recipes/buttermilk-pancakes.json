@@ -1,0 +1,38 @@
+{
+ "name": "Buttermilk Pancakes",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "servings",
+ "yields": "Makes enough for 1–2, depending on how hungry the eaters are!",
+ "notes": "To substitute regular milk for buttermilk, add about 2 tsp lemon juice to 1 cup milk and let curdle before mixing with dry ingredients.",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "1 cup flour (may use whole wheat)",
+    "1 Tbsp sugar",
+    "1 tsp baking powder",
+    "½ tsp baking soda",
+    "½ tsp salt",
+    "1 egg",
+    "1 cup buttermilk",
+    "2 Tbsp shortening or oil"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Mix together: **1 cup flour** (may use whole wheat), **1 Tbsp sugar**, **1 tsp baking powder**, **½ tsp baking soda** and **½ tsp salt**."
+  },
+  {
+   "title": "Add the wet ingredients",
+   "body": "Add: **1 egg**, **1 cup buttermilk** and **2 Tbsp shortening or oil**."
+  },
+  {
+   "title": "Mix and cook",
+   "body": "Mix by hand until most lumps are gone. Cook on medium heat."
+  }
+ ]
+}

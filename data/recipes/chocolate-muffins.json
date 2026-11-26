@@ -1,0 +1,61 @@
+{
+ "name": "Chocolate Muffins",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 12,
+ "servingUnit": "muffins",
+ "yields": "Makes 12 muffins (150 cal each)",
+ "equipment": "standard 12-cup muffin tin",
+ "ingredients": [
+  {
+   "group": "Dry ingredients",
+   "items": [
+    "½ cup whole wheat flour",
+    "⅔ cup all-purpose flour",
+    "⅓ cup sugar",
+    "⅓ cup unsweetened cocoa powder",
+    "1 tsp baking soda",
+    "¼ tsp cinnamon",
+    "¼ tsp salt",
+    "½ cup chocolate chips"
+   ]
+  },
+  {
+   "group": "Wet ingredients",
+   "items": [
+    "2 large eggs",
+    "½ cup Greek yogurt (alternatively sour cream)",
+    "½ cup milk",
+    "¼ cup applesauce (alternatively oil or mashed banana)",
+    "1 tsp vanilla extract"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Preheat and grease",
+   "body": "Preheat oven to 350°F and grease a standard 12-cup muffin tin with spray."
+  },
+  {
+   "title": "Combine the dry ingredients",
+   "body": "Combine the dry ingredients in a large bowl: **½ cup whole wheat flour**, **⅔ cup all-purpose flour**, **⅓ cup sugar**, **⅓ cup unsweetened cocoa powder**, **1 tsp baking soda**, **¼ tsp cinnamon**, **¼ tsp salt** and **½ cup chocolate chips**."
+  },
+  {
+   "title": "Beat the wet ingredients",
+   "body": "In a medium bowl, beat together the wet ingredients: **2 large eggs**, **½ cup Greek yogurt** (alternatively sour cream), **½ cup milk**, **¼ cup applesauce** (alternatively oil or mashed banana) and **1 tsp vanilla extract**."
+  },
+  {
+   "title": "Mix the batter",
+   "body": "Make a well in the center of the dry ingredients and stir in the wet mixture until just moistened (don’t over-mix)."
+  },
+  {
+   "title": "Bake",
+   "body": "Put batter in the tin and bake for 12–15 minutes (until a toothpick comes out clean).",
+   "timerMin": 12
+  },
+  {
+   "title": "Cool",
+   "body": "Let cool on a wire rack, then enjoy."
+  }
+ ]
+}

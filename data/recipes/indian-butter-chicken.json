@@ -1,0 +1,52 @@
+{
+ "name": "Indian Butter Chicken",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "cuisine": "Indian",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "notes": "Tess discovered this recipe and after several rave reviews, we made it for the groom’s dinner the night before Luke and Lara’s wedding in 2016! Yum.",
+ "ingredients": [
+  {
+   "group": "Ingredients",
+   "items": [
+    "1 cup butter, divided",
+    "1 onion, minced",
+    "1 Tbsp minced garlic",
+    "1 × 15 oz can tomato sauce",
+    "3 cups heavy cream",
+    "2 tsp salt",
+    "1 tsp cayenne (I usually halve this)",
+    "1 tsp garam masala",
+    "1½ lb chicken, in bite-size pieces",
+    "2 Tbsp oil",
+    "2 Tbsp Tandoori Masala"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Caramelize the onion",
+   "body": "Sauté **1 onion, minced** in **a few Tbsp butter** to caramelize, about 15 min.",
+   "timerMin": 15
+  },
+  {
+   "title": "Bake the chicken",
+   "body": "Meanwhile, toss **1½ lb chicken** with **2 Tbsp oil** and **2 Tbsp Tandoori Masala**, then bake at 375°F until cooked through."
+  },
+  {
+   "title": "Simmer the sauce",
+   "body": "Melt remaining butter along with **1 Tbsp minced garlic**, **1 × 15 oz can tomato sauce**, **3 cups heavy cream**, **2 tsp salt**, **1 tsp cayenne**, and **1 tsp garam masala**. Simmer over low heat for 30 minutes, stirring occasionally.",
+   "timerMin": 30
+  },
+  {
+   "title": "Combine",
+   "body": "Add onions and cooked chicken."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve with basmati rice; add sautéed onions, coconut, sliced almonds, and raisins."
+  }
+ ]
+}

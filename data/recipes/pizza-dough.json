@@ -1,0 +1,54 @@
+{
+ "name": "Pizza Dough",
+ "subtitle": "Paul’s favorite",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "crusts",
+ "yields": "Makes about 2 crusts",
+ "notes": "Because we all know yeast makes suspension in water, not a solution.",
+ "source": {
+  "label": "Back of the Kroger flour bag"
+ },
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "2¼ tsp active dry yeast",
+    "¾ cup warm water",
+    "2 Tbsp extra virgin olive oil",
+    "1 Tbsp honey",
+    "1 tsp sea salt",
+    "2 cups all purpose flour"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Suspend the yeast",
+   "body": "Suspend **2¼ tsp active dry yeast** in **¾ cup warm water**, stir."
+  },
+  {
+   "title": "Add the remaining ingredients",
+   "body": "Add: **2 Tbsp extra virgin olive oil**, **1 Tbsp honey**, **1 tsp sea salt** and **2 cups all purpose flour**."
+  },
+  {
+   "title": "Form the dough",
+   "body": "Combine until a ball starts to form, then remove dough from the bowl and dust lightly with flour."
+  },
+  {
+   "title": "Rise",
+   "body": "Put floured dough in a lightly floured bowl, cover with a damp cloth, and place in a pre-warmed oven (less than 130°F). Allow dough to rise until almost double, approximately 45 minutes.",
+   "timerMin": 45
+  },
+  {
+   "title": "Divide and roll",
+   "body": "Divide the dough into 2 separate balls and roll thin. Pierce crust with fork."
+  },
+  {
+   "title": "Top and bake",
+   "body": "Top with toppings of your choice and bake at 450°F for 12 to 18 minutes.",
+   "timerMin": 12
+  }
+ ]
+}

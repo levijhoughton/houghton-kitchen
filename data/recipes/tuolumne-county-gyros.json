@@ -1,0 +1,78 @@
+{
+ "name": "Tuolumne County Gyros",
+ "category": "Mains",
+ "protein": "Beef",
+ "cuisine": "Greek",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "yields": "Serves 4; makes 6–8 gyros",
+ "equipment": "Large cookie sheets",
+ "notes": "As close to the real thing as you can get in TC!",
+ "ingredients": [
+  {
+   "group": "Pita Bread",
+   "items": [
+    "2¾+ cups flour (can do half whole wheat)",
+    "1 tsp salt",
+    "2 tsp yeast",
+    "1 Tbsp olive oil",
+    "1 tsp honey",
+    "1⅛ cups warm water (may need to add just a bit more to get a pliable dough)"
+   ]
+  },
+  {
+   "group": "Sauce",
+   "items": [
+    "8 oz plain yogurt",
+    "⅓ cup chopped seeded cucumber",
+    "2 Tbsp finely chopped onions",
+    "1 garlic clove, minced",
+    "1 tsp sugar"
+   ]
+  },
+  {
+   "group": "Meat",
+   "items": [
+    "1 lb ground beef or ground turkey",
+    "1½ tsp oregano",
+    "1 tsp garlic powder",
+    "1 tsp onion powder",
+    "1 tsp salt",
+    "¾ tsp pepper"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dough",
+   "body": "Mix dry ingredients (**2¾+ cups flour**, **1 tsp salt** and **2 tsp yeast**). Add wet (**1 Tbsp olive oil**, **1 tsp honey** and **1⅛ cups warm water**, may need to add just a bit more to get a pliable dough). Mix and knead for 5 min."
+  },
+  {
+   "title": "Rest the dough",
+   "body": "Let rest for 1 hour.",
+   "timerMin": 60
+  },
+  {
+   "title": "Heat the cookie sheets",
+   "body": "Put two large cookie sheets in the oven, and heat to 450°F."
+  },
+  {
+   "title": "Shape the discs",
+   "body": "Press dough down and form **9 discs**. Roll each disc out to about a 7” circle."
+  },
+  {
+   "title": "Bake the pita",
+   "body": "Place on hot cookie sheets about two at a time. Bake for 4–5 minutes per batch. They should puff up beautifully.",
+   "timerMin": 4
+  },
+  {
+   "title": "Cook the meat",
+   "body": "Mix **1 lb ground beef or ground turkey**, **1½ tsp oregano**, **1 tsp garlic powder**, **1 tsp onion powder**, **1 tsp salt** and **¾ tsp pepper**. Form into patties and broil. Then cut patties into ¼–½” slices."
+  },
+  {
+   "title": "Assemble the gyros",
+   "body": "Serve meat slices in pita bread (folded like tacos), topped with tomato, onion, lettuce, and sauce."
+  }
+ ]
+}

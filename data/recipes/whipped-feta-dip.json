@@ -1,0 +1,52 @@
+{
+ "name": "Whipped Feta Dip",
+ "category": "Appetizers",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "source": {
+  "label": "Once Upon a Chef",
+  "url": "https://www.onceuponachef.com/recipes/creamy-whipped-feta-dip.html"
+ },
+ "ingredients": [
+  {
+   "group": "Dip",
+   "items": [
+    "8 oz block feta cheese",
+    "½ cup sour cream",
+    "½ cup mayonnaise, best quality such as Hellman’s or Duke’s",
+    "Zest from 1 lemon (about 1 tsp, packed)",
+    "1 small clove garlic, chopped",
+    "¼ tsp dried dill",
+    "¼ tsp dried oregano",
+    "¼ tsp dried thyme",
+    "⅛ tsp salt",
+    "¼ tsp freshly ground black pepper",
+    "⅛ tsp crushed red pepper flakes, plus more for serving"
+   ]
+  },
+  {
+   "group": "To serve",
+   "items": [
+    "Toasted sesame seeds",
+    "Extra virgin olive oil, for drizzling",
+    "Toasted pita wedges (or pita chips) and/or sliced vegetables"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Blend the dip",
+   "body": "Combine all the ingredients in a food processor or blender and process until smooth: **8 oz block feta cheese**, **½ cup sour cream**, **½ cup mayonnaise**, **zest from 1 lemon** (about 1 tsp, packed), **1 small clove garlic**, chopped, **¼ tsp dried dill**, **¼ tsp dried oregano**, **¼ tsp dried thyme**, **⅛ tsp salt**, **¼ tsp freshly ground black pepper** and **⅛ tsp crushed red pepper flakes**."
+  },
+  {
+   "title": "Season",
+   "body": "Taste and adjust seasoning, if necessary."
+  },
+  {
+   "title": "Swirl and garnish",
+   "body": "Transfer to a serving bowl and use a small spoon to create a swirl on the surface of the dip. Drizzle with olive oil and sprinkle with toasted sesame seeds and crushed red pepper flakes, if using."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "name": "Turkey Tetrazzini",
+ "subtitle": "By Emeril Lagasse",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×13 pan",
+ "equipment": "Large frying pan, 9×13 casserole or baking dish",
+ "ingredients": [
+  {
+   "group": "Tetrazzini",
+   "items": [
+    "6 Tbsp unsalted butter (or use salted butter and add less salt later)",
+    "1½ cups chopped onions",
+    "½ cup chopped red bell peppers",
+    "1 tsp minced garlic",
+    "1 pound white button mushrooms, ends trimmed and sliced",
+    "1½ tsp Essence (recipe follows)",
+    "½ tsp freshly chopped thyme leaves",
+    "¼ cup all purpose flour",
+    "¼ cup dry white wine (or just substitute more stock)",
+    "2 cups chicken stock or low-sodium canned chicken broth",
+    "1¾ cups heavy cream",
+    "12 ounces wide egg noodles, cooked in salted water until al dente, about 10 minutes",
+    "1 pound cubed or bite-size shredded roast turkey",
+    "1 Tbsp freshly chopped parsley leaves",
+    "1½ tsp salt",
+    "¾ tsp freshly ground black pepper",
+    "⅓ cup freshly grated Parmesan",
+    "1 (5½ ounce) bag potato chips, crushed"
+   ]
+  },
+  {
+   "group": "Emeril’s Essence Creole Seasoning",
+   "items": [
+    "2½ Tbsp paprika",
+    "2 Tbsp salt",
+    "2 Tbsp garlic powder",
+    "1 Tbsp black pepper",
+    "1 Tbsp onion powder",
+    "1 Tbsp cayenne pepper",
+    "1 Tbsp dried oregano",
+    "1 Tbsp dried thyme"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Prep the pan",
+   "body": "Preheat the oven to 375°F. Butter a 9×13 casserole or baking dish and set it aside."
+  },
+  {
+   "title": "Saute the vegetables",
+   "body": "In a large frying pan, saute over high heat until soft, about 4 minutes: **6 Tbsp unsalted butter**, **1½ cups chopped onions** and **½ cup chopped red bell peppers**."
+  },
+  {
+   "title": "Add the garlic",
+   "body": "Add **1 tsp minced garlic** and saute about 2 minutes."
+  },
+  {
+   "title": "Add the mushrooms",
+   "body": "Add **1 pound white button mushrooms**, ends trimmed and sliced, **1½ tsp Essence** (recipe follows) and **½ tsp freshly chopped thyme leaves**. Cook, stirring occasionally, until the mushrooms have released their liquid, about 6 minutes."
+  },
+  {
+   "title": "Add the flour",
+   "body": "Sprinkle over the mixture **¼ cup all purpose flour** and cook, stirring, for 2 minutes."
+  },
+  {
+   "title": "Add the wine and stock",
+   "body": "Add **¼ cup dry white wine** (or just substitute more stock) and **2 cups chicken stock or low-sodium canned chicken broth**. Cook, stirring, until smooth and thick, about 2 minutes."
+  },
+  {
+   "title": "Add the cream and simmer",
+   "body": "Add **1¾ cups heavy cream**. Bring to a boil, then reduce the heat to medium and simmer, stirring occasionally, until the sauce is thick enough to coat the back of a spoon and very flavorful, 15 to 20 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Add the noodles and turkey",
+   "body": "Then add and stir until thoroughly combined: **12 ounces wide egg noodles**, cooked in salted water until al dente, about 10 minutes; **1 pound cubed or bite-size shredded roast turkey**; **1 Tbsp freshly chopped parsley leaves**; **1½ tsp salt**; **¾ tsp freshly ground black pepper**; and **⅓ cup freshly grated Parmesan**."
+  },
+  {
+   "title": "Top the casserole",
+   "body": "Transfer to the buttered baking dish and top with **1 (5½ ounce) bag potato chips**, crushed."
+  }
+ ]
+}

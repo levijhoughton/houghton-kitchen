@@ -1,0 +1,49 @@
+{
+ "name": "Berries ‘n Cream Pie",
+ "subtitle": "From Jeff’s Aunt Sarah",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pie",
+ "notes": "This recipe came from Jeff’s Aunt Sarah—it’s super tasty and super easy!",
+ "ingredients": [
+  {
+   "group": "Pie",
+   "items": [
+    "9-inch uncooked pie shell",
+    "3 cups boysenberries or blackberries",
+    "1 cup heavy whipping cream",
+    "¼ cup flour",
+    "⅔ cup sugar",
+    "1 tsp cinnamon"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Preheat the oven",
+   "body": "Preheat the oven to 350°F."
+  },
+  {
+   "title": "Add the berries",
+   "body": "Pour **3 cups boysenberries or blackberries** into the unbaked pie crust."
+  },
+  {
+   "title": "Make the custard",
+   "body": "In a mixing bowl, whisk together **⅔ cup sugar**, **¼ cup flour** and **1 tsp cinnamon** with **1 cup heavy whipping cream**."
+  },
+  {
+   "title": "Pour and bake",
+   "body": "Pour mixture over the berries, and then bake the pie for about one hour, covering the edges of the crust with foil about halfway through the baking time to keep the crust from over-browning.",
+   "timerMin": 60
+  },
+  {
+   "title": "Check for doneness",
+   "body": "You can tell your pie is done when the edges have slightly puffed and the center slightly wobbles when you move the pie."
+  },
+  {
+   "title": "Cool and chill",
+   "body": "Remove the pie to a wire rack to cool completely. Then refrigerate and allow the pie to chill completely before serving."
+  }
+ ]
+}

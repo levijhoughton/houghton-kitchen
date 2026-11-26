@@ -1,0 +1,28 @@
+{
+ "name": "Pink Salad Dressing",
+ "category": "Salads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "notes": "A sweet dressing, fabulous on greens with cranberries, Granny Smith apples, bacon, and sugared nuts!",
+ "ingredients": [
+  {
+   "group": "Dressing",
+   "items": [
+    "½ cup red onion",
+    "2 tsp dry mustard",
+    "1 cup sugar",
+    "¼ cup cider vinegar",
+    "1½ tsp salt",
+    "¼ cup red wine vinegar",
+    "1 cup canola oil"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Blend the dressing",
+   "body": "Mix in blender: **½ cup red onion**, **2 tsp dry mustard**, **1 cup sugar**, **¼ cup cider vinegar**, **1½ tsp salt**, **¼ cup red wine vinegar** and **1 cup canola oil**."
+  }
+ ]
+}

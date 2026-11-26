@@ -1,0 +1,54 @@
+{
+ "name": "French Bread",
+ "subtitle": "By the Cafeteria Lady",
+ "category": "Yeast breads",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "loaves",
+ "yields": "Makes 2 loaves",
+ "equipment": "Mixer with dough hook",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "5 cups bread flour (may use regular flour)",
+    "1 Tbsp salt",
+    "2 Tbsp sugar",
+    "2 Tbsp yeast",
+    "1 Tbsp oil or melted margarine",
+    "2½ cups warm water"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Combine in mixer with dough hook: **5 cups bread flour** (may use regular flour), **1 Tbsp salt**, **2 Tbsp sugar** and **2 Tbsp yeast**."
+  },
+  {
+   "title": "Add the wet ingredients",
+   "body": "Add: **1 Tbsp oil or melted margarine** and **2½ cups warm water**."
+  },
+  {
+   "title": "Add more flour",
+   "body": "Mix and add up to **2 cups more flour** until the dough doesn’t stick to the sides of the bowl when the mixer is running. Mix about 5 more minutes."
+  },
+  {
+   "title": "First rise",
+   "body": "Then let rise until double."
+  },
+  {
+   "title": "Shape the loaves",
+   "body": "Mix again in a mixer for about 5 minutes. Shape into loaves and place on greased pan/s."
+  },
+  {
+   "title": "Second rise",
+   "body": "Let rise again until about double. May brush with egg-white and water."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 450°F for 25 minutes.",
+   "timerMin": 25
+  }
+ ]
+}

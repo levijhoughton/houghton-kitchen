@@ -1,0 +1,80 @@
+{
+ "name": "Baklava",
+ "subtitle": "From Ginger",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "pans",
+ "equipment": "Blender, jelly roll size sheet, sharp chef knife, wax paper",
+ "notes": "At the 2012 TCA meet, one taster declared, “This is the best thing I have ever tasted!” Best if eaten within 24 hours of baking. Not likely to last much longer anyway unless you have a very good hiding spot.",
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "1½ cups nuts (walnuts or pecans)",
+    "¾ cup sugar",
+    "½ tsp cinnamon"
+   ]
+  },
+  {
+   "group": "Dough",
+   "items": [
+    "1 box phyllo dough (generally purchased in the freezer section), thawed"
+   ]
+  },
+  {
+   "group": "Butter",
+   "items": [
+    "½ cup butter for each half of the dough"
+   ]
+  },
+  {
+   "group": "Syrup",
+   "items": [
+    "½ cup water",
+    "1½ cups sugar",
+    "½ tsp lemon juice"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the filling",
+   "body": "Prepare filling in blender, until fine: **1½ cups nuts** (walnuts or pecans), **¾ cup sugar** and **½ tsp cinnamon**."
+  },
+  {
+   "title": "Prepare the phyllo",
+   "body": "Using **1 box phyllo dough** (generally purchased in the freezer section), thawed, and cut in half, work with one half of dough at a time, keep the second covered to retain moisture (modern phyllo dough already comes split in two packages per box). Place dough on a jelly roll size sheet."
+  },
+  {
+   "title": "Add the filling",
+   "body": "Remove the top half of the layers, and spread half of the nut/sugar filling mixture over the dough. Replace the top layers, and using a sharp chef knife, cut into 2-inch squares, then each square in half to make triangles."
+  },
+  {
+   "title": "Butter the triangles",
+   "body": "Drizzle over cut triangles: **½ cup butter**."
+  },
+  {
+   "title": "Repeat for the second half",
+   "body": "Repeat for the second half of the dough, using the remainder of the filling, and another **½ cup butter**."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 20 minutes at 325°F, then for about 20 more minutes at 300°F, until golden brown—not too dark, but not too light.",
+   "timerMin": 20
+  },
+  {
+   "title": "Make the syrup",
+   "body": "Prepare syrup by boiling for 1 minute: **½ cup water** and **1½ cups sugar**. Add **½ tsp lemon juice**.",
+   "timerMin": 1
+  },
+  {
+   "title": "Drizzle the syrup",
+   "body": "Drizzle half of syrup over each pan of cookies as it comes out of the oven. Remove baklava to wax paper before sugar cools."
+  },
+  {
+   "title": "Store",
+   "body": "Store in an airtight container."
+  }
+ ]
+}

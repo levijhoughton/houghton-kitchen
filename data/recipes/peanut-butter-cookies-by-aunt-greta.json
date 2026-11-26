@@ -1,0 +1,54 @@
+{
+ "name": "Peanut Butter Cookies",
+ "subtitle": "By Aunt Greta",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "1 cup brown sugar, packed",
+    "1 cup granulated sugar",
+    "1 cup salted butter, softened",
+    "2 large eggs",
+    "2 tsp vanilla",
+    "1 cup peanut butter, crunchy if possible",
+    "2½ cups flour",
+    "½ tsp baking soda",
+    "½ tsp baking powder",
+    "½ tsp salt",
+    "1 cup roasted salted peanuts, chopped fine",
+    "Chocolate chips, if desired"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the sugars and butter",
+   "body": "Beat together **1 cup brown sugar**, packed, **1 cup granulated sugar** and **1 cup salted butter**, softened."
+  },
+  {
+   "title": "Add eggs, vanilla and peanut butter",
+   "body": "Add **2 large eggs**, **2 tsp vanilla** and **1 cup peanut butter**, crunchy if possible."
+  },
+  {
+   "title": "Mix in the dry ingredients",
+   "body": "Mix in **2½ cups flour**, **½ tsp baking soda**, **½ tsp baking powder** and **½ tsp salt**."
+  },
+  {
+   "title": "Add the peanuts",
+   "body": "Add **1 cup roasted salted peanuts**, chopped fine, and chocolate chips if desired."
+  },
+  {
+   "title": "Shape the balls",
+   "body": "Roll into 1½–2-inch balls and place on a cookie sheet. Press balls with forks or potato masher."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 350°F for about 10–12 minutes (puffed and slightly brown along edges).",
+   "timerMin": 10
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Chicken Marbella",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "Pan or Dutch oven",
+ "notes": "First enjoyed for Sunday dinner (via dutch oven) at Lake Tahoe in August 2018. For Dutch oven, this takes about 9 coals on bottom and 18 coals on top.",
+ "ingredients": [
+  {
+   "group": "Marinade",
+   "items": [
+    "1 cup chopped prunes",
+    "1 cup green olives, pitted and halved",
+    "½ cup dry white wine",
+    "¼ cup capers",
+    "¼ cup red wine vinegar",
+    "6 cloves garlic, roughly chopped",
+    "2 Tbsp dried oregano",
+    "2 bay leaves",
+    "1 tsp salt",
+    "4 chicken thighs, skin on"
+   ]
+  },
+  {
+   "group": "Cooking",
+   "items": [
+    "1 Tbsp olive oil",
+    "1 tsp brown sugar"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Marinate",
+   "body": "Combine in a bowl or a ziploc bag, and marinate for 6–48 hours: **1 cup chopped prunes**, **1 cup green olives**, pitted and halved, **½ cup dry white wine**, **¼ cup capers**, **¼ cup red wine vinegar**, **6 cloves garlic**, roughly chopped, **2 Tbsp dried oregano**, **2 bay leaves**, **1 tsp salt** and **4 chicken thighs**, skin on.",
+   "timerMin": 360
+  },
+  {
+   "title": "Brown the thighs",
+   "body": "Heat **1 Tbsp olive oil** in a pan. When hot, remove the chicken from the marinade and dust with **1 tsp brown sugar** over the skin side of each thigh. Brown the thighs skin side down over high heat until the skin is crispy and deep golden brown, about 6–8 minutes. Flip to brown the other side for 2 minutes."
+  },
+  {
+   "title": "Bake",
+   "body": "Add remainder of marinade and cover pan, then bake at about 350°F for 30 minutes until thigh juices run clear. Serve over couscous.",
+   "timerMin": 30
+  }
+ ]
+}

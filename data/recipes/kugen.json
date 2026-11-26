@@ -1,0 +1,57 @@
+{
+ "name": "Kugen",
+ "subtitle": "Dad approved",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×9 pan",
+ "yields": "Makes one 9×9 pan",
+ "equipment": "9×9 pan",
+ "notes": "Typically eaten for General Conference as a side to a large slice of butter.",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "¾ cup sugar",
+    "2 Tbsp shortening (not softened)",
+    "1 egg",
+    "1 cup milk",
+    "1 tsp vanilla",
+    "½ cup raisins (optional)",
+    "2 cups flour",
+    "4 tsp baking powder",
+    "½ tsp salt",
+    "1 tsp cinnamon",
+    "¼ tsp nutmeg",
+    "½ cup nuts (optional)"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "¼ cup flour",
+    "¼ cup sugar",
+    "¼ cup brown sugar",
+    "¼ cup softened butter (not melted)",
+    "½ tsp cinnamon",
+    "Dash nutmeg",
+    "Optional nuts"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the batter",
+   "body": "Mix: **¾ cup sugar**, **2 Tbsp shortening** (not softened), **1 egg**, **1 cup milk**, **1 tsp vanilla**, **½ cup raisins** (optional), **2 cups flour**, **4 tsp baking powder**, **½ tsp salt**, **1 tsp cinnamon**, **¼ tsp nutmeg** and **½ cup nuts** (optional)."
+  },
+  {
+   "title": "Cut in the topping",
+   "body": "Cut together with pastry cutter: **¼ cup flour**, **¼ cup sugar**, **¼ cup brown sugar**, **¼ cup softened butter** (not melted), **½ tsp cinnamon**, dash nutmeg and optional nuts."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 30–40 minutes at 350°F, or until a toothpick comes out of the center clean.",
+   "timerMin": 30
+  }
+ ]
+}

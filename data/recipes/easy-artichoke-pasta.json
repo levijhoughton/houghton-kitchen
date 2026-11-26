@@ -1,0 +1,41 @@
+{
+ "name": "Easy Artichoke Pasta",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "Large pot or straight-sided skillet",
+ "notes": "First discovered by a pregnant and exhausted Eliza, who was happy to find a recipe that was one bowl, almost no prep, and delicious!",
+ "ingredients": [
+  {
+   "group": "Pasta",
+   "items": [
+    "12 oz pasta",
+    "12 oz cooked chicken sausages, sliced",
+    "1 × 12 oz can marinated artichoke hearts, juices included, chopped",
+    "1 bunch spinach (or frozen spinach)",
+    "4½–5 cups water",
+    "1½ Tbsp chicken bullion (or chicken broth for the water, omitting bullion)",
+    "2 Tbsp olive oil",
+    "½ tsp black pepper",
+    "Salt, as needed",
+    "Parmesan cheese, for topping"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Combine everything",
+   "body": "Combine in large pot or straight-sided skillet: **12 oz pasta**, **12 oz cooked chicken sausages**, sliced, **1 × 12 oz can marinated artichoke hearts**, juices included, chopped, **1 bunch spinach** (or sub frozen spinach), **4½–5 cups water**, **1½ Tbsp chicken bullion** (or substitute chicken broth for the water and omit bullion), **2 Tbsp olive oil** and **½ tsp black pepper**."
+  },
+  {
+   "title": "Cook until saucy",
+   "body": "Put on high heat and stir constantly until pasta is cooked and liquid is almost gone (just a little bit saucy)."
+  },
+  {
+   "title": "Season and top",
+   "body": "Taste and add salt as needed. Top with parmesan cheese."
+  }
+ ]
+}

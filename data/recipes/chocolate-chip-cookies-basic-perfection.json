@@ -1,0 +1,76 @@
+{
+ "name": "Chocolate Chip Cookies",
+ "subtitle": "Basic Perfection, found by Marta",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "ingredients": [
+  {
+   "group": "Cream",
+   "items": [
+    "1 cup salted butter, barely softened",
+    "1 cup white (granulated) sugar",
+    "1 cup light brown sugar, packed"
+   ]
+  },
+  {
+   "group": "Beat in",
+   "items": [
+    "2 tsp vanilla extract",
+    "2 large eggs"
+   ]
+  },
+  {
+   "group": "Dry ingredients",
+   "items": [
+    "3 cups all-purpose flour",
+    "1 tsp baking soda",
+    "½ tsp baking powder",
+    "1 tsp sea salt"
+   ]
+  },
+  {
+   "group": "Add-in",
+   "items": [
+    "12 oz (2 cups) chocolate chips"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Preheat",
+   "body": "Preheat oven to 375°F."
+  },
+  {
+   "title": "Cream the butter and sugars",
+   "body": "In main mixing bowl, cream together: **1 cup salted butter**, barely softened, **1 cup white (granulated) sugar** and **1 cup light brown sugar**, packed."
+  },
+  {
+   "title": "Beat in",
+   "body": "Then beat in: **2 tsp vanilla extract** and **2 large eggs**."
+  },
+  {
+   "title": "Mix the dry ingredients",
+   "body": "In a separate bowl, mix: **3 cups all-purpose flour**, **1 tsp baking soda**, **½ tsp baking powder** and **1 tsp sea salt**."
+  },
+  {
+   "title": "Combine",
+   "body": "Mix in dry ingredients and add **12 oz (2 cups) chocolate chips**."
+  },
+  {
+   "title": "Shape",
+   "body": "Mix well and roll into balls of 2-3 Tbsp."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 8-10 minutes, pulling them out when they are barely starting to brown.",
+   "timerMin": 8
+  },
+  {
+   "title": "Cool",
+   "body": "Let sit on the baking pan for 2 minutes before removing to a cooling rack.",
+   "timerMin": 2
+  }
+ ]
+}

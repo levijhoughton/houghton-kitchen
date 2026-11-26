@@ -1,0 +1,57 @@
+{
+ "name": "Egg Drop Soup",
+ "category": "Soups",
+ "protein": "Meatless",
+ "cuisine": "Chinese",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "yields": "Makes 6 servings",
+ "time": "Prep 5 min, cook 15 min, total 20 min",
+ "source": {
+  "label": "From Allrecipes, recipe 173738",
+  "url": "http://allrecipes.com/recipe/173738/easy-egg-drop-soup/"
+ },
+ "ingredients": [
+  {
+   "items": [
+    "6 cups chicken broth",
+    "1 bunch chopped green onions (or 1 Tbsp dried chopped onion)",
+    "¼ tsp white sugar",
+    "2 Tbsp soy sauce",
+    "3 Tbsp cornstarch",
+    "⅓ cup cold water",
+    "2–3 eggs (2 large, 3 if smaller or medium)",
+    "2 Tbsp cold water",
+    "Dash ground ginger",
+    "¼ tsp garlic powder",
+    "1 can whole kernel sweet corn, drained"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Heat the broth",
+   "body": "Heat **6 cups chicken broth** and **1 bunch chopped green onions** in a large pot over medium-high heat."
+  },
+  {
+   "title": "Thicken the broth",
+   "body": "Mix **¼ tsp white sugar**, **2 Tbsp soy sauce**, **3 Tbsp cornstarch** and **⅓ cup cold water** in a bowl until smooth. Reduce heat and stir the soy sauce mixture into the broth. Boil soup on high for 1 minute, then reduce heat to medium-low.",
+   "timerMin": 1
+  },
+  {
+   "title": "Add the eggs",
+   "body": "Beat **3 eggs** with **2 Tbsp cold water**. Using a fork, stir the egg mixture into the soup and cook until eggs are opaque, about 2 minutes.",
+   "timerMin": 2
+  },
+  {
+   "title": "Add the corn",
+   "body": "Add **1 can whole kernel sweet corn**, drained. Turn heat to medium low and cook for about 3–5 minutes.",
+   "timerMin": 3
+  },
+  {
+   "title": "Serve",
+   "body": "Serve warm."
+  }
+ ]
+}

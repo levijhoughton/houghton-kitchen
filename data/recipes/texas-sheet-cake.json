@@ -1,0 +1,61 @@
+{
+ "name": "Texas Sheet Cake",
+ "subtitle": "Levi’s favorite",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 35,
+ "servingUnit": "servings",
+ "yields": "Makes 35 servings",
+ "equipment": "10×15 pan",
+ "notes": "Who are we kidding, a much smaller crowd could clean one of these up in no time. Walnuts were definitely not approved by Levi, but they are yummy anyway.",
+ "ingredients": [
+  {
+   "group": "Cake",
+   "items": [
+    "1 cup butter",
+    "1 cup water",
+    "5 Tbsp cocoa powder",
+    "2 cups flour",
+    "2 cups white sugar",
+    "1 tsp baking soda",
+    "½ tsp salt",
+    "2 eggs",
+    "½ cup sour cream"
+   ]
+  },
+  {
+   "group": "Frosting",
+   "items": [
+    "6 Tbsp milk",
+    "5 Tbsp cocoa powder",
+    "½ cup butter",
+    "4 cups powdered sugar",
+    "1 tsp vanilla",
+    "1 cup chopped walnuts"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Melt the butter",
+   "body": "Melt in a saucepan and whisk: **1 cup butter**, **1 cup water** and **5 Tbsp cocoa powder**."
+  },
+  {
+   "title": "Mix the dry ingredients",
+   "body": "Combine and mix in with whisk: **2 cups flour**, **2 cups white sugar**, **1 tsp baking soda** and **½ tsp salt**."
+  },
+  {
+   "title": "Add eggs and sour cream",
+   "body": "Mix in with whisk: **2 eggs** and **½ cup sour cream**."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake at 350°F for 20 minutes in a greased 10×15 pan.",
+   "timerMin": 20
+  },
+  {
+   "title": "Frost",
+   "body": "Frost while still warm with this frosting: **6 Tbsp milk**, **5 Tbsp cocoa powder**, **½ cup butter**, **4 cups powdered sugar**, **1 tsp vanilla** and **1 cup chopped walnuts**."
+  }
+ ]
+}

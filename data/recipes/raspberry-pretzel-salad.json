@@ -1,0 +1,80 @@
+{
+ "name": "Raspberry Pretzel “Salad”",
+ "subtitle": "Introduced by Chloe",
+ "category": "Extras",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "10×12 pan",
+ "equipment": "10×12 pan, electric mixer",
+ "notes": "A favorite for celebratory meals. Always requested by Mark.",
+ "ingredients": [
+  {
+   "group": "Crust",
+   "items": [
+    "3 cups tiny pretzel twists, crushed",
+    "¼ sugar",
+    "8 Tbsp melted butter"
+   ]
+  },
+  {
+   "group": "Cream layer",
+   "items": [
+    "16 ounces cream cheese, softened",
+    "1 cup sugar",
+    "1 tsp vanilla",
+    "8 ounces frozen whipped topping, thawed"
+   ]
+  },
+  {
+   "group": "Raspberry layer",
+   "items": [
+    "6 ounces raspberry jello",
+    "1 cup boiling water",
+    "1 cup very cold water or water and ice cubes",
+    "16 ounces frozen raspberries"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the crust",
+   "body": "For the bottom “crust,” mix together **3 cups tiny pretzel twists**, crushed, **¼ sugar** and **8 Tbsp melted butter**, and press into a 10×12 pan."
+  },
+  {
+   "title": "Bake the crust",
+   "body": "Bake 10 minutes at 350°F, then set aside to cool.",
+   "timerMin": 10
+  },
+  {
+   "title": "Beat the cream cheese",
+   "body": "In a large bowl, with an electric mixer, beat together for about 5 minutes: **16 ounces cream cheese**, softened, **1 cup sugar** and **1 tsp vanilla**.",
+   "timerMin": 5
+  },
+  {
+   "title": "Fold in the topping",
+   "body": "Fold in **8 ounces frozen whipped topping**, thawed."
+  },
+  {
+   "title": "Spread the cream layer",
+   "body": "Spread cream mixture over the cooled crust, all the way to the edges, then cover and refrigerate."
+  },
+  {
+   "title": "Cool the layers",
+   "body": "Let the first two layers cool for an hour.",
+   "timerMin": 60
+  },
+  {
+   "title": "Make the raspberry layer",
+   "body": "Whisk together until jello is dissolved: **6 ounces raspberry jello** and **1 cup boiling water**."
+  },
+  {
+   "title": "Add the cold water",
+   "body": "Stir in **1 cup very cold water** or water and ice cubes, and **16 ounces frozen raspberries**."
+  },
+  {
+   "title": "Chill until firm",
+   "body": "Spoon onto the cream cheese filling and spread to form an even layer, then refrigerate until firm (4–6 hours) before serving.",
+   "timerMin": 240
+  }
+ ]
+}

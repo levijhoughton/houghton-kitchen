@@ -1,0 +1,74 @@
+{
+ "name": "Almond Joy Cookies",
+ "subtitle": "From Geri",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "equipment": "Cookie sheets",
+ "notes": "How can you go wrong with chocolate and coconut?",
+ "ingredients": [
+  {
+   "group": "Dry ingredients",
+   "items": [
+    "4½ cups flour",
+    "2 tsp baking soda",
+    "1 tsp salt"
+   ]
+  },
+  {
+   "group": "Wet ingredients",
+   "items": [
+    "1 cup butter",
+    "1½ cups white sugar",
+    "1½ cups brown sugar",
+    "4 eggs",
+    "3 tsp vanilla"
+   ]
+  },
+  {
+   "group": "Mix-ins",
+   "items": [
+    "5 cups chocolate chips",
+    "2 cups sweetened coconut",
+    "2 cups chopped almonds"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Combine the dry ingredients",
+   "body": "Combine and set aside: **4½ cups flour**, **2 tsp baking soda** and **1 tsp salt**."
+  },
+  {
+   "title": "Cream the butter and sugar",
+   "body": "In a large bowl, cream together: **1 cup butter**, **1½ cups white sugar** and **1½ cups brown sugar**."
+  },
+  {
+   "title": "Add the eggs",
+   "body": "Beat in, one at a time: **4 eggs**."
+  },
+  {
+   "title": "Add the vanilla",
+   "body": "Stir in **3 tsp vanilla**."
+  },
+  {
+   "title": "Add the dry ingredients",
+   "body": "Stir in the dry ingredients until well mixed."
+  },
+  {
+   "title": "Add the mix-ins",
+   "body": "Then add: **5 cups chocolate chips**, **2 cups sweetened coconut** and **2 cups chopped almonds**."
+  },
+  {
+   "title": "Drop and bake",
+   "body": "Drop by rounded tablespoonfuls onto lightly greased cookie sheets. Bake at 375°F for 8 to 10 minutes.",
+   "timerMin": 8
+  },
+  {
+   "title": "Cool",
+   "body": "Let cool on the baking sheet for 5 minutes before removing to a wire rack to cool completely.",
+   "timerMin": 5
+  }
+ ]
+}

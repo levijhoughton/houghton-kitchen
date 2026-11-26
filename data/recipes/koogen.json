@@ -1,0 +1,71 @@
+{
+ "name": "Koogen",
+ "subtitle": "Lara approved",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "cake",
+ "equipment": "10-cup Bundt or 9-inch springform pan",
+ "notes": "Typically served on its own.",
+ "ingredients": [
+  {
+   "group": "Filling",
+   "items": [
+    "1 cup walnuts or pecans, chopped to medium pieces",
+    "¼ cup granulated sugar",
+    "¼ cup light brown sugar",
+    "2 teaspoons ground cinnamon"
+   ]
+  },
+  {
+   "group": "Cake batter",
+   "items": [
+    "⅔ cup butter",
+    "1 cup granulated sugar",
+    "2 eggs, large",
+    "1 teaspoon vanilla",
+    "2 cups or 350 grams Pamela’s Baking & Pancake Mix",
+    "1 cup sour cream"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Preheat and grease the pan",
+   "body": "Preheat the oven to 350°F. Grease 10-cup Bundt or 9-inch springform pan."
+  },
+  {
+   "title": "Mix the filling",
+   "body": "Mix together filling ingredients in a small bowl: **1 cup walnuts or pecans**, chopped to medium pieces, **¼ cup granulated sugar**, **¼ cup light brown sugar** and **2 teaspoons ground cinnamon**; set aside."
+  },
+  {
+   "title": "Soften the butter",
+   "body": "To make cake batter, soften **⅔ cup butter** in the bowl of an electric stand mixer with paddle attachment. Add **1 cup granulated sugar** and mix well."
+  },
+  {
+   "title": "Add the eggs and vanilla",
+   "body": "Add **2 eggs**, large, one at a time, then **1 teaspoon vanilla**."
+  },
+  {
+   "title": "Add the mix and sour cream",
+   "body": "On low speed, alternately add **2 cups or 350 grams Pamela’s Baking & Pancake Mix** and then **1 cup sour cream** until incorporated."
+  },
+  {
+   "title": "Layer the batter",
+   "body": "Spoon half of the batter into the pan, covering the bottom. Sprinkle half of the filling over the batter evenly, repeat with a layer of batter, then sprinkle the remaining filling evenly over the batter."
+  },
+  {
+   "title": "Marbleize",
+   "body": "Take a knife and insert straight down into batter moving up and down around the pan in a zigzag motion to marbleize cake. Do not smooth out the batter."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 45 to 50 minutes, or until a toothpick inserted near the center comes out clean.",
+   "timerMin": 45
+  },
+  {
+   "title": "Remove from the pan",
+   "body": "While warm, run a knife around the edges. When cool, remove from the pan."
+  }
+ ]
+}

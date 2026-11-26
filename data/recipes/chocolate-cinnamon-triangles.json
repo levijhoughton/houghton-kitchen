@@ -1,0 +1,57 @@
+{
+ "name": "Chocolate Cinnamon Triangles",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "10×15 pan",
+ "equipment": "10×15 pan",
+ "ingredients": [
+  {
+   "group": "Crust",
+   "items": [
+    "2 cups flour",
+    "1 tsp baking powder",
+    "1 cup sugar",
+    "3 tsp cinnamon",
+    "½ cup butter, softened",
+    "½ cup shortening",
+    "1 egg",
+    "1 egg yolk (save the white for later)"
+   ]
+  },
+  {
+   "group": "Egg wash",
+   "items": [
+    "1 egg white (from before), whisked"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "⅓ cup sugar",
+    "1 tsp cinnamon",
+    "½ cup nuts",
+    "6 oz chocolate chips"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the crust",
+   "body": "Mix together **2 cups flour**, **1 tsp baking powder**, **1 cup sugar**, **3 tsp cinnamon**, **½ cup butter**, softened, **½ cup shortening**, **1 egg** and **1 egg yolk**. Press into a 10×15 pan."
+  },
+  {
+   "title": "Brush with egg white",
+   "body": "Brush with **1 egg white** (from before), whisked."
+  },
+  {
+   "title": "Add the topping",
+   "body": "Combine **⅓ cup sugar**, **1 tsp cinnamon**, **½ cup nuts** and **6 oz chocolate chips**, and sprinkle on top."
+  },
+  {
+   "title": "Bake and cut",
+   "body": "Bake at 350°F for 25 minutes (better crispy than soft), and cut into triangles.",
+   "timerMin": 25
+  }
+ ]
+}

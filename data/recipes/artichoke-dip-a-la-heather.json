@@ -1,0 +1,49 @@
+{
+ "name": "Artichoke Dip",
+ "subtitle": "A la Heather",
+ "category": "Appetizers",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "casserole dish",
+ "equipment": "greased casserole dish",
+ "ingredients": [
+  {
+   "group": "Dip",
+   "items": [
+    "8 oz can artichokes (in brine, not marinated), drained and loosely chopped",
+    "1 cup mayonnaise",
+    "1 cup sour cream",
+    "1 cup parmesan cheese",
+    "Dill weed to taste",
+    "Garlic pepper to taste"
+   ]
+  },
+  {
+   "group": "Or, jalapeño version (instead of dill weed)",
+   "items": [
+    "Leave out the dill weed",
+    "⅓ cup pickled jalapeños"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Prep the artichokes",
+   "body": "Drain and loosely chop **8 oz can artichokes** (in brine, not marinated)."
+  },
+  {
+   "title": "Mix the dip",
+   "body": "Mix the artichokes with **1 cup mayonnaise**, **1 cup sour cream**, **1 cup parmesan cheese**, dill weed to taste and garlic pepper to taste. For the jalapeño version, leave out the dill and mix in **⅓ cup pickled jalapeños** instead."
+  },
+  {
+   "title": "Bake",
+   "body": "Place in a greased casserole dish and bake at 350°F until hot all the way through, about 30 minutes.",
+   "timerMin": 30
+  },
+  {
+   "title": "Serve",
+   "body": "Serve hot with crusty bread cubes, pretzels, or crackers. For the jalapeño version, serve with tortilla chips."
+  }
+ ]
+}

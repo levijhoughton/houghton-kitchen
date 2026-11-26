@@ -1,0 +1,74 @@
+{
+ "name": "Peruvian Grilled Chicken",
+ "subtitle": "From Heather",
+ "category": "Mains",
+ "protein": "Chicken & turkey",
+ "cuisine": "Peruvian",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "equipment": "Grill, skewers",
+ "ingredients": [
+  {
+   "group": "Chicken",
+   "items": [
+    "3 pounds boneless skinless thighs"
+   ]
+  },
+  {
+   "group": "Marinade",
+   "items": [
+    "3 cloves garlic, minced",
+    "1 tsp cumin",
+    "1 tsp chili powder",
+    "½ tsp red pepper flakes",
+    "1 tsp paprika",
+    "2 Tbsp brown sugar",
+    "2 Tbsp olive oil",
+    "2 Tbsp soy sauce",
+    "2 Tbsp fresh lime juice",
+    "2 Tbsp grated ginger"
+   ]
+  },
+  {
+   "group": "Green sauce",
+   "items": [
+    "1¼ cups fresh cilantro, packed tight",
+    "¼ cup fresh basil, packed tight",
+    "2 Tbsp fresh cotijo cheese",
+    "1 Tbsp chopped ginger",
+    "1 tsp honey",
+    "1 clove garlic",
+    "1 Tbsp olive oil",
+    "2 Tbsp fresh lime juice",
+    "½ cup mayonnaise",
+    "1 Tbsp Amarillo paste, if available",
+    "1–2 fresh jalapeños, ribs and seeds removed, add slowly to desired heat",
+    "Salt to taste"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cut the chicken",
+   "body": "Cut **3 pounds boneless skinless thighs** in half, or thirds, and string on skewers."
+  },
+  {
+   "title": "Mix the marinade",
+   "body": "Mix marinade: **3 cloves garlic**, minced, **1 tsp cumin**, **1 tsp chili powder**, **½ tsp red pepper flakes**, **1 tsp paprika**, **2 Tbsp brown sugar**, **2 Tbsp olive oil**, **2 Tbsp soy sauce**, **2 Tbsp fresh lime juice** and **2 Tbsp grated ginger**."
+  },
+  {
+   "title": "Marinate",
+   "body": "Marinate chicken, refrigerated, for 30 minutes–4 hours.",
+   "timerMin": 30
+  },
+  {
+   "title": "Grill",
+   "body": "Skewer and grill in oiled grill."
+  },
+  {
+   "title": "Blend the green sauce",
+   "body": "Serve with green sauce made with the following ingredients blended: **1¼ cups fresh cilantro**, packed tight, **¼ cup fresh basil**, packed tight, **2 Tbsp fresh cotijo cheese**, **1 Tbsp chopped ginger**, **1 tsp honey**, **1 clove garlic**, **1 Tbsp olive oil**, **2 Tbsp fresh lime juice**, **½ cup mayonnaise**, **1 Tbsp Amarillo paste**, if available, **1–2 fresh jalapeños**, ribs and seeds removed, add slowly to desired heat, and salt to taste."
+  }
+ ]
+}

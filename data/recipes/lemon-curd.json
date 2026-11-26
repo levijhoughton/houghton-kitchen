@@ -1,0 +1,40 @@
+{
+ "name": "Lemon Curd",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "notes": "Lemon Curd can be stored in the refrigerator for up to 1 week. You can easily double the recipe and freeze half of it in a heavy-duty zip-top plastic bag. Thaw in the refrigerator, and use within 1 week of thawing.",
+ "ingredients": [
+  {
+   "group": "Curd",
+   "items": [
+    "¾ cup sugar",
+    "1 Tbsp grated lemon rind",
+    "2 large eggs",
+    "⅔ cup fresh lemon juice (about 3 large lemons)",
+    "2 Tbsp butter or stick margarine"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the eggs and sugar",
+   "body": "Combine in saucepan over medium heat, stirring with a whisk: **¾ cup sugar**, **1 Tbsp grated lemon rind** and **2 large eggs**. Cook til sugar dissolves and mixture is light in color (about 3 minutes).",
+   "timerMin": 3
+  },
+  {
+   "title": "Add juice and butter",
+   "body": "Stir in: **⅔ cup fresh lemon juice (about 3 large lemons)** and **2 Tbsp butter or stick margarine**."
+  },
+  {
+   "title": "Thicken",
+   "body": "Cook for 5 minutes or until mixture thinly coats the back of a spoon, stirring constantly with a whisk.",
+   "timerMin": 5
+  },
+  {
+   "title": "Cool",
+   "body": "Cool. Cover and chill (the mixture will thicken as it cools)."
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "name": "Olive Garden Gnocchi Soup",
+ "category": "Soups",
+ "protein": "Chicken & turkey",
+ "cuisine": "Italian",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "yields": "Serves 8",
+ "equipment": "Large saucepan",
+ "ingredients": [
+  {
+   "items": [
+    "4 Tbsp butter",
+    "1 Tbsp olive oil",
+    "1 cup finely diced onion",
+    "½ cup finely diced celery",
+    "2 cloves garlic, minced",
+    "¼ cup flour",
+    "1 quart half and half",
+    "2 cans chicken broth",
+    "½ tsp salt",
+    "½ tsp dried thyme",
+    "½ tsp dried parsley flakes",
+    "¼ tsp ground nutmeg",
+    "1 cup finely shredded carrots",
+    "1 cup coarsely chopped fresh spinach leaves",
+    "1 cup diced cooked chicken breast",
+    "1 × 16 oz ready to use gnocchi"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the vegetables",
+   "body": "In a large saucepan, stirring occasionally until the onion becomes transparent: **4 Tbsp butter**, **1 Tbsp olive oil**, **1 cup finely diced onion**, **½ cup finely diced celery** and **2 cloves garlic**, minced."
+  },
+  {
+   "title": "Add the flour",
+   "body": "Whisk in **¼ cup flour** and stir for about 1 minute.",
+   "timerMin": 1
+  },
+  {
+   "title": "Add the dairy and broth",
+   "body": "Whisk in and simmer until thickened: **1 quart half and half** and **2 cans chicken broth**."
+  },
+  {
+   "title": "Add the rest",
+   "body": "Stir in **½ tsp salt**, **½ tsp dried thyme**, **½ tsp dried parsley flakes**, **¼ tsp ground nutmeg**, **1 cup finely shredded carrots**, **1 cup coarsely chopped fresh spinach leaves**, **1 cup diced cooked chicken breast** and **1 × 16 oz ready to use gnocchi**."
+  },
+  {
+   "title": "Heat through",
+   "body": "Simmer until heated through. Add salt as needed."
+  }
+ ]
+}

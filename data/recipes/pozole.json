@@ -1,0 +1,63 @@
+{
+ "name": "Pozole",
+ "subtitle": "From missionaries in Mexico, via Kelsey",
+ "category": "Soups",
+ "protein": "Pork",
+ "cuisine": "Mexican",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Soup",
+   "items": [
+    "4 cups water",
+    "1½ pounds pork, cut into ½ inch pieces",
+    "½ cup onion, chopped",
+    "1 clove garlic",
+    "¼ tsp cumin",
+    "1 × 29 ounce can hominy",
+    "1 Tbsp chili powder",
+    "1½ tsp salt",
+    "¼ tsp pepper"
+   ]
+  },
+  {
+   "group": "Toppings",
+   "items": [
+    "Cabbage",
+    "Cilantro",
+    "Green onions",
+    "Shredded cheese",
+    "Avocado",
+    "Tomato",
+    "Jalapeno",
+    "Radish, sliced"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Combine the base",
+   "body": "In a big pot, combine **4 cups water**, **1½ pounds pork**, cut into ½ inch pieces, **½ cup onion**, chopped, **1 clove garlic** and **¼ tsp cumin**."
+  },
+  {
+   "title": "Simmer the pork",
+   "body": "Bring to a boil, then reduce heat and simmer for one hour.",
+   "timerMin": 60
+  },
+  {
+   "title": "Add the hominy and seasonings",
+   "body": "Add **1 × 29 ounce can hominy**, **1 Tbsp chili powder**, **1½ tsp salt** and **¼ tsp pepper**."
+  },
+  {
+   "title": "Simmer until tender",
+   "body": "Continue to simmer 45–60 minutes, until the meat is tender.",
+   "timerMin": 45
+  },
+  {
+   "title": "Serve",
+   "body": "Serve hot, topped with any/all of the following: cabbage, cilantro, green onions, shredded cheese, avocado, tomato, jalapeno and sliced radish."
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Thai Crunch Salad with Peanut Dressing",
+ "category": "Salads",
+ "protein": "Meatless",
+ "cuisine": "Thai",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "yields": "Serves 4",
+ "notes": "I may like this one better than above.",
+ "source": {
+  "label": "From Once Upon a Chef"
+ },
+ "ingredients": [
+  {
+   "group": "Dressing",
+   "items": [
+    "¼ cup peanut butter",
+    "2 Tbsp rice vinegar",
+    "2 Tbsp fresh lime juice (about one lime)",
+    "3 Tbsp vegetable oil (I skipped this and upped the lime, and it was great)",
+    "1 Tbsp soy sauce",
+    "2 Tbsp honey",
+    "2½ Tbsp sugar",
+    "2 garlic cloves, minced",
+    "1-inch square piece of fresh ginger, grated",
+    "1 tsp salt",
+    "¼ tsp crushed red pepper flakes",
+    "2 Tbsp fresh cilantro leaves"
+   ]
+  },
+  {
+   "group": "Salad",
+   "items": [
+    "4 cups chopped Napa cabbage or shredded coleslaw mix (add red cabbage for color)",
+    "1 cup shredded carrots",
+    "1 red bell pepper, thinly sliced into bite-sized pieces",
+    "1 cup cooked and shelled edamame (or substitute chicken for protein)",
+    "2 medium green onions, sliced fine",
+    "1 small English cucumber, halved lengthwise and thinly sliced",
+    "½ cup loosely packed chopped fresh cilantro"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the dressing",
+   "body": "Blend or mix together for the dressing: **¼ cup peanut butter**, **2 Tbsp rice vinegar**, **2 Tbsp fresh lime juice** (about one lime), **3 Tbsp vegetable oil** (I skipped this and upped the lime, and it was great), **1 Tbsp soy sauce**, **2 Tbsp honey**, **2½ Tbsp sugar**, **2 garlic cloves**, minced, **1-inch square piece of fresh ginger**, grated, **1 tsp salt**, **¼ tsp crushed red pepper flakes** and **2 Tbsp fresh cilantro leaves**."
+  },
+  {
+   "title": "Assemble the salad",
+   "body": "Assemble salad: **4 cups chopped Napa cabbage** or shredded coleslaw mix (add red cabbage for color), **1 cup shredded carrots**, **1 red bell pepper**, thinly sliced into bite-sized pieces, **1 cup cooked and shelled edamame** (or substitute chicken for protein), **2 medium green onions**, sliced fine, **1 small English cucumber**, halved lengthwise and thinly sliced, and **½ cup loosely packed chopped fresh cilantro**."
+  },
+  {
+   "title": "Dress and serve",
+   "body": "Top the salad with dressing and add chopped peanuts as desired."
+  }
+ ]
+}

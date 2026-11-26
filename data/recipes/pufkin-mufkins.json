@@ -1,0 +1,53 @@
+{
+ "name": "Pufkin Mufkins",
+ "subtitle": "Pumpkin Muffins; Luke’s favorite muffins",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "dozen muffins",
+ "yields": "Makes about 2 dozen?",
+ "ingredients": [
+  {
+   "group": "Wet",
+   "items": [
+    "1 cup sugar",
+    "½ cup packed brown sugar",
+    "1 cup canned pumpkin",
+    "½ cup applesauce (homemade)",
+    "1 Tbsp canola oil",
+    "½ cup water",
+    "1 egg"
+   ]
+  },
+  {
+   "group": "Dry",
+   "items": [
+    "1⅔ cups flour",
+    "1 tsp baking soda",
+    "1 tsp cinnamon",
+    "¾ tsp powdered ginger",
+    "¾ tsp salt",
+    "½ tsp baking powder",
+    "½ tsp nutmeg",
+    "⅛ tsp ground cloves",
+    "1½ cups chocolate chips",
+    "Optional: ¼ to ½ cup chopped walnuts/pecan"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the wet ingredients",
+   "body": "Mix wet ingredients: **1 cup sugar**, **½ cup packed brown sugar**, **1 cup canned pumpkin**, **½ cup applesauce** (homemade), **1 Tbsp canola oil**, **½ cup water** and **1 egg**."
+  },
+  {
+   "title": "Add the dry ingredients",
+   "body": "Mix and then add to wet ingredients: **1⅔ cups flour**, **1 tsp baking soda**, **1 tsp cinnamon**, **¾ tsp powdered ginger**, **¾ tsp salt**, **½ tsp baking powder**, **½ tsp nutmeg**, **⅛ tsp ground cloves**, **1½ cups chocolate chips** and optional **¼ to ½ cup chopped walnuts/pecan**."
+  },
+  {
+   "title": "Bake",
+   "body": "Bake for 15–25 minutes at 350°F (35 minutes for small loaves, and 1 hour for large loaves).",
+   "timerMin": 15
+  }
+ ]
+}

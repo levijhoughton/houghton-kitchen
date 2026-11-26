@@ -1,0 +1,64 @@
+{
+ "name": "Lemon Bars",
+ "subtitle": "From Grandma Houghton",
+ "category": "Cookies",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "10×12 pan",
+ "equipment": "10×12 pan",
+ "notes": "Hide.",
+ "ingredients": [
+  {
+   "group": "Crust",
+   "items": [
+    "2 cups flour",
+    "1 cup butter",
+    "½ cup powdered sugar"
+   ]
+  },
+  {
+   "group": "Filling",
+   "items": [
+    "4 beaten eggs",
+    "2 cups sugar",
+    "4 Tbsp flour",
+    "6 Tbsp lemon juice",
+    "Grated lemon rind"
+   ]
+  },
+  {
+   "group": "Topping",
+   "items": [
+    "2 tsp powdered sugar, sifted on top"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Mix the crust",
+   "body": "Cut together **2 cups flour**, **1 cup butter** and **½ cup powdered sugar**. Pat into an ungreased 10×12 pan."
+  },
+  {
+   "title": "Bake the crust",
+   "body": "Bake for 20 minutes at 350°F.",
+   "timerMin": 20
+  },
+  {
+   "title": "Mix the filling",
+   "body": "In separate bowl, add together **4 beaten eggs**, **2 cups sugar**, **4 Tbsp flour**, **6 Tbsp lemon juice** and grated lemon rind."
+  },
+  {
+   "title": "Add the filling",
+   "body": "Pour over the hot crust, and bake for an additional 20–25 minutes.",
+   "timerMin": 20
+  },
+  {
+   "title": "Sift the sugar",
+   "body": "**Sift 2 tsp powdered sugar** after removing the pan from the oven."
+  },
+  {
+   "title": "Cut the bars",
+   "body": "Cut into bars when cool."
+  }
+ ]
+}

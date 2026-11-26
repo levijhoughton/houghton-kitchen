@@ -1,0 +1,73 @@
+{
+ "name": "Peach Pie",
+ "subtitle": "Fresh with cheesecake layer, from Aunt Lisa",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pie",
+ "notes": "You can put this on top of a regular pre-baked pie crust, or try it with a short-bread crust.",
+ "ingredients": [
+  {
+   "group": "Cheesecake layer",
+   "items": [
+    "1 cup sugar",
+    "8 oz softened cream cheese",
+    "2 eggs",
+    "⅛ tsp cinnamon"
+   ]
+  },
+  {
+   "group": "Peach topping",
+   "items": [
+    "1 cup water",
+    "1 cup sugar",
+    "3 Tbsp cornstarch",
+    "Vanilla",
+    "4-5 fresh peaches, sliced"
+   ]
+  },
+  {
+   "group": "Crust",
+   "items": [
+    "Pre-baked pie crust (regular or short-bread)"
+   ]
+  },
+  {
+   "group": "To serve",
+   "items": [
+    "Whipped cream"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the cheesecake layer",
+   "body": "For the cheesecake layer, whip together: **1 cup sugar** and **8 oz softened cream cheese**."
+  },
+  {
+   "title": "Add eggs and cinnamon",
+   "body": "Then add and whip again: **2 eggs** and **⅛ tsp cinnamon**."
+  },
+  {
+   "title": "Bake the layer",
+   "body": "Spread over pie crust and bake at 400°F for 17-20 minutes.",
+   "timerMin": 17
+  },
+  {
+   "title": "Cool the layer",
+   "body": "Cool."
+  },
+  {
+   "title": "Make the peach topping",
+   "body": "Meanwhile, in a saucepan, mix together and stir until thickened: **1 cup water**, **1 cup sugar** and **3 Tbsp cornstarch**."
+  },
+  {
+   "title": "Finish the topping",
+   "body": "Add vanilla, cool in refrigerator, then add **4-5 sliced fresh peaches**, and spread atop cooled cream cheese and pie crust."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve with whipped cream."
+  }
+ ]
+}

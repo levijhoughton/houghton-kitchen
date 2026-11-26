@@ -1,0 +1,68 @@
+{
+ "name": "Shakshuka",
+ "category": "Mains",
+ "protein": "Meatless",
+ "cuisine": "Middle Eastern",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "yields": "Serves 4–6",
+ "equipment": "12-inch skillet",
+ "ingredients": [
+  {
+   "group": "Shakshuka",
+   "items": [
+    "¼ cup olive oil",
+    "2–5 Anaheim chiles or 3 jalapeños, stemmed, seeded, and finely chopped",
+    "1 small yellow onion, chopped",
+    "5 cloves garlic, crushed then sliced",
+    "1 tsp ground cumin",
+    "1 Tbsp paprika",
+    "1 × 28 oz can whole peeled tomatoes, undrained",
+    "Kosher salt, to taste",
+    "6 eggs",
+    "½ cup feta cheese, crumbled",
+    "1 Tbsp chopped flat-leaf parsley",
+    "Warm pitas, for serving"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the chiles and onion",
+   "body": "Heat **¼ cup olive oil** in a 12-inch skillet over medium-high heat. Add **2–5 Anaheim chiles** or **3 jalapeños** and **1 small yellow onion**, and cook, stirring occasionally, until soft and golden brown, about 6 minutes.",
+   "timerMin": 6
+  },
+  {
+   "title": "Add the garlic and spices",
+   "body": "Add **5 cloves garlic**, crushed then sliced, **1 tsp ground cumin** and **1 Tbsp paprika**, and cook, stirring frequently, until garlic is soft, about 2 more minutes.",
+   "timerMin": 2
+  },
+  {
+   "title": "Crush the tomatoes",
+   "body": "Put **1 × 28 oz can whole peeled tomatoes** and their liquid into a medium bowl and crush with your hands."
+  },
+  {
+   "title": "Simmer the sauce",
+   "body": "Add crushed tomatoes and their liquid to the skillet along with **½ cup water**, reduce heat to medium, and simmer, stirring occasionally, until thickened slightly, about 15 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Season the sauce",
+   "body": "Season sauce with kosher salt, to taste."
+  },
+  {
+   "title": "Cook the eggs",
+   "body": "Crack **6 eggs** over sauce so that eggs are evenly distributed across the sauce’s surface. Cover the skillet and cook until the yolks are just set, about 5 minutes.",
+   "timerMin": 5
+  },
+  {
+   "title": "Baste the whites",
+   "body": "Using a spoon, baste the whites of the eggs with tomato mixture, being careful not to disturb the yolk."
+  },
+  {
+   "title": "Top and serve",
+   "body": "Sprinkle shakshuka with **½ cup feta cheese**, crumbled, and **1 Tbsp chopped flat-leaf parsley**, and serve with warm pitas, for dipping."
+  }
+ ]
+}

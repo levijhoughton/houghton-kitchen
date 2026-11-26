@@ -1,0 +1,46 @@
+{
+ "name": "Karmel Popcorn",
+ "subtitle": "From Leslie, Mom’s longtime friend and nursing roommate",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 10,
+ "servingUnit": "quarts popcorn",
+ "yields": "10 quarts popcorn",
+ "ingredients": [
+  {
+   "group": "Popcorn",
+   "items": [
+    "10 quarts popped popcorn"
+   ]
+  },
+  {
+   "group": "Caramel",
+   "items": [
+    "3 sticks butter",
+    "¾ cup corn syrup",
+    "1¼ tsp salt",
+    "2 cups brown sugar",
+    "¾ tsp soda",
+    "1½ tsp vanilla"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Pop the popcorn",
+   "body": "Pop **10 quarts popcorn**."
+  },
+  {
+   "title": "Make the caramel",
+   "body": "Bring to boil in heavy pan, stirring: **3 sticks butter**, **¾ cup corn syrup**, **1¼ tsp salt** and **2 cups brown sugar**."
+  },
+  {
+   "title": "Add soda and vanilla",
+   "body": "Remove from heat. Add and stir in: **¾ tsp soda** and **1½ tsp vanilla**."
+  },
+  {
+   "title": "Bake",
+   "body": "Place on baking sheets, then bake at 250°F, stirring every 15 minutes."
+  }
+ ]
+}

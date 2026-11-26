@@ -1,0 +1,60 @@
+{
+ "name": "Chickpea Curry",
+ "category": "Mains",
+ "protein": "Meatless",
+ "cuisine": "Indian",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "yields": "Makes 6 servings",
+ "equipment": "Medium skillet",
+ "ingredients": [
+  {
+   "items": [
+    "2 cups basmati rice",
+    "2 Tbsp vegetable oil",
+    "1 large onion, diced fine",
+    "Salt and pepper, to taste",
+    "2 tsp curry powder, any variety",
+    "2 cloves garlic, minced",
+    "1 cup vegetable stock",
+    "2 cans chickpeas, drained and rinsed",
+    "1 × 13.5 oz can coconut milk",
+    "1 Tbsp honey, more to taste",
+    "1 Tbsp Sriracha or hot sauce (more to taste)",
+    "Lime wedges, for serving (optional)",
+    "Cilantro leaves, for garnish"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the rice",
+   "body": "Cook **2 cups basmati rice** according to the package instructions."
+  },
+  {
+   "title": "Cook the onion",
+   "body": "Heat **2 Tbsp vegetable oil** in a medium skillet over medium-low heat. Add **1 large onion, diced fine**, season with salt and pepper, and cook for a few minutes, until the onions are soft and starting to turn golden."
+  },
+  {
+   "title": "Add the curry and garlic",
+   "body": "Sprinkle in **2 tsp curry powder** and **2 cloves garlic, minced**, and stir, cooking for another minute or so."
+  },
+  {
+   "title": "Add the stock and coconut milk",
+   "body": "Pour in **1 cup vegetable stock** and stir to scrape up all the brown bits in the pan. Add **1 × 13.5 oz can coconut milk**, **1 Tbsp honey** and a squirt of sriracha."
+  },
+  {
+   "title": "Simmer the chickpeas",
+   "body": "Bring to a boil, add **2 cans chickpeas, drained and rinsed**, reduce the heat, and simmer for 10 minutes.",
+   "timerMin": 10
+  },
+  {
+   "title": "Adjust the seasoning",
+   "body": "Taste and adjust the seasoning, adding more salt, honey, or Sriracha (or lime juice, if using)."
+  }
+ ],
+ "source": {
+  "label": "Pioneer Woman"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Zucchini Chocolate Chip Peanut Butter Muffins",
+ "category": "Breakfast & quick breads",
+ "collection": "family",
+ "servings": 16,
+ "servingUnit": "muffins",
+ "yields": "Makes 16 muffins",
+ "equipment": "Blender, muffin tins",
+ "ingredients": [
+  {
+   "group": "Batter",
+   "items": [
+    "2 cups chopped zucchini (get this smoothly pureed before adding anything else)",
+    "½ cup creamy peanut butter",
+    "⅓ cup melted coconut oil",
+    "½ cup pure maple syrup",
+    "2 eggs",
+    "1 Tbsp vanilla extract",
+    "1½ cups flour",
+    "2 tsp baking soda",
+    "1 tsp cinnamon",
+    "½ tsp kosher salt"
+   ]
+  },
+  {
+   "group": "Fold in",
+   "items": [
+    "1 cup chocolate chips (semi-sweet or dark is best)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Prep the pan",
+   "body": "Heat oven to 350°F. Line/Grease muffin tins."
+  },
+  {
+   "title": "Blend the batter",
+   "body": "In a blender, blend to just combine, being careful not to over-blend: **2 cups chopped zucchini** (get this smoothly pureed before adding anything else), **½ cup creamy peanut butter**, **⅓ cup melted coconut oil**, **½ cup pure maple syrup**, **2 eggs**, **1 Tbsp vanilla extract**, **1½ cups flour**, **2 tsp baking soda**, **1 tsp cinnamon** and **½ tsp kosher salt**."
+  },
+  {
+   "title": "Fold in chocolate",
+   "body": "Fold in **1 cup chocolate chips** (semi-sweet or dark is best)."
+  },
+  {
+   "title": "Bake",
+   "body": "Divide batter evenly into tins, then bake 18-20 minutes, until just set.",
+   "timerMin": 18
+  }
+ ],
+ "source": {
+  "label": "Half Baked Harvest",
+  "url": "https://www.halfbakedharvest.com/blender-peanut-butter-zucchini-muffins/"
+ }
+}

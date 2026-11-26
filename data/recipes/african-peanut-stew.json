@@ -1,0 +1,77 @@
+{
+ "name": "African Peanut Stew",
+ "category": "Mains",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "yields": "Serves 6+",
+ "equipment": "Large pot",
+ "notes": "Similar to tasty African food Denise and Mark found on their 2025 Newfoundland trip. Excellent served with brown rice. One recipe is enough for 6+, doubled, you can freeze some leftovers. This is a hearty meal—excellent with a fruit salad.",
+ "ingredients": [
+  {
+   "group": "Base",
+   "items": [
+    "1 diced onion",
+    "1-2 tsp vegetable oil",
+    "3-5 cloves minced garlic",
+    "1½ Tbsp finely grated fresh ginger",
+    "1 Tbsp curry powder",
+    "½ Tbsp cumin",
+    "½ tsp cayenne (reduce to half if you’re worried about spiciness–you can always add more at the end)"
+   ]
+  },
+  {
+   "group": "Stew",
+   "items": [
+    "6 oz tomato paste",
+    "⅓ cup peanut butter",
+    "28 oz diced tomatoes",
+    "2 large sweet potatoes, peeled and cut into ½-inch cubes (about 5 cups)",
+    "1½ cups dry red lentils, rinsed",
+    "3 cups vegetable broth (or chicken broth)"
+   ]
+  },
+  {
+   "group": "To serve",
+   "items": [
+    "Brown rice",
+    "Cilantro, to top"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cook the onion",
+   "body": "Cook **1 diced onion** and **1-2 tsp vegetable oil** in a large pot over medium heat until the onions are translucent."
+  },
+  {
+   "title": "Add garlic and ginger",
+   "body": "Add **3-5 cloves minced garlic** and **1½ Tbsp finely grated fresh ginger** and cook until fragrant, 1-2 minutes."
+  },
+  {
+   "title": "Add the spices",
+   "body": "Stir in **1 Tbsp curry powder**, **½ Tbsp cumin** and **½ tsp cayenne** (reduce to half if you’re worried about spiciness–you can always add more at the end) and cook 1-2 minutes."
+  },
+  {
+   "title": "Add tomato paste and peanut butter",
+   "body": "Stir into the pot until mixed in: **6 oz tomato paste** and **⅓ cup peanut butter**."
+  },
+  {
+   "title": "Simmer the stew",
+   "body": "Add **28 oz diced tomatoes**, **2 large sweet potatoes**, peeled and cut into ½-inch cubes (about 5 cups), **1½ cups dry red lentils**, rinsed, and **3 cups vegetable broth** (or chicken broth). Bring to a boil, then reduce to a simmer for 15-20 minutes, until the lentils are fully cooked (turn to very low, and stir occasionally to prevent burning).",
+   "timerMin": 15
+  },
+  {
+   "title": "Season",
+   "body": "Salt and pepper to taste, and add more cayenne if desired."
+  },
+  {
+   "title": "Serve",
+   "body": "Ladle into large bowls, along with brown rice for a nice texture contrast, and top with cilantro."
+  }
+ ],
+ "source": {
+  "label": "From “From My Bowl”"
+ }
+}

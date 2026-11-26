@@ -1,0 +1,71 @@
+{
+ "name": "Stuffed Acorn Squash",
+ "subtitle": "A Weyand family favorite",
+ "category": "Mains",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "halves",
+ "ingredients": [
+  {
+   "group": "Stuffed squash",
+   "items": [
+    "3 acorn squash",
+    "3 Tbsp olive oil + 3 Tbsp olive oil",
+    "1 lb Italian sausage",
+    "1 small yellow onion",
+    "1 apple, peeled, cored, and diced",
+    "4 cloves garlic",
+    "3 ribs celery",
+    "2 tsp thyme",
+    "⅓ cup bread crumbs",
+    "⅓ cup Parmesan cheese (freshly grated is best)",
+    "Salt",
+    "Pepper",
+    "½ tsp red pepper flakes"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Preheat the oven",
+   "body": "Preheat the oven to 400°F."
+  },
+  {
+   "title": "Prepare the squash",
+   "body": "Cut the squash in half and slice a piece off the pointy end so it can sit flat on the pan. Remove seeds and stem, brush with **3 Tbsp olive oil**, and sprinkle salt and pepper over the insides of the squash."
+  },
+  {
+   "title": "Roast the squash",
+   "body": "Put in the oven for 30 minutes or until the squash is tender.",
+   "timerMin": 30
+  },
+  {
+   "title": "Cook the sausage",
+   "body": "Cook **1 lb Italian sausage** on the stove, then set aside."
+  },
+  {
+   "title": "Cook the vegetables",
+   "body": "Cook **1 small yellow onion** and **3 ribs celery** in the sausage drippings, and once they are soft, add **1 apple**, peeled, cored, and diced, **4 cloves garlic**, **2 tsp thyme**, salt, pepper and **½ tsp red pepper flakes**."
+  },
+  {
+   "title": "Sauté the stuffing",
+   "body": "Sauté for 4 minutes and then add the sausage back to the mixture.",
+   "timerMin": 4
+  },
+  {
+   "title": "Fill the squash",
+   "body": "Cook for 3 more minutes and then spoon into the hollows of the cooked acorn squash.",
+   "timerMin": 3
+  },
+  {
+   "title": "Make the topping",
+   "body": "Combine **⅓ cup Parmesan cheese** and **⅓ cup bread crumbs** and sprinkle over the stuffed squash."
+  },
+  {
+   "title": "Crisp the topping",
+   "body": "Place in the oven for 15 minutes, or until the Parmesan topping is just starting to crisp.",
+   "timerMin": 15
+  }
+ ]
+}

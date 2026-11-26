@@ -1,0 +1,63 @@
+{
+ "name": "“Kelpish” Quiche",
+ "category": "Mains",
+ "cuisine": "French",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "12×16 pan",
+ "equipment": "12×16 shallow baking pan",
+ "notes": "A hit at the “Under the Sea” themed bridal shower for Tess. May be served warm, or refrigerated and served cold (can be made a day or two ahead).",
+ "ingredients": [
+  {
+   "group": "Crust",
+   "items": [
+    "1 package puff pastry"
+   ]
+  },
+  {
+   "group": "Filling",
+   "items": [
+    "1 package bacon, cooked and crumbled",
+    "10 oz chopped frozen spinach, thawed and drained",
+    "6 oz sharp cheddar cheese, grated",
+    "1 cup chopped onion (optional), sauteed in bacon grease"
+   ]
+  },
+  {
+   "group": "Custard",
+   "items": [
+    "12 large eggs",
+    "1¾ cups heavy cream",
+    "1 tsp salt",
+    "¾ tsp ground pepper"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Roll the crust",
+   "body": "Roll out both portions of **1 package puff pastry** until together they are big enough to fill a 12×16 shallow baking pan, and press into the pan."
+  },
+  {
+   "title": "Bake the crust",
+   "body": "Pierce with a fork and bake at 400°F for about 28 minutes, until light brown. Pierce large air bubbles and flatten down midway through baking and at the end, placing another pan on top if needed after baking.",
+   "timerMin": 28
+  },
+  {
+   "title": "Add the filling",
+   "body": "Spread over the baked crust: **1 package bacon, cooked and crumbled**, **10 oz chopped frozen spinach, thawed and drained** and **6 oz sharp cheddar cheese, grated**. Optionally, you may add **1 cup chopped onion**, sauteed in bacon grease."
+  },
+  {
+   "title": "Whisk the custard",
+   "body": "Whisk together **12 large eggs**, **1¾ cups heavy cream**, **1 tsp salt** and **¾ tsp ground pepper** and pour on top."
+  },
+  {
+   "title": "Bake the quiche",
+   "body": "Bake another 15-20 minutes, until done.",
+   "timerMin": 15
+  }
+ ],
+ "source": {
+  "label": "Adapted from Martha Stewart"
+ }
+}

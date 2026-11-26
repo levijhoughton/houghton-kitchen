@@ -1,0 +1,70 @@
+{
+ "name": "Apple Pie with Crisp Caramel-y Top",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pie",
+ "equipment": "Pie dish",
+ "ingredients": [
+  {
+   "group": "Pie",
+   "items": [
+    "Double crust pie dough",
+    "8 peeled and sliced baking apples"
+   ]
+  },
+  {
+   "group": "Caramel",
+   "items": [
+    "½ cup butter",
+    "3 Tbsp flour",
+    "¼ cup water",
+    "½ cup sugar",
+    "½ cup brown sugar",
+    "¼ tsp cinnamon",
+    "Pinch salt"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Preheat the oven",
+   "body": "Preheat the oven to 425°F."
+  },
+  {
+   "title": "Prepare the crust",
+   "body": "Prepare double crust pie dough. Put the bottom crust in a pie dish."
+  },
+  {
+   "title": "Fill the pie",
+   "body": "Fill with **8 peeled and sliced baking apples**."
+  },
+  {
+   "title": "Add the lattice top",
+   "body": "Place crust lattice top over the apples and seal and finish the edge."
+  },
+  {
+   "title": "Make the caramel base",
+   "body": "Combine on medium heat: **½ cup butter** and **3 Tbsp flour**."
+  },
+  {
+   "title": "Add the sugars and water",
+   "body": "Add **¼ cup water**, **½ cup sugar**, **½ cup brown sugar**, **¼ tsp cinnamon** and a pinch of salt. Stir until it boils, then simmer for 1 minute on low.",
+   "timerMin": 1
+  },
+  {
+   "title": "Pour the caramel",
+   "body": "Pour over the lattice crust, keeping the mixture from flowing over the edge."
+  },
+  {
+   "title": "Bake the pie",
+   "body": "Bake for 15 minutes.",
+   "timerMin": 15
+  },
+  {
+   "title": "Reduce the heat",
+   "body": "Reduce oven temp to 350°F and bake for 35–45 minutes more.",
+   "timerMin": 35
+  }
+ ]
+}

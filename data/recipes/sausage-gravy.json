@@ -1,0 +1,40 @@
+{
+ "name": "Sausage Gravy",
+ "category": "Breakfast & quick breads",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 3,
+ "servingUnit": "servings",
+ "yields": "Serves 3–4",
+ "equipment": "skillet",
+ "notes": "Also adaptable to camping by mixing powdered milk and flour and seasonings in a ziploc, then adding water at camp.",
+ "ingredients": [
+  {
+   "group": "Gravy",
+   "items": [
+    "½ pound breakfast sausage",
+    "3 cups milk",
+    "6 Tbsp flour",
+    "Salt and pepper to taste"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Brown the sausage",
+   "body": "In a skillet on the stove, over medium heat, brown **½ pound breakfast sausage**."
+  },
+  {
+   "title": "Whisk the milk and flour",
+   "body": "In a separate container, whisk together **3 cups milk** and **6 Tbsp flour**."
+  },
+  {
+   "title": "Thicken the gravy",
+   "body": "Add to sausage, and cook on medium, stirring occasionally, until it thickens. Do not let boil."
+  },
+  {
+   "title": "Season",
+   "body": "Add salt and pepper to taste."
+  }
+ ]
+}

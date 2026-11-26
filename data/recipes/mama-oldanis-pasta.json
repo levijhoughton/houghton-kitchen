@@ -1,0 +1,42 @@
+{
+ "name": "Mama Oldani’s Pasta",
+ "subtitle": "Usually for Dutch oven",
+ "category": "Mains",
+ "protein": "Beef",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "yields": "Serves 4–6",
+ "equipment": "Dutch oven, or a stovetop pan",
+ "notes": "A staple on Houghton camping trips. Serves 4–6 hungry eaters.",
+ "ingredients": [
+  {
+   "group": "Pasta bake",
+   "items": [
+    "1 pound ground beef",
+    "1 pound cooked pasta",
+    "1 package (10 ounces) frozen chopped spinach, thawed",
+    "2 cups shredded mozzarella cheese",
+    "2 cups shredded sharp cheddar cheese",
+    "26 ounces Ragu Chunky Garden spaghetti sauce",
+    "Other vegetables such as onion and pepper, diced, optional",
+    "Salt and pepper to taste"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Brown the beef",
+   "body": "Brown **1 pound ground beef** in Dutch oven (with 25 coals underneath), or in a pan on the stovetop."
+  },
+  {
+   "title": "Add the rest",
+   "body": "Drain ground beef and add: **1 pound cooked pasta**, **1 package (10 ounces) frozen chopped spinach, thawed**, **2 cups shredded mozzarella cheese**, **2 cups shredded sharp cheddar cheese**, **26 ounces Ragu Chunky Garden spaghetti sauce**, other vegetables such as onion and pepper, diced (optional), and salt and pepper to taste."
+  },
+  {
+   "title": "Bake",
+   "body": "Stir together gently. Return oven to coals, and bake for about 30 minutes (using 9 briquettes under the oven and 16 on top) until heated through. (Or in a 350°F oven.)",
+   "timerMin": 30
+  }
+ ]
+}

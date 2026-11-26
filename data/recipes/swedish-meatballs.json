@@ -1,0 +1,85 @@
+{
+ "name": "Swedish Meatballs",
+ "category": "Mains",
+ "protein": "Pork",
+ "cuisine": "Swedish",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "equipment": "Frying pan",
+ "notes": "Since Mom and Dad have discovered they BOTH have significant Swedish ancestry, a must-include in the family cookbook. Best made on a hot date.",
+ "ingredients": [
+  {
+   "group": "Meatballs",
+   "items": [
+    "1 pound ground pork",
+    "1 pound ground beef",
+    "1 medium onion, grated",
+    "¼ flat leaf parsley, minced",
+    "½ tsp ground nutmeg",
+    "½ tsp ground allspice",
+    "2 tsp salt",
+    "½ pepper",
+    "4 cloves garlic",
+    "¾ cup panko (bread crumbs)",
+    "2 eggs",
+    "2 Tbsp olive oil"
+   ]
+  },
+  {
+   "group": "Gravy",
+   "items": [
+    "½ cup butter",
+    "½ cup flour",
+    "4 cups beef broth",
+    "1 tsp salt",
+    "¼ tsp pepper",
+    "1 Tbsp lemon juice",
+    "¼ tsp ground allspice",
+    "¼ tsp ground nutmeg",
+    "1 tsp brown mustard",
+    "1 cup cream"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Form the meatballs",
+   "body": "Combine, and form into balls (about 1½ inches): **1 pound ground pork**, **1 pound ground beef**, **1 medium onion**, grated, **¼ flat leaf parsley**, minced, **½ tsp ground nutmeg**, **½ tsp ground allspice**, **2 tsp salt**, **½ pepper**, **4 cloves garlic**, **¾ cup panko** (bread crumbs) and **2 eggs**."
+  },
+  {
+   "title": "Brown the meatballs",
+   "body": "Brown in frying pan, with **2 Tbsp olive oil**, about 5 min on each side, then set aside."
+  },
+  {
+   "title": "Melt the butter",
+   "body": "After meatballs are browned, melt **½ cup butter** in the frying pan."
+  },
+  {
+   "title": "Add the flour",
+   "body": "When butter begins to bubble, sprinkle in **½ cup flour**. Cook for 1 minute.",
+   "timerMin": 1
+  },
+  {
+   "title": "Add the broth",
+   "body": "Add **4 cups beef broth**, a little at a time, and whisk until the broth is all incorporated."
+  },
+  {
+   "title": "Season the gravy",
+   "body": "Add **1 tsp salt**, **¼ tsp pepper**, **1 Tbsp lemon juice**, **¼ tsp ground allspice**, **¼ tsp ground nutmeg** and **1 tsp brown mustard**."
+  },
+  {
+   "title": "Add the cream",
+   "body": "Slowly whisk in **1 cup cream**, and warm, but do not boil."
+  },
+  {
+   "title": "Simmer the meatballs",
+   "body": "Add meatballs to the gravy, and simmer 8-10 minutes.",
+   "timerMin": 8
+  },
+  {
+   "title": "Serve",
+   "body": "Serve over mashed potatoes, rice, or egg noodles, with lingonberry jam, or cranberry relish (if you’re in a jam)."
+  }
+ ]
+}

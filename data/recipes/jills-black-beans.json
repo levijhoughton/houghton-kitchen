@@ -1,0 +1,40 @@
+{
+ "name": "Black Beans",
+ "subtitle": "From Jill",
+ "category": "Sides",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Beans",
+   "items": [
+    "Olive oil",
+    "1 onion, chopped to bean size",
+    "1 green pepper, chopped to bean size",
+    "1–2 cloves garlic",
+    "Bay leaf",
+    "1 tsp oregano",
+    "¼ tsp cumin",
+    "2 Tbsp red wine vinegar",
+    "1 tsp honey",
+    "1 × 15 oz can black beans, drained"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Sauté the vegetables",
+   "body": "Sauté in olive oil until vegetables are soft: **1 onion**, chopped to bean size, **1 green pepper**, chopped to bean size, and **1–2 cloves garlic**."
+  },
+  {
+   "title": "Add the seasonings",
+   "body": "Add bay leaf, **1 tsp oregano**, **¼ tsp cumin**, **2 Tbsp red wine vinegar**, **1 tsp honey** and **1 × 15 oz can black beans**, drained."
+  },
+  {
+   "title": "Heat through",
+   "body": "Heat through and don’t cook too long."
+  }
+ ]
+}

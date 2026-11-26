@@ -1,0 +1,50 @@
+{
+ "name": "Jayna’s Lemon Soup",
+ "category": "Soups",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 3,
+ "servingUnit": "servings",
+ "yields": "Makes enough for 3–4",
+ "notes": "To die for!",
+ "ingredients": [
+  {
+   "items": [
+    "6 cups chicken broth",
+    "¼ cup rice or rice blend",
+    "2 eggs",
+    "6 Tbsp fresh lemon juice"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Boil the broth",
+   "body": "Bring **6 cups chicken broth** to a boil."
+  },
+  {
+   "title": "Cook the rice",
+   "body": "Add **¼ cup rice or rice blend**, and cook until soft."
+  },
+  {
+   "title": "Whisk the eggs",
+   "body": "While waiting, in a separate bowl, whisk **2 eggs** until frothy."
+  },
+  {
+   "title": "Add the lemon",
+   "body": "Whisk **6 Tbsp fresh lemon juice** into the eggs."
+  },
+  {
+   "title": "Temper the eggs",
+   "body": "When rice is cooked, whisk about **¾ cup of your hot broth/rice mixture** into the eggs, **2 Tbsp** at a time."
+  },
+  {
+   "title": "Combine",
+   "body": "Then, with heat on low and whisking constantly, add the egg and lemon mixture to the broth and rice, and whisk until simmering."
+  },
+  {
+   "title": "Serve",
+   "body": "Serve and enjoy!"
+  }
+ ]
+}

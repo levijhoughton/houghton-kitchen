@@ -1,0 +1,53 @@
+{
+ "name": "Pfefernoddex",
+ "subtitle": "Danish Christmas Cookies",
+ "category": "Cookies",
+ "cuisine": "Danish",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "notes": "Laborious to make, yet dangerously addictive!\n\nIf you really love someone, give as a gift, wrapped in a new dishcloth and placed in a pretty bowl! Otherwise, store in an airtight container and serve sometime after Christmas while playing games around the table.",
+ "ingredients": [
+  {
+   "group": "Dough",
+   "items": [
+    "¾ pound butter (3 cubes)",
+    "2 cups sugar",
+    "4 eggs",
+    "4 cups flour",
+    "1 heaping tsp ginger",
+    "1 tsp cinnamon",
+    "½ tsp cloves",
+    "½ tsp salt",
+    "More flour as needed to make a stiff dough"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Cream the butter and sugar",
+   "body": "Cream together **¾ pound butter** (3 cubes) and **2 cups sugar**."
+  },
+  {
+   "title": "Add the eggs",
+   "body": "Mix in **4 eggs**."
+  },
+  {
+   "title": "Mix in the dry ingredients",
+   "body": "Add and mix with a wooden spoon or dough hook: **4 cups flour**, **1 heaping tsp ginger**, **1 tsp cinnamon**, **½ tsp cloves** and **½ tsp salt**, plus more flour as needed to make a stiff dough."
+  },
+  {
+   "title": "Refrigerate the dough",
+   "body": "Refrigerate dough."
+  },
+  {
+   "title": "Shape the ropes",
+   "body": "Roll into ½-inch ropes and cut into ⅛–¼-inch slices (often easier after chilling the ropes in the freezer but not totally freezing them)."
+  },
+  {
+   "title": "Bake",
+   "body": "Place on a baking sheet, allowing for some expansion. Bake at 350°F for 15 minutes.",
+   "timerMin": 15
+  }
+ ]
+}

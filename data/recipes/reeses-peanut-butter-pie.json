@@ -1,0 +1,101 @@
+{
+ "name": "Reese’s Peanut Butter Pie",
+ "subtitle": "From Lara",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "pie",
+ "notes": "This decadent dessert has graced a couple of Thanksgivings and has been a crowd favorite every time. Thanks Lara for sharing!",
+ "ingredients": [
+  {
+   "group": "Oreo pie crust (find a recipe online)",
+   "items": [
+    "2 cups Oreo crumbs",
+    "4 Tbsp butter, melted"
+   ]
+  },
+  {
+   "group": "Ganache",
+   "items": [
+    "4 oz milk chocolate chips",
+    "½ cup heavy whipping cream"
+   ]
+  },
+  {
+   "group": "Peanut butter cups",
+   "items": [
+    "9 full-size peanut butter cups"
+   ]
+  },
+  {
+   "group": "Peanut butter filling",
+   "items": [
+    "2 Tbsp sugar",
+    "1 cup heavy cream",
+    "1 cup creamy peanut butter",
+    "8 oz cream cheese (room temperature)",
+    "½ cup sugar",
+    "½ tsp vanilla"
+   ]
+  },
+  {
+   "group": "Chocolate drizzle (optional)",
+   "items": [
+    "¼ cup milk chocolate chips"
+   ]
+  },
+  {
+   "group": "Chocolate whipped cream (optional)",
+   "items": [
+    "2 Tbsp sugar",
+    "1 cup heavy cream",
+    "2 Tbsp cocoa powder",
+    "½ cup powdered sugar"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Make the crust",
+   "body": "Blitz Oreos in a food processor to make **2 cups Oreo crumbs**, and add **4 Tbsp butter**, melted."
+  },
+  {
+   "title": "Press the crust",
+   "body": "Pour mixture into a pie pan and press into an even layer on the bottom and sides. Bake at 350°F for 8-10 minutes.",
+   "timerMin": 8
+  },
+  {
+   "title": "Make the ganache",
+   "body": "Microwave **4 oz milk chocolate chips** and **½ cup heavy whipping cream** for 30 seconds at a time and stir in between until the mixture is smooth."
+  },
+  {
+   "title": "Chill the ganache",
+   "body": "Pour into the baked and cooled pie crust and refrigerate for 10 minutes.",
+   "timerMin": 10
+  },
+  {
+   "title": "Add peanut butter cups",
+   "body": "When the ganache has cooled, cover with **9 full-size peanut butter cups**."
+  },
+  {
+   "title": "Whip the cream",
+   "body": "While ganache is cooling, combine **2 Tbsp sugar** with **½ tsp vanilla** and **1 cup heavy cream** and beat until soft peaks form."
+  },
+  {
+   "title": "Add peanut butter and cream cheese",
+   "body": "Beat in **1 cup creamy peanut butter** and then **8 oz cream cheese (room temperature)**, and finally the **½ cup sugar**."
+  },
+  {
+   "title": "Spread the filling",
+   "body": "Add the peanut butter filling over the peanut butter cup layer."
+  },
+  {
+   "title": "Drizzle (optional)",
+   "body": "Melt **¼ cup milk chocolate chips** and drizzle over pie to decorate."
+  },
+  {
+   "title": "Whipped cream (optional)",
+   "body": "Whisk **1 cup heavy cream** and **2 Tbsp sugar** until stiff peaks form. Then add **2 Tbsp cocoa powder** and **½ cup powdered sugar** until combined. Pipe the cream onto the pie for extra-fancy decoration."
+  }
+ ]
+}

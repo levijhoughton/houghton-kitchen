@@ -1,0 +1,49 @@
+{
+ "name": "Potato Salad",
+ "category": "Salads",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 8,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "group": "Potatoes",
+   "items": [
+    "2½ pounds potatoes"
+   ]
+  },
+  {
+   "group": "Dressing",
+   "items": [
+    "½ cup mayonnaise",
+    "¼ cup sour cream",
+    "1 Tbsp vinegar",
+    "½ tsp salt & ¼ tsp pepper"
+   ]
+  },
+  {
+   "group": "Add-ins, as desired",
+   "items": [
+    "4 green onions, chopped",
+    "Celery",
+    "Blue cheese (3 oz)",
+    "Crumbled bacon (about 5 slices)",
+    "Boiled eggs (2–3)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Boil the potatoes",
+   "body": "Clean, cut to bite-size pieces, and boil **2½ pounds potatoes** until tender, then cool."
+  },
+  {
+   "title": "Make the dressing",
+   "body": "Mix together: **½ cup mayonnaise**, **¼ cup sour cream**, **1 Tbsp vinegar** and **½ tsp salt & ¼ tsp pepper**."
+  },
+  {
+   "title": "Combine",
+   "body": "Mix with potatoes, then add in as desired: **4 green onions**, chopped; celery; **blue cheese (3 oz)**; **crumbled bacon (about 5 slices)**; and **boiled eggs (2–3)**."
+  }
+ ]
+}

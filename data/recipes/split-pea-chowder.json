@@ -1,0 +1,44 @@
+{
+ "name": "Split Pea Chowder",
+ "category": "Soups",
+ "protein": "Meatless",
+ "collection": "family",
+ "servings": 6,
+ "servingUnit": "servings",
+ "ingredients": [
+  {
+   "items": [
+    "6 cups water",
+    "½ cup brown rice",
+    "2 cups split peas",
+    "2 tsp salt",
+    "1 cup sautéed onions, chopped",
+    "½ cup finely diced carrots",
+    "½ cup finely diced celery",
+    "½ tsp basil",
+    "Whole wheat bread, for serving"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Start the rice",
+   "body": "Bring **6 cups water** to a rapid boil. Add **½ cup brown rice**. Cover, bring to a full boil, and let cook 3 minutes.",
+   "timerMin": 3
+  },
+  {
+   "title": "Add the peas",
+   "body": "Add **2 cups split peas**. Cook 30 minutes more.",
+   "timerMin": 30
+  },
+  {
+   "title": "Add the vegetables",
+   "body": "Add **2 tsp salt**, **1 cup sautéed onions, chopped**, **½ cup finely diced carrots** and **½ cup finely diced celery**. Cook 10–15 minutes.",
+   "timerMin": 10
+  },
+  {
+   "title": "Finish and serve",
+   "body": "Add **½ tsp basil**. Test and season to taste. Serve over a slice of whole wheat bread."
+  }
+ ]
+}

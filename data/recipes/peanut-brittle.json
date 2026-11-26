@@ -1,0 +1,45 @@
+{
+ "name": "Peanut Brittle",
+ "subtitle": "From Grandma Kemper",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "batch",
+ "ingredients": [
+  {
+   "group": "Brittle",
+   "items": [
+    "2 cups sugar",
+    "½ cup water",
+    "1 cup light corn syrup",
+    "2 cups raw peanuts",
+    "1 Tbsp butter",
+    "1 tsp salt",
+    "2 tsp vanilla",
+    "2 tsp baking soda"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Boil the syrup",
+   "body": "Mix and bring to boil: **2 cups sugar**, **½ cup water** and **1 cup light corn syrup**."
+  },
+  {
+   "title": "Cook to thread",
+   "body": "Cook til thread when dropped from spoon."
+  },
+  {
+   "title": "Add peanuts",
+   "body": "Add: **2 cups raw peanuts**."
+  },
+  {
+   "title": "Cook until brown",
+   "body": "Cook til light brown."
+  },
+  {
+   "title": "Add the flavorings",
+   "body": "Remove from heat and add: **1 Tbsp butter**, **1 tsp salt**, **2 tsp vanilla** and **2 tsp baking soda**."
+  }
+ ]
+}

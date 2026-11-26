@@ -1,0 +1,77 @@
+{
+ "name": "Breakfast Casserole",
+ "category": "Extras",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 1,
+ "servingUnit": "9×12 casserole dish",
+ "equipment": "Baking sheet, 9×12 casserole dish",
+ "notes": "Originated at the 2022 Houghton reunion for Lander’s Blessing Brunch. Jimmy Dean was tasty.",
+ "ingredients": [
+  {
+   "group": "Potatoes",
+   "items": [
+    "3.5 pounds potato, diced to ½ cubes",
+    "2 Tbsp oil",
+    "1 tsp garlic salt"
+   ]
+  },
+  {
+   "group": "Sausage and vegetables",
+   "items": [
+    "1.5 breakfast sausage",
+    "1 red onion, diced",
+    "1 large red or yellow bell pepper"
+   ]
+  },
+  {
+   "group": "Cheese",
+   "items": [
+    "2 cups grated sharp cheddar cheese"
+   ]
+  },
+  {
+   "group": "Egg mixture",
+   "items": [
+    "18 eggs",
+    "1 tsp salt",
+    "½ tsp lemon pepper",
+    "½ tsp red pepper flakes",
+    "1 tsp parsley",
+    "1 cup whipping cream (or ½ cup sour cream and ½ cup milk)"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Toss the potatoes",
+   "body": "Toss together **3.5 pounds potato**, diced to ½ cubes, **2 Tbsp oil** and **1 tsp garlic salt**."
+  },
+  {
+   "title": "Bake the potatoes",
+   "body": "Bake on a baking sheet at 425°F for about 30 minutes or until tender, turning occasionally.",
+   "timerMin": 30
+  },
+  {
+   "title": "Cook the sausage",
+   "body": "Meanwhile, sauté, crumble and drain **1.5 breakfast sausage**."
+  },
+  {
+   "title": "Add the onion and pepper",
+   "body": "Add **1 red onion**, diced, and **1 large red or yellow bell pepper** and sauté until tender."
+  },
+  {
+   "title": "Layer the casserole",
+   "body": "Spread the potatoes and sausage mixture on the bottom of a greased 9×12 casserole dish, then sprinkle with **2 cups grated sharp cheddar cheese**."
+  },
+  {
+   "title": "Make the egg mixture",
+   "body": "Combine and whisk together **18 eggs**, **1 tsp salt**, **½ tsp lemon pepper**, **½ tsp red pepper flakes**, **1 tsp parsley** and **1 cup whipping cream** (or **½ cup sour cream** and **½ cup milk**)."
+  },
+  {
+   "title": "Bake",
+   "body": "Pour over mixture in pan and bake at 350°F for 45–60 minutes, until set.",
+   "timerMin": 45
+  }
+ ]
+}

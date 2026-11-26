@@ -1,0 +1,53 @@
+{
+ "name": "Butternut Squash Pasta",
+ "subtitle": "From the Taysoms",
+ "category": "Mains",
+ "protein": "Pork",
+ "collection": "family",
+ "servings": 4,
+ "servingUnit": "servings",
+ "equipment": "Sheet pan",
+ "notes": "Enjoy!",
+ "ingredients": [
+  {
+   "group": "Sheet pan",
+   "items": [
+    "½ butternut squash, cut into ½-inch cubes",
+    "1 can garbanzo beans",
+    "1 lb Italian sausage",
+    "Olive oil",
+    "Salt, pepper and thyme, to taste"
+   ]
+  },
+  {
+   "group": "Pasta and finish",
+   "items": [
+    "1 lb pasta",
+    "Additional olive oil as needed",
+    "Some parmesan"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Set up the pan",
+   "body": "Set the oven to 350°F. Put **½ butternut squash, cut into ½-inch cubes**, **1 can garbanzo beans** and **1 lb Italian sausage** on a sheet pan."
+  },
+  {
+   "title": "Season",
+   "body": "Drizzle with olive oil, and add salt, pepper and thyme to taste."
+  },
+  {
+   "title": "Roast",
+   "body": "Cook until the sausage is done and the butternut squash is tender."
+  },
+  {
+   "title": "Cook the pasta",
+   "body": "Meanwhile, cook **1 lb pasta**."
+  },
+  {
+   "title": "Combine",
+   "body": "Combine everything with additional olive oil as needed, and some parmesan."
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "name": "Berry Ice Cream",
+ "subtitle": "By Aunt Michelle",
+ "category": "Desserts",
+ "collection": "family",
+ "servings": 2,
+ "servingUnit": "quarts",
+ "yields": "Makes 2–3 quarts",
+ "ingredients": [
+  {
+   "group": "Ice cream",
+   "items": [
+    "Lots of crushed berries",
+    "1½ cups + sugar",
+    "1½–2 pints heavy whipping cream",
+    "Juice of ½+ lemon",
+    "Milk to make 2–3 quarts"
+   ]
+  }
+ ],
+ "steps": [
+  {
+   "title": "Directions",
+   "body": "No directions were written down for this one; the original lists only the ingredients."
+  }
+ ]
+}
