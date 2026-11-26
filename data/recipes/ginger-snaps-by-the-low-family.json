@@ -3,8 +3,8 @@
  "subtitle": "By the Low family",
  "category": "Cookies",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 4,
+ "servingUnit": "dozen cookies",
  "ingredients": [
   {
    "group": "Dough",
@@ -45,5 +45,6 @@
    "body": "Bake for 10–12 minutes at 350°F.",
    "timerMin": 10
   }
- ]
+ ],
+ "yields": "About 4 dozen cookies (estimated)"
 }

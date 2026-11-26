@@ -4,7 +4,7 @@
  "protein": "Pork",
  "collection": "family",
  "servings": 1,
- "servingUnit": "pie",
+ "servingUnit": "quiche",
  "equipment": "Pie tin, large frying pan",
  "ingredients": [
   {
@@ -75,5 +75,6 @@
    "title": "Serve",
    "body": "Serve with fresh tomatoes, basil, aioli, etc. as desired."
   }
- ]
+ ],
+ "yields": "One 9-inch quiche, about 6 slices (estimated)"
 }

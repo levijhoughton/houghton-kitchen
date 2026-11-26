@@ -4,7 +4,7 @@
  "category": "Mains",
  "protein": "Chicken & turkey",
  "collection": "family",
- "servings": 6,
+ "servings": 10,
  "servingUnit": "servings",
  "equipment": "Grill",
  "notes": "AKA “HoHo 99 Chicken OK”. Formulated in the summer of 1999, Oklahoma. May turn leftovers into chicken salad by mixing with ½ cup mayonnaise, ½ cup sour cream, and sugar, salt, pepper, apples, celery, raisins, and water chestnuts.",
@@ -41,5 +41,6 @@
    "title": "Grill",
    "body": "Grill over hot grill."
   }
- ]
+ ],
+ "yields": "Serves about 10 (estimated)"
 }

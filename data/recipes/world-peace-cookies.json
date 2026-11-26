@@ -3,8 +3,8 @@
  "subtitle": "Found by Eliza",
  "category": "Cookies",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 3,
+ "servingUnit": "dozen cookies",
  "ingredients": [
   {
    "group": "Dough",
@@ -44,5 +44,6 @@
    "body": "Slice into ½-inch slices, and place on a baking pan. Bake at 325°F for 12 minutes.",
    "timerMin": 12
   }
- ]
+ ],
+ "yields": "About 3 dozen cookies (estimated)"
 }

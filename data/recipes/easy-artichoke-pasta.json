@@ -3,7 +3,7 @@
  "category": "Mains",
  "protein": "Chicken & turkey",
  "collection": "family",
- "servings": 4,
+ "servings": 5,
  "servingUnit": "servings",
  "equipment": "Large pot or straight-sided skillet",
  "notes": "First discovered by a pregnant and exhausted Eliza, who was happy to find a recipe that was one bowl, almost no prep, and delicious!",
@@ -37,5 +37,6 @@
    "title": "Season and top",
    "body": "Taste and add salt as needed. Top with parmesan cheese."
   }
- ]
+ ],
+ "yields": "Serves about 5 (estimated)"
 }

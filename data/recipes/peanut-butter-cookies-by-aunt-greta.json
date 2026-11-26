@@ -3,8 +3,8 @@
  "subtitle": "By Aunt Greta",
  "category": "Cookies",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 3,
+ "servingUnit": "dozen cookies",
  "ingredients": [
   {
    "group": "Dough",
@@ -50,5 +50,6 @@
    "body": "Bake at 350°F for about 10–12 minutes (puffed and slightly brown along edges).",
    "timerMin": 10
   }
- ]
+ ],
+ "yields": "About 3 dozen cookies (estimated)"
 }

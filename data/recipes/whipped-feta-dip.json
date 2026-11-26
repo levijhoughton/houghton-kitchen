@@ -3,8 +3,8 @@
  "category": "Appetizers",
  "protein": "Meatless",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 8,
+ "servingUnit": "appetizer servings",
  "source": {
   "label": "Once Upon a Chef",
   "url": "https://www.onceuponachef.com/recipes/creamy-whipped-feta-dip.html"
@@ -48,5 +48,6 @@
    "title": "Swirl and garnish",
    "body": "Transfer to a serving bowl and use a small spoon to create a swirl on the surface of the dip. Drizzle with olive oil and sprinkle with toasted sesame seeds and crushed red pepper flakes, if using."
   }
- ]
+ ],
+ "yields": "About 2 cups, serves about 8 as an appetizer (estimated)"
 }

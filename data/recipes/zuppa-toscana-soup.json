@@ -5,7 +5,7 @@
  "protein": "Pork",
  "cuisine": "Italian",
  "collection": "family",
- "servings": 6,
+ "servings": 8,
  "servingUnit": "servings",
  "notes": "Luke’s favorite soup in the world.",
  "ingredients": [
@@ -49,5 +49,6 @@
    "title": "Finish the soup",
    "body": "Remove from heat and stir in **4 cups chopped kale**. Add **2 cups heavy cream**. Serve!"
   }
- ]
+ ],
+ "yields": "About 14 cups, serves about 8 (estimated)"
 }

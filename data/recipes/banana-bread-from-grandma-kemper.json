@@ -4,7 +4,7 @@
  "category": "Breakfast & quick breads",
  "collection": "family",
  "servings": 1,
- "servingUnit": "loaf",
+ "servingUnit": "large loaf",
  "equipment": "loaf pan",
  "notes": "From Pam—the best I can find.",
  "ingredients": [
@@ -45,5 +45,6 @@
    "title": "Wrap",
    "body": "Wrap in foil while still slightly warm."
   }
- ]
+ ],
+ "yields": "1 large loaf (about 12 slices), or 2–3 smaller loaves (estimated)"
 }

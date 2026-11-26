@@ -3,8 +3,8 @@
  "category": "Mains",
  "protein": "Beef",
  "collection": "family",
- "servings": 1,
- "servingUnit": "roast",
+ "servings": 8,
+ "servingUnit": "servings",
  "notes": "Cross rib roasts are often relegated to crock pot or slow roasting. This method yields a tender and yummy main dish for Sunday dinner!",
  "ingredients": [
   {
@@ -72,5 +72,6 @@
    "title": "Thicken the gravy",
    "body": "While whisking, slowly pour this mixture into the boiling water and drippings, until gravy reaches desired thickness. Season to taste with salt and pepper."
   }
- ]
+ ],
+ "yields": "A 3–4 lb roast serves about 8 (estimated)"
 }

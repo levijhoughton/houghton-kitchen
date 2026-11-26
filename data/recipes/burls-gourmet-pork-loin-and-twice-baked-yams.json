@@ -4,7 +4,7 @@
  "category": "Mains",
  "protein": "Pork",
  "collection": "family",
- "servings": 8,
+ "servings": 10,
  "servingUnit": "servings",
  "notes": "A friend who cooked an office party dinner for our first Christmas holiday in the new Soulsbyville house—2006. (Gourmet salad and trifle too!)",
  "ingredients": [
@@ -67,5 +67,6 @@
    "title": "Serve the yams",
    "body": "If desired, place back in skins and warm in oven, or simply serve in a tasteful serving bowl."
   }
- ]
+ ],
+ "yields": "Serves about 10 (one yam each) (estimated)"
 }

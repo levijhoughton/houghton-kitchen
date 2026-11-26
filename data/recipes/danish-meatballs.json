@@ -5,8 +5,8 @@
  "protein": "Beef",
  "cuisine": "Danish",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 6,
+ "servingUnit": "servings",
  "equipment": "Large skillet",
  "notes": "Best if served with lingonberry jam.",
  "ingredients": [
@@ -61,5 +61,6 @@
    "title": "Make the gravy",
    "body": "For gravy: **2 Tbsp drippings from Frickadeller**, tiny bit of butter if needed, **6 Tbsp flour**, **2 cups heavy cream** (milk works too), **2 Tbsp beef bouillon**, salt and pepper."
   }
- ]
+ ],
+ "yields": "About 30 meatballs, serves about 6 (estimated)"
 }

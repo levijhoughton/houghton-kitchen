@@ -3,8 +3,8 @@
  "subtitle": "From Aunt Michelle",
  "category": "Desserts",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 16,
+ "servingUnit": "1-cup servings",
  "ingredients": [
   {
    "group": "Ice cream",
@@ -24,5 +24,6 @@
    "title": "Directions",
    "body": "No directions were written down for this one; the original lists only the ingredients."
   }
- ]
+ ],
+ "yields": "About 4 quarts (needs a large ice cream freezer) (estimated)"
 }

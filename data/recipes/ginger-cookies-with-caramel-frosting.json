@@ -3,8 +3,8 @@
  "subtitle": "From Ingrid",
  "category": "Cookies",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 8,
+ "servingUnit": "dozen cookies",
  "notes": "This recipe was shared by Ingrid, from the Spokane 7-mile ward, and passed along by Marta in December 2022.",
  "ingredients": [
   {
@@ -64,5 +64,6 @@
    "body": "Let cool for 3 minutes, then add **1 tsp vanilla**, a dash of salt and **1½ cups powdered sugar**. Mix and frost cookies immediately, since this frosting cools and hardens rapidly.",
    "timerMin": 3
   }
- ]
+ ],
+ "yields": "About 8 dozen small cookies (estimated)"
 }

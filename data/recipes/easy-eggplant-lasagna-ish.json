@@ -5,8 +5,8 @@
  "protein": "Beef",
  "cuisine": "Italian",
  "collection": "family",
- "servings": 1,
- "servingUnit": "9×13 pan",
+ "servings": 6,
+ "servingUnit": "servings",
  "equipment": "9×13 pan",
  "notes": "It’s a very basic, tasty way to enjoy some purple veg!",
  "ingredients": [
@@ -53,5 +53,6 @@
    "body": "Pop it in the oven for 45 minutes, or until the eggplant in the middle of the pan is soft.",
    "timerMin": 45
   }
- ]
+ ],
+ "yields": "One 9×13 pan, serves about 6 (estimated)"
 }

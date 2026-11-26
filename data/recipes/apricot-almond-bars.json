@@ -4,7 +4,7 @@
  "category": "Desserts",
  "collection": "family",
  "servings": 1,
- "servingUnit": "9×9×2-inch pan",
+ "servingUnit": "9×9 pan",
  "equipment": "9×9×2-inch pan",
  "notes": "Hide. You might want to think about doubling this, if you have enough white chocolate.",
  "ingredients": [
@@ -76,5 +76,6 @@
    "title": "Cool and cut",
    "body": "Cool, and cut into bars."
   }
- ]
+ ],
+ "yields": "One 9×9 pan, about 16 bars (estimated)"
 }

@@ -4,7 +4,7 @@
  "category": "Desserts",
  "collection": "family",
  "servings": 1,
- "servingUnit": "batch",
+ "servingUnit": "9-inch square pan",
  "equipment": "9-inch square or 7×11-inch baking pan",
  "ingredients": [
   {
@@ -61,5 +61,6 @@
    "title": "Cut and wrap",
    "body": "Cut and wrap in cellophane or waxed paper pieces."
   }
- ]
+ ],
+ "yields": "One 9-inch square pan, about 64 caramels (estimated)"
 }

@@ -4,8 +4,8 @@
  "category": "Mains",
  "protein": "Beef",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 8,
+ "servingUnit": "servings",
  "equipment": "Large Dutch oven",
  "notes": "Enjoy!",
  "source": {
@@ -51,5 +51,6 @@
    "body": "Bake 2-2½ hours at 300°F.",
    "timerMin": 120
   }
- ]
+ ],
+ "yields": "About 10 cups, serves about 8 (estimated)"
 }

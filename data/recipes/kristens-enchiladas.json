@@ -4,8 +4,8 @@
  "protein": "Beef",
  "cuisine": "Mexican",
  "collection": "family",
- "servings": 1,
- "servingUnit": "9×13 pan",
+ "servings": 6,
+ "servingUnit": "servings",
  "equipment": "9×13 pan",
  "notes": "Consider doubling this, and putting a casserole in the freezer.",
  "ingredients": [
@@ -69,5 +69,6 @@
    "body": "Bake at 350°F until hot and bubbly, about 45 minutes.",
    "timerMin": 45
   }
- ]
+ ],
+ "yields": "One 9×13 pan (12 enchiladas), serves about 6 (estimated)"
 }

@@ -4,7 +4,7 @@
  "category": "Sides",
  "protein": "Pork",
  "collection": "family",
- "servings": 8,
+ "servings": 12,
  "servingUnit": "servings",
  "ingredients": [
   {
@@ -46,5 +46,6 @@
    "body": "Sprinkle the bacon on top and bake, covered, for 1 hour at 300°F.",
    "timerMin": 60
   }
- ]
+ ],
+ "yields": "About 8 cups, 12 side servings (estimated)"
 }

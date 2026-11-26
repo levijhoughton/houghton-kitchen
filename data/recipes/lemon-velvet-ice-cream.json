@@ -3,8 +3,8 @@
  "subtitle": "Taysom contribution",
  "category": "Desserts",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 10,
+ "servingUnit": "1-cup servings",
  "notes": "No one has made any other lemon ice cream since Eliza and Scott’s wedding. Add raspberries if desired.",
  "ingredients": [
   {
@@ -51,5 +51,6 @@
    "title": "Pack and freeze",
    "body": "Pack in plastic containers; freeze until firm."
   }
- ]
+ ],
+ "yields": "About 2½ quarts (estimated)"
 }

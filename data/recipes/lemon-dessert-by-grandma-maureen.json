@@ -3,8 +3,8 @@
  "subtitle": "From Grandma Maureen",
  "category": "Desserts",
  "collection": "family",
- "servings": 1,
- "servingUnit": "pan",
+ "servings": 6,
+ "servingUnit": "servings",
  "equipment": "Ungreased pan smaller than 9×11, or ramekins; larger pan for water",
  "ingredients": [
   {
@@ -48,5 +48,6 @@
    "title": "Serve",
    "body": "Serve warm with a dollop of ice cream."
   }
- ]
+ ],
+ "yields": "Serves about 6 (estimated)"
 }

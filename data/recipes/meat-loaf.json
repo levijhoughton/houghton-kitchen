@@ -4,8 +4,8 @@
  "category": "Mains",
  "protein": "Beef",
  "collection": "family",
- "servings": 1,
- "servingUnit": "loaf",
+ "servings": 8,
+ "servingUnit": "servings",
  "equipment": "Greased bread pan, ramekins for excess",
  "ingredients": [
   {
@@ -75,5 +75,6 @@
    "body": "Spread glaze on top of loaf while still hot then bake for 15-20 more minutes at 350°F, until internal temperature is 160°F.",
    "timerMin": 15
   }
- ]
+ ],
+ "yields": "One 2-lb meat loaf, serves about 8 (estimated)"
 }

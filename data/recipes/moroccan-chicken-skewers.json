@@ -4,7 +4,7 @@
  "protein": "Chicken & turkey",
  "cuisine": "Moroccan",
  "collection": "family",
- "servings": 4,
+ "servings": 6,
  "servingUnit": "servings",
  "equipment": "Rimmed baking dish, foil, skewers",
  "notes": "Discovered and rated divine during October Conference 2021 in Channahon. Serve with pilaf and a yummy salad. Drizzle any extra sauce over the pilaf.",
@@ -68,5 +68,6 @@
    "title": "Serve",
    "body": "Serve lemons alongside the skewers for squeezing over the chicken."
   }
- ]
+ ],
+ "yields": "Serves about 6 (estimated)"
 }

@@ -3,8 +3,8 @@
  "subtitle": "Taysom contribution",
  "category": "Desserts",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 6,
+ "servingUnit": "1-cup servings",
  "equipment": "2 quart or larger freezer",
  "notes": "Little candy canes work best, and don’t crush too finely.",
  "ingredients": [
@@ -54,5 +54,6 @@
    "title": "Add candy canes",
    "body": "When mostly frozen, add: **1 to 1¼ cups crushed candy canes**."
   }
- ]
+ ],
+ "yields": "About 1½ quarts (estimated)"
 }

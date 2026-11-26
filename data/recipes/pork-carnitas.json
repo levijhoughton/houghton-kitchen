@@ -4,7 +4,7 @@
  "protein": "Pork",
  "cuisine": "Mexican",
  "collection": "family",
- "servings": 8,
+ "servings": 10,
  "servingUnit": "servings",
  "equipment": "Slow cooker, large non-stick pan",
  "notes": "For burritos, casseroles, tacos, etc. Delicious!",
@@ -79,5 +79,6 @@
    "title": "Freeze",
    "body": "To freeze, pour juices over the pulled pork and store in ziplock bags. To use, defrost completely, then follow instructions to serve."
   }
- ]
+ ],
+ "yields": "Serves about 10 (estimated)"
 }

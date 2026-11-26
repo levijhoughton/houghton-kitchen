@@ -4,8 +4,8 @@
  "category": "Appetizers",
  "protein": "Meatless",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 12,
+ "servingUnit": "appetizer servings",
  "notes": "May add heat (jalapeños) if desired. Yummm.",
  "ingredients": [
   {
@@ -28,5 +28,6 @@
    "title": "Combine",
    "body": "Combine **12 oz cranberry**, chopped, **1 fuji/gala/pink lady apple**, chopped, **½ red onion**, chopped, **½ red pepper**, chopped, **3–5 Tbsp cilantro**, chopped, **½ tsp salt**, **⅓ cup unsweetened applesauce**, **¾ cup sugar** (or less if applesauce is sweet) and **1 lime**—zest and juice, and refrigerate."
   }
- ]
+ ],
+ "yields": "About 4 cups, serves about 12 as an appetizer (estimated)"
 }

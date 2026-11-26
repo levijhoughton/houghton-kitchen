@@ -3,8 +3,8 @@
  "category": "Extras",
  "protein": "Pork",
  "collection": "family",
- "servings": 1,
- "servingUnit": "9×12 casserole dish",
+ "servings": 12,
+ "servingUnit": "servings",
  "equipment": "Baking sheet, 9×12 casserole dish",
  "notes": "Originated at the 2022 Houghton reunion for Lander’s Blessing Brunch. Jimmy Dean was tasty.",
  "ingredients": [
@@ -73,5 +73,6 @@
    "body": "Pour over mixture in pan and bake at 350°F for 45–60 minutes, until set.",
    "timerMin": 45
   }
- ]
+ ],
+ "yields": "One 9×12 dish, serves about 12 (estimated)"
 }

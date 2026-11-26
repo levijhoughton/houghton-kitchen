@@ -5,7 +5,7 @@
  "protein": "Meatless",
  "cuisine": "Mexican",
  "collection": "family",
- "servings": 4,
+ "servings": 6,
  "servingUnit": "servings",
  "equipment": "Large skillet",
  "notes": "Enjoyed by the Weyands. We like to add meat, either chopped chicken or beef with taco seasoning, which you can prepare while the quinoa is cooking.",
@@ -57,5 +57,6 @@
    "title": "Top and serve",
    "body": "Top with sour cream and salsa (if you want). Then eat it straight with a spoon, fill a burrito with it, or scoop it up with tortilla chips."
   }
- ]
+ ],
+ "yields": "About 7 cups, serves about 6 (estimated)"
 }

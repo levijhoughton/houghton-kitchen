@@ -3,8 +3,8 @@
  "subtitle": "From Saint Joan",
  "category": "Cookies",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 8,
+ "servingUnit": "dozen cookies",
  "ingredients": [
   {
    "group": "Dough",
@@ -45,5 +45,6 @@
    "body": "Drop by spoon onto a baking pan. Bake at 350°F for 10–12 minutes, until the edges are golden brown.",
    "timerMin": 10
   }
- ]
+ ],
+ "yields": "About 8 dozen cookies (estimated)"
 }

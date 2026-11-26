@@ -3,8 +3,8 @@
  "subtitle": "Basic Perfection, found by Marta",
  "category": "Cookies",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 30,
+ "servingUnit": "cookies",
  "ingredients": [
   {
    "group": "Cream",
@@ -72,5 +72,6 @@
    "body": "Let sit on the baking pan for 2 minutes before removing to a cooling rack.",
    "timerMin": 2
   }
- ]
+ ],
+ "yields": "About 30 large cookies (estimated)"
 }

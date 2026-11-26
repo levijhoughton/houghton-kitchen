@@ -4,7 +4,7 @@
  "category": "Mains",
  "protein": "Meatless",
  "collection": "family",
- "servings": 6,
+ "servings": 8,
  "servingUnit": "servings",
  "ingredients": [
   {
@@ -54,5 +54,6 @@
    "body": "Bake 30-35 minutes (or more if you want it crunchy) at 350°F.",
    "timerMin": 30
   }
- ]
+ ],
+ "yields": "Serves about 8 as a side (estimated)"
 }

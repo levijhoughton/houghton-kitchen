@@ -4,7 +4,7 @@
  "category": "Mains",
  "protein": "Chicken & turkey",
  "collection": "family",
- "servings": 4,
+ "servings": 6,
  "servingUnit": "servings",
  "ingredients": [
   {
@@ -40,5 +40,6 @@
    "body": "Pour butter over chicken. Bake at 350°F for 45 minutes.",
    "timerMin": 45
   }
- ]
+ ],
+ "yields": "About 6 stuffed pieces, serves about 6 (estimated)"
 }

@@ -4,7 +4,7 @@
  "protein": "Pork",
  "cuisine": "Swedish",
  "collection": "family",
- "servings": 6,
+ "servings": 8,
  "servingUnit": "servings",
  "equipment": "Frying pan",
  "notes": "Since Mom and Dad have discovered they BOTH have significant Swedish ancestry, a must-include in the family cookbook. Best made on a hot date.",
@@ -81,5 +81,6 @@
    "title": "Serve",
    "body": "Serve over mashed potatoes, rice, or egg noodles, with lingonberry jam, or cranberry relish (if you’re in a jam)."
   }
- ]
+ ],
+ "yields": "About 40 meatballs, serves about 8 (estimated)"
 }

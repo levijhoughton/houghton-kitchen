@@ -4,7 +4,7 @@
  "category": "Salads",
  "protein": "Chicken & turkey",
  "collection": "family",
- "servings": 2,
+ "servings": 4,
  "servingUnit": "servings",
  "notes": "This is a really refreshing, light and delicious salad you can munch on for a meal or two–but don’t double it unless you’ve got more than a couple of people eating it. It can be eaten cold or warm.",
  "ingredients": [
@@ -60,5 +60,6 @@
    "title": "Toss and dress",
    "body": "Toss the add-ins into the pasta and corn mixture, then dress to taste with olive oil, lemon juice and a little fancy balsamic vinegar if you have some sitting in your pantry, salt and pepper."
   }
- ]
+ ],
+ "yields": "About 6 cups, serves 4 as a main or 6 as a side (estimated)"
 }

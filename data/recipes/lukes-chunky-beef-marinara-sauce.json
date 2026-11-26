@@ -3,8 +3,8 @@
  "category": "Mains",
  "protein": "Beef",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 4,
+ "servingUnit": "servings",
  "ingredients": [
   {
    "group": "Sauce",
@@ -37,5 +37,6 @@
    "body": "Reduce heat to low and simmer 15-20 minutes or until flavors blended, stirring frequently.",
    "timerMin": 15
   }
- ]
+ ],
+ "yields": "About 3½ cups sauce, enough for about 1 lb pasta (estimated)"
 }

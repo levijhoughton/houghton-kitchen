@@ -3,8 +3,8 @@
  "subtitle": "From Geri",
  "category": "Cookies",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 8,
+ "servingUnit": "dozen cookies",
  "equipment": "Cookie sheets",
  "notes": "How can you go wrong with chocolate and coconut?",
  "ingredients": [
@@ -70,5 +70,6 @@
    "body": "Let cool on the baking sheet for 5 minutes before removing to a wire rack to cool completely.",
    "timerMin": 5
   }
- ]
+ ],
+ "yields": "About 8 dozen cookies (estimated)"
 }

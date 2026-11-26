@@ -4,7 +4,7 @@
  "category": "Sides",
  "protein": "Pork",
  "collection": "family",
- "servings": 6,
+ "servings": 8,
  "servingUnit": "servings",
  "ingredients": [
   {
@@ -46,5 +46,6 @@
    "title": "Combine",
    "body": "Mix cabbage/apple and bacon/onion mixture with: **¼ tsp cloves**, **2 Tbsp cider vinegar**, **2 tsp sugar**, **2 tsp salt** and **¾ tsp pepper**."
   }
- ]
+ ],
+ "yields": "Serves about 8 as a side (estimated)"
 }

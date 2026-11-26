@@ -3,7 +3,7 @@
  "category": "Mains",
  "protein": "Pork",
  "collection": "family",
- "servings": 8,
+ "servings": 12,
  "servingUnit": "servings",
  "equipment": "Baking pan, probe thermometer",
  "notes": "It does work to simply put the rub on the pork and smoke or cook it for about 16 hours in the crock pot, then shred and top with your favorite BBQ sauce. Don’t forget the white sauce!",
@@ -96,5 +96,6 @@
    "title": "Rest the slaw",
    "body": "Let the crunchy slaw sit for a bit before serving."
   }
- ]
+ ],
+ "yields": "A 4–7 lb shoulder serves about 10–14 (estimated)"
 }

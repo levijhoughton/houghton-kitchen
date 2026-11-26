@@ -4,7 +4,7 @@
  "category": "Sides",
  "protein": "Meatless",
  "collection": "family",
- "servings": 8,
+ "servings": 12,
  "servingUnit": "servings",
  "equipment": "Greased casserole",
  "notes": "Served at the 2025 Sonora Ward Christmas party.",
@@ -45,5 +45,6 @@
    "body": "Bake at 350°F for 1 hour.",
    "timerMin": 60
   }
- ]
+ ],
+ "yields": "One 9×13 pan, serves about 12 (estimated)"
 }

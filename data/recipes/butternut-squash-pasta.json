@@ -4,7 +4,7 @@
  "category": "Mains",
  "protein": "Pork",
  "collection": "family",
- "servings": 4,
+ "servings": 6,
  "servingUnit": "servings",
  "equipment": "Sheet pan",
  "notes": "Enjoy!",
@@ -49,5 +49,6 @@
    "title": "Combine",
    "body": "Combine everything with additional olive oil as needed, and some parmesan."
   }
- ]
+ ],
+ "yields": "Serves about 6 (estimated)"
 }

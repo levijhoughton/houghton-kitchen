@@ -4,8 +4,8 @@
  "category": "Mains",
  "protein": "Chicken & turkey",
  "collection": "family",
- "servings": 1,
- "servingUnit": "9×13 pan",
+ "servings": 8,
+ "servingUnit": "servings",
  "equipment": "Large frying pan, 9×13 casserole or baking dish",
  "ingredients": [
   {
@@ -83,5 +83,6 @@
    "title": "Top the casserole",
    "body": "Transfer to the buttered baking dish and top with **1 (5½ ounce) bag potato chips**, crushed."
   }
- ]
+ ],
+ "yields": "One 9×13 pan, serves about 8 (estimated)"
 }

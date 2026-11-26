@@ -3,7 +3,7 @@
  "category": "Sides",
  "protein": "Meatless",
  "collection": "family",
- "servings": 8,
+ "servings": 10,
  "servingUnit": "servings",
  "equipment": "9×13 pan",
  "ingredients": [
@@ -53,5 +53,6 @@
    "body": "Bake in the oven until heated through. 350°F for an hour or, if you have a long funeral, 250°F semi-indefinitely. For cremation potatoes, maximize oven temperature and bake for 24 hours.",
    "timerMin": 60
   }
- ]
+ ],
+ "yields": "One 9×13 pan, serves about 10 (estimated)"
 }

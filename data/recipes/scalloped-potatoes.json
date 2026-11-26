@@ -3,7 +3,7 @@
  "category": "Sides",
  "protein": "Meatless",
  "collection": "family",
- "servings": 8,
+ "servings": 10,
  "servingUnit": "servings",
  "equipment": "9×13 baking dish",
  "notes": "Served at Tess and Paul’s Wedding Open House in Soulsbyville, and declared delicious!",
@@ -85,5 +85,6 @@
    "title": "Serve",
    "body": "To serve, sprinkle with **1 tsp thyme** and additional Parmesan."
   }
- ]
+ ],
+ "yields": "Serves about 10 as a side (estimated)"
 }

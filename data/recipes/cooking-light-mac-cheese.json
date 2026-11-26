@@ -3,7 +3,7 @@
  "category": "Mains",
  "protein": "Meatless",
  "collection": "family",
- "servings": 4,
+ "servings": 6,
  "servingUnit": "servings",
  "equipment": "Dutch oven, baking dish",
  "ingredients": [
@@ -77,5 +77,6 @@
  ],
  "source": {
   "label": "From Cooking Light"
- }
+ },
+ "yields": "Serves about 6 (estimated)"
 }

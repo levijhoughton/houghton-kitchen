@@ -3,9 +3,9 @@
  "subtitle": "From Sister Stiles",
  "category": "Cookies",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
- "yields": "Huge batch",
+ "servings": 10,
+ "servingUnit": "dozen cookies",
+ "yields": "Huge batch, about 10 dozen cookies (estimated)",
  "ingredients": [
   {
    "group": "Dough",

@@ -2,8 +2,8 @@
  "name": "Creme Brulee French Toast",
  "category": "Breakfast & quick breads",
  "collection": "family",
- "servings": 1,
- "servingUnit": "9×13 pan",
+ "servings": 8,
+ "servingUnit": "servings",
  "equipment": "9×13 baking dish",
  "notes": "Enjoy plain or serve with sliced fresh fruit (it’s perfect with fresh strawberries). If you want to make things even more fancy, you could add cinnamon, orange zest, or raspberry puree to the milk mixture before pouring it over the bread. If you are diabetic, make sure to pre-bolus before enjoying.",
  "ingredients": [
@@ -63,5 +63,6 @@
    "body": "You can also bake uncovered at 350°F for 40 minutes if you don’t want to do the broiling step, but we prefer the texture the other way.",
    "timerMin": 40
   }
- ]
+ ],
+ "yields": "One 9×13 dish, serves about 8 (estimated)"
 }

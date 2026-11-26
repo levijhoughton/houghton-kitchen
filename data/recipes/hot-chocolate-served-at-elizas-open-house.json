@@ -4,7 +4,7 @@
  "category": "Extras",
  "collection": "family",
  "servings": 4,
- "servingUnit": "servings",
+ "servingUnit": "cups",
  "ingredients": [
   {
    "items": [
@@ -34,5 +34,6 @@
    "title": "Add vanilla",
    "body": "Add **¼ tsp vanilla**."
   }
- ]
+ ],
+ "yields": "About 4 cups (estimated)"
 }

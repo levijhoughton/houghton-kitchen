@@ -4,8 +4,8 @@
  "category": "Mains",
  "protein": "Beef",
  "collection": "family",
- "servings": 8,
- "servingUnit": "servings",
+ "servings": 10,
+ "servingUnit": "sandwiches",
  "ingredients": [
   {
    "group": "Beef and sauce",
@@ -34,5 +34,6 @@
    "title": "Season",
    "body": "Salt and pepper to taste."
   }
- ]
+ ],
+ "yields": "About 10 sandwiches (estimated)"
 }

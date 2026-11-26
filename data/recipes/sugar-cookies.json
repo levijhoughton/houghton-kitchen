@@ -3,8 +3,8 @@
  "subtitle": "Classic Houghton recipe",
  "category": "Cookies",
  "collection": "family",
- "servings": 1,
- "servingUnit": "batch",
+ "servings": 4,
+ "servingUnit": "dozen cookies",
  "notes": "Bonus tip: If you need to speed up the decorating process, thin the frosting with more milk or lemon and place in a shallow dish like a pie tin. Mix colors in with a toothpick, creating a marbled effect and dip cookies in face-first. Immediately place on a cooling rack to allow the extra icing to drip off the edges.",
  "ingredients": [
   {
@@ -62,5 +62,6 @@
    "title": "Add more sugar",
    "body": "Add another **3+ cups powdered sugar**, adding additional milk or lemon juice to taste and powdered sugar to make the consistency and quantity desired. Color and spread!"
   }
- ]
+ ],
+ "yields": "About 4 dozen cut-out cookies (estimated)"
 }
