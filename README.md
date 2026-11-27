@@ -39,6 +39,7 @@ data/
   plans/<id>.json     one file per week, id = the week's first date (YYYY-MM-DD)
   freezer.json        freezer inventory (planning record; not shown on the site)
   restock.json        running list of pantry items to pick up on the next shop
+  requests.json       dishes or ideas to work into an upcoming week (planning record; not shown on the site)
 ```
 
 ## Weekly update
@@ -125,6 +126,14 @@ A `todo` shows on the night with the same `date` and is highlighted that day and
 ```
 
 Shown at the top of Groceries for the current and upcoming weeks. When a week's grocery list is built, fold these items into it and empty this list.
+
+## Requests schema
+
+```json
+{ "updated": "2026-11-27", "items": [ { "name": "Chicken tikka masala", "note": "optional", "added": "2026-11-27" } ] }
+```
+
+Read when building a week's menu options. Once a request is planned into a week, remove it from this list.
 
 ## Freezer schema
 

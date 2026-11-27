@@ -108,6 +108,18 @@ if ix.get("freezer"):
     if fz is not None and not isinstance(fz.get("items"), list):
         errors.append("freezer.json: 'items' must be a list")
 
+if os.path.exists(os.path.join(D, "requests.json")):
+    rq = load(os.path.join(D, "requests.json"))
+    if rq is not None:
+        if not isinstance(rq.get("items"), list):
+            errors.append("requests.json: 'items' must be a list")
+        else:
+            for it in rq["items"]:
+                if not it.get("name"):
+                    errors.append("requests.json: every item needs a 'name'")
+                if "added" in it and not DATE.match(str(it["added"])):
+                    errors.append(f"requests.json: '{it.get('name')}' has a bad 'added' date")
+
 if not errors:
     c = build_catalog.build()
     print(f"catalog.json rebuilt: {len(c['recipes'])} recipes")
